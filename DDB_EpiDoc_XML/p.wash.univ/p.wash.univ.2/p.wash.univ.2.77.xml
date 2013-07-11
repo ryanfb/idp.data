@@ -36,7 +36,7 @@
           <change when="2013-03-14T13:17:56.401-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Vote - Accept-Straight-to-Finalization - Fine.</change>
           <change when="2013-02-11T09:37:03.51-05:00"
-                 who="http://papyri.info/editor/users/dieter.hagedorn">Z. 20 καὶ ἐπιβολήν → κατ᾽ ἐπιβολήν = "im Verhältnis, proportional to" (an den Photos, bes. dem im Internet); vgl. WB I, s.v. ἐπιβολή 5, H. C. Youtie, Script. Post. I, S. 343f,  und z.B. P.Oxy. II 290,7: τὸ ἀγό(μενον) κατʼ ἐπιβολ(ὴν) | ὧν ἕκαστ(ος) ἔχει (ἀρουρῶν). Die von Kruse, Der Königliche Schreiber, S. 868f., Anm. 172 angestellten Überlegungen zur Bedeutung von ἐπιβολή sind damit hinfällig.&#xD;
+                 who="http://papyri.info/editor/users/dieter.hagedorn">Z. 20 καὶ ἐπιβολήν → κατ᾽ ἐπιβολήν = "im Verhältnis, proportional to" (an den Photos, bes. dem im Internet); vgl. WB I, s.v. ἐπιβολή 5, H. C. Youtie, Script. Post. I, S. 343f,  und z.B. P.Oxy. II 290,7: τὸ ἀγό(μενον) κατʼ ἐπιβολ(ὴν) | ῶ̔ν ἕκαστ(ος) ἔχει (ἀρουρῶν). Die von Kruse, Der Königliche Schreiber, S. 868f., Anm. 172 angestellten Überlegungen zur Bedeutung von ἐπιβολή sind damit hinfällig.&#xD;
 Z. 34: Das π̣ρ̣αχθ̣ησόμεν̣ο̣ν̣ des Pap. ist korrekt (mit Bezug auf Z. 32 Ἱλαρ[ίω]ν[α]; die Konstruktion ist πράσσειν τινά τι, hier im Passiv) und darf nicht zu πραχθησόμενα korrigiert werden.&#xD;
 Ferner: Z. 12 τωὶ → τὼι und App.: {τὸ} → τὸ; Z. 28: βλαβηι → βλάβηι; Z. 35: [βλ]α̣βηι → [βλ]ά̣βηι.</change>
           <change when="2011-12-14" who="http://papyri.info/editor/users/gabrielbodard">rationalized languages in langUsage</change>
@@ -122,7 +122,7 @@ Ferner: Z. 12 τωὶ → τὼι und App.: {τὸ} → τὸ; Z. 28: βλαβη
 
     <lb n="31" break="no"/>τισμῶι πρὸς τὸ εἰδέναι τὸν 
 
-    <lb n="32"/>Ἱλαρ<supplied reason="lost">ίω</supplied>ν<supplied reason="lost">α</supplied> πρὸς αὐτὸν εἶναι 
+    <lb n="32"/>Ἱλαρ<supplied reason="lost">ίω</supplied>ν<supplied reason="lost">α</supplied> πρὸς αὐτὸν εῖ̓ναι 
 
     <lb n="33"/>τὰ δη<unclear>μ</unclear><supplied reason="lost">ό</supplied>σια καθὼς προγέ
 

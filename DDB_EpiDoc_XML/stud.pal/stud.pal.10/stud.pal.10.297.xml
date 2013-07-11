@@ -87,7 +87,7 @@
 
     <lb n="1"/><num value="2">β</num> ἀλλαγῆς ἐν <expan>μ<ex cert="low">ηνὶ</ex></expan> <expan>Φαρμ<ex>οῦ</ex>θι</expan> <num value="5">ε</num> <expan>ἰ<ex>νδικτίονος</ex></expan> <num value="5">ε</num> <expan>παρ<ex>ὰ</ex></expan> <expan><ex>τῆς</ex></expan> <expan>παγαρχ<ex>ίας</ex></expan> <expan>Μέμφε<ex>ως</ex></expan> 
 
-    <lb n="2"/>μοναστηρίου Ἁγίου <expan>Ἰερ<ex>εμίου</ex></expan> <expan>ἀγγ<ex>αρευταὶ</ex></expan> <num value="18">ιη</num> <app type="editorial"><lem resp="BL cf. 1.419"><expan>καμηλ<ex>ίτης</ex></expan></lem><rdg><expan>καμήλ<ex>ιον</ex></expan></rdg></app> <choice><reg>εἷς</reg><orig><unclear>ἑν</unclear></orig></choice> <num value="1"/> 
+    <lb n="2"/>μοναστηρίου Ἁγίου <expan>Ἰερ<ex>εμίου</ex></expan> <expan>ἀγγ<ex>αρευταὶ</ex></expan> <num value="18">ιη</num> <app type="editorial"><lem resp="BL cf. 1.419"><expan>καμηλ<ex>ίτης</ex></expan></lem><rdg><expan>καμήλ<ex>ιον</ex></expan></rdg></app> <choice><reg>εῖ̔ς</reg><orig><unclear>ἑν</unclear></orig></choice> <num value="1"/> 
 
     <lb n="3"/>Σευῆρος <expan>Στεφά<ex>νου</ex></expan> <expan>πρε<ex>σβυτέρου</ex></expan> <expan>Καλίνιχ<ex>ος</ex></expan> <abbr>Πμερεζ</abbr>, <expan>Κοσμᾶ<ex>ς</ex></expan> <abbr>Πτολ</abbr>, Ἀνοῦπ Ἠλία, Πῶνι <expan>Ἰακώ<ex>β</ex></expan>, <expan>Παύλ<ex>ος</ex></expan> Πιπηκ, 
 Ἰακὼβ Βίκτωρ <expan>νοτ<ex>άριος</ex></expan>, Πιλαλα Παμην 
@@ -104,10 +104,10 @@
 
     <lb n="8"/><expan>ἐπ<ex>οίκιον</ex></expan> <expan>Παρορ<ex>ίου</ex></expan> <expan>ἀγγ<ex>αρευταὶ</ex></expan> <num value="12">ιβ</num> 
 
-    <lb n="9"/>Ἄπα <expan>Ἰούλ<ex>ιος</ex></expan> Κοσ<supplied reason="lost">μᾶ</supplied> <expan><ex>ὑπὲρ</ex></expan> <expan>Πεχ<ex>υσίου</ex></expan> Ἐνώχ, Νααρώου Ἄπα <expan>Ἰουλ<ex>ίου</ex></expan>, <expan>Ἰερεμί<ex>ας</ex></expan> Ἰωάννου, Ἄπα Ὧρ Μηνᾶ, Θεοδώρου 
-Ἰωάννου <expan><ex>ὑπὲρ</ex></expan> <expan>Φοιβ<ex>άμμωνος</ex></expan> <expan>Μακ<ex>αρίου</ex></expan> <expan>πρε<ex>σβυτέρου</ex></expan>, Ἄπα Ὦρ Φιφ 
+    <lb n="9"/>Ἄπα <expan>Ἰούλ<ex>ιος</ex></expan> Κοσ<supplied reason="lost">μᾶ</supplied> <expan><ex>ὑπὲρ</ex></expan> <expan>Πεχ<ex>υσίου</ex></expan> Ἐνώχ, Νααρώου Ἄπα <expan>Ἰουλ<ex>ίου</ex></expan>, <expan>Ἰερεμί<ex>ας</ex></expan> Ἰωάννου, Ἄπα Ὧρ Μηνᾶ, Θεοδώρου 
+Ἰωάννου <expan><ex>ὑπὲρ</ex></expan> <expan>Φοιβ<ex>άμμωνος</ex></expan> <expan>Μακ<ex>αρίου</ex></expan> <expan>πρε<ex>σβυτέρου</ex></expan>, Ἄπα Ὦρ Φιφ 
 
-    <lb n="10"/>Ἄπα Ὧρ Ἰσα<supplied reason="lost">ὰκ</supplied> <expan><ex>ὑπὲρ</ex></expan> Οὐενοφρίου <expan>Ἰω<ex>άννου</ex></expan>, Νααρώου Σουρους <expan><ex>ὑπὲρ</ex></expan> <expan>Σεργί<ex>ου</ex></expan> Φῖφ, <expan>Κοσμ<ex>ᾶς</ex></expan> <expan>Τιμοθ<ex>έου</ex></expan> <expan><ex>ὑπὲρ</ex></expan> <expan>Ἀλεξάνδ<ex>ρου</ex></expan> 
+    <lb n="10"/>Ἄπα Ὧρ Ἰσα<supplied reason="lost">ὰκ</supplied> <expan><ex>ὑπὲρ</ex></expan> Οὐενοφρίου <expan>Ἰω<ex>άννου</ex></expan>, Νααρώου Σουρους <expan><ex>ὑπὲρ</ex></expan> <expan>Σεργί<ex>ου</ex></expan> Φῖφ, <expan>Κοσμ<ex>ᾶς</ex></expan> <expan>Τιμοθ<ex>έου</ex></expan> <expan><ex>ὑπὲρ</ex></expan> <expan>Ἀλεξάνδ<ex>ρου</ex></expan> 
 <expan>Φοιβ<ex>άμμωνος</ex></expan> <expan>Σενούθ<ex>ιος</ex></expan> Πεχυσίου <expan><ex>ὑπὲρ</ex></expan> <expan>Φοιβ<ex>άμμωνος</ex></expan> <abbr>Κ<unclear>ο</unclear>ρε</abbr> 
 
     <lb n="11"/>Παῦλος Ἐνώχ, Ἀνοῦπ <expan>Παύλ<ex>ου</ex></expan> <expan><ex>ὑπὲρ</ex></expan> <expan>Σενουθ<ex>ίου</ex></expan> Κλοῦτζ 
@@ -142,11 +142,11 @@
 
     <lb n="7"/><expan>χωρ<ex>ίον</ex></expan> Ἀνιάνης 
 
-    <lb n="8"/>Πιήου Τζαμαῆλ, <expan>Ἰ<unclear>ερ</unclear>εμί<ex>ας</ex></expan> <expan>πρε<ex>σβύτερος</ex></expan> <expan>Καλινίχ<ex>ου</ex></expan> Ἄπα Ὧρ <expan>Ἰερεμί<ex>ου</ex></expan>, Τζαμοῦλ Ἐνώχ, Φίλιππος <abbr>Ζινιουβ</abbr> <expan><ex>ὑπὲρ</ex></expan> <expan>Ἠλί<ex>α</ex></expan> <expan>Ἀλεξάνδ<ex>ρου</ex></expan> 
+    <lb n="8"/>Πιήου Τζαμαῆλ, <expan>Ἰ<unclear>ερ</unclear>εμί<ex>ας</ex></expan> <expan>πρε<ex>σβύτερος</ex></expan> <expan>Καλινίχ<ex>ου</ex></expan> Ἄπα Ὧρ <expan>Ἰερεμί<ex>ου</ex></expan>, Τζαμοῦλ Ἐνώχ, Φίλιππος <abbr>Ζινιουβ</abbr> <expan><ex>ὑπὲρ</ex></expan> <expan>Ἠλί<ex>α</ex></expan> <expan>Ἀλεξάνδ<ex>ρου</ex></expan> 
 
     <lb n="9"/><expan>Φιλόθ<ex>εος</ex></expan> Καάλιτζ, Ἄπα <expan>Ἰούλ<ex>ιος</ex></expan> Γεωργίου <expan><ex>ὑπὲρ</ex></expan> <abbr>Ἡρακλ</abbr> Κεροντζι, Πισαρίων Ἀντωνίου, <expan>Ζαχαρί<ex>ας</ex></expan> Σίων <expan><ex>ὑπὲρ</ex></expan> Τζαμοῦλ Σίων 
 
-    <lb n="10"/>Ἠλι<supplied reason="lost">σαῖ</supplied>ος Πέτρου <expan><ex>ὑπὲρ</ex></expan> <expan>Ἐπιμάχ<ex>ου</ex></expan> Ἄπα Ὧρ <num value="26">κϛ</num> Ἄπα <expan>Ἰούλ<ex>ιος</ex></expan> Κασκας <num value="26">κϛ</num> <abbr>Γαννασι</abbr> Ἐνὼχ <num value="26">κϛ</num> Παπαεὶ Ἀπολλώ, <expan>Γεώργ<ex>ιος</ex></expan> <expan>Ἰσχ<ex>υρ  </ex></expan> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> 
+    <lb n="10"/>Ἠλι<supplied reason="lost">σαῖ</supplied>ος Πέτρου <expan><ex>ὑπὲρ</ex></expan> <expan>Ἐπιμάχ<ex>ου</ex></expan> Ἄπα Ὧρ <num value="26">κϛ</num> Ἄπα <expan>Ἰούλ<ex>ιος</ex></expan> Κασκας <num value="26">κϛ</num> <abbr>Γαννασι</abbr> Ἐνὼχ <num value="26">κϛ</num> Παπαεὶ Ἀπολλώ, <expan>Γεώργ<ex>ιος</ex></expan> <expan>Ἰσχ<ex>υρ  </ex></expan> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> 
 
     <lb n="11"/><expan>χωρ<ex>ίον</ex></expan> <g type="unintelligible"/> <expan>Ἑρμ<ex>οῦ</ex></expan> <expan>π<ex>όλεως</ex></expan> <num value="1">α</num> <expan>ἀγγ<ex>αρευταὶ</ex></expan> <num value="2">β</num> 
 

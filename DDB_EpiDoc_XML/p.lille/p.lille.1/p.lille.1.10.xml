@@ -104,7 +104,7 @@
 
     <lb n="1"/><app type="editorial"><lem><gap reason="illegible" quantity="1" unit="line"/></lem><rdg/></app> 
 
-    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἔστι</supplied>ν οὖν ὁ λόγο<supplied reason="lost">ς </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἔστι</supplied>ν οῦ̓ν ὁ λόγο<supplied reason="lost">ς </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="2"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">ἀρσ</supplied>ενι<ex>κὰ</ex></expan> <expan><ex>γίνονται</ex></expan> <expan><unclear>μ</unclear><ex>υριάδες</ex></expan> <num value="2">β</num> <num value="20000"/> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 

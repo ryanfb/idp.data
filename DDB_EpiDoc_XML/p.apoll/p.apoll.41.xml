@@ -40,7 +40,7 @@
           <change when="2012-06-23T05:48:52.189-04:00"
                  who="http://papyri.info/editor/users/Zoom">Vote - Accept-Straight-to-Finalization - OK</change>
           <change when="2012-06-23T05:44:07.876-04:00"
-                 who="http://papyri.info/editor/users/Zoom">typo in DDbDP (l. 9   οὖ --&gt; οὐ)</change>
+                 who="http://papyri.info/editor/users/Zoom">typo in DDbDP (l. 9   οῦ̓ --&gt; οὐ)</change>
           <change when="2011-12-14" who="http://papyri.info/editor/users/gabrielbodard">rationalized languages in langUsage</change>
           <change when="2011-12-14" who="http://papyri.info/editor/users/gabrielbodard">changed editor names to URIs</change>
           <change when="2011-10-04" who="http://papyri.info/editor/users/Faith">Automatically updated revision description</change>
@@ -72,7 +72,7 @@
 
     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>ν οὐ <expan>μόν<ex>ον</ex></expan> <choice><reg>τοῦτον</reg><orig>τουτοις</orig></choice> ἀλλὰ καὶ τὴν ἐλευθέραν αὐτοῦ καὶ τοῦ <choice><reg>γαμβροῦ</reg><orig>καμβροῦ</orig></choice> αὐτοῦ 
 
-    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> παρθένους φθαρέντων παρὰ Ἐλευθερίου· καλῶς οὖν ποιεῖ ἡ ὑμετέρα 
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> παρθένους φθαρέντων παρὰ Ἐλευθερίου· καλῶς οῦ̓ν ποιεῖ ἡ ὑμετέρα 
 
     <lb n="7"/><supplied reason="lost">θεοφύλακτο</supplied>ς <choice><reg>ποθεινότης</reg><orig>ποθινότης</orig></choice> λαβὼν τὰς ἐγγύας τοῦ αὐτοῦ Κύρου <choice><reg>Ἐλευθερ<supplied reason="omitted">ί</supplied>ου</reg><orig>Ἐλευθερου</orig></choice> ἄχρι ζητήσε<add place="above">ως</add> 
 

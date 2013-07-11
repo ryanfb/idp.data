@@ -40,7 +40,7 @@
           <change when="2012-12-21T11:38:54.948-05:00"
                  who="http://papyri.info/editor/users/james.cowey">Vote - Accept-Straight-to-Finalization - lin1 *slanting-stroke* twice</change>
           <change when="2012-09-10T04:51:16.568-04:00"
-                 who="http://papyri.info/editor/users/PaulvdLaan">Entered Greek text from P.Rain.Unterricht 99. lin3 abbreviation of ((ἀφ' ὧν)) does not fit into Leiden+ (brackets prevent saving); lin5 not clear what (') after δι means; perhaps &lt;'&gt; is meant? lin7 perhaps &lt;:θε|subst|λε:&gt; or &lt;:λε|subst|θε:&gt; ?</change>
+                 who="http://papyri.info/editor/users/PaulvdLaan">Entered Greek text from P.Rain.Unterricht 99. lin3 abbreviation of ((ἀφ' ῶ̔ν)) does not fit into Leiden+ (brackets prevent saving); lin5 not clear what (') after δι means; perhaps &lt;'&gt; is meant? lin7 perhaps &lt;:θε|subst|λε:&gt; or &lt;:λε|subst|θε:&gt; ?</change>
           <change when="2012-09-10T04:28:13-04:00" who="http://papyri.info/editor">Automated creation from template</change>
       </revisionDesc>
   </teiHeader>
@@ -51,7 +51,7 @@
 <div n="r" type="textpart"><ab>
 <lb n="1"/><g type="slanting-stroke"/><g type="slanting-stroke"/> <expan>ὁ<ex cert="low">μοῦ</ex></expan>
 <lb n="2"/><handShift new="m2"/>επα<unclear>φ</unclear>α
-<lb n="3"/><handShift new="m1"/>ἀφ’ ὧν εἰς <choice><reg>πλοῖον</reg><orig>πλοῖων</orig></choice> τ<supplied reason="lost">ῆ</supplied>ς θειοτάτης
+<lb n="3"/><handShift new="m1"/>ἀφ’ ῶ̔ν εἰς <choice><reg>πλοῖον</reg><orig>πλοῖων</orig></choice> τ<supplied reason="lost">ῆ</supplied>ς θειοτάτης
 <lb n="4"/>δεσποίνης <hi rend="diaeresis">ὑ</hi>πὸ Π<supplied reason="lost">α</supplied>πνουθίο<unclear>υ</unclear>
 <lb n="5" rend="inverse"/> <abbr><gap reason="lost" extent="unknown" unit="character"/>δι</abbr> <abbr>Ἀμ</abbr>
 <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> ἐχθέσεως

@@ -115,7 +115,7 @@
 
     <lb n="29" break="no"/>κομίσαι εἰς <add place="above">τιμὴν</add> κριθῆς <expan>ἀρ<ex>ταβῶν</ex></expan> <num value="500">φ</num> εἰς <num value="15">ιε</num> <expan>ἀρ<ex>τάβας</ex></expan> τῶν <num value="4">δ</num> <expan><ex>δραχμῶν</ex></expan> <expan>ἀρ<ex>γυρίου</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="150">ρν</num> 
 
-    <lb n="30"/>ὧν μετρεῖ Ἁρενδώτηι καὶ τὸ <unclear>ἐλ</unclear><supplied reason="lost">λι</supplied>πὸν 
+    <lb n="30"/>ῶ̔ν μετρεῖ Ἁρενδώτηι καὶ τὸ <unclear>ἐλ</unclear><supplied reason="lost">λι</supplied>πὸν 
 
     <lb n="31"/>τῆς τιμῆς <choice><reg>κομίζεται</reg><orig>κομίζζεται</orig></choice> <del rend="erasure">πα</del> διὰ <supplied reason="lost">Πατ</supplied>αικίων<supplied reason="lost">ος </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -130,7 +130,7 @@
 
     <lb n="36"/>τιμὴν <choice><reg>ὑποζ<supplied reason="lost">υγίου</supplied></reg><orig>ὑποζζ<supplied reason="lost">υγίου</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="37"/><subst><add place="inline"><unclear>οὗ</unclear></add><del rend="corrected"><gap reason="illegible" quantity="2" unit="character"/></del></subst> παρείλ<unclear>η</unclear><supplied reason="lost">φεν Δημήτ</supplied><unclear>ρ</unclear>ιος 
+    <lb n="37"/><subst><add place="inline"><unclear>οῦ̔</unclear></add><del rend="corrected"><gap reason="illegible" quantity="2" unit="character"/></del></subst> παρείλ<unclear>η</unclear><supplied reason="lost">φεν Δημήτ</supplied><unclear>ρ</unclear>ιος 
 
     <lb n="38"/>ὀνηλάτης <gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -163,7 +163,7 @@
     <lb n="52"/>μήκωνα <expan>ἀρ<ex>γυρίου</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="120">ρκ</num> 
 </ab></div><div n="2,ms" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="52"/><expan><ex>ὧν</ex></expan> παρὰ Διοφάντου 
+    <lb n="52"/><expan><ex>ῶ̔ν</ex></expan> παρὰ Διοφάντου 
 
     <lb n="53"/><expan>κρότων<ex>ος</ex></expan> <expan>ἀρ<ex>τάβας</ex></expan> <num value="100">ρ</num> <expan><ex>δραχμὰς</ex></expan> <num value="100">ρ</num> 
 
@@ -229,7 +229,7 @@
 
     <lb n="79"/>ἐπὶ τὴν Ἀρτεμιδώρου τράπεζαν 
 
-    <lb n="80"/>κατεβλήθησαν <expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="140">ρμ</num> <expan><ex>ὧν</ex></expan> 
+    <lb n="80"/>κατεβλήθησαν <expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="140">ρμ</num> <expan><ex>ῶ̔ν</ex></expan> 
 
     <lb n="81"/>Δαμάσται τιμὴν σίτου τοῦ γινο
 
@@ -265,7 +265,7 @@
 
     <lb n="94a"/><handShift new="m3"/> τὰ λοιπ<supplied reason="lost">ὰ</supplied> τῶν χαρακουμένων φυτῶν 
 
-    <lb n="94"/>ἐφʼ ὧι συντε<supplied reason="lost">λ</supplied>έσουσιν 
+    <lb n="94"/>ἐφʼ ῶ̔ι συντε<supplied reason="lost">λ</supplied>έσουσιν 
 
     <lb n="95"/>καὶ τὰς πε<unclear>π</unclear><supplied reason="lost">τ</supplied>ωκυίας 
 
@@ -307,7 +307,7 @@
 
     <lb n="114"/><gap reason="lost" extent="unknown" unit="line"/> 
 
-    <lb n="114"/>σθω οὗ ε<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="114"/>σθω οῦ̔ ε<gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="115"/>εἰς τὸ γιν<supplied reason="lost">όμενον</supplied>. 
 

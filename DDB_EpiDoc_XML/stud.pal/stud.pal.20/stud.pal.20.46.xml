@@ -54,7 +54,7 @@
 
     <lb n="1"/>διὰ Εὐδαί<unclear>μ</unclear>ον<supplied reason="lost">ος </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="2"/><app type="editorial"><lem resp="BL 2.2.159">κλάλιος εἷς <num value="1"/></lem><rdg>κλάνι<unclear>ον</unclear> <expan><ex>δραχμῶν</ex></expan> <num value="80">π</num></rdg></app> 
+    <lb n="2"/><app type="editorial"><lem resp="BL 2.2.159">κλάλιος εῖ̔ς <num value="1"/></lem><rdg>κλάνι<unclear>ον</unclear> <expan><ex>δραχμῶν</ex></expan> <num value="80">π</num></rdg></app> 
 
     <lb n="3"/>διὰ Πεητέως <app type="editorial"><lem resp="BL 2.2.159">ἐν ἐπενε<supplied reason="lost">χύρου </supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ἐν <expan>ἐπε<supplied reason="lost">ν<ex cert="low">εχθεῖσι</ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/> </rdg></app> 
 
@@ -84,9 +84,9 @@
 
     <lb n="16"/>κά<unclear>το</unclear>πτρον χαλ<unclear>κ</unclear>οῦν 
 
-    <lb n="17"/>κάδος χαλκοῦς εἷς <num value="1"/> 
+    <lb n="17"/>κάδος χαλκοῦς εῖ̔ς <num value="1"/> 
 
-    <lb n="18"/><choice><reg>ἠθμὸς</reg><orig><hi rend="diaeresis">ἰ</hi>θμὸς</orig></choice> χαλκοῦς εἷς <num value="1"/> 
+    <lb n="18"/><choice><reg>ἠθμὸς</reg><orig><hi rend="diaeresis">ἰ</hi>θμὸς</orig></choice> χαλκοῦς εῖ̔ς <num value="1"/> 
 
     <lb n="19"/>κερβικάριον <num value="1">α</num> 
 

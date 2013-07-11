@@ -63,7 +63,7 @@
 
     <lb n="7"/>πρώτως παρὰ Θ<gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="8"/>ἀφʼ ὧν ἔχει ἐν ἀ<unclear>π</unclear><supplied reason="lost">ογραφῇ ἐπὶ κώμης </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="8"/>ἀφʼ ῶ̔ν ἔχει ἐν ἀ<unclear>π</unclear><supplied reason="lost">ογραφῇ ἐπὶ κώμης </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="9"/>Τόκα τῆς μέσης <supplied reason="lost">τοπαρχίας </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -73,7 +73,7 @@
 
     <lb n="12"/><choice><reg>γ<supplied reason="lost">ί</supplied>νεται</reg><orig>γ<supplied reason="lost">ί</supplied>ναιτ<unclear>ε</unclear></orig></choice> <expan>πρ<ex>όβατα</ex></expan> <choice><reg>ἑβδο<supplied reason="lost">μήκοντα</supplied></reg><orig>ἑβδε<supplied reason="lost">μήκοντα</supplied></orig></choice> <num value="70"/> 
 
-    <lb n="13"/>αἶγας δύο <num value="2"/> καὶ τοὺς <unclear>ἐ</unclear><supplied reason="lost">πακολουθοῦντας </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="13"/>αῖ̓γας δύο <num value="2"/> καὶ τοὺς <unclear>ἐ</unclear><supplied reason="lost">πακολουθοῦντας </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="14"/>εἰς τὴν <choice><reg>ἐνεστῶσ<supplied reason="lost">αν</supplied></reg><orig>ἐνοστῶσ<supplied reason="lost">αν</supplied></orig></choice> <supplied reason="lost">ἡμέραν </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -85,7 +85,7 @@
 
     <lb n="18"/><choice><reg>Πουήβιος</reg><orig><unclear>Π</unclear>ουέβιος</orig></choice> <unclear>λ</unclear><supplied reason="lost">αογραφομένου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="19"/>ενν<gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ο<gap reason="illegible" quantity="1" unit="character"/><supplied reason="lost"> ὧν καὶ τάξομαι τὸ καθῆκον</supplied> 
+    <lb n="19"/>ενν<gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ο<gap reason="illegible" quantity="1" unit="character"/><supplied reason="lost"> ῶ̔ν καὶ τάξομαι τὸ καθῆκον</supplied> 
 
     <lb n="20"/>τέλ<unclear>ος</unclear> <gap reason="lost" extent="unknown" unit="character"/> </ab></div>
       </body>

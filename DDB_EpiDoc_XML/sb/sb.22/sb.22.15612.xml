@@ -39,7 +39,7 @@
                  who="http://papyri.info/editor/users/james.cowey">Vote - AcceptText - Readings: lin9 yes much better; lin11 yes, I wonder whether in fact one might argue for seeing traces of the My, so I suggest ἐ̣μ̣ο̣ῦ instead of ἐ̣[μ]ο̣ῦ; lin15 obviously correct. Fine. On finalization the text version under should be deleted and reprint in markup introduced.</change>
           <change when="2013-02-09T16:15:37.639-05:00"
                  who="http://papyri.info/editor/users/dieter.hagedorn">Z. 9: π̣αρα̣[χωρή]σ̣ει → Σ̣αρα̣π̣[ί]ω̣ν̣ος (am Photo im Internet). &#xD;
-Z. 11: οὖσα ὑ[π᾽ α]ὐτοῦ → ο̣ὖσα ἐ̣[μ]ο̣ῦ τοῦ (am Photo im Internet); vgl. P.Oxy. XXXIII 2677,10-11: οὖσά μου | τοῦ τινος ἰδιόγραφος; SB XX 14199,16: οὖσά μου τοῦ Ὠφε̣λᾶ τοῦ καὶ Βησᾷ ἰδιόγραφο̣ς̣. &#xD;
+Z. 11: οῦ̓σα ὑ[π᾽ α]ὐτοῦ → ο̣ῦ̓σα ἐ̣[μ]ο̣ῦ τοῦ (am Photo im Internet); vgl. P.Oxy. XXXIII 2677,10-11: οῦ̓σά μου | τοῦ τινος ἰδιόγραφος; SB XX 14199,16: οῦ̓σά μου τοῦ Ὠφε̣λᾶ τοῦ καὶ Βησᾷ ἰδιόγραφο̣ς̣. &#xD;
 Z. 15: Λυκίο̣υ̣ (l. Λουκίου) → Λου̣κίο̣υ̣ (am Photo im Internet). &#xD;
 Z. 17: Anpassung an BL XI 239. &#xD;
 Ferner Hinzufügung der im Pap. vorhandenen Tremata in Z. 11 (ἰ(¨)διόγραφος) und 12 (ὑ(*)πὲρ).</change>
@@ -78,13 +78,13 @@ Ferner Hinzufügung der im Pap. vorhandenen Tremata in Z. 11 (ἰ(¨)διόγρ�
 
     <lb n="7"/>ἕκτ<unclear>ου</unclear> <supplied reason="lost">ἔτο</supplied>υς διὰ τὸ τὰ ἀ<unclear>π</unclear>ὸ τοῦ ἐνεστῶτο<supplied reason="lost">ς ἑ</supplied>βδόμου
 
-    <lb n="8"/>ἔτο<supplied reason="lost">υς το</supplied>ύτου πρόσφορα εἶναι σοῦ τοῦ ὠνουμένου
+    <lb n="8"/>ἔτο<supplied reason="lost">υς το</supplied>ύτου πρόσφορα εῖ̓ναι σοῦ τοῦ ὠνουμένου
 
-    <lb n="9"/><app type="editorial"><lem resp="PN D. Hagedorn"><unclear>Σ</unclear>αρ<unclear>απ</unclear><supplied reason="lost">ί</supplied><unclear>ων</unclear>ος</lem><rdg><unclear>π</unclear>αρ<unclear>α</unclear><supplied reason="lost">χωρή</supplied><unclear>σ</unclear>ει</rdg></app>, πρὸς ὃν καὶ εἶναι <add place="above">τὰ</add> ἀπὸ τοῦ αὐτοῦ ἐνεστῶτος
+    <lb n="9"/><app type="editorial"><lem resp="PN D. Hagedorn"><unclear>Σ</unclear>αρ<unclear>απ</unclear><supplied reason="lost">ί</supplied><unclear>ων</unclear>ος</lem><rdg><unclear>π</unclear>αρ<unclear>α</unclear><supplied reason="lost">χωρή</supplied><unclear>σ</unclear>ει</rdg></app>, πρὸς ὃν καὶ εῖ̓ναι <add place="above">τὰ</add> ἀπὸ τοῦ αὐτοῦ ἐνεστῶτος
 
     <lb n="10"/>ἑβδ<unclear>ό</unclear><supplied reason="lost">μου</supplied> <surplus><gap reason="illegible" quantity="3" unit="character"/></surplus> <add place="above">ἔτους</add> δημόσια. κυρία ἡ <choice><reg>πρᾶσις</reg><orig>πρᾶσεις</orig></choice> καὶ <choice><reg>παραχώρησις</reg><orig>παραχώρησεις</orig></choice>
 
-    <lb n="11"/>οὖσα <app type="editorial"><lem resp="PN D. Hagedorn"><unclear>ἐ</unclear><supplied reason="lost">μ</supplied><unclear>ο</unclear>ῦ τοῦ</lem><rdg>ὑ<supplied reason="lost">πʼ α</supplied><unclear>ὐ</unclear>τοῦ</rdg></app> Ἀμμωνίου <hi rend="diaeresis">ἰ</hi>διόγραφος τρισ<supplied reason="omitted">σ</supplied>ὴ γραφεῖσα
+    <lb n="11"/>οῦ̓σα <app type="editorial"><lem resp="PN D. Hagedorn"><unclear>ἐ</unclear><supplied reason="lost">μ</supplied><unclear>ο</unclear>ῦ τοῦ</lem><rdg>ὑ<supplied reason="lost">πʼ α</supplied><unclear>ὐ</unclear>τοῦ</rdg></app> Ἀμμωνίου <hi rend="diaeresis">ἰ</hi>διόγραφος τρισ<supplied reason="omitted">σ</supplied>ὴ γραφεῖσα
 
     <lb n="12"/>παντ<supplied reason="lost">αχ</supplied>ῇ ἐπιφερομένη καὶ παντὶ τῷ <hi rend="diaeresis">ὑ</hi>πὲρ σοῦ ἐπιφέροντι
 

@@ -75,7 +75,7 @@
 
     <lb n="11"/>ἀρούρας δεκαδύο <num value="12"/>, ὥστε ξυλαμῆσαι 
 
-    <lb n="12"/>οἷς ἐὰν αἱρῶνται χωρὶς ἰσάτεως καὶ 
+    <lb n="12"/>οῖ̔ς ἐὰν αἱρῶνται χωρὶς ἰσάτεως καὶ 
 
     <lb n="13"/><choice><reg>ὀχομενίου</reg><orig>ὀχωμενίου</orig></choice>, φόρου <choice><reg>ἑκά<supplied reason="omitted">σ</supplied>της</reg><orig>ἑκάτης</orig></choice> ἀρούρης 
 
@@ -93,7 +93,7 @@
     <lb n="20"/><choice><reg>πλεῖον</reg><orig>πλῖον</orig></choice> ἢ ἔλαττον, ὥστε καὶ ταύτας 
 
 
-    <lb n="21"/><choice><reg>σπε<supplied reason="omitted">ῖ</supplied>ραι</reg><orig>σπε͂ραι</orig></choice> καὶ ξυλαμῆσαι οἷς ἐὰν <choice><reg>αἱρῶ<supplied reason="omitted">ν</supplied>ται</reg><orig>αἱρωται</orig></choice> 
+    <lb n="21"/><choice><reg>σπε<supplied reason="omitted">ῖ</supplied>ραι</reg><orig>σπε͂ραι</orig></choice> καὶ ξυλαμῆσαι οῖ̔ς ἐὰν <choice><reg>αἱρῶ<supplied reason="omitted">ν</supplied>ται</reg><orig>αἱρωται</orig></choice> 
 
     <lb n="22"/>χωρὶς ἰσάτεως καὶ <choice><reg>ὀχομενίου</reg><orig>ὀχωμενίου</orig></choice>, φόρου 
 
@@ -134,7 +134,7 @@
 
     <lb n="41"/>Αἰλίου Ἁδριανοῦ Ἀντωνίνου Σεβαστοῦ 
 
-    <lb n="42"/>Εὐσεβοῦς Φαῶφι <num value="7">ζ</num>. Ὧρος Πετείριος 
+    <lb n="42"/>Εὐσεβοῦς Φαῶφι <num value="7">ζ</num>. Ὧρος Πετείριος 
 
     <lb n="43"/>καὶ Κ<supplied reason="lost">ορ</supplied><unclear>ν</unclear>ήλις Ἡρακλ<unclear>ίδου</unclear> μεμισ
 
@@ -153,7 +153,7 @@
     <lb n="50"/>καὶ τοῦ ἀχύρου <supplied reason="lost">τὸ ἥμισυ καὶ ἀπ</supplied>
 <choice><reg>οδώσο<lb n="51" break="no"/>μεν</reg><orig><subst><add place="inline"><supplied reason="lost">απ</supplied>οδωσωμεν</add><del rend="corrected"><supplied reason="lost">απ</supplied>οδώσομεν</del></subst></orig></choice> τὰ ἀ<unclear>ν</unclear>α<supplied reason="lost">λώματα τῆς γεωργίας</supplied> <unclear>ὡς</unclear> 
 
-    <lb n="52"/>πρόκιται. Ὧ<supplied reason="lost" cert="low">ρος </supplied><gap reason="lost" extent="unknown" unit="character"/>  
+    <lb n="52"/>πρόκιται. Ὧ<supplied reason="lost" cert="low">ρος </supplied><gap reason="lost" extent="unknown" unit="character"/>  
 
     <lb n="53"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>
       </body>

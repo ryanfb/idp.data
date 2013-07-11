@@ -59,11 +59,11 @@
 
     <lb n="3"/>ου ἀπὸ ἀμφ<supplied reason="lost">ό</supplied>δο<supplied reason="lost">υ </supplied><gap reason="lost" quantity="7" unit="character"/><supplied reason="lost"> βούλομαι</supplied> 
 
-    <lb n="4"/>μισθώσασθ<supplied reason="lost">αι παρὰ σοῦ εἰς ἔτη </supplied><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> ὧν</supplied> 
+    <lb n="4"/>μισθώσασθ<supplied reason="lost">αι παρὰ σοῦ εἰς ἔτη </supplied><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> ῶ̔ν</supplied> 
 
     <lb n="5"/><choice><reg>ἔχεις</reg><orig>ἔχις</orig></choice> ἐν <choice><reg>μισθώσει</reg><orig>μισθώσι</orig></choice> δημοσίων <supplied reason="lost">ἀ</supplied>ρο<supplied reason="lost">υρῶν</supplied> 
 
-    <lb n="6"/>ἀρούρας πέντε <num value="5"/> ἢ <choice><reg>ὅσα</reg><orig>ὁσας</orig></choice> ἐὰν ὦσι <choice><reg><choice><reg>ἐφʼ</reg><orig>αφ</orig></choice></reg><orig>ὠν</orig></choice> 
+    <lb n="6"/>ἀρούρας πέντε <num value="5"/> ἢ <choice><reg>ὅσα</reg><orig>ὁσας</orig></choice> ἐὰν ῶ̓σι <choice><reg><choice><reg>ἐφʼ</reg><orig>αφ</orig></choice></reg><orig>ὠν</orig></choice> 
 
     <lb n="7"/><choice><reg>μένει</reg><orig>μένι</orig></choice> ἡ <choice><reg>γεωργία</reg><orig>γεοργία</orig></choice> χρό<supplied reason="lost">νον ἀπὸ</supplied> τοῦ ἐνεσ
 
@@ -83,7 +83,7 @@
 
     <lb n="15" break="no"/>ροῖς, βλάβος μηδὲν ποιῶν, <app type="editorial"><lem resp="BL 1.439">σπείρων</lem><rdg>σπερμάτ<supplied reason="lost">ων</supplied></rdg></app> 
 
-    <lb n="16"/><app type="editorial"><lem resp="BL 1.439">τὸ ἔδαφος <choice><reg>οἷς</reg><orig>ὗς</orig></choice> ἐὰν <choice><reg><supplied reason="omitted">αἱ</supplied>ρῶμαι</reg><orig>ῥῶμαι</orig></choice> <choice><reg>γενέσι</reg><orig>γεναίσι</orig></choice> πλὴν</lem><rdg><expan>το<ex>ῦ</ex></expan> ἐδάφους <unclear>σὺ</unclear>ν ρωμ<unclear>αι</unclear><gap reason="illegible" quantity="3" unit="character"/>αρσι<gap reason="illegible" quantity="2" unit="character"/>λ<gap reason="illegible" quantity="2" unit="character"/></rdg></app> 
+    <lb n="16"/><app type="editorial"><lem resp="BL 1.439">τὸ ἔδαφος <choice><reg>οῖ̔ς</reg><orig>ῦ̔ς</orig></choice> ἐὰν <choice><reg><supplied reason="omitted">αἱ</supplied>ρῶμαι</reg><orig>ῥῶμαι</orig></choice> <choice><reg>γενέσι</reg><orig>γεναίσι</orig></choice> πλὴν</lem><rdg><expan>το<ex>ῦ</ex></expan> ἐδάφους <unclear>σὺ</unclear>ν ρωμ<unclear>αι</unclear><gap reason="illegible" quantity="3" unit="character"/>αρσι<gap reason="illegible" quantity="2" unit="character"/>λ<gap reason="illegible" quantity="2" unit="character"/></rdg></app> 
 
     <lb n="17"/><app type="editorial"><lem resp="BL 1.439">κνήκου</lem><rdg>κ<gap reason="illegible" quantity="2" unit="character"/>κ<gap reason="illegible" quantity="2" unit="character"/></rdg></app> καὶ <choice><reg>τὸ</reg><orig>τον</orig></choice> κατʼ ἔτος ἐκφόριον ἀπο
 

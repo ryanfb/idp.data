@@ -63,13 +63,13 @@
 
     <lb n="1"/><handShift new="m1"/> Ἡρᾶς <expan>Ἀμόιτ<ex>ος</ex></expan> τοῦ <expan>Παποντῶτ<ex>ος</ex></expan> <supplied reason="lost"><expan>μητ<ex>ρὸς</ex></expan></supplied> Θαισᾶτος 
 
-    <lb n="2"/><expan><ex>τετάρτου</ex></expan> <expan>τόμ<ex>ου</ex></expan> <expan>κολ<ex>λήματι</ex></expan> <num value="273">σογ</num>  <expan>οἶκ<ex>ος</ex></expan> ἐ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="4" unit="character"/> Ἄμμωνος θεοῦ μεγίστο<supplied reason="lost">υ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="2"/><expan><ex>τετάρτου</ex></expan> <expan>τόμ<ex>ου</ex></expan> <expan>κολ<ex>λήματι</ex></expan> <num value="273">σογ</num>  <expan>οῖ̓κ<ex>ος</ex></expan> ἐ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="4" unit="character"/> Ἄμμωνος θεοῦ μεγίστο<supplied reason="lost">υ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="3"/><space extent="unknown" unit="character"/> 
 
     <lb n="3"/><handShift new="m2"/> Θοῶνις <abbr>Διον</abbr> τοῦ <expan>Ἀμόιτ<ex>ος</ex></expan> <expan>μητ<ex>ρὸς</ex></expan> Θα<hi rend="diaeresis">ι</hi>σᾶτος 
 
-    <lb n="4"/><expan>κολ<ex>λήματι</ex></expan> <num value="357">τνζ</num> <expan>οἶκ<ex>ος</ex></expan> καὶ <expan>αἴθ<ex>ριον</ex></expan> ἔχει <expan>θυγ<ex>ατέρας</ex></expan> Τααμόιν καὶ Θα<hi rend="diaeresis">ι</hi>σᾶν 
+    <lb n="4"/><expan>κολ<ex>λήματι</ex></expan> <num value="357">τνζ</num> <expan>οῖ̓κ<ex>ος</ex></expan> καὶ <expan>αἴθ<ex>ριον</ex></expan> ἔχει <expan>θυγ<ex>ατέρας</ex></expan> Τααμόιν καὶ Θα<hi rend="diaeresis">ι</hi>σᾶν 
 
     <lb n="5"/><space extent="unknown" unit="character"/> 
 
@@ -88,9 +88,9 @@
 
     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>υ ἐνβαδείας ἐξ ἐνεχ<supplied reason="lost">υρασία</supplied>ς ἐξ ὀνόματος Ἑρμίου Διοσκόρου τοῦ κ<supplied reason="lost">αὶ Ἁρπάλου</supplied> 
 
-    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ρα</unclear>πίωνος <choice><reg><abbr>πολιτικ</abbr></reg><orig><abbr>πολειτικ</abbr></orig></choice> <gap reason="lost" quantity="7" unit="character"/><unclear>ο</unclear>υ. ἐὰν οὖν τὰ διʼ αὐτοῦ δηλούμενα ὑπάρχ<supplied reason="lost" cert="low">οντα</supplied> 
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ρα</unclear>πίωνος <choice><reg><abbr>πολιτικ</abbr></reg><orig><abbr>πολειτικ</abbr></orig></choice> <gap reason="lost" quantity="7" unit="character"/><unclear>ο</unclear>υ. ἐὰν οῦ̓ν τὰ διʼ αὐτοῦ δηλούμενα ὑπάρχ<supplied reason="lost" cert="low">οντα</supplied> 
 
-    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> πρὸς ἕτερον <hi rend="diaeresis">ἰ</hi>διωτι<gap reason="lost" quantity="6" unit="character"/><unclear>ο</unclear>νδα<gap reason="illegible" quantity="1" unit="character"/>η<gap reason="lost" quantity="3" unit="character"/> προδιαστειλάμενοι τοῖς οὖσι <supplied reason="lost">ἐν</supplied> 
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> πρὸς ἕτερον <hi rend="diaeresis">ἰ</hi>διωτι<gap reason="lost" quantity="6" unit="character"/><unclear>ο</unclear>νδα<gap reason="illegible" quantity="1" unit="character"/>η<gap reason="lost" quantity="3" unit="character"/> προδιαστειλάμενοι τοῖς οῦ̓σι <supplied reason="lost">ἐν</supplied> 
 
     <lb n="5"/><supplied reason="lost">τοῖς καταγεγραμμένοις ἐκχ</supplied>ωρεῖν ἐκ τούτων ἐν ἡ<supplied reason="lost">μέ</supplied>ραις δ<unclear>έ</unclear><supplied reason="lost">κ</supplied>α <num value="10"/> ἐ<supplied reason="lost">πιτε</supplied>λεῖτε τὰ τῆς ἐνβαδείας δ<gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -124,13 +124,13 @@
 
     <lb n="19"/><supplied reason="lost">τῆς ἐντεύξεως ἀντίγραφον τῷ τῆς Ἀντινόου πόλεως</supplied> νομάρχῃ, <hi rend="diaeresis">ἵ</hi>νʼ, ἐὰν παρὼν ἐπʼ αὐτὸν ὁ Ἑρμίας εὐδοκῇ τούτ<supplied reason="lost">οις</supplied> 
 
-    <lb n="20"/><supplied reason="lost">καὶ προῆται τὴν καθήκουσαν χειρογραφί</supplied>αν περὶ τοῦ ἀληθῆ εἶναι τὰ διὰ τῆς ἐντεύξεως δεδηλωμένα καὶ μηδὲν <unclear>ὑ</unclear><supplied reason="lost">πεναν</supplied>
+    <lb n="20"/><supplied reason="lost">καὶ προῆται τὴν καθήκουσαν χειρογραφί</supplied>αν περὶ τοῦ ἀληθῆ εῖ̓ναι τὰ διὰ τῆς ἐντεύξεως δεδηλωμένα καὶ μηδὲν <unclear>ὑ</unclear><supplied reason="lost">πεναν</supplied>
 
-    <lb n="21" break="no"/><supplied reason="lost">τίον ᾠκονομῆσθαι, τὸ τηνικαῦτα, προδιαστει</supplied>λάμενος τοῖς οὖσι ἐν τοῖς καταγεγραμμένοις ἐκχωρεῖν ἐ<supplied reason="lost">κ</supplied> 
+    <lb n="21" break="no"/><supplied reason="lost">τίον ᾠκονομῆσθαι, τὸ τηνικαῦτα, προδιαστει</supplied>λάμενος τοῖς οῦ̓σι ἐν τοῖς καταγεγραμμένοις ἐκχωρεῖν ἐ<supplied reason="lost">κ</supplied> 
 
     <lb n="22"/><supplied reason="lost">τούτων ἐν ἡμέραις δέκα <num value="10"/>, μετὰ ταύτας ποιῆτ</supplied><unclear>αι</unclear> τὰ τῆς <unclear>ἐνβα</unclear>δείας ὃν τρόπον καθήκει τοῖς προστεταγμέν<supplied reason="lost">οις</supplied> 
 
-    <lb n="23"/><supplied reason="lost">ἀκολούθως. </supplied><gap reason="lost" extent="unknown" unit="character"/> ὑπάρχοντα ἀνεξαλλοτρίωτα καὶ ἀκαταχρημάτιστα μέχρι τε οὗ οι οφ<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="23"/><supplied reason="lost">ἀκολούθως. </supplied><gap reason="lost" extent="unknown" unit="character"/> ὑπάρχοντα ἀνεξαλλοτρίωτα καὶ ἀκαταχρημάτιστα μέχρι τε οῦ̔ οι οφ<gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="24"/><gap reason="lost" extent="unknown" unit="character"/> ἐνιαύσιος χρόνος.  Μάρκωι <supplied reason="lost">Ἀ</supplied>ννί<unclear>ω</unclear>ι Συριακῶι Ἑρμίας Διοσκόρου <supplied reason="lost">τοῦ καὶ</supplied> 
 

@@ -77,7 +77,7 @@
 
     <lb n="12"/>Καῖσαρα Σεβαστὸν Γερμανι<supplied reason="lost">κὸν</supplied> 
 
-    <lb n="13"/>Αὐτοκράτορα <choice><reg>ἦ</reg><orig>εἶ</orig></choice> μὴν ἐξ <app type="editorial"><lem>ὑ<supplied reason="lost">γιουῖς καὶ ἐπʼ</supplied></lem><rdg>υ<gap reason="lost" quantity="4" unit="character"/></rdg></app> <supplied reason="lost">ἀ</supplied>
+    <lb n="13"/>Αὐτοκράτορα <choice><reg>ῆ̓</reg><orig>εῖ̓</orig></choice> μὴν ἐξ <app type="editorial"><lem>ὑ<supplied reason="lost">γιουῖς καὶ ἐπʼ</supplied></lem><rdg>υ<gap reason="lost" quantity="4" unit="character"/></rdg></app> <supplied reason="lost">ἀ</supplied>
 
     <lb n="14" break="no"/>λήθειας <app type="editorial"><lem resp="BL 7.82"><expan>κατακεχ<ex>ωρικέναι</ex></expan></lem><rdg><expan>κατακεχ<ex>ωρηκέναι</ex></expan></rdg></app> τὸ <expan>προκ<ex>είμενον</ex></expan> κ<supplied reason="lost">ατʼ ἄνδρα</supplied> 
 
@@ -164,7 +164,7 @@
 
     <lb n="5"/><abbr>Σο<unclear>κ</unclear>ονω</abbr> <app type="editorial"><lem resp="BL 9.126">Ἑριεῦτος</lem><rdg>Ἁρσεῦτος</rdg></app> <expan>μη<ex>τρὸς</ex></expan> Ταβ <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan><ex>δραχμὰς</ex></expan></supplied> <num value="8">η</num> 
 
-    <lb n="6"/>Ὧρος Ὥρου <expan>μη<ex>τρὸς</ex></expan> Τ<gap reason="lost" quantity="1" unit="character"/><unclear>κ</unclear>θσευτος <gap reason="lost" quantity="2" unit="character"/> 
+    <lb n="6"/>Ὧρος Ὥρου <expan>μη<ex>τρὸς</ex></expan> Τ<gap reason="lost" quantity="1" unit="character"/><unclear>κ</unclear>θσευτος <gap reason="lost" quantity="2" unit="character"/> 
 
     <lb n="7"/>Μυσθᾶς Μύσθου <expan>μη<ex>τρὸς</ex></expan> Ταμοῦνις        <expan><ex>δραχμὰς</ex></expan> <num value="4">δ</num> 
 
@@ -194,7 +194,7 @@
 
     <lb n="20"/>Ὀννῶφρις <expan>Φιλοκλῆ<ex>τος</ex></expan> <expan>μη<ex>τρὸς</ex></expan> <expan>Ταμύσθ<ex>ας</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="4">δ</num> 
 
-    <lb n="21"/>Ὧρ<supplied reason="lost">ος</supplied> <gap reason="illegible" quantity="3" unit="character"/>α<gap reason="illegible" quantity="1" unit="character"/>λου <expan>μη<ex>τρὸς</ex></expan> <expan>Ταπετεεῦτο<ex>ς</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="4"><unclear>δ</unclear></num> 
+    <lb n="21"/>Ὧρ<supplied reason="lost">ος</supplied> <gap reason="illegible" quantity="3" unit="character"/>α<gap reason="illegible" quantity="1" unit="character"/>λου <expan>μη<ex>τρὸς</ex></expan> <expan>Ταπετεεῦτο<ex>ς</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="4"><unclear>δ</unclear></num> 
 </ab></div><div n="3" type="textpart"><!--milestone unit="4"--><ab>
 
     <lb n="1"/><gap reason="illegible" extent="unknown" unit="line"/> </ab></div></div>

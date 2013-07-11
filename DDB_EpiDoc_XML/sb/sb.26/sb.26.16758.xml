@@ -45,7 +45,7 @@
                  who="http://papyri.info/editor/users/joshuad.sosin">Vote - AcceptText -
             Accept. Corr--&gt;reg passim; lin14 prefer ed pr (as NG enters); lin19 --&gt; 18
             vac.1lin and renumber subsequent lin; Lin20--&gt; &amp;lt;:εν̣ ἀσφαλ[.2]ινα[.?]|alt:|ἐν̣
-            ἀσφαλ[ῆ ε]ἶνα[ι] [.?]:&amp;gt; (agree εν̣ visible in plate; since note and text are
+            ἀσφαλ[ῆ ε]ῖ̓να[ι] [.?]:&amp;gt; (agree εν̣ visible in plate; since note and text are
             incoherent as they stand, I propose calling this a typo and correcting
             silently.</change>
           <change when="2011-02-15T05:06:46.447-05:00"
@@ -80,7 +80,7 @@
 <lb n="18"/><gap reason="lost" extent="unknown" unit="character"/> παρʼ α<supplied reason="lost">ὐτ</supplied>ῆς πάν<supplied reason="lost">τ</supplied>ας <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="18"/><space quantity="1" unit="line"/>
 <lb n="19"/><gap reason="lost" extent="unknown" unit="character"/>τη ὅ<unclear>τι</unclear> τὸ γραμμα<gap reason="lost" extent="unknown" unit="character"/>
-<lb n="20"/><gap reason="lost" extent="unknown" unit="character"/> αὐτῇ <app type="alternative"><lem>ε<unclear>ν</unclear> ἀσφαλ<gap reason="lost" quantity="2" unit="character"/>ινα<gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ἐ<unclear>ν</unclear> ἀσφαλ<supplied reason="lost">ῆ ε</supplied>ἶνα<supplied reason="lost">ι</supplied> <gap reason="lost" extent="unknown" unit="character"/></rdg></app>
+<lb n="20"/><gap reason="lost" extent="unknown" unit="character"/> αὐτῇ <app type="alternative"><lem>ε<unclear>ν</unclear> ἀσφαλ<gap reason="lost" quantity="2" unit="character"/>ινα<gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ἐ<unclear>ν</unclear> ἀσφαλ<supplied reason="lost">ῆ ε</supplied>ῖ̓να<supplied reason="lost">ι</supplied> <gap reason="lost" extent="unknown" unit="character"/></rdg></app>
 <lb n="21"/><gap reason="lost" extent="unknown" unit="character"/>ο μηδ<supplied reason="lost">ε</supplied>νὶ εἰ μ<unclear>ὴ</unclear> γρα<gap reason="lost" extent="unknown" unit="character"/>
 <lb n="22"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>αν<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/> ἐρρῶσ<supplied reason="lost">θαί σε</supplied> <expan>εὔ<ex>χομαι</ex></expan>
 </ab>

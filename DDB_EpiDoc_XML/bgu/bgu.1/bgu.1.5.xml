@@ -80,7 +80,7 @@
 
     <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ε<gap reason="illegible" quantity="1" unit="character"/>τηνι<gap reason="illegible" quantity="2" unit="character"/> 
 
-    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>η εἶναι 
+    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>η εῖ̓ναι 
 
     <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/> <g type="unintelligible"/> 
 
@@ -101,7 +101,7 @@
 
     <lb n="4"/>καὶ ὁ κωμογραμματεὺς ὁμοίως ἐδήλωσεν μηδένα πόρον <expan>ὑπάρχ<ex>ειν</ex></expan> 
 
-    <lb n="5"/>τῷ προγεγραμμένωι, τὸν γὰρ διακείμενον ἕτερον εἶναι <app type="editorial"><lem resp="BL 1.7"><expan>ὁμωνύμο<ex>υ</ex></expan></lem><rdg><expan>ὁμώνυμο<ex>ν</ex></expan></rdg></app> 
+    <lb n="5"/>τῷ προγεγραμμένωι, τὸν γὰρ διακείμενον ἕτερον εῖ̓ναι <app type="editorial"><lem resp="BL 1.7"><expan>ὁμωνύμο<ex>υ</ex></expan></lem><rdg><expan>ὁμώνυμο<ex>ν</ex></expan></rdg></app> 
 
     <lb n="6"/>μητρὸς Θενατρείους. 
 
@@ -121,7 +121,7 @@
 
     <lb n="14"/>Ἁθὺρ μηνὸς τοῦ <num value="1">α</num> ἔτος ἐν ἡμέραις <num value="40">μ</num> καταντήσειν εἰς Ἀλεξάνδρειαν καὶ ὅρκους 
 
-    <lb n="15"/>δώσειν, μὴ <expan>πεποιηκ<ex>έναι</ex></expan>. καὶ τοῦ Ἥρωνος λέγοντος τὸν ἀντίδικον εἶναι τὸν μὴ κα
+    <lb n="15"/>δώσειν, μὴ <expan>πεποιηκ<ex>έναι</ex></expan>. καὶ τοῦ Ἥρωνος λέγοντος τὸν ἀντίδικον εῖ̓ναι τὸν μὴ κα
 
     <lb n="16" break="no"/>ταπλεύσαντα, αὑτοὺς γὰρ ἐν <expan>Ἀλεξανδ<ex>ρείᾳ</ex></expan> γενομένους <expan>ἐπιδεδωκ<ex>έναι</ex></expan> <expan>ἀναφ<ex>όριον</ex></expan> <supplied reason="lost">τῷ</supplied> δικαι
 
@@ -162,7 +162,7 @@
 
     <lb n="6"/><expan>γρ<ex>αμματεὺς</ex></expan> Τρύφων προσεφώνησε <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="7"/>εἶναι, ἐγνῶσαθι δὲ αὐτῶι χ<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="7"/>εῖ̓ναι, ἐγνῶσαθι δὲ αὐτῶι χ<gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="8"/><hi rend="diaeresis">Ἱ</hi>έρακος <app type="editorial"><lem resp="BGU 2 p.353">Σωσικόσμε<supplied reason="lost">ι</supplied>ος <supplied reason="lost">ὁ καὶ Ἀλθαιεὺς </supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>Σώσικος μυ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
@@ -180,7 +180,7 @@
 
     <lb n="15"/><abbr>χειρογρ</abbr> καὶ ἄλλων καθʼ ἕτερα <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="16"/>χρόν<supplied reason="lost">ο</supplied>υς ὧν δὲ τὰ <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="16"/>χρόν<supplied reason="lost">ο</supplied>υς ῶ̔ν δὲ τὰ <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="17"/>των <gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">ακ</supplied>ολουθη<gap reason="lost" extent="unknown" unit="character"/> 
 

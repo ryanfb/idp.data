@@ -54,7 +54,7 @@
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><!--Fr1--><ab>
 
-    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>αθ<gap reason="lost" extent="unknown" unit="character"/> ἔγραψα οὖν σοι τὰ κατὰ τὸν ἀγρὸν 
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>αθ<gap reason="lost" extent="unknown" unit="character"/> ἔγραψα οῦ̓ν σοι τὰ κατὰ τὸν ἀγρὸν 
 
     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> ὡσαύτως δὲ καὶ ἡ <app type="editorial"><lem>ζέα</lem><rdg>ζεη</rdg></app>, ἡ δὲ κριθὴ ἐπλήγη 
 
@@ -62,11 +62,11 @@
 
     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>μεντα<gap reason="illegible" quantity="1" unit="character"/> διατρίψας νύκτα καὶ ἡμέραν 
 
-    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>καμεν ἵνα ἦι πρὸς τὴν ἀνακάθαρσιν 
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>καμεν ἵνα ῆ̓ι πρὸς τὴν ἀνακάθαρσιν 
 
     <lb n="6"/><app type="editorial"><lem><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> στόμα</supplied>τι <certainty match=".." locus="value"/></lem><rdg><gap reason="lost" extent="unknown" unit="character"/>γι</rdg></app> τῆς ἐγβατηρίας. καὶ αὐτοὶ δὲ ἐρχόμεθα 
 
-    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> συνεστήσαμεν δὲ καὶ <app type="editorial"><lem>Σοκέα</lem><rdg>Σοκθ<gap reason="illegible" quantity="2" unit="character"/></rdg></app> αὐτῶι ἵνα <app type="editorial"><lem>ἦι μεθʼ αὐ<supplied reason="lost">τοῦ</supplied></lem><rdg>ἤιμεθα</rdg></app> 
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> συνεστήσαμεν δὲ καὶ <app type="editorial"><lem>Σοκέα</lem><rdg>Σοκθ<gap reason="illegible" quantity="2" unit="character"/></rdg></app> αὐτῶι ἵνα <app type="editorial"><lem>ῆ̓ι μεθʼ αὐ<supplied reason="lost">τοῦ</supplied></lem><rdg>ἤιμεθα</rdg></app> 
 
     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> τὸ <choice><reg>ἥμισυ</reg><orig>ἥμυσυ</orig></choice> τοῦ <app type="editorial"><lem><unclear>σ</unclear>τόματος</lem><rdg><gap reason="illegible" quantity="1" unit="character"/>τοματος</rdg></app> τὸ ἐπὶ τῆς ἐγβατηρίας 
 

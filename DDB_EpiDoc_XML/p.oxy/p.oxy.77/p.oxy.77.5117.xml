@@ -42,7 +42,7 @@
 </change>
           <change when="2012-12-06T05:11:02.181-05:00"
                  who="http://papyri.info/editor/users/berkes.lajos">Vote - AcceptText - l1. =&gt; 1. lost.?lin &#xD;
-l2: =&gt; Α̣ὐρηλία &lt;:.1ρ̣|alt|Ὧ̣ρ̣:&gt;[&#xD;
+l2: =&gt; Α̣ὐρηλία &lt;:.1ρ̣|alt|Ὧ̣ρ̣:&gt;[&#xD;
 Add ----  after l. 15:&#xD;
 15. Παχων &lt;#κβ''=22#&gt;. $m2 Αὐρήλιος&#xD;
 ----&#xD;
@@ -66,7 +66,7 @@ l18: =&gt; Αὐρή&#xD;
 <lb n="4" break="no"/>μιτος πρός με <subst><add place="inline">δίκην</add><del rend="corrected">δικας</del></subst>     
 <lb n="5"/><choice><reg>ὑπακούσειν</reg><orig>ὑπακούσιν</orig></choice> <unclear>τ</unclear>ῷ ἡγεμο
 <lb n="6" break="no"/>νικῷ δι<unclear>κα</unclear>στηρίῳ <g rend="extension" type="filler"/>
-<lb n="7"/>ἄχρις οὗ <unclear>τ</unclear><supplied reason="lost">ὸ π</supplied><unclear>ρ</unclear>ᾶγμα <choice><reg cert="low">ἀπο<lb n="8" break="no"/>φάσεως</reg><orig>ἀπο<lb n="8" break="no"/>φάνεως</orig></choice> τύχῃ ἢ ἔνοχος
+<lb n="7"/>ἄχρις οῦ̔ <unclear>τ</unclear><supplied reason="lost">ὸ π</supplied><unclear>ρ</unclear>ᾶγμα <choice><reg cert="low">ἀπο<lb n="8" break="no"/>φάσεως</reg><orig>ἀπο<lb n="8" break="no"/>φάνεως</orig></choice> τύχῃ ἢ ἔνοχος
 <lb n="9"/>εἴην τῷ ὅρκῳ.  <space extent="unknown" unit="character"/>  
 <lb n="10"/><expan><ex>ἔτους</ex></expan> <num value="11" rend="tick">ι<unclear>α</unclear></num> Αὐτοκράτορος
 <lb n="11"/>Καίσαρος Πουπλίου Λικιννίου

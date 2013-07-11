@@ -75,9 +75,9 @@
 
     <lb n="9"/>χρόνον τὴν ὑπάρχουσαν αὐταῖς ἐ<unclear>ν</unclear> Διον<unclear>υσ</unclear><supplied reason="lost">ιάδι </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> αὐ</supplied>
 
-    <lb n="10" break="no"/>λὴν ἀφʼ ἧς <choice><reg>ὑπάρχει</reg><orig>ὑπάρχι</orig></choice> τῇ μὲν Θαισᾷ μέ<supplied reason="lost">ρη πέντε <num value="5"/> καὶ τῇ Θερμίᾳ</supplied> 
+    <lb n="10" break="no"/>λὴν ἀφʼ ῆ̔ς <choice><reg>ὑπάρχει</reg><orig>ὑπάρχι</orig></choice> τῇ μὲν Θαισᾷ μέ<supplied reason="lost">ρη πέντε <num value="5"/> καὶ τῇ Θερμίᾳ</supplied> 
 
-    <lb n="11"/>μέρος ἕν <num value="1"/> καὶ <app type="editorial"><lem resp="BL 1.261">ἐξ ἧς</lem><rdg>ἑξῆσ</rdg></app> πεποίηνται ἐξ <app type="editorial"><lem resp="BL cf. 1.261"><supplied reason="lost">ε</supplied>ὐδο<supplied reason="lost">κούντων </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> διαιρέσεως ἐπανειρῆσθαι</supplied></lem><rdg><supplied reason="lost">ε</supplied>ὐδο<supplied reason="lost">κούντων </supplied><gap reason="lost" extent="unknown" unit="character"/></rdg></app> <supplied reason="lost">τὴν</supplied> 
+    <lb n="11"/>μέρος ἕν <num value="1"/> καὶ <app type="editorial"><lem resp="BL 1.261">ἐξ ῆ̔ς</lem><rdg>ἑξῆσ</rdg></app> πεποίηνται ἐξ <app type="editorial"><lem resp="BL cf. 1.261"><supplied reason="lost">ε</supplied>ὐδο<supplied reason="lost">κούντων </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> διαιρέσεως ἐπανειρῆσθαι</supplied></lem><rdg><supplied reason="lost">ε</supplied>ὐδο<supplied reason="lost">κούντων </supplied><gap reason="lost" extent="unknown" unit="character"/></rdg></app> <supplied reason="lost">τὴν</supplied> 
 
     <lb n="12"/>μὲν Θέρμιον τὸ ἐπιβάλλον αὐτῇ μέρος <gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -97,15 +97,15 @@
 
     <lb n="20"/>καὶ ξυλικῆ<unclear>ς</unclear> <expan>κ<ex>αὶ</ex></expan> κοπρίου καὶ ἐν<unclear>μέν</unclear>ειν τ<supplied reason="lost">οῖς προγεγραμμένοις </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="21"/><expan>κ<ex>αὶ</ex></expan> ἔχειν ἑκάστην τὴν <app type="editorial"><lem resp="BL 1.262">περὶ ὧ<supplied reason="lost">ν</supplied> <unclear>ἐ</unclear>πανε<supplied reason="lost">ίρηται</supplied></lem><rdg>περι<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/> <unclear>ἐ</unclear>πανε<supplied reason="lost">ιρῆσθαι</supplied></rdg></app><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> μη</supplied>
+    <lb n="21"/><expan>κ<ex>αὶ</ex></expan> ἔχειν ἑκάστην τὴν <app type="editorial"><lem resp="BL 1.262">περὶ ῶ̔<supplied reason="lost">ν</supplied> <unclear>ἐ</unclear>πανε<supplied reason="lost">ίρηται</supplied></lem><rdg>περι<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/> <unclear>ἐ</unclear>πανε<supplied reason="lost">ιρῆσθαι</supplied></rdg></app><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> μη</supplied>
 
     <lb n="22" break="no"/>δὲν τούτων παραβῆναι τὰς ὁμολογούσας <supplied reason="lost">ἐὰν δὲ ἑκάτερα αὐτῶν παρα</supplied>
 
     <lb n="23" break="no"/>βῇ <choice><reg>ἀποτισάτω</reg><orig>ἀποτεισάτωι</orig></choice> ἡ παραβαινοῦσα τῇ ἐνμ<supplied reason="lost">ενούσῃ τὰ βλάβη καὶ δαπανήματα</supplied> 
 
-    <lb n="24"/>διπλᾶ <expan>κ<ex>αὶ</ex></expan> ἐπίτιμον ἀργυρίου δραχμὰς δι<supplied reason="lost">ακοσίας <num value="200"/> </supplied><app type="editorial"><lem resp="BL 1.262"><supplied reason="lost"><expan>κ<ex>αὶ</ex></expan> εἰς τὸ <expan>δημό<ex>σιον</ex></expan> τὰς ἴσας χωρὶς τοῦ</supplied></lem><rdg><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> καὶ μηδὲν ἧσσον</supplied></rdg></app> 
+    <lb n="24"/>διπλᾶ <expan>κ<ex>αὶ</ex></expan> ἐπίτιμον ἀργυρίου δραχμὰς δι<supplied reason="lost">ακοσίας <num value="200"/> </supplied><app type="editorial"><lem resp="BL 1.262"><supplied reason="lost"><expan>κ<ex>αὶ</ex></expan> εἰς τὸ <expan>δημό<ex>σιον</ex></expan> τὰς ἴσας χωρὶς τοῦ</supplied></lem><rdg><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> καὶ μηδὲν ῆ̔σσον</supplied></rdg></app> 
 
-    <lb n="25"/>τὰ δ<supplied reason="lost">ιω</supplied>μολογημένα <app type="editorial"><lem resp="BL 1.262"><unclear>κύρια</unclear> εἶναι ὑ<supplied reason="lost">π</supplied>ογρ<gap reason="lost" extent="unknown" unit="character"/></lem><rdg><unclear>μ</unclear>είναι <unclear>ὡ</unclear><supplied reason="lost">ς</supplied> <unclear>π</unclear>ρό<supplied reason="lost">κειται </supplied><gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
+    <lb n="25"/>τὰ δ<supplied reason="lost">ιω</supplied>μολογημένα <app type="editorial"><lem resp="BL 1.262"><unclear>κύρια</unclear> εῖ̓ναι ὑ<supplied reason="lost">π</supplied>ογρ<gap reason="lost" extent="unknown" unit="character"/></lem><rdg><unclear>μ</unclear>είναι <unclear>ὡ</unclear><supplied reason="lost">ς</supplied> <unclear>π</unclear>ρό<supplied reason="lost">κειται </supplied><gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
     <lb n="26"/><handShift new="m2"/> Θαεισᾶς Διονυσίου καὶ Θέρμιον Η<unclear>ρ</unclear><gap reason="lost" quantity="8" unit="character"/><supplied reason="lost"> μετὰ κυρίων ἡ μὲν</supplied> 
 

@@ -38,7 +38,7 @@
           <change when="2012-06-26T17:03:06.672-04:00"
                  who="http://papyri.info/editor/users/toniasarri">Vote - AcceptText - Accept, but preferable:&#xD;
 1. lost.1lin&#xD;
-2. εὗρον.&#xD;
+2. εῦ̔ρον.&#xD;
 3. lost.ca.4lin</change>
           <change when="2012-06-18T17:10:54.428-04:00"
                  who="http://papyri.info/editor/users/Johnny">Entered from online edition.</change>
@@ -51,7 +51,7 @@
          <div xml:lang="grc" type="edition" xml:space="preserve">
 <ab>
 <lb n="1"/><gap reason="lost" quantity="1" unit="line"/>
-<lb n="2"/>εὗρον
+<lb n="2"/>εῦ̔ρον
 <lb n="3"/><gap reason="lost" quantity="4" unit="line" precision="low"/>
 </ab></div>
       </body>

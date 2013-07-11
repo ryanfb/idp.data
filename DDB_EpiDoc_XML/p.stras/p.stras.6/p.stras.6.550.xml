@@ -49,7 +49,7 @@
             <placeName>?</placeName>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
-    <lb n="1"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ν ο<unclear>ὖ</unclear><del rend="erasure">τ</del>ν ἀξιῶ ἐάν 
+    <lb n="1"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ν ο<unclear>ῦ̓</unclear><del rend="erasure">τ</del>ν ἀξιῶ ἐάν 
 
     <lb n="2"/>σοι δόξῃ ἔχουσα πρὸς 
 
@@ -59,7 +59,7 @@
 
     <lb n="5"/>με περὶ τῆς τοσαύτης 
 
-    <lb n="6"/><choice><reg>λωβείας</reg><orig><supplied reason="lost">λ</supplied>ωβίας</orig></choice> <hi rend="diaeresis">ἵ</hi>νʼ ὦ <expan>εὐεργ<supplied reason="lost">ε</supplied><ex>τημένη</ex></expan> </ab></div>
+    <lb n="6"/><choice><reg>λωβείας</reg><orig><supplied reason="lost">λ</supplied>ωβίας</orig></choice> <hi rend="diaeresis">ἵ</hi>νʼ ῶ̓ <expan>εὐεργ<supplied reason="lost">ε</supplied><ex>τημένη</ex></expan> </ab></div>
       </body>
    </text>
 </TEI>

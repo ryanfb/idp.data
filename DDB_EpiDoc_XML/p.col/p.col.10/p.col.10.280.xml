@@ -35,7 +35,7 @@
       </profileDesc>
       <revisionDesc>
           <change when="2012-03-01T06:05:52.924-05:00"
-                 who="http://papyri.info/editor/users/james.cowey">Finalized - Ready. I remain unconvinced about the solution for how δέοντι καιρῷ was written by the scribe in line 11. Reviewing the image, I think that the iota has a little stroke at the bottom of the letter which might make one think that the scribe thought of writing a kappa, but it is equally possible to read δέοντι καιρῷ without positing any correction. </change>
+                 who="http://papyri.info/editor/users/james.cowey">Finalized - Ready. I remain unconvinced about the solution for how δέοντι καιρῷ was written by the scribe in line 11. Reviewing the image, I think that the iota has a little stroke at the bottom of the letter which might make one think that the scribe thought of writing a kappa, but it is equally possible to read δέοντι καιρῷ without positing any correction. </change>
           <change when="2012-03-01T06:05:52.891-05:00"
                  who="http://papyri.info/editor/users/simoeis">Vote - AcceptText - See Sosin's comments.</change>
           <change when="2012-03-01T06:05:52.876-05:00"
@@ -110,11 +110,11 @@
 πρ<unclear>ὸς</unclear> τὸ εὐαρέστως ταῦτα <choice><reg><app type="alternative"><lem>γίγνεσθαι</lem><rdg>γενέσθαι</rdg></app></reg><orig>γείνεσθ<unclear>α</unclear>ι</orig></choice>, καὶ ἀποδότωσαν τῷ
 μεμισθωκότι τὸν μὲν
 
-    <lb n="14"/><supplied reason="lost">οἶνον ἀπὸ γλεύκους νέον ἄδολον παρ</supplied><unclear>ὰ</unclear> ληνὸν εἰς
+    <lb n="14"/><supplied reason="lost">οῖ̓νον ἀπὸ γλεύκους νέον ἄδολον παρ</supplied><unclear>ὰ</unclear> ληνὸν εἰς
 ὃν <supplied reason="lost">π</supplied><unclear>α</unclear>ρέξει ὁ
 μεμι<unclear>σ</unclear>θωκὼς κενώματα μέτρῳ οἰνικῷ κοτυλῶν δεκαεννέα<num value="19"/>
 
-    <lb n="15"/><supplied reason="lost">ἅπερ λαβόντα τὸν οἶνον συνθήσουσι</supplied> <choice><reg>μετακινήσουσι</reg><orig>μετακεινή<supplied reason="lost">σουσ</supplied><unclear>ι</unclear></orig></choice> καὶ
+    <lb n="15"/><supplied reason="lost">ἅπερ λαβόντα τὸν οῖ̓νον συνθήσουσι</supplied> <choice><reg>μετακινήσουσι</reg><orig>μετακεινή<supplied reason="lost">σουσ</supplied><unclear>ι</unclear></orig></choice> καὶ
 παραφ<unclear>υ</unclear>λάξουσι ἄχρι ἐ<unclear>γκ</unclear>λεισμοῦ. καὶ <unclear>μ</unclear>ετὰ τὸν χρόνον
 παραδότω<unclear>σ</unclear>αν τὸν <g rend="extension" type="filler"/>
 
@@ -124,7 +124,7 @@
 
     <lb n="17"/><supplied reason="lost"><app type="editorial"><lem resp="PN N. Gonis">ὑγιεῖς</lem><rdg>ὑγιείας</rdg></app> πλὴν τρίψεως καὶ <app type="editorial"><lem resp="PN N. Gonis">τὰς</lem><rdg/></app> ἐπικειμέ</supplied><unclear>ν</unclear>ας θύρας καὶ 
 <unclear>κ</unclear><supplied reason="lost">λεῖδας ἢ
-ἀποτει</supplied><unclear>σ</unclear>άτωσαν <subst><add place="inline">τῶν</add><del rend="corrected"><gap reason="illegible" quantity="1" unit="character"/>ων</del></subst> <unclear>μὲν</unclear> ἄλλω<unclear>ν</unclear> ὧν ἐὰν μὴ παραδῶσι τὴν
+ἀποτει</supplied><unclear>σ</unclear>άτωσαν <subst><add place="inline">τῶν</add><del rend="corrected"><gap reason="illegible" quantity="1" unit="character"/>ων</del></subst> <unclear>μὲν</unclear> ἄλλω<unclear>ν</unclear> ῶ̔ν ἐὰν μὴ παραδῶσι τὴν
 ἀξίαν
 
     <lb n="18"/><supplied reason="lost">τιμὴν ἢ τοῦ διʼ ἀμέλειαν ἐξηραμμένο</supplied><unclear>υ</unclear> φυτοῦ τὸ
@@ -139,8 +139,8 @@
 
     <lb n="20"/><supplied reason="lost">ἡ πρᾶξις ἔστω αὐτῷ ἔκ τε αὐτῶν ἀλληλεγ</supplied>γύων
 ὄντω<unclear>ν</unclear> <supplied reason="lost">εἰ</supplied>ς
-ἔκτεισι<unclear>ν</unclear> <unclear>κ</unclear><supplied reason="lost">αὶ</supplied> <unclear>ἐ</unclear>ξ ἑνὸς καὶ ἐξ οὗ ἐὰ<unclear>ν</unclear> <unclear>αὐ</unclear><supplied reason="lost">τῶν αἱ</supplied>ρῆται καὶ
-ἐξ ὧν ἔ<unclear>χ</unclear>ουσι πρὸς ὑπηρεσίαν
+ἔκτεισι<unclear>ν</unclear> <unclear>κ</unclear><supplied reason="lost">αὶ</supplied> <unclear>ἐ</unclear>ξ ἑνὸς καὶ ἐξ οῦ̔ ἐὰ<unclear>ν</unclear> <unclear>αὐ</unclear><supplied reason="lost">τῶν αἱ</supplied>ρῆται καὶ
+ἐξ ῶ̔ν ἔ<unclear>χ</unclear>ουσι πρὸς ὑπηρεσίαν
 
     <lb n="21"/><supplied reason="lost">καὶ ἐκ τῶν αὐτῶν ἐγγυητῶν καὶ ἐκ τῶν ὑπαρ</supplied><unclear>χ</unclear>όντων
 αὐτ<supplied reason="lost">οῖς</supplied>

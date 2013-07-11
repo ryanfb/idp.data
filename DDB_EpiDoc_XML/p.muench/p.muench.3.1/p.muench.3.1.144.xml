@@ -72,7 +72,7 @@
 
     <lb n="10"/><expan>Ὀρσενοῦ<ex>φις</ex></expan> <expan>Ὀρσενού<ex>φεως</ex></expan> τοῦ <expan>Ὀρσενού<ex>φεως</ex></expan> <expan><ex>μητρὸς</ex></expan> Θεν<gap reason="lost" quantity="2" unit="character"/>νεως 
 
-    <lb n="11"/>Ὧρος Διοσκόρου τοῦ Ὥρου <expan><ex>μητρὸς</ex></expan> Τα<unclear>αν</unclear>τω<unclear>ν</unclear><gap reason="illegible" quantity="4" unit="character"/> 
+    <lb n="11"/>Ὧρος Διοσκόρου τοῦ Ὥρου <expan><ex>μητρὸς</ex></expan> Τα<unclear>αν</unclear>τω<unclear>ν</unclear><gap reason="illegible" quantity="4" unit="character"/> 
 
     <lb n="12"/>Ὡρίων ἀδελφὸς <expan><ex>μητρὸς</ex></expan> τῆς αὐτῆς 
 
@@ -120,9 +120,9 @@
 
     <lb n="9"/>Πετεσοῦχος <unclear>Ὥ</unclear>ρου <expan>πρεσβ<ex>υτέρου</ex></expan> Κατοί<unclear>τ</unclear><supplied reason="lost">ο</supplied>υ <expan><ex>μητρὸς</ex></expan> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="10"/>Ὧρος <expan><unclear>Π</unclear><supplied reason="lost">ετεσ</supplied>ούχο<ex>υ</ex></expan> τοῦ Κιαλείους <expan><ex>μητρὸς</ex></expan> Θα<unclear>ι</unclear><supplied reason="lost">ς </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="10"/>Ὧρος <expan><unclear>Π</unclear><supplied reason="lost">ετεσ</supplied>ούχο<ex>υ</ex></expan> τοῦ Κιαλείους <expan><ex>μητρὸς</ex></expan> Θα<unclear>ι</unclear><supplied reason="lost">ς </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="11"/>Ὧρος Ψενατοίμεως τοῦ <expan>Ψενατοί<ex>μεως</ex></expan> <expan><ex>μητρὸς</ex></expan> Θα<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="11"/>Ὧρος Ψενατοίμεως τοῦ <expan>Ψενατοί<ex>μεως</ex></expan> <expan><ex>μητρὸς</ex></expan> Θα<gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="12"/>Κολίδ<unclear>ης</unclear> Με<unclear>γ</unclear>χεί<unclear>ο</unclear>υς τοῦ Κολίδ<unclear>ου</unclear>ς <expan><ex>μητρὸς</ex></expan> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -130,7 +130,7 @@
 
     <lb n="14"/>Ὀρσενοῦφις υἱὸς <expan><ex>μητρὸς</ex></expan> Ταύρεως 
 
-    <lb n="15"/>Ὧρος <expan>Ψενατοί<ex>μεως</ex></expan> τοῦ <expan>Ψενατοί<ex>μεως</ex></expan> <expan><ex>μητρὸς</ex></expan> Θενα<gap reason="illegible" quantity="1" unit="character"/><unclear>το</unclear><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="15"/>Ὧρος <expan>Ψενατοί<ex>μεως</ex></expan> τοῦ <expan>Ψενατοί<ex>μεως</ex></expan> <expan><ex>μητρὸς</ex></expan> Θενα<gap reason="illegible" quantity="1" unit="character"/><unclear>το</unclear><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="16"/>Ὀρσενοῦφις Ὡρίωνος τοῦ Ἀλεξᾶ <expan><ex>μητρὸς</ex></expan> Ἡρᾶτο<supplied reason="lost">ς</supplied> 
 
@@ -144,7 +144,7 @@
 
     <lb n="21"/>Α<gap reason="illegible" quantity="1" unit="character"/>ρ<unclear>ι</unclear>ς ἀδελφὸς <expan><ex>μητρὸς</ex></expan> τῆς <expan>α<ex>ὐτῆς</ex></expan> 
 
-    <lb n="22"/>Ὧρος <expan>π<ex>ρεσβύτερος</ex></expan> <expan><unclear>Πετεσού</unclear>χο<ex>υ</ex></expan> τοῦ <expan>Ἁρεώτο<ex>υ</ex></expan> <expan><ex>μητρὸς</ex></expan> Θα<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>
+    <lb n="22"/>Ὧρος <expan>π<ex>ρεσβύτερος</ex></expan> <expan><unclear>Πετεσού</unclear>χο<ex>υ</ex></expan> τοῦ <expan>Ἁρεώτο<ex>υ</ex></expan> <expan><ex>μητρὸς</ex></expan> Θα<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>
       </body>
    </text>
 </TEI>

@@ -69,7 +69,7 @@
 
     <lb n="9"/><expan>προνομί<ex>ου</ex></expan> τόπου <expan>κ<ex>αὶ</ex></expan> <app type="editorial"><lem resp="BL 7.231">ἐξαριθμήσεται</lem><rdg>ἐξαριθμη<gap reason="illegible" quantity="4" unit="character"/></rdg></app> 
 
-    <lb n="10"/>ὧν καὶ τάξομαι τὸ καθῆκον τέλος 
+    <lb n="10"/>ῶ̔ν καὶ τάξομαι τὸ καθῆκον τέλος 
 
     <lb n="11"/>εἰς τὴν Ἀραβίαν <choice><reg>ἄνω</reg><orig>ἄνωι</orig></choice> <app type="editorial"><lem resp="BL 8.391"><abbr>Ψινθαυβασ<unclear>τ</unclear></abbr></lem><rdg>Ψινθα<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/></rdg></app> 
 
@@ -79,11 +79,11 @@
 
     <lb n="14"/><app type="editorial"><lem resp="BL 8.391"><abbr>Φιλο</abbr></lem><rdg>Φίλος</rdg></app> <expan>βασιλ<ex>ικὸς</ex></expan> <expan>γρ<ex>αμματεὺς</ex></expan> <expan>δι<ex>ὰ</ex></expan> <app type="editorial"><lem resp="BL 8.391"><abbr>Φιλο</abbr> <expan>φίλ<ex>ου</ex></expan></lem><rdg><expan>Φίλο<ex>υ</ex></expan> <expan>Φίλ<ex cert="low">ου</ex></expan></rdg></app> <expan>σεση<ex>μείωμαι</ex></expan> <expan>πρόβ<ex>ατα</ex></expan> 
 
-    <lb n="15"/>ἑκατὸν αἲξ εἷς ἄρνες δέκα. 
+    <lb n="15"/>ἑκατὸν αἲξ εῖ̔ς ἄρνες δέκα. 
 
     <lb n="16"/><expan>Ἡρακλ<ex>είδης</ex></expan> <expan>στρα<ex>τηγὸς</ex></expan> <expan>δι<ex>ὰ</ex></expan> <expan>Διδύμ<ex>ου</ex></expan> <expan>ὑπογραμμ<ex>ατέως</ex></expan> 
 
-    <lb n="17"/><expan>σεση<ex>μείωμαι</ex></expan> <expan>πρόβ<ex>ατα</ex></expan> <num value="100">ρ</num> <expan><ex>αἶ</ex>γ<ex>α</ex></expan> <num value="1">α</num> <expan>ἄρ<ex>νας</ex></expan> <num value="10">ι</num>. </ab></div>
+    <lb n="17"/><expan>σεση<ex>μείωμαι</ex></expan> <expan>πρόβ<ex>ατα</ex></expan> <num value="100">ρ</num> <expan><ex>αῖ̓</ex>γ<ex>α</ex></expan> <num value="1">α</num> <expan>ἄρ<ex>νας</ex></expan> <num value="10">ι</num>. </ab></div>
       </body>
    </text>
 </TEI>

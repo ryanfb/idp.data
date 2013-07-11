@@ -120,7 +120,7 @@
 
     <lb n="5"/>τοῖς αὐτ<supplied reason="lost">οῖ</supplied>ς καμήλοις <expan>δ<supplied reason="lost">ε</supplied>σποτικ<ex>οῖς</ex></expan> <expan>ἀριθ<ex>μῷ</ex></expan> <num value="100">ρ</num> 
 
-    <lb n="6"/>ἐπὶ <expan>ἡ<supplied reason="lost">μέ</supplied>ρ<ex>ας</ex></expan> <num value="17">ιζ</num> οὖσι ἐν τῇ <expan>αὐτ<ex>ῇ</ex></expan> Ἐλεφαντίν<add place="above">ῃ</add> <expan>λί<ex>τραι</ex></expan> <num value="34000"><num value="30000">γ</num> <num value="4000">δ</num></num>. 
+    <lb n="6"/>ἐπὶ <expan>ἡ<supplied reason="lost">μέ</supplied>ρ<ex>ας</ex></expan> <num value="17">ιζ</num> οῦ̓σι ἐν τῇ <expan>αὐτ<ex>ῇ</ex></expan> Ἐλεφαντίν<add place="above">ῃ</add> <expan>λί<ex>τραι</ex></expan> <num value="34000"><num value="30000">γ</num> <num value="4000">δ</num></num>. 
 
     <lb n="7"/>Τεροῦντι <choice><reg>πρωτέκτορι</reg><orig>πρωδήκτορι</orig></choice> τοῦ Σεβαστοῦ 
 
@@ -179,7 +179,7 @@
 
     <lb n="4"/><expan>ἀκολούθ<ex>ως</ex></expan> τῇ ἐκδοθείσῃ ὑπʼ αὐτῶν 
 
-    <lb n="5"/><expan>ἀποχ<ex>ῇ</ex></expan> ἧς ἐστιν ἀντίγραφον· 
+    <lb n="5"/><expan>ἀποχ<ex>ῇ</ex></expan> ῆ̔ς ἐστιν ἀντίγραφον· 
 
     <lb n="6"/>Αὐρήλιοι Σαραπίων Σαραπίωνος καὶ Σω
 
@@ -394,7 +394,7 @@
 
     <lb n="16"/>τῷ <app type="editorial"><lem resp="BL 3.129">ἐντετα<unclear>γμέ</unclear><supplied reason="lost">ν</supplied>ῳ</lem><rdg>ἐν τετα<unclear>ρ</unclear><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/>ω</rdg></app> διὰ τῆς Ῥωμα<hi rend="diaeresis">ι</hi>
 
-    <lb n="17" break="no"/>κῆς <subst><add place="inline"><choice><reg>φρουμαρίας</reg><orig>φ<add place="above">ωρ</add>ματί<supplied reason="lost">α</supplied>ς</orig></choice></add><del rend="corrected">φ<del rend="erasure">ρου</del>ματι<supplied reason="lost">α</supplied>ς</del></subst> οὗ τὸ ὄνομα οὐκ 
+    <lb n="17" break="no"/>κῆς <subst><add place="inline"><choice><reg>φρουμαρίας</reg><orig>φ<add place="above">ωρ</add>ματί<supplied reason="lost">α</supplied>ς</orig></choice></add><del rend="corrected">φ<del rend="erasure">ρου</del>ματι<supplied reason="lost">α</supplied>ς</del></subst> οῦ̔ τὸ ὄνομα οὐκ 
 
     <lb n="18"/>εὑρέθη <choice><reg>μεθερμηνευθῆναι 
 </reg><orig>μετ<g type="apostrophe"/>ερμη<add place="above">νευ</add>θῆναι</orig></choice> <expan>λί<ex>τραι</ex></expan> <num value="1288">Ασπη</num>. 

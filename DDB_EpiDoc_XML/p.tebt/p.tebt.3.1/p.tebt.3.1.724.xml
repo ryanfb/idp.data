@@ -63,7 +63,7 @@
 
     <lb n="5"/>ὑπὲρ <add place="above"><del rend="erasure"><unclear>κα</unclear>ὶ <unclear>τ</unclear></del></add> τοῦ μηκέτι χορηγεῖσθαι 
 
-    <lb n="6"/>αὐτοῖς οἶνον διὰ τῶν καπήλων 
+    <lb n="6"/>αὐτοῖς οῖ̓νον διὰ τῶν καπήλων 
 
     <lb n="7"/><del rend="erasure">ἀλλʼ</del> καὶ διὰ τοῦτο <del rend="erasure">τῶν καπήλων</del> 
 
@@ -88,10 +88,10 @@
     <lb n="17"/><gap reason="illegible" quantity="2" unit="line"/> 
 </ab></div><div n="v" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="00"/>τῶν ὑπολελειμμένων ἀπὸ τῶν ἐπικραστιζόντων ἱππέων παραγενομένων εἰς τοὺς καθʼ <unclear>ἡμᾶς</unclear> <unclear>τόπου</unclear>ς ὑπὲρ τοῦ μήκετι χορηγεῖσθαι αὐτοῖς οἶνον 
+    <lb n="00"/>τῶν ὑπολελειμμένων ἀπὸ τῶν ἐπικραστιζόντων ἱππέων παραγενομένων εἰς τοὺς καθʼ <unclear>ἡμᾶς</unclear> <unclear>τόπου</unclear>ς ὑπὲρ τοῦ μήκετι χορηγεῖσθαι αὐτοῖς οῖ̓νον 
 
     <lb n="00"/><handShift new="m2"/> Τεεφραίωι. τῶν ὑπολλελειμμένων ἀπὸ τῶν ἐπικραστιζόντων ἱππέων παραγενομένων πρὸς ἡμᾶς ὑπὲρ τοῦ μηκέτι χορηγεῖσθαι 
-<choice><reg>αὐτοῖς</reg><orig>αὐτωι</orig></choice> οἶνον διὰ τῶν καπήλων καὶ διὰ τοῦτο κατα </ab></div></div>
+<choice><reg>αὐτοῖς</reg><orig>αὐτωι</orig></choice> οῖ̓νον διὰ τῶν καπήλων καὶ διὰ τοῦτο κατα </ab></div></div>
       </body>
    </text>
 </TEI>

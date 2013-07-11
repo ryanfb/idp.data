@@ -49,7 +49,7 @@
             <placeName>?</placeName>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
-    <lb n="1"/>ἐξ ὧν νομίζω, ὥστε ὅρκῳ ἔστιν πιστεῦ<unclear>σαι</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="1"/>ἐξ ῶ̔ν νομίζω, ὥστε ὅρκῳ ἔστιν πιστεῦ<unclear>σαι</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="2"/>ἐν τῇ <choice><reg>ἁγιωτάτῃ</reg><orig>ἁγιοτάτῃ</orig></choice> ἐκκλησίᾳ τὴν γνῶσιν παρεχ<gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -63,7 +63,7 @@
 
     <lb n="6"/>ἡγοῦμαι <choice><reg>οὐχ</reg><orig>οὐκ</orig></choice> <hi rend="diaeresis">ὑ</hi>πὲρ τοῦ συμφέροντος ποιεῖ ἀλλὰ μᾶλλον κ<unclear>α</unclear><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="7"/>κίνδυνον προξενεῖ. καὶ εἰ συμφέρει, αὐτὸς οἶδας καὶ ἄλλ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="7"/>κίνδυνον προξενεῖ. καὶ εἰ συμφέρει, αὐτὸς οῖ̓δας καὶ ἄλλ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="8,ms" rend="perpendicular"/> ἀπʼ ἐκκλησίας εἰς μοναστήρια </ab></div>
       </body>

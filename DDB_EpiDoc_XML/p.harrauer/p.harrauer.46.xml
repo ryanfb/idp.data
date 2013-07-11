@@ -66,13 +66,13 @@
 
     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <unclear>δ</unclear>έ τις πρίασθαί τινα τῶν ὑπαρχόντων παρὰ τῆς
 
-    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> τὸ γραμμάτιον τῆς πράσε<unclear>ω</unclear><supplied reason="lost">ς</supplied> <unclear>κ</unclear>αὶ τὸ βούλημα <unclear>δ</unclear>ιʼ οὗ κληρονο
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> τὸ γραμμάτιον τῆς πράσε<unclear>ω</unclear><supplied reason="lost">ς</supplied> <unclear>κ</unclear>αὶ τὸ βούλημα <unclear>δ</unclear>ιʼ οῦ̔ κληρονο
 
-    <lb n="7" break="no"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἡ βο</supplied>ηθουμένη τούτο<unclear>υ</unclear> <supplied reason="lost">γ</supplied><unclear>εν</unclear>ομένου οἵα τε ἦν
+    <lb n="7" break="no"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἡ βο</supplied>ηθουμένη τούτο<unclear>υ</unclear> <supplied reason="lost">γ</supplied><unclear>εν</unclear>ομένου οἵα τε ῆ̓ν
       <choice><reg>εἰσιέναι</reg><orig>εἰσειέναι</orig></choice>
 
-    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> οὖν οἷά τε δὴ μητέρα οὖσαν <add place="above">καὶ γραῦν ἐκεῖνος περ<unclear>ι</unclear>ὼν
-  <app type="alternative"><lem><unclear>ἔ</unclear>πει<unclear>σε</unclear>ν</lem><rdg><unclear>ἔ</unclear>πει<unclear>θε</unclear>ν</rdg></app> ἀναχωρεῖν <unclear>ὑποσ</unclear>χέσεσιν. ὁ μὲν οὖν</add> ἐτελεύτησεν τὴν τιμωρίαν
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> οῦ̓ν οῖ̔ά τε δὴ μητέρα οῦ̓σαν <add place="above">καὶ γραῦν ἐκεῖνος περ<unclear>ι</unclear>ὼν
+  <app type="alternative"><lem><unclear>ἔ</unclear>πει<unclear>σε</unclear>ν</lem><rdg><unclear>ἔ</unclear>πει<unclear>θε</unclear>ν</rdg></app> ἀναχωρεῖν <unclear>ὑποσ</unclear>χέσεσιν. ὁ μὲν οῦ̓ν</add> ἐτελεύτησεν τὴν τιμωρίαν
       κερδάνας· οἱ δὲ παῖδ<unclear>ε</unclear><supplied reason="lost">ς</supplied>
 
     <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τυγ</supplied>χάνουσιν. ὅθεν δυναμένη τοῦτο ἐπιδεῖξαι, ὅτι ἡ κληρονομία αὕτη διαφέρει
@@ -94,9 +94,9 @@
 
     <lb n="16"/><unclear>α</unclear><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
 
-    <lb n="17"/>τῆς <choice><reg>ἱκανοδοσίας</reg><orig>ικανο<unclear>δο</unclear>σειας</orig></choice> πληρ<unclear>ωθεί</unclear><supplied reason="lost">σης </supplied><gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="17"/>τῆς <choice><reg>ἱκανοδοσίας</reg><orig>ικανο<unclear>δο</unclear>σειας</orig></choice> πληρ<unclear>ωθεί</unclear><supplied reason="lost">σης </supplied><gap reason="lost" extent="unknown" unit="character"/>
 
-    <lb n="18"/>προνοίᾳ τοῦ ἐξάκτορος.</ab></div></div>
+    <lb n="18"/>προνοίᾳ τοῦ ἐξάκτορος.</ab></div></div>
       </body>
    </text>
 </TEI>

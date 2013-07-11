@@ -46,11 +46,11 @@
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><div n="FrA" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>μον εἶναι δίκην α<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>μον εῖ̓ναι δίκην α<gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="2"/><app type="editorial"><lem><gap reason="lost" extent="unknown" unit="character"/> ἐν</lem><rdg><gap reason="lost" extent="unknown" unit="character"/>αν</rdg></app> ἡμέραις δέκα <num value="10"/> <app type="editorial"><lem>α<gap reason="lost" extent="unknown" unit="character"/></lem><rdg>δ<supplied reason="lost" cert="low">ραχμὰς </supplied><gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
-    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>τλωι γραφεῖσαι ἐν ἧ<supplied reason="lost">ι </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>τλωι γραφεῖσαι ἐν ῆ̔<supplied reason="lost">ι </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="4"/><app type="editorial"><lem><gap reason="lost" extent="unknown" unit="character"/> <unclear>κ</unclear>υ<unclear>ρί</unclear>αν διʼ ἣν ἀντιλ<gap reason="lost" extent="unknown" unit="character"/></lem><rdg><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>τιους ὅτι υν αντια<gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
@@ -68,7 +68,7 @@
 
     <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Δ</supplied>ιογένης ὃς <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/> περὶ ἧς ἐπερ<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/> περὶ ῆ̔ς ἐπερ<gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> συνηγοροῦν<supplied reason="lost">τος </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 

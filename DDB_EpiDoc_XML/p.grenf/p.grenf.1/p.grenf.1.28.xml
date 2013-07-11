@@ -54,11 +54,11 @@
 
     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> πυρὸν νέον</supplied> 
 
-    <lb n="2"/>κ<supplied reason="lost">αθα</supplied>ρ<supplied reason="lost">ὸ</supplied>ν ἄδ<supplied reason="lost">ο</supplied>λ<supplied reason="lost">ον μέτρωι ὧι καὶ παρεί</supplied>
+    <lb n="2"/>κ<supplied reason="lost">αθα</supplied>ρ<supplied reason="lost">ὸ</supplied>ν ἄδ<supplied reason="lost">ο</supplied>λ<supplied reason="lost">ον μέτρωι ῶ̔ι καὶ παρεί</supplied>
 
     <lb n="3" break="no"/>ληφεν καὶ ἀποκ<supplied reason="lost">αθεστάμενον εἰς</supplied> 
 
-    <lb n="4"/>οἶκον πρὸς α<supplied reason="lost">ὐτὸν ἰδίοις ἀνηλώμασιν</supplied>. 
+    <lb n="4"/>οῖ̓κον πρὸς α<supplied reason="lost">ὐτὸν ἰδίοις ἀνηλώμασιν</supplied>. 
 
     <lb n="5"/>ἐὰν δὲ μὴ ἀπ<supplied reason="lost">οδῶι ἐν τῶι ὡρισ</supplied>
 
@@ -68,7 +68,7 @@
 
     <lb n="8"/>μηνὶ παραχρῆμα <supplied reason="lost">τὰς δέκα <num value="10"/> ἀρτάβας</supplied> 
 
-    <lb n="9"/>ἡμιολίους, ἧς <app type="editorial"><lem resp="BL 5.37; cf. 3.70">δʼ <supplied reason="lost">ἐὰν μὴ ἀποδῶι</supplied></lem><rdg>δ<gap reason="lost" quantity="8" unit="character"/></rdg></app> 
+    <lb n="9"/>ἡμιολίους, ῆ̔ς <app type="editorial"><lem resp="BL 5.37; cf. 3.70">δʼ <supplied reason="lost">ἐὰν μὴ ἀποδῶι</supplied></lem><rdg>δ<gap reason="lost" quantity="8" unit="character"/></rdg></app> 
 
     <lb n="10"/>ἀρτάβης <app type="editorial"><lem resp="BL 5.37; cf. 3.70">ἀπο<supplied reason="lost">τεισάτω τὴν</supplied></lem><rdg>ἀπὸ <gap reason="lost" quantity="8" unit="character"/></rdg></app> 
 

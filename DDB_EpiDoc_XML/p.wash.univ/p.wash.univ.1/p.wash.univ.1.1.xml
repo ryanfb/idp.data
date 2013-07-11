@@ -52,13 +52,13 @@
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
     <lb n="1"/><gap reason="illegible" quantity="6" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="4" unit="character"/>ηρια<gap reason="illegible" quantity="5" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
     
-    <lb n="2"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><num value="11">ια</num> <expan><ex>ἔτους</ex></expan> <supplied reason="lost">Τ</supplied><unclear>ιβερίο</unclear>υ Καίσαρος <supplied reason="lost">Σεβαστοῦ <abbr>πρόβατα</abbr> αἶγες </supplied><gap reason="lost" quantity="2" unit="character"/> 
+    <lb n="2"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><num value="11">ια</num> <expan><ex>ἔτους</ex></expan> <supplied reason="lost">Τ</supplied><unclear>ιβερίο</unclear>υ Καίσαρος <supplied reason="lost">Σεβαστοῦ <abbr>πρόβατα</abbr> αῖ̓γες </supplied><gap reason="lost" quantity="2" unit="character"/> 
 
-    <lb n="3"/><supplied reason="lost">χω</supplied>ρὶς ἀρνῶν <num value="12">ιβ</num> <expan><ex>ἔτους</ex></expan> ὁμοίως <abbr>πρόβ<supplied reason="lost">ατα</supplied></abbr><supplied reason="lost"> αἶγες </supplied><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"> χωρὶς ἀρνῶν</supplied> 
+    <lb n="3"/><supplied reason="lost">χω</supplied>ρὶς ἀρνῶν <num value="12">ιβ</num> <expan><ex>ἔτους</ex></expan> ὁμοίως <abbr>πρόβ<supplied reason="lost">ατα</supplied></abbr><supplied reason="lost"> αῖ̓γες </supplied><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"> χωρὶς ἀρνῶν</supplied> 
 
-    <lb n="4"/><num value="13"><unclear>ιγ</unclear></num> <expan><ex>ἔτους</ex></expan> ὁ<unclear>μο</unclear>ίως <unclear>πρ</unclear>όβατα <num value="5000">Ε</num> αἶγες <gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"> χωρὶς ἀρνῶν <num value="14">ιδ</num> <expan><ex>ἔτους</ex></expan> ὁμοί</supplied>
+    <lb n="4"/><num value="13"><unclear>ιγ</unclear></num> <expan><ex>ἔτους</ex></expan> ὁ<unclear>μο</unclear>ίως <unclear>πρ</unclear>όβατα <num value="5000">Ε</num> αῖ̓γες <gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"> χωρὶς ἀρνῶν <num value="14">ιδ</num> <expan><ex>ἔτους</ex></expan> ὁμοί</supplied>
 
-    <lb n="5" break="no"/><supplied reason="lost">ω</supplied><unclear>ς</unclear> <unclear>πρ</unclear><supplied reason="lost">ό</supplied><unclear>βατα</unclear> <num value="5000">Ε</num> αἶγες <num value="110">ρι</num> χωρὶς ἀρν<supplied reason="lost">ῶν  </supplied><gap reason="lost" quantity="15" unit="character"/> 
+    <lb n="5" break="no"/><supplied reason="lost">ω</supplied><unclear>ς</unclear> <unclear>πρ</unclear><supplied reason="lost">ό</supplied><unclear>βατα</unclear> <num value="5000">Ε</num> αῖ̓γες <num value="110">ρι</num> χωρὶς ἀρν<supplied reason="lost">ῶν  </supplied><gap reason="lost" quantity="15" unit="character"/> 
 
     <lb n="6"/>λ<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>λι</unclear>δος <unclear>τ</unclear>ὸν <unclear>ἀντ</unclear>ίδικ<unclear>ον</unclear> <gap reason="lost" quantity="19" unit="character"/> 
 
@@ -108,7 +108,7 @@
 
     <lb n="29"/><gap reason="lost" quantity="10" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <unclear>Δω</unclear>ρί<unclear>ων</unclear>α Αδ<unclear>ρ</unclear><gap reason="lost" quantity="17" unit="character"/> 
 
-    <lb n="30"/>καὶ Ὧρ<unclear>ον</unclear> <unclear>Πετεν</unclear>ούφιος καὶ τοὺς <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="16" unit="character"/> 
+    <lb n="30"/>καὶ Ὧρ<unclear>ον</unclear> <unclear>Πετεν</unclear>ούφιος καὶ τοὺς <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="16" unit="character"/> 
 
     <lb n="31"/>τῶι τοῦ νομ<unclear>οῦ</unclear> στρατηγῶι ἡγεμ<unclear>ό</unclear><supplied reason="lost">νι  </supplied><gap reason="lost" quantity="15" unit="character"/> 
 

@@ -73,9 +73,9 @@
 
     <lb n="9" break="no"/>μειωσάμενος ἔπεμψά σοι· ἐὰν 
 
-    <lb n="10"/>οὖν τὰ διʼ αὐτοῦ δεδηλωμένα 
+    <lb n="10"/>οῦ̓ν τὰ διʼ αὐτοῦ δεδηλωμένα 
 
-    <lb n="11"/><app type="editorial"><lem resp="bgu 1 p.355">ἀληθῆ ᾗ</lem><rdg><choice><reg>ἀχθῇ</reg><orig>ἀχηθῇ</orig></choice> ἢ</rdg></app> καὶ μηδὲν ἐμποδίζη, 
+    <lb n="11"/><app type="editorial"><lem resp="bgu 1 p.355">ἀληθῆ ῇ̔</lem><rdg><choice><reg>ἀχθῇ</reg><orig>ἀχηθῇ</orig></choice> ἢ</rdg></app> καὶ μηδὲν ἐμποδίζη, 
 
     <lb n="12"/>εὐ ποιήσεις ἐπιστείλας τοῖς τῶν 
 
@@ -89,7 +89,7 @@
 
     <lb n="17"/>κ<supplied reason="lost">α</supplied>θήκει· <handShift new="m2"/> ἐρρῶσθαί σε εὔχομαι, <expan>τιμιώτ<ex>ατε</ex></expan>. 
 
-    <lb n="18"/><handShift new="m3"/> <expan><ex>ἔτους</ex></expan> <num value="19">ιθ</num> Αὐτοκράτορος Καίσαρος Τραιανοῦ Ἁδριανοῦ Σεβαστοῦ Πα<hi rend="diaeresis">ῧ</hi>νι <num value="26">κϛ</num>. </ab></div>
+    <lb n="18"/><handShift new="m3"/> <expan><ex>ἔτους</ex></expan> <num value="19">ιθ</num> Αὐτοκράτορος Καίσαρος Τραιανοῦ Ἁδριανοῦ Σεβαστοῦ Πα<hi rend="diaeresis">ῦ̈</hi>νι <num value="26">κϛ</num>. </ab></div>
       </body>
    </text>
 </TEI>

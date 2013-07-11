@@ -60,13 +60,13 @@
 
     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>φιος <expan>μητρὸ<ex>ς</ex></expan> <expan>Σεννεθαύτιο<ex>ς</ex></expan>              <expan><ex>ἐτῶν</ex></expan> <num value="32">λβ</num>. 
 
-    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἐ</supplied><unclear>ν</unclear> ἧι· 
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἐ</supplied><unclear>ν</unclear> ῆ̔ι· 
 
     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Κο</supplied>λλούθου <expan>μητρὸ<ex>ς</ex></expan> Τεφορᾶτος              <expan><ex>ἐτῶν</ex></expan> <num value="35">λε</num> 
 
     <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἀ</supplied>δελφὸς <expan>μητρ<supplied reason="lost">ὸ<ex>ς</ex></supplied></expan> τῆς αὐτῆς              <expan><ex>ἐτῶν</ex></expan> <num value="32">λβ</num>. 
 
-    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ς ἐν ὧι· 
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ς ἐν ῶ̔ι· 
 
     <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/>ήου <expan>μητρὸ<ex>ς</ex></expan> Τορεῦτος                     <expan><ex>ἐτῶν</ex></expan> <num value="51">να</num> 
 
@@ -80,7 +80,7 @@
 
     <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/>τος <expan>μητρὸ<ex>ς</ex></expan>                               <expan><ex>ἐτῶν</ex></expan> <num value="56">νϛ</num>. 
 
-    <lb n="15"/><gap reason="lost" extent="unknown" unit="character"/> ἐν ἧι· 
+    <lb n="15"/><gap reason="lost" extent="unknown" unit="character"/> ἐν ῆ̔ι· 
 
     <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ι</unclear>ωτ<unclear>ο</unclear>υ <expan>μητρὸ<ex>ς</ex></expan> <expan>Τορεῦτο<ex>ς</ex></expan>      <expan><ex>ἐτῶν</ex></expan> <num value="44">μδ</num> 
 
@@ -93,15 +93,15 @@
 
     <lb n="20"/><g type="check"/> Πτόλλεις Φανήσιος <expan>μητρὸ<ex>ς</ex></expan> Τανούριος <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="21"/><expan>οἰκ<ex>ία</ex></expan> Ταορσενούφιος καὶ τῶν ἀδελφῶν ἐ<unclear>ν</unclear> <supplied reason="lost">ἧι·</supplied> 
+    <lb n="21"/><expan>οἰκ<ex>ία</ex></expan> Ταορσενούφιος καὶ τῶν ἀδελφῶν ἐ<unclear>ν</unclear> <supplied reason="lost">ῆ̔ι·</supplied> 
 
     <lb n="22"/><g type="check"/> Κολλοῦθος Ἁτρήους <expan>μητρὸ<ex>ς</ex></expan> Ζωίδος <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="23"/><expan>οἰκ<ex>ία</ex></expan> Κεφάλωνος τοῦ Ἰσιδώρου ἐν ἧι· <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="23"/><expan>οἰκ<ex>ία</ex></expan> Κεφάλωνος τοῦ Ἰσιδώρου ἐν ῆ̔ι· <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="24"/><g type="check"/> Ὀρσενοῦφις ὃς καὶ <expan>Κύρανο<ex cert="low">ς</ex></expan> <choice><reg>Παθήβι<supplied reason="omitted">ο</supplied>ς</reg><orig>Παθῆβις</orig></choice> <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="25"/><expan>οἰκ<ex>ία</ex></expan> Ἁρπαήσιος ἐν ἧι· <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="25"/><expan>οἰκ<ex>ία</ex></expan> Ἁρπαήσιος ἐν ῆ̔ι· <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="26"/><g type="check"/> Ἀπολλώνιος Παώπιος <expan>μητρὸ<ex>ς</ex></expan> Τανεφρ<unclear>όμε</unclear><supplied reason="lost">ως</supplied> 
 
@@ -111,13 +111,13 @@
 
     <lb n="29"/><g type="check"/> <expan>οἰκ<ex>ία</ex></expan> <expan>ἰδ<ex>ία</ex></expan>· Ἁρπαῆσις Ἁτρήους <expan>μητρὸ<ex>ς</ex></expan> Τεφορᾶτος <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="30"/><expan>οἰκ<ex>ία</ex></expan> Ἡρακλήου ἐν ᾗ· 
+    <lb n="30"/><expan>οἰκ<ex>ία</ex></expan> Ἡρακλήου ἐν ῇ̔· 
 
     <lb n="31"/><g type="check"/> Παπῦνις Ἡρακλήου <expan>μητρὸ<ex>ς</ex></expan> Τορεῦτος <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="32"/><g type="check"/> Νεκθνῆφις ἀδελφὸς <expan>μητρὸ<ex>ς</ex></expan> τῆς αὐτῆς <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="33"/><expan>οἰκ<ex>ία</ex></expan> Θαισαρίου ἐν ἧι· 
+    <lb n="33"/><expan>οἰκ<ex>ία</ex></expan> Θαισαρίου ἐν ῆ̔ι· 
 
     <lb n="34"/><g type="check"/> Μυ<unclear>σ</unclear>θᾶς Μύσθου <expan>μητρὸ<ex>ς</ex></expan> <choice><reg>Ταορουάθι<supplied reason="omitted">ο</supplied>ς</reg><orig>Ταορουαθις</orig></choice> <gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>
       </body>

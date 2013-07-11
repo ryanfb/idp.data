@@ -63,11 +63,11 @@
 
     <lb n="3"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">ἀπ</supplied>ηλ<ex>ιώτου</ex></expan> ψ<supplied reason="lost">ι</supplied>λοὶ <supplied reason="lost">τ</supplied>όποι, λιβὸς ῥύμη καὶ περὶ κώμην Κερκεσοῦχα <expan>Ἡρακ<ex>λείδου</ex></expan> <expan>μερίδ<ex>ος</ex></expan> 
 
-    <lb n="4"/>κλήρου <expan>κατοικ<ex>ικοῦ</ex></expan> <expan><ex>ἀρούρας</ex></expan> <num value="2">β</num> <num value="1/4" rend="tick">δ</num> <supplied reason="lost">πρὸς <app type="editorial"><lem resp="BL 1.452">αἷς</lem><rdg>ταῖσ</rdg></app> </supplied><expan><supplied reason="lost">ἐ</supplied>πιβολ<ex>ῆς</ex></expan> <expan><ex>ἀρούρης</ex></expan> <num value="1/4" rend="tick">δ</num> γείτονες ὁμοί<supplied reason="lost">ως </supplied><gap reason="lost" quantity="4" unit="character"/> βορ<supplied reason="lost">ρᾶ</supplied> 
+    <lb n="4"/>κλήρου <expan>κατοικ<ex>ικοῦ</ex></expan> <expan><ex>ἀρούρας</ex></expan> <num value="2">β</num> <num value="1/4" rend="tick">δ</num> <supplied reason="lost">πρὸς <app type="editorial"><lem resp="BL 1.452">αῖ̔ς</lem><rdg>ταῖσ</rdg></app> </supplied><expan><supplied reason="lost">ἐ</supplied>πιβολ<ex>ῆς</ex></expan> <expan><ex>ἀρούρης</ex></expan> <num value="1/4" rend="tick">δ</num> γείτονες ὁμοί<supplied reason="lost">ως </supplied><gap reason="lost" quantity="4" unit="character"/> βορ<supplied reason="lost">ρᾶ</supplied> 
 
     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <choice><reg>σιτικὰ</reg><orig>σει<supplied reason="lost">τι</supplied>κὰ</orig></choice> ἐδάφη, <supplied reason="lost">ἀπη</supplied>λιώτου διῶρυξ καὶ <expan><ex>ἕκτον</ex></expan> μέρος τὸ λοιπὸν καὶ περὶ κώμην 
 
-    <lb n="6"/>Εὐπατορίδα <expan>Ἡρ<supplied reason="lost">ακλείδ<ex>ου</ex></supplied></expan> μερίδος κλήρου κατοικικοῦ <expan><ex>ἀρούρα</ex></expan> <num value="6">ϛ</num> πρὸς <choice><reg>αἷς</reg><orig>ταῖς</orig></choice> <expan>ἐπιβολ<ex>ῆς</ex></expan> <expan><ex>ἀρούρας</ex></expan> <num value="5">ε</num> <num value="1/2">𐅵</num> <num value="1/8" rend="tick">η</num> γείτονες 
+    <lb n="6"/>Εὐπατορίδα <expan>Ἡρ<supplied reason="lost">ακλείδ<ex>ου</ex></supplied></expan> μερίδος κλήρου κατοικικοῦ <expan><ex>ἀρούρα</ex></expan> <num value="6">ϛ</num> πρὸς <choice><reg>αῖ̔ς</reg><orig>ταῖς</orig></choice> <expan>ἐπιβολ<ex>ῆς</ex></expan> <expan><ex>ἀρούρας</ex></expan> <num value="5">ε</num> <num value="1/2">𐅵</num> <num value="1/8" rend="tick">η</num> γείτονες 
 
     <lb n="7"/><app type="editorial"><lem resp="BL 1.119"><supplied reason="lost">τῶν ὅλω</supplied>ν</lem><rdg><gap reason="lost" extent="unknown" unit="character"/></rdg></app> <expan><ex>ἀρουρῶν</ex></expan> <num value="11">ια</num> <num value="1/4" rend="tick">δ</num> νότου καὶ βορρᾶ <choice><reg>σιτικὰ</reg><orig>σειτικὰ</orig></choice> ἐδάφη, ἀπηλιώτου διῶρυξ, λιβὸς 
 
@@ -83,7 +83,7 @@
 
     <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/> <choice><reg>συντιμήσεως</reg><orig>συντειμήσεως</orig></choice> ἐπὶ τὸ αὐτὸ <expan>ἀργ<ex>υρίου</ex></expan> <supplied reason="lost">τετ</supplied>ρακοσίων ἑξήκοντα ἑπ<supplied reason="lost" cert="low">τὰ</supplied> <num value="467"/> 
 
-    <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/> ἀριθμῷ ἐφ<gap reason="lost" quantity="7" unit="character"/><supplied reason="lost">αγ</supplied>ομένων ἐφʼ ᾧ κυρωθεῖσα 
+    <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/> ἀριθμῷ ἐφ<gap reason="lost" quantity="7" unit="character"/><supplied reason="lost">αγ</supplied>ομένων ἐφʼ ῷ̔ κυρωθεῖσα 
 
     <lb n="15"/><app type="editorial"><lem resp="BL 1.119"><gap reason="lost" quantity="6" unit="character"/><supplied reason="lost"> δημοσί</supplied>αν</lem><rdg><gap reason="lost" extent="unknown" unit="character"/>αν</rdg></app> τράπεζαν· μενεῖ δέ μοι καὶ τοῖς ἐμοῖς 
 

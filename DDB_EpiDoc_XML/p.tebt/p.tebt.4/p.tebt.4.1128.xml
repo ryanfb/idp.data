@@ -72,7 +72,7 @@
 
     <lb n="8"/>Τοθοῆς Ἀγοννούφιος                   <num value="1">α</num> 
 
-    <lb n="9"/>Ὧρος Κεντίσιος                       <num value="2">β</num> 
+    <lb n="9"/>Ὧρος Κεντίσιος                       <num value="2">β</num> 
 
     <lb n="10"/>Νικάνωρ Πτολεμαίου                    <num value="4">δ</num> 
 
@@ -166,7 +166,7 @@
 
     <lb n="53"/>Πετεσοῦχος Πετοσίριος                 <num value="5">ε</num> 
 
-    <lb n="54"/><expan><ex>γίνονται</ex></expan> <num value="133">ρλγ</num> <num value="1/2">𐅵</num>, <expan><ex>ὧν</ex></expan> <num value="7">ζ</num>, <expan>λο<ex>ιπαὶ</ex></expan> <num value="126">ρκϛ</num> <num value="1/2">𐅵</num> 
+    <lb n="54"/><expan><ex>γίνονται</ex></expan> <num value="133">ρλγ</num> <num value="1/2">𐅵</num>, <expan><ex>ῶ̔ν</ex></expan> <num value="7">ζ</num>, <expan>λο<ex>ιπαὶ</ex></expan> <num value="126">ρκϛ</num> <num value="1/2">𐅵</num> 
 
     <lb n="55"/><handShift new="m2"/>  <num value="22">κβ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> 
 </ab></div><div n="3" type="textpart"><!--milestone unit="4"--><ab>
@@ -213,13 +213,13 @@
 
     <lb n="76"/>Φαῆσις Ὥρου                          <num value="1/2">𐅵</num> 
 
-    <lb n="77"/><del rend="erasure">Ὧρος <choice><reg>Τιμ<supplied reason="omitted">ο</supplied>θείου</reg><orig>Τιμθείου</orig></choice>      <num value="2">β</num></del> 
+    <lb n="77"/><del rend="erasure">Ὧρος <choice><reg>Τιμ<supplied reason="omitted">ο</supplied>θείου</reg><orig>Τιμθείου</orig></choice>      <num value="2">β</num></del> 
 
-    <lb n="78"/>Ὧρος Πετεσούχου                      <num value="5">ε</num> 
+    <lb n="78"/>Ὧρος Πετεσούχου                      <num value="5">ε</num> 
 
-    <lb n="79"/>Ὧρος Πετῶτος                         <num value="10">ι</num> 
+    <lb n="79"/>Ὧρος Πετῶτος                         <num value="10">ι</num> 
 
-    <lb n="80"/>Ὧρος Πετενεφιείους                   <num value="5">ε</num> 
+    <lb n="80"/>Ὧρος Πετενεφιείους                   <num value="5">ε</num> 
 
     <lb n="81"/><expan><ex>γίνονται</ex></expan> <del rend="erasure"><num value="81">πα</num></del>  <num value="77">οζ</num> <num value="1/2">𐅵</num> 
 
@@ -232,7 +232,7 @@
 
     <lb n="84"/>Μαρρῆς Πακύρριος                      <num value="2">β</num> 
 
-    <lb n="85"/>Ὧρος Ὀρσείους                       <num value="6">ϛ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> 
+    <lb n="85"/>Ὧρος Ὀρσείους                       <num value="6">ϛ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> 
 
     <lb n="86"/>Ἀπῦγχις Πετεσούχου                   <num value="2">β</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> 
 
@@ -269,7 +269,7 @@
 
     <lb n="102"/><del rend="erasure">                                    <gap reason="lost" extent="unknown" unit="character"/> </del> 
 
-    <lb n="103"/>Ὧρος Πετεσούχου                      <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="103"/>Ὧρος Πετεσούχου                      <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="104"/>Ἰλῶς Ὥρου                           <gap reason="lost" extent="unknown" unit="character"/> 
 

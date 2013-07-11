@@ -151,7 +151,7 @@
 
     <lb n="48"/><expan>γ<ex>ίνονται</ex></expan> τοῦ <expan>ἀναλ<ex>ώματος</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="2062">Βξβ</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num>  <subst><add place="inline"><num value="2048">Βμη</num></add><del rend="corrected"><num value="20">κ</num><del rend="erasure"><gap reason="illegible" quantity="2" unit="character"/></del><num value="48">μη</num></del></subst> 
 
-    <lb n="49"/>ἀνθʼ οὗ <choice><reg>λήμματος</reg><orig>λήματος</orig></choice>· <expan><ex>δραχμαὶ</ex></expan> <num value="18">ιη</num><gap reason="illegible" quantity="2" unit="character"/> <num value="1"><expan><ex>ὀβολὸς</ex></expan></num>. 
+    <lb n="49"/>ἀνθʼ οῦ̔ <choice><reg>λήμματος</reg><orig>λήματος</orig></choice>· <expan><ex>δραχμαὶ</ex></expan> <num value="18">ιη</num><gap reason="illegible" quantity="2" unit="character"/> <num value="1"><expan><ex>ὀβολὸς</ex></expan></num>. 
 
     <lb n="50"/><expan>λοιπ<ex>ὸν</ex></expan> <choice><reg>προσοφείλ</reg><orig>προσοφίλ</orig></choice><expan><ex>ονται</ex></expan> τῷ <unclear>λό</unclear>γῳ· <expan><ex>δραχμαὶ</ex></expan> <gap reason="illegible" quantity="1" unit="character"/><num value="82">πβ</num>  <num value="171">ροα</num> <expan><ex>χαλκοῦς 1</ex></expan><num value="1"/>. 
 
@@ -166,7 +166,7 @@
 
     <lb n="55"/><num value="95">ϙε</num> 
 
-    <lb n="56"/><expan><ex>ὧν</ex></expan> <expan>ἀναλ<ex>ώματος</ex></expan>· 
+    <lb n="56"/><expan><ex>ῶ̔ν</ex></expan> <expan>ἀναλ<ex>ώματος</ex></expan>· 
 
     <lb n="57"/>εἰς <choice><reg><supplied reason="omitted">σ</supplied>πορὰν</reg><orig>πορὰν</orig></choice> Κύτους μεγάλου <expan><ex>ἀρουρῶν</ex></expan> <num value="42">μβ</num> <expan><ex>ἀρτάβαι</ex></expan> <num value="45">με</num> 
 
@@ -315,7 +315,7 @@
 
     <lb n="128"/><choice><reg>ἐκ</reg><orig>ἐγ<g type="apostrophe"/></orig></choice> λόγου τοῦ <expan>αὐ<ex>τοῦ</ex></expan> μηνὸς <expan><ex>ἀρτάβαι</ex></expan> <num value="91">ϙα</num> μέτρον <num value="1">α</num> 
 
-    <lb n="129"/><expan><ex>ὧν</ex></expan> <expan>ἀναλ<ex>ώματος</ex></expan>· 
+    <lb n="129"/><expan><ex>ῶ̔ν</ex></expan> <expan>ἀναλ<ex>ώματος</ex></expan>· 
 
     <lb n="130"/>κτῆσι μεταφέ<unclear>ρουσ</unclear>ι <unclear>ς</unclear><gap reason="lost" quantity="2" unit="character"/> <num value="4">δ</num>, ὀνίαις <num value="3">γ</num> τῶν 
 
@@ -372,7 +372,7 @@
 
     <lb n="156"/><choice><reg>ἐκ</reg><orig>ἐγ<g type="apostrophe"/></orig></choice> λόγου τοῦ <expan>αὐ<ex>τοῦ</ex></expan> μηνὸς <gap reason="lost" extent="unknown" unit="character"/> <expan><ex>ἀρτάβαι</ex></expan> <num value="30">λ</num> μέτρα <num value="2">β</num>. 
 
-    <lb n="157"/><expan><ex>ὧν</ex></expan> <expan>ἀναλ<ex>ώματος</ex></expan>· <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="157"/><expan><ex>ῶ̔ν</ex></expan> <expan>ἀναλ<ex>ώματος</ex></expan>· <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="158"/>εἰς <supplied reason="lost">Δ</supplied>ιονυ<unclear>σ</unclear>ιάδα ὥστε Ὡρ<supplied reason="lost">εί</supplied>ωνι <expan><ex>ἀρτάβαι</ex></expan> <num value="6">ϛ</num> 
 
@@ -401,7 +401,7 @@
 
     <lb n="170"/><num value="99">ϙθ</num> 
 
-    <lb n="171"/><expan><ex>ὧν</ex></expan> <expan>ἀναλ<ex>ώματος</ex></expan>· 
+    <lb n="171"/><expan><ex>ῶ̔ν</ex></expan> <expan>ἀναλ<ex>ώματος</ex></expan>· 
 
     <lb n="172"/>εἰς <choice><reg>ἐλαιοποιίαν</reg><orig>ἐλαιοποιείαν</orig></choice> <expan><ex>ἀρτάβη</ex></expan> <num value="1">α</num> μέτρον <num value="1">α</num> 
 
@@ -419,7 +419,7 @@
 
     <lb n="179"/><expan>γ<ex>ίνεται</ex></expan> ἐπὶ τὸ αὐτὸ <expan>κερά<ex>μια</ex></expan> <num value="2">β</num> κοτύλαι <num value="22">κβ</num> <num value="1/2">𐅵</num> <num value="1/8" rend="tick">η</num> 
 
-    <lb n="180"/><expan><ex>ὧν</ex></expan> <expan>ἀναλ<ex>ώματος</ex></expan>· 
+    <lb n="180"/><expan><ex>ῶ̔ν</ex></expan> <expan>ἀναλ<ex>ώματος</ex></expan>· 
 
     <lb n="181"/>Κ<supplied reason="lost">ο</supplied>πρῇ καὶ Ἀγα<supplied reason="lost">θ</supplied>ῷ Δαίμονι ἐλθοῦσι εἰς τὸν ἐ<unclear>κτι</unclear>
 
@@ -502,7 +502,7 @@
 
     <lb n="220"/>τὰ γινόμενα μονόχωρα <num value="12">ιβ</num> 
 
-    <lb n="221"/><expan><ex>ὧν</ex></expan> <expan>ἀναλ<ex>ώματος</ex></expan>· Ἀγαθῷ Δ<unclear>α</unclear>ίμονι καὶ Κοπρῇ 
+    <lb n="221"/><expan><ex>ῶ̔ν</ex></expan> <expan>ἀναλ<ex>ώματος</ex></expan>· Ἀγαθῷ Δ<unclear>α</unclear>ίμονι καὶ Κοπρῇ 
 
     <lb n="222"/>τῶν ἀπὸ <num value="15">ιε</num> ἕως <num value="20">κ</num> <expan>μονόχω<ex>ρα</ex></expan> <num value="2">β</num> 
 
@@ -530,7 +530,7 @@
 
     <lb n="233"/><num value="101">ρα</num> 
 
-    <lb n="234"/><expan><ex>ὧν</ex></expan> <expan>ἀναλ<ex>ώματος</ex></expan>· 
+    <lb n="234"/><expan><ex>ῶ̔ν</ex></expan> <expan>ἀναλ<ex>ώματος</ex></expan>· 
 
     <lb n="235"/>τοῖς ἐπὶ τοῦ ἐκτιναγ<g type="apostrophe"/>μοῦ δίχωρον <num value="1">α</num> 
 

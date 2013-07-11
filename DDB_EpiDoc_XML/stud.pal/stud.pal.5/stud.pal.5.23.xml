@@ -67,9 +67,9 @@
 
     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> Ἑρμαίο<add place="above">υ</add> ἐδα<supplied reason="lost">νί</supplied>σατο ἀπὸ τοῦ πολιτικοῦ χρήματος 
 
-    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>ιωμα οὗ<supplied reason="lost">το</supplied>ς ἐτελεύτα ἐπὶ κληρονόμοις <hi rend="circumflex">ὕ</hi>στερον 
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>ιωμα οῦ̔<supplied reason="lost">το</supplied>ς ἐτελεύτα ἐπὶ κληρονόμοις <hi rend="circumflex">ὕ</hi>στερον 
 
-    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><choice><reg><supplied reason="lost">ἐπ</supplied>ιδεδημηκότων</reg><orig><supplied reason="lost">ἐπ</supplied>ειδεδημηκότων</orig></choice> <choice><reg>οὗτινος</reg><orig>ὁ͂στινος</orig></choice> καὶ κελεύσαντος ἐκ 
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><choice><reg><supplied reason="lost">ἐπ</supplied>ιδεδημηκότων</reg><orig><supplied reason="lost">ἐπ</supplied>ειδεδημηκότων</orig></choice> <choice><reg>οῦ̔τινος</reg><orig>ὁ͂στινος</orig></choice> καὶ κελεύσαντος ἐκ 
 </ab></div><div n="2" type="textpart"><!--milestone unit="4"--><ab>
 
     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
@@ -80,13 +80,13 @@
 
     <lb n="3"/><gap reason="lost" quantity="5" unit="character"/>ει <supplied reason="lost">δοκ</supplied>ήσει <supplied reason="lost">τ</supplied>ῇ <choice><reg><supplied reason="lost">μεγ</supplied>αλειότητι</reg><orig><supplied reason="lost">μεγ</supplied>αλιότητι</orig></choice> το<supplied reason="lost">ῦ <expan>λαμ<g type="apostrophe"/><ex>προτάτου</ex></expan> ἡγε</supplied>μόνος <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="4"/><unclear>κ</unclear>ρα<unclear>τ</unclear><supplied reason="lost">η</supplied>ς <supplied reason="lost">σ</supplied>ύνδικος <expan>εἶ<g type="apostrophe"/><ex>πε</ex></expan>· ἡμεῖς ἃ <choice><reg>ἐδιδά<supplied reason="lost">χ</supplied>θ<supplied reason="lost">η</supplied>μεν</reg><orig>ἐδειδά<supplied reason="lost">χ</supplied>θ<supplied reason="lost">η</supplied>μεν</orig></choice> ὑπὸ τῆς λα<supplied reason="lost">μπρ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="4"/><unclear>κ</unclear>ρα<unclear>τ</unclear><supplied reason="lost">η</supplied>ς <supplied reason="lost">σ</supplied>ύνδικος <expan>εῖ̓<g type="apostrophe"/><ex>πε</ex></expan>· ἡμεῖς ἃ <choice><reg>ἐδιδά<supplied reason="lost">χ</supplied>θ<supplied reason="lost">η</supplied>μεν</reg><orig>ἐδειδά<supplied reason="lost">χ</supplied>θ<supplied reason="lost">η</supplied>μεν</orig></choice> ὑπὸ τῆς λα<supplied reason="lost">μπρ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="5"/>ταῦτα σοι παρεθέμεθα· ὁ <expan>ἐπίτρο<g type="apostrophe"/><ex>πος</ex></expan> <expan>εἶ<g type="apostrophe"/><ex>πε</ex></expan>· ὅσα εἰ<supplied reason="lost">ρ</supplied>ήκατε ἀνε<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="5"/>ταῦτα σοι παρεθέμεθα· ὁ <expan>ἐπίτρο<g type="apostrophe"/><ex>πος</ex></expan> <expan>εῖ̓<g type="apostrophe"/><ex>πε</ex></expan>· ὅσα εἰ<supplied reason="lost">ρ</supplied>ήκατε ἀνε<gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="6"/>καὶ δ<supplied reason="lost">ε</supplied>ήσει καὶ <hi rend="circumflex">ὑ</hi>μᾶς ὡς συνδίκους ἔχ<supplied reason="lost">ο</supplied>ντες τὴν ἐξ<gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="7"/>ἀνενεγκεῖν τῷ <expan>λαμ<g type="apostrophe"/><ex>προτάτῳ</ex></expan> ἡγεμόνι περὶ πάντων <app type="editorial"><lem resp="BL 3.235">Εὔανδρος σύνδικος <expan>εἶπ<ex>εν</ex></expan></lem><rdg>εὐανδ<gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
+    <lb n="7"/>ἀνενεγκεῖν τῷ <expan>λαμ<g type="apostrophe"/><ex>προτάτῳ</ex></expan> ἡγεμόνι περὶ πάντων <app type="editorial"><lem resp="BL 3.235">Εὔανδρος σύνδικος <expan>εῖ̓π<ex>εν</ex></expan></lem><rdg>εὐανδ<gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
     <lb n="8"/>προσφώνησις γεναμένη ἐξ ἐντολῆς βουλῆς ὑπο <gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>
       </body>

@@ -50,11 +50,11 @@
 
     <lb n="2"/><gap reason="lost" quantity="1" unit="line"/>
 
-    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan>ὧρ<ex>αι</ex></expan> <num value="10">ι</num>
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan>ῶ̔ρ<ex>αι</ex></expan> <num value="10">ι</num>
 
     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="5" unit="character"/> <num value="3">γ</num>
 
-    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="6" unit="character"/> <expan>ὧρ<ex>αι</ex></expan> <num value="3">γ</num>
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="6" unit="character"/> <expan>ῶ̔ρ<ex>αι</ex></expan> <num value="3">γ</num>
 
     <lb n="6"/><gap reason="lost" quantity="1" unit="line"/></ab></div>
       </body>

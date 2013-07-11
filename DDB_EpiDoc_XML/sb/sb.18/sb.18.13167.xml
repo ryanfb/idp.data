@@ -82,7 +82,7 @@
 
     <lb n="13" break="no"/><supplied reason="lost">νείου σ</supplied>υνγραφαῖς τῆς ἀποδόσεως <unclear>ὡ</unclear>ρισμένου χρόνου ἐὰν μὴ δικαί
 
-    <lb n="14" break="no"/><supplied reason="lost">ως τότ</supplied><unclear>ε</unclear> <choice><reg>χρεωλυτῶ</reg><orig>χρεολυτῶ</orig></choice> τὸ προκείμενον ἐν ἐμοὶ δάνειον τότε εἶναι 
+    <lb n="14" break="no"/><supplied reason="lost">ως τότ</supplied><unclear>ε</unclear> <choice><reg>χρεωλυτῶ</reg><orig>χρεολυτῶ</orig></choice> τὸ προκείμενον ἐν ἐμοὶ δάνειον τότε εῖ̓ναι 
 
     <lb n="15"/><supplied reason="lost">πρὸς σ</supplied>ὲ καὶ τοὺς σοὺς ἐπιτρόπους ἢ φροντιστὰς τὴν ἐγλογὴν καὶ ὁλο
 
@@ -92,7 +92,7 @@
 
     <lb n="18" break="no"/><supplied reason="lost">μένη</supplied>ν ὑποθήκην καὶ τεταρτολογεῖν καὶ τὰ λοιπὰ ἐσόμενα μέρη 
 
-    <lb n="19"/><supplied reason="lost">τρία <num value="3"/> μ</supplied>εταφέρειν οὗ ἐὰν αἱρῆσθε καὶ πωλεῖν καὶ μεθυποτίθεσθαι 
+    <lb n="19"/><supplied reason="lost">τρία <num value="3"/> μ</supplied>εταφέρειν οῦ̔ ἐὰν αἱρῆσθε καὶ πωλεῖν καὶ μεθυποτίθεσθαι 
 
     <lb n="20"/><supplied reason="lost">καὶ</supplied> <unclear>ἑτ</unclear><supplied reason="lost">έ</supplied>ρωι παραχωρεῖν ὡς ἐὰν αἱρῆσθε καὶ τὰ καθʼ ἑαυτὴν διοικονο
 
@@ -157,7 +157,7 @@
 
     <lb n="21"/><gap reason="lost" extent="unknown" unit="character"/> <num value="32">λβ</num><gap reason="illegible" quantity="1" unit="character"/><num value="5">ε</num> <expan>μν<ex>ῶν</ex></expan> <gap reason="illegible" quantity="1" unit="character"/> 
 
-    <lb n="22"/><gap reason="lost" extent="unknown" unit="character"/><num value="20">κ</num> ἐξ ὧν <abbr><supplied reason="lost">ἀ</supplied>ν<unclear>τ</unclear>ι</abbr> 
+    <lb n="22"/><gap reason="lost" extent="unknown" unit="character"/><num value="20">κ</num> ἐξ ῶ̔ν <abbr><supplied reason="lost">ἀ</supplied>ν<unclear>τ</unclear>ι</abbr> 
 
     <lb n="23"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ε</supplied>ται <abbr>η<gap reason="illegible" quantity="3" unit="character"/>υ</abbr> 
 
@@ -173,7 +173,7 @@
 
 </ab></div><div n="2" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="1"/>νάρδου Γανγιτικῆς κιστῶν <num value="60">ξ</num> ὧν ὁμοίως 
+    <lb n="1"/>νάρδου Γανγιτικῆς κιστῶν <num value="60">ξ</num> ῶ̔ν ὁμοίως 
 
     <lb n="2"/>τιμὴ λογίζεται ὡς τῆς κίστης <expan><ex>δραχμαὶ</ex></expan> <num value="4500">Δφ</num> ἀργυρί
 
@@ -181,13 +181,13 @@
 
     <lb n="4"/>ἐλέφαντος ὑγιοῦς μὲν <expan>ὁλκ<ex>ῆς</ex></expan> <expan><ex>τάλαντα</ex></expan> <space extent="unknown" unit="character"/> <expan>μν<ex>αῖ</ex></expan> <num value="54">νδ</num> <num value="1/2"><unclear>𐅵</unclear></num> <num value="1/4" rend="tick">δ</num> 
 
-    <lb n="5"/>ὧν ὁμοίως τιμὴ λογίζεται <expan>ὁλκ<ex>ῆς</ex></expan> μὲν <expan><ex>ταλάντων</ex></expan> <num value="78">οη</num> <expan>μν<ex>ῶν</ex></expan> <num value="4"><unclear>δ</unclear></num><supplied reason="lost"><num value="3">γ</num></supplied> 
+    <lb n="5"/>ῶ̔ν ὁμοίως τιμὴ λογίζεται <expan>ὁλκ<ex>ῆς</ex></expan> μὲν <expan><ex>ταλάντων</ex></expan> <num value="78">οη</num> <expan>μν<ex>ῶν</ex></expan> <num value="4"><unclear>δ</unclear></num><supplied reason="lost"><num value="3">γ</num></supplied> 
 
     <lb n="6"/>τῶν γινομένων σταθμίοις τῆς τετάρτης τοῦ 
 
     <lb n="7"/>ταλάντου λογιζομέν<unclear>ου</unclear> πρὸς <expan>λί<ex>τρας</ex></expan> <num value="95">ϙε</num> <expan><ex>γίνονται</ex></expan> <expan>λί<ex>τραι</ex></expan> <num value="7478">Ζυοη</num> 
 
-    <lb n="8"/>ἐξ ὧν αἱρεῖ λογιζομέν<unclear>ω</unclear>ν εἰς τὸ τάλαντον <expan>λι<ex>τρῶν</ex></expan> <num value="7">ζ</num><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>  
+    <lb n="8"/>ἐξ ῶ̔ν αἱρεῖ λογιζομέν<unclear>ω</unclear>ν εἰς τὸ τάλαντον <expan>λι<ex>τρῶν</ex></expan> <num value="7">ζ</num><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>  
 
     <lb n="9"/>ὅσῳ συνήθως πρὸς τοὺς ἐμπόρους λογίζεται <expan><unclear>ὁλ</unclear><supplied reason="lost">κ<ex>ῆς</ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/>  
 
@@ -207,7 +207,7 @@
 
     <lb n="17"/>σχιδῶν <num value="54"><unclear>ν</unclear>δ</num> <expan>ὁλκ<ex>ῆς</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="13"><unclear>ι</unclear>γ</num> <expan>μν<ex>αῖ</ex></expan> <num value="9">θ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> 
 
-    <lb n="18"/>ὧν ὁμοίως τιμὴ λογίζεται ὁλκῆς μὲν <expan><ex>ταλάντων</ex></expan> <num value="12">ιβ</num> <expan>μν<ex>ῶν</ex></expan> <num value="4">δ</num><supplied reason="lost"><num value="7">ζ</num></supplied> 
+    <lb n="18"/>ῶ̔ν ὁμοίως τιμὴ λογίζεται ὁλκῆς μὲν <expan><ex>ταλάντων</ex></expan> <num value="12">ιβ</num> <expan>μν<ex>ῶν</ex></expan> <num value="4">δ</num><supplied reason="lost"><num value="7">ζ</num></supplied> 
 
     <lb n="19"/>τῶν ὡς <expan>πρ<unclear>όκ</unclear><ex>ειται</ex></expan> <expan><unclear>γιν</unclear><ex>ομένων</ex></expan> <unclear>ἐκ</unclear> <unclear>τ</unclear>ο<unclear>ῦ</unclear> <unclear>μέ</unclear>ρο<unclear>υ</unclear>ς σταθμίοις μὲν τετάρτης 
 

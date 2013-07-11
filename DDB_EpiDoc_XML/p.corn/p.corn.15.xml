@@ -54,7 +54,7 @@
             <placeName>Theadelphia</placeName>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
-    <lb n="1"/><expan>Θεαδ<ex>ελφείας</ex></expan> <expan>πρόβ<ex>ατα</ex></expan> <num value="22">κβ</num> <expan>αἶγ<ex>ες</ex></expan> <num value="2">β</num> <expan>ἄρν<ex>ες</ex></expan> <num value="4">δ</num> 
+    <lb n="1"/><expan>Θεαδ<ex>ελφείας</ex></expan> <expan>πρόβ<ex>ατα</ex></expan> <num value="22">κβ</num> <expan>αῖ̓γ<ex>ες</ex></expan> <num value="2">β</num> <expan>ἄρν<ex>ες</ex></expan> <num value="4">δ</num> 
 
     <lb n="2"/>Ἡρώδῃ τῶι καὶ Τιβερίωι <expan>στρατ<ex>ηγῶι</ex></expan> 
 
@@ -74,11 +74,11 @@
 
     <lb n="10"/>ἐπὶ τῆς αὐ<unclear>τῆς</unclear> <unclear>κώ</unclear>μης ἀ<supplied reason="lost">θε</supplied>
 
-    <lb n="11" break="no"/>λικὰ <expan>πρόβ<ex>ατα</ex></expan> <num value="20">κ</num>, <expan>αἶγ<ex>ας</ex></expan> <num value="2">β</num>, ἄρνας <num value="2">β</num>. 
+    <lb n="11" break="no"/>λικὰ <expan>πρόβ<ex>ατα</ex></expan> <num value="20">κ</num>, <expan>αῖ̓γ<ex>ας</ex></expan> <num value="2">β</num>, ἄρνας <num value="2">β</num>. 
 
     <lb n="12"/>τὰ ἐπὶ τὸ αὐτὸ πρόβατα λείας εἴκο
 
-    <lb n="13" break="no"/>σι δύο <num value="22"/> <choice><reg>αἶγας</reg><orig>αἶγος</orig></choice> δύο <num value="2"/> ἀπογράφομαι 
+    <lb n="13" break="no"/>σι δύο <num value="22"/> <choice><reg>αῖ̓γας</reg><orig>αῖ̓γος</orig></choice> δύο <num value="2"/> ἀπογράφομαι 
 
     <lb n="14"/>εἰς τὸ ἐνεστὸς <choice><reg>τρεισκαιδέκατον</reg><orig>τρισκαιδέκ<unclear>ατον</unclear></orig></choice> 
 
@@ -96,7 +96,7 @@
 
     <lb n="21"/><expan>Χαιρήμω<ex>ν</ex></expan> <expan>βιβλιο<ex>φύλαξ</ex></expan> <expan>σεση<ex>μείωμαι</ex></expan> <expan>πρόβ<ex>ατα</ex></expan> 
 
-    <lb n="22"/><expan><supplied reason="lost">ἀ</supplied><unclear>θ</unclear>ελ<ex>ικὰ</ex></expan> εἴκοσι δύο <num value="22"/> αἶγας δύο <num value="2"/> 
+    <lb n="22"/><expan><supplied reason="lost">ἀ</supplied><unclear>θ</unclear>ελ<ex>ικὰ</ex></expan> εἴκοσι δύο <num value="22"/> αῖ̓γας δύο <num value="2"/> 
 
     <lb n="23"/><supplied reason="lost">ἄρν</supplied>ας τέ<num value="4"/><supplied reason="lost">σσαρας <num value="4"/>. <expan><ex>ἔτους</ex></expan> </supplied><num value="13"><supplied reason="lost">ι</supplied><unclear>γ</unclear></num> Ἁδριαν<supplied reason="lost">οῦ</supplied> 
 
@@ -104,7 +104,7 @@
 
     <lb n="25"/><expan><supplied reason="lost">β</supplied>ασιλ<ex>ικὸς γραμματεὺς</ex></expan> διὰ Ἰσ<gap reason="lost" quantity="5" unit="character"/>ηθου <expan>σεσημ<ex>είωμαι</ex></expan> 
 
-    <lb n="26"/><abbr><unclear>π</unclear>ρο<unclear>δ</unclear></abbr> <abbr>λε<unclear>λ</unclear></abbr> <unclear>ε</unclear><supplied reason="lost">ἴκοσι</supplied> <unclear>δύ</unclear>ο <num value="22"/> αἶγας δύο <num value="2"/> 
+    <lb n="26"/><abbr><unclear>π</unclear>ρο<unclear>δ</unclear></abbr> <abbr>λε<unclear>λ</unclear></abbr> <unclear>ε</unclear><supplied reason="lost">ἴκοσι</supplied> <unclear>δύ</unclear>ο <num value="22"/> αῖ̓γας δύο <num value="2"/> 
 
     <lb n="27"/><supplied reason="lost">ἄρ</supplied><unclear>νας</unclear> <num value="4">δ</num> <unclear>μ</unclear><gap reason="lost" quantity="4" unit="character"/>. </ab></div>
       </body>

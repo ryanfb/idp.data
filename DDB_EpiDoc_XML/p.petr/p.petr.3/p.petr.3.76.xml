@@ -60,7 +60,7 @@
 
     <lb n="4"/>ἐν δὲ τῶι τοῦ <expan>χει<ex>ρις  </ex></expan> <expan>μ<ex>υριάδες</ex></expan> <num value="4">δ</num>  <num value="555">φνε</num> <num value="40555"/> <num value="1/2">𐅵</num> <num value="1/12" rend="tick">ιβ</num> <abbr>ελ</abbr> ἐκ τοῦ καθʼ ἓν <num value="117">ριζ</num> <num value="1/12" rend="tick">ιβ</num> 
 
-    <lb n="5"/>ἀφʼ ὧν ἐστιν ὧι πλείω ἀνήνενκεν Καλίστρατος 
+    <lb n="5"/>ἀφʼ ῶ̔ν ἐστιν ῶ̔ι πλείω ἀνήνενκεν Καλίστρατος 
 
     <lb n="6"/>ἐν τοῖς περὶ Β<supplied reason="lost">ο</supplied><unclear>ύβ</unclear>α<supplied reason="lost">σ</supplied>τον τοῦ Παχὼν <expan>κ<ex>ριθο</ex>πύρ<ex>οῦ</ex></expan> <num value="112">ριβ</num> <num value="1/2">𐅵</num> 
 
@@ -110,7 +110,7 @@
 
     <lb n="6"/>ἐν δὲ τῶι τοῦ χειρισ<supplied reason="lost">τοῦ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="7"/><expan>κριθοπύρ<ex>οῦ</ex></expan> εν<unclear>ο</unclear>ν<unclear>η</unclear> ὧν τὸ κα<unclear>θ</unclear>ʼ <supplied reason="lost">ἕν </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="7"/><expan>κριθοπύρ<ex>οῦ</ex></expan> εν<unclear>ο</unclear>ν<unclear>η</unclear> ῶ̔ν τὸ κα<unclear>θ</unclear>ʼ <supplied reason="lost">ἕν </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="8"/>καὶ τοῦ ἀφʼ ἅλω ὡσα<supplied reason="lost">ύτως </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -170,7 +170,7 @@
 
     <lb n="9"/>κριθῶν <expan>μ<ex>υριάδες</ex></expan> <num value="23">κγ</num>  <subst><add place="inline"><num value="99">ϙθ</num><add place="above"><num value="79">οθ</num></add></add><del rend="corrected"><num value="9989">Θϡ<del rend="erasure">πθ</del></num></del></subst> <num value="239979"/> <add place="above"><num value="1/4" rend="tick">δ</num> <num value="1/8" rend="tick">η</num></add> <del rend="erasure"><num value="1/4" rend="tick">δ</num> <num value="1/8" rend="tick">η</num></del> 
 
-    <lb n="10"/><expan>κ<ex>ριθο</ex>πύρ<ex>ου</ex></expan> <abbr>ε</abbr> <expan>μ<ex>υριάδες</ex></expan> <num value="4">δ</num> <subst><add place="inline"><num value="124">ρκδ</num><add place="above"><num value="7">ζ</num></add></add><del rend="corrected"><num value="1248">Ασμ<del rend="erasure">η</del></num></del></subst> <num value="41247"/>  <add place="above"><expan><ex>ὧν</ex></expan> <num value="2/3">𐅷</num></add> <del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/></del> 
+    <lb n="10"/><expan>κ<ex>ριθο</ex>πύρ<ex>ου</ex></expan> <abbr>ε</abbr> <expan>μ<ex>υριάδες</ex></expan> <num value="4">δ</num> <subst><add place="inline"><num value="124">ρκδ</num><add place="above"><num value="7">ζ</num></add></add><del rend="corrected"><num value="1248">Ασμ<del rend="erasure">η</del></num></del></subst> <num value="41247"/>  <add place="above"><expan><ex>ῶ̔ν</ex></expan> <num value="2/3">𐅷</num></add> <del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/></del> 
 
     <lb n="11"/>καὶ τοῦ ἀφʼ ἅλω <num value="2433">Βυλγ</num> <num value="1/4" rend="tick">δ</num> <num value="1/24" rend="tick">κδ</num> 
 

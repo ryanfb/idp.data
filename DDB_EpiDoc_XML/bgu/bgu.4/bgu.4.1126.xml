@@ -72,7 +72,7 @@
 
     <lb n="8"/>τὴν Πρωτάρχην ἐπὶ χρόνον ἔτη τρία <num value="3"/> ἀπὸ Μεχεὶρ τοῦ ἐνεστῶτος <supplied reason="lost">δευ</supplied>
 
-    <lb n="9" break="no"/>τέρου καὶ εἰκοστοῦ ἔτους Καίσαρος παρα<unclear>μεν</unclear>εῖν τῇ Ταφεσιῆτι ἐν ᾧ <supplied reason="lost">κ</supplied><unclear>έ</unclear><supplied reason="lost">κτηται</supplied> 
+    <lb n="9" break="no"/>τέρου καὶ εἰκοστοῦ ἔτους Καίσαρος παρα<unclear>μεν</unclear>εῖν τῇ Ταφεσιῆτι ἐν ῷ̔ <supplied reason="lost">κ</supplied><unclear>έ</unclear><supplied reason="lost">κτηται</supplied> 
 
     <lb n="10"/>αὐτὴ <unclear>ἡ</unclear> Ταφεσιὴς ζυτοπωλίωι ἐπιτελοῦσαν <supplied reason="lost">τὰ</supplied> <unclear>ἐπιταχθη</unclear><supplied reason="lost">σόμενα</supplied> 
 
@@ -84,7 +84,7 @@
 
     <lb n="14"/>τῇ <expan>Ταφ<ex>εσιῆτι</ex></expan> ἢ <choice><reg>ἐκτίνειν</reg><orig>ἐκτίνιν</orig></choice> τὴν ἑκάστου ἀξίαν πλὴν συμφανοῦς ἀπ<supplied reason="lost">ωλείας</supplied> 
 
-    <lb n="15"/>ἧς καὶ φανερᾶς <choice><reg>γενηθείσης</reg><orig>γενηθίσης</orig></choice> ἀπολελύσθω, καὶ μὴ <choice><reg>ἐκλείψειν</reg><orig>ἐγλείψιν</orig></choice> τὴν <app type="editorial"><lem resp="BL 5.15"><unclear>π</unclear><supplied reason="lost" cert="low">αρμονὴν</supplied><certainty match=".." locus="value"/></lem><rdg><unclear>μ</unclear><supplied reason="lost">ίσθωσιν</supplied></rdg></app> 
+    <lb n="15"/>ῆ̔ς καὶ φανερᾶς <choice><reg>γενηθείσης</reg><orig>γενηθίσης</orig></choice> ἀπολελύσθω, καὶ μὴ <choice><reg>ἐκλείψειν</reg><orig>ἐγλείψιν</orig></choice> τὴν <app type="editorial"><lem resp="BL 5.15"><unclear>π</unclear><supplied reason="lost" cert="low">αρμονὴν</supplied><certainty match=".." locus="value"/></lem><rdg><unclear>μ</unclear><supplied reason="lost">ίσθωσιν</supplied></rdg></app> 
 
     <lb n="16"/>ἐντὸς <supplied reason="omitted">τοῦ</supplied> χρόνου, ἐὰν δέ τι παραβαίνῃ, <choice><reg>ἐκτίνειν</reg><orig>ἐκτίνιν</orig></choice> αὐτὴν τὰς το<supplied reason="lost">ῦ</supplied> 
 
@@ -94,13 +94,13 @@
 
     <lb n="19"/>οὔσης τῇ Ταφεσιῆτι ἔκ τε αὐτῆς Πρωτάρχης καὶ ἐκ τῶν ὑπαρχόντων <supplied reason="lost">αὐτῇ</supplied> 
 
-    <lb n="20"/><expan>καθά<ex>περ</ex></expan> <choice><reg>ἐκ</reg><orig>ἐγ</orig></choice> δίκης, <unclear>καὶ</unclear> μὴ ἐπιφέρειν πίστεις ἢ ἀκύρους εἶναι, καὶ τ<unclear>ὴ</unclear><supplied reason="lost">ν δ</supplied><unclear>ὲ</unclear> 
+    <lb n="20"/><expan>καθά<ex>περ</ex></expan> <choice><reg>ἐκ</reg><orig>ἐγ</orig></choice> δίκης, <unclear>καὶ</unclear> μὴ ἐπιφέρειν πίστεις ἢ ἀκύρους εῖ̓ναι, καὶ τ<unclear>ὴ</unclear><supplied reason="lost">ν δ</supplied><unclear>ὲ</unclear> 
 
     <lb n="21"/><supplied reason="lost">Τα</supplied><unclear>φε</unclear>σιῆν ἐπιτελούσης αὐτῆς Πρωτάρχης ἕκαστα ἀκολούθως 
 
     <lb n="22"/>τρέφειν καὶ ἱματίζειν <add place="above"><expan><unclear>αὐ</unclear>τὴ<ex>ν</ex></expan></add> ἐπὶ τὸν χρόνον <supplied reason="lost">κα</supplied><unclear>ὶ</unclear> <unclear>μ</unclear>ὴ ἀπο<unclear>τρεί</unclear>ψασθα<unclear>ι</unclear> <unclear>ἐ</unclear><supplied reason="lost">ντὸ</supplied>ς 
 
-    <lb n="23"/><supplied reason="lost">τού</supplied><unclear>του</unclear>, οὗ καὶ διελθόντος μηδὲν ἁπλῶς λαβοῦσαν ἀπο<unclear>λύσ</unclear><supplied reason="lost">ειν αὐτὴν</supplied> 
+    <lb n="23"/><supplied reason="lost">τού</supplied><unclear>του</unclear>, οῦ̔ καὶ διελθόντος μηδὲν ἁπλῶς λαβοῦσαν ἀπο<unclear>λύσ</unclear><supplied reason="lost">ειν αὐτὴν</supplied> 
 
     <lb n="24"/><unclear>τῆς</unclear> <gap reason="illegible" quantity="4" unit="character"/>σεως τῶν τοῦ ἀργυρ<unclear>ίου</unclear> <expan><ex>δραχμῶν</ex></expan> ἑκατὸν <num value="100"/> καὶ προσδώσειν αὐ<supplied reason="lost">τῇ</supplied> 
 
@@ -108,7 +108,7 @@
 
     <lb n="26"/><unclear>ποιή</unclear>σεσθαι τῆσδε <unclear>τῆς</unclear> συγχωρήσεως ἢ τῶι ἴσῳ ἐπιτίμωι 
 
-    <lb n="27"/>ἔνοχον εἶναι. <expan><unclear>ἀξιοῦ</unclear><ex>μεν</ex></expan> 
+    <lb n="27"/>ἔνοχον εῖ̓ναι. <expan><unclear>ἀξιοῦ</unclear><ex>μεν</ex></expan> 
 
     <lb n="28"/><unclear>μες</unclear> 
 

@@ -68,13 +68,13 @@
 
     <lb n="8"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><gap reason="lost" extent="unknown" unit="character"/><ex>ἄρουραι</ex></expan> <num value="7">ζ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/32" rend="tick">λβ</num> <num value="1/64" rend="tick">ξδ</num>
 
-    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><unclear>λ</unclear>ειαν ὧν ὁ τριέτης
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><unclear>λ</unclear>ειαν ῶ̔ν ὁ τριέτης
 
     <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> καθήκοντα <num value="480">υπ</num><gap reason="illegible" quantity="2" unit="character"/>
 
-    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ιη</unclear> εἶναι ἐν φυτείᾳ
+    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ιη</unclear> εῖ̓ναι ἐν φυτείᾳ
 
-    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><unclear>σ</unclear>ε<unclear>ι</unclear> μεταδίδοται, ὧν εἰς
+    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><unclear>σ</unclear>ε<unclear>ι</unclear> μεταδίδοται, ῶ̔ν εἰς
 
     <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/>ου <expan><ex>ἄρουραι</ex></expan> <num value="8">η</num> <expan><ex>γίνονται</ex></expan> τούτων
 
@@ -86,7 +86,7 @@
     <lb n="16"/>περὶ κώμην Ψενῦριν <choice><reg>ἄνω</reg><orig>ἄνωι</orig></choice> 
 ἀναγράφο<unclear>ντ</unclear><supplied reason="lost">αι</supplied> χέρσου ἀκατεργάστου
 
-    <lb n="17"/><expan>ἄρο<ex>υραι</ex></expan> <num value="45">με</num> <num value="1/4" rend="tick">δ</num> ὑπὲρ ὧν ἀναλαμβάνονται <expan>ἀράκο<ex>υ</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> 
+    <lb n="17"/><expan>ἄρο<ex>υραι</ex></expan> <num value="45">με</num> <num value="1/4" rend="tick">δ</num> ὑπὲρ ῶ̔ν ἀναλαμβάνονται <expan>ἀράκο<ex>υ</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> 
 <num value="42">μβ</num> <num value="1/4" rend="tick">δ</num>. εἰς δὲ
 
     <lb n="18"/>τὴν <expan>ἐπίσκ<ex>εψιν</ex></expan> μήπως εἰσὶν ἐν σπόρωι μεταδ<supplied reason="lost">ί</supplied>δοται.
@@ -181,7 +181,7 @@
 
     <lb n="52"/>κρατεῖσθαι διὰ τὸ ὀφείλειν αὐτοὺς <unclear>τὰ</unclear> πλεῖστα <expan>κεφάλ<ex>αια</ex></expan>
 
-    <lb n="53"/>ὑπὲρ ὧν <choice><reg>ἐξέλαβον</reg><orig>ἐξέλαβαν</orig></choice> μισθώσεων.
+    <lb n="53"/>ὑπὲρ ῶ̔ν <choice><reg>ἐξέλαβον</reg><orig>ἐξέλαβαν</orig></choice> μισθώσεων.
 
     <lb n="54"/>Φιλουταρίου τῆς <expan>Εὐδαίμο<ex>νος</ex></expan> ἀπὸ Βιθυνῶν Ἰσιῶνος αἱ δηλωθεῖσαι
 
@@ -216,11 +216,11 @@
 
     <lb n="68"/>περιγίνεται μεταδίδοται. <expan><ex>πρότερον</ex></expan> Ἰουκούνδου καὶ Χρησίμου 
 
-    <lb n="69"/>ὑπὲρ οὗ <expan>ἀνελη<ex>μφθῆσαν</ex></expan> τῷ <num value="1">α</num> <expan><ex>ἔτει</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="235">σλε</num> 
+    <lb n="69"/>ὑπὲρ οῦ̔ <expan>ἀνελη<ex>μφθῆσαν</ex></expan> τῷ <num value="1">α</num> <expan><ex>ἔτει</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="235">σλε</num> 
 <num value="1/2">𐅵</num> <num value="1/3" rend="tick">γ</num> <expan>προ<ex>σμετρουμένων</ex></expan> <expan><ex>ἀρταβῶν</ex></expan> <num value="33">λγ</num> <num value="1/2">𐅵</num> <num value="1/8" rend="tick">η</num> <expan><ex>γίνονται</ex></expan> 
 <expan><ex>ἀρτάβαι</ex></expan> <num value="269">σξθ</num> <num value="1/3" rend="tick">γ</num> <num value="1/8" rend="tick">η</num>.
 
-    <lb n="70"/>ἀποφαίνομαι τοῦτο εἶναι ἐν συνμισθ<unclear>ώ</unclear>σ<unclear>ε</unclear>ι ἑτέροις Ἀμμωνίωι
+    <lb n="70"/>ἀποφαίνομαι τοῦτο εῖ̓ναι ἐν συνμισθ<unclear>ώ</unclear>σ<unclear>ε</unclear>ι ἑτέροις Ἀμμωνίωι
 
     <lb n="71"/>Διδύμου.
 
@@ -230,7 +230,7 @@
 
     <lb n="74"/>ὃν δὲ <expan>ἀνακεχω<ex>ρηκέναι</ex></expan> πάντων α<unclear>ὐ</unclear>τῶν οἱ <expan>κωμογρ<ex>αμματεῖς</ex></expan> <choice><reg>ἠλασσώκασι</reg><orig>ἠλασσωκαν</orig></choice> δηλοῦντες
 
-    <lb n="75"/>τὰ ἐδάφη εἶναι ἐν χ<unclear>έ</unclear>ρσωι καὶ μὴ δύνασθαι διὰ δη<unclear>μ</unclear>οσίων γεωργῶν <expan>σπείρε<ex>σθαι</ex></expan>
+    <lb n="75"/>τὰ ἐδάφη εῖ̓ναι ἐν χ<unclear>έ</unclear>ρσωι καὶ μὴ δύνασθαι διὰ δη<unclear>μ</unclear>οσίων γεωργῶν <expan>σπείρε<ex>σθαι</ex></expan>
 
     <lb n="76"/>μηδʼ ἄλλως προσοδεύειν· μεταδίδοται εἰ ταῖς ἀληθείαις ἐστὶν ἐν <expan>χέρσω<ex>ι</ex></expan>
 
@@ -238,7 +238,7 @@
 
     <lb n="78"/>γῆς καὶ τῆς ἐν φορίμωι <expan>ἀναγράφο<ex>μαι</ex></expan>. <expan>παραδ<ex>είσου</ex></expan> <expan>κληρουχ<ex>ικοῦ</ex></expan>
 
-    <lb n="79"/>Διδύμης τῆς Εὐβίου ἀστῆς <del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/></del> ἐν αἷς φοίνικες καὶ πῶλοι πάντα
+    <lb n="79"/>Διδύμης τῆς Εὐβίου ἀστῆς <del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/></del> ἐν αῖ̔ς φοίνικες καὶ πῶλοι πάντα
 
     <lb n="80"/>κεκαρκινωμέναι <expan><ex>ἄρουραι</ex></expan> <num value="2">β</num> <num value="1/8" rend="tick">η</num>. <expan>ἐπίσκ<ex>ωψις</ex></expan> <supplied reason="omitted" cert="low">σύμφωνος </supplied>
 </ab></div><div n="5" type="textpart"><!--milestone unit="4"--><ab>

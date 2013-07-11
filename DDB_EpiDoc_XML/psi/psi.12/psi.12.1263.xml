@@ -58,13 +58,13 @@
 
     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
 
-    <lb n="1"/><supplied reason="lost" cert="low">χορηγήσω</supplied> ἀφʼ οὗ ἐὰν τελευτήσω ἐφʼ ὅσον ζῇ ἡ Ταυσῖρις <del rend="erasure"><gap reason="illegible" quantity="2" unit="character"/></del> κατὰ μῆνα ἐν Ὀξυρύγ<supplied reason="lost">χων <expan>πόλ<ex>ει</ex></expan></supplied> 
+    <lb n="1"/><supplied reason="lost" cert="low">χορηγήσω</supplied> ἀφʼ οῦ̔ ἐὰν τελευτήσω ἐφʼ ὅσον ζῇ ἡ Ταυσῖρις <del rend="erasure"><gap reason="illegible" quantity="2" unit="character"/></del> κατὰ μῆνα ἐν Ὀξυρύγ<supplied reason="lost">χων <expan>πόλ<ex>ει</ex></expan></supplied> 
 
     <lb n="2"/><supplied reason="lost"><expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρταβ  </ex></expan> </supplied><gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <choice><reg>ἥμισυ</reg><orig>ἥμισου</orig></choice> <num value="1/2"/> καὶ κατʼ ἔ<supplied reason="lost">τος</supplied> <hi rend="diaeresis">ὑ</hi>πὲρ <hi rend="diaeresis">ἱ</hi>ματισμοῦ <expan><ex>δραχμὰς</ex></expan> <num value="24">κδ</num>, ἡ δὲ αὐτὴ Ταυσῖρις ἐ<supplied reason="lost">φʼ ὅσον <unclear>ζῇ</unclear></supplied> 
 
     <lb n="3"/><supplied reason="lost">ἐνοικήσει</supplied> χωρὶς ἐνοικίου ἐν οἴκῳ ἑνὶ <num value="1"/> ὄντι ἐν τῇ αὐλῇ τῆς <hi rend="diaeresis">ὑ</hi>παρχούσης μοι ἐπʼ <supplied reason="lost">ἀμφόδου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="4"/><supplied reason="lost">οἰκίας, καὶ ἀ</supplied>φʼ οὗ <unclear>ἐ</unclear>ὰν τελευτήσω παραμενεῖ <supplied reason="omitted">ἡ</supplied> <choice><reg>ἠλευθερωμένη</reg><orig>ἠλευθερουμένη</orig></choice> Στεφανοῦς τῇ πρ<supplied reason="lost">ογεγραμμέ</supplied>νῃ μου 
+    <lb n="4"/><supplied reason="lost">οἰκίας, καὶ ἀ</supplied>φʼ οῦ̔ <unclear>ἐ</unclear>ὰν τελευτήσω παραμενεῖ <supplied reason="omitted">ἡ</supplied> <choice><reg>ἠλευθερωμένη</reg><orig>ἠλευθερουμένη</orig></choice> Στεφανοῦς τῇ πρ<supplied reason="lost">ογεγραμμέ</supplied>νῃ μου 
 
     <lb n="5"/><supplied reason="lost">θυγατριδῇ</supplied> Σινθεῦτι ἐφʼ ὅσον ζῇ ἡ Σινθεῦς <hi rend="diaeresis">ὑ</hi>πηρετοῦσα αὐτὴ<unclear>ν</unclear> τρεφομέ<supplied reason="lost">ν</supplied>η καὶ <hi rend="diaeresis">ἱ</hi>ματιζο
 
@@ -78,7 +78,7 @@
 
     <lb n="10"/><supplied reason="lost">διατεταγμέ</supplied>νων ἢ χωρὶς τοῦ ταῦτα μένειν κύρια ἔτι καὶ <choice><reg>ἐκτίνειν</reg><orig>ἐκτείνιν</orig></choice> τὸν ἐπιχειρήσαντα πρὸς ἀ
 
-    <lb n="11" break="no"/><supplied reason="lost">θέτησίν τι</supplied> τούτων ἄγειν ἐπίτειμον ἀργυρίου <expan><ex>τάλαντα</ex></expan> <num value="2">β</num> καὶ εἰς τὸ δημόσιον τὰ ἴσα, καὶ μηδὲν <choice><reg>ἧ<supplied reason="omitted">τ</supplied>τον</reg><orig>ἧτον</orig></choice>. 
+    <lb n="11" break="no"/><supplied reason="lost">θέτησίν τι</supplied> τούτων ἄγειν ἐπίτειμον ἀργυρίου <expan><ex>τάλαντα</ex></expan> <num value="2">β</num> καὶ εἰς τὸ δημόσιον τὰ ἴσα, καὶ μηδὲν <choice><reg>ῆ̔<supplied reason="omitted">τ</supplied>τον</reg><orig>ῆ̔τον</orig></choice>. 
 
     <lb n="12"/><supplied reason="lost">ἄλλῳ δὲ ο</supplied>ὐδενὶ οὐδὲν τῶν ἐμῶν καταλείπω. ἡ διαθήκη κυρία. Σινθεῦς Διογένους τοῦ 
 
@@ -88,11 +88,11 @@
 
     <lb n="15" break="no"/><supplied reason="lost">ρετον ἃς </supplied><subst><add place="inline"><supplied reason="lost">ἔ</supplied><add place="above">χ<unclear>ω</unclear></add></add><del rend="corrected"><supplied reason="lost">ε</supplied><del rend="erasure"><unclear>τ</unclear>η</del></del></subst> <add place="above">περὶ</add> Τοοὺ <expan><ex cert="low">πρότερον</ex></expan> Σ<unclear>το</unclear>τοῦτος Θέωνος <expan><ex>ἀρούρας</ex></expan> <num value="15">ιε</num>, τὸν <choice><reg>δὲ</reg><orig>τὲ</orig></choice> αὐτὸν Διογένην καὶ <expan>Σαραπ<ex>ίωνα</ex></expan> 
 
-    <lb n="16"/><supplied reason="lost" cert="low">ἐξ ἴσου ὧν</supplied> ἐὰν ἄλλων <choice><reg>ἀπολείπω</reg><orig>ἀπολίπω</orig></choice> παντοίων πάντων πλὴν τῶν δούλων <unclear>μου</unclear> Ταυ<supplied reason="lost">σίρ</supplied>ιος καὶ τῆς ταύτης 
+    <lb n="16"/><supplied reason="lost" cert="low">ἐξ ἴσου ῶ̔ν</supplied> ἐὰν ἄλλων <choice><reg>ἀπολείπω</reg><orig>ἀπολίπω</orig></choice> παντοίων πάντων πλὴν τῶν δούλων <unclear>μου</unclear> Ταυ<supplied reason="lost">σίρ</supplied>ιος καὶ τῆς ταύτης 
 
-    <lb n="17"/><supplied reason="lost">θυγατρὸς</supplied> Στεφανοῦτος, ἅσπερ εἶναι ἐλευθέρας. ἔτι δὲ καὶ παρέξω πε<supplied reason="lost">ρὶ τὸ αὐτὸ</supplied> Σατύρου <expan>ἐποίκ<ex>ιον</ex></expan> 
+    <lb n="17"/><supplied reason="lost">θυγατρὸς</supplied> Στεφανοῦτος, ἅσπερ εῖ̓ναι ἐλευθέρας. ἔτι δὲ καὶ παρέξω πε<supplied reason="lost">ρὶ τὸ αὐτὸ</supplied> Σατύρου <expan>ἐποίκ<ex>ιον</ex></expan> 
 
-    <lb n="18"/><supplied reason="lost"><expan><ex>ἀρούρας</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost" cert="low"> ἃς κατα</supplied>λείπω τῇ <hi rend="diaeresis">υ</hi><hi rend="diaeresis">ἱ</hi>δῇ μου <del rend="erasure"><gap reason="illegible" quantity="4" unit="character"/></del> Σινθεῦτι ἐφʼ ᾧ οἱ αὐτοὶ κληρονόμοι <gap reason="lost" quantity="6" unit="character"/><unclear>δ</unclear><gap reason="illegible" quantity="1" unit="character"/>μ<unclear>ευσαι</unclear> 
+    <lb n="18"/><supplied reason="lost"><expan><ex>ἀρούρας</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost" cert="low"> ἃς κατα</supplied>λείπω τῇ <hi rend="diaeresis">υ</hi><hi rend="diaeresis">ἱ</hi>δῇ μου <del rend="erasure"><gap reason="illegible" quantity="4" unit="character"/></del> Σινθεῦτι ἐφʼ ῷ̔ οἱ αὐτοὶ κληρονόμοι <gap reason="lost" quantity="6" unit="character"/><unclear>δ</unclear><gap reason="illegible" quantity="1" unit="character"/>μ<unclear>ευσαι</unclear> 
 
     <lb n="19a"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Σι</supplied>νθεῦτι 
 

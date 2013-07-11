@@ -77,7 +77,7 @@
 
     <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τῆς ἐ</supplied><unclear>μῆ</unclear>ς οἰκίας ἐπὶ τ<supplied reason="lost">οῦ </supplied><gap reason="lost" quantity="1" unit="character"/> <expan>ἀμφόδ<ex>ου</ex></expan> Πανὸ<supplied reason="lost">ς πόλεως </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="15"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> ἧς <choice><reg>γείτονες</reg><orig>γίτον<supplied reason="lost">ες</supplied></orig></choice> </ab></div>
+    <lb n="15"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> ῆ̔ς <choice><reg>γείτονες</reg><orig>γίτον<supplied reason="lost">ες</supplied></orig></choice> </ab></div>
       </body>
    </text>
 </TEI>

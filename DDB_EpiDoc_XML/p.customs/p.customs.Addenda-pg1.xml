@@ -58,7 +58,7 @@
 
     <lb n="3"/>καὶ ἡ ἑτέρα πυρρὰ <expan>κεχαρ<unclear>α</unclear>γ<ex>μένη</ex></expan> μηρῷ <unclear>δ</unclear><supplied reason="lost">εξιῷ</supplied> 
 
-    <lb n="4"/><hi rend="diaeresis">ἰ</hi>ῶτα καὶ <choice><reg>σιαγόνι</reg><orig>σιαγώνι</orig></choice> δεξιῷ <supplied reason="lost">ἧ</supplied><unclear>τ</unclear><supplied reason="lost">α</supplied> 
+    <lb n="4"/><hi rend="diaeresis">ἰ</hi>ῶτα καὶ <choice><reg>σιαγόνι</reg><orig>σιαγώνι</orig></choice> δεξιῷ <supplied reason="lost">ῆ̔</supplied><unclear>τ</unclear><supplied reason="lost">α</supplied> 
 
     <lb n="5"/>Στοτοῆτις <expan>ἐξάγ<ex>ων</ex></expan> <expan>κάμ<ex>ηλον</ex></expan> <num value="1">α</num> <expan>θήλ<ex>ειαν</ex></expan> λε<supplied reason="lost">υκὴν <expan>κεχαραγ<ex>μένην</ex></expan></supplied> 
 
@@ -96,7 +96,7 @@
 
     <lb n="22"/>Ὅμηρος <expan>ὁμοίω<ex>ς</ex></expan> ἐπὶ <expan>ὄν<ex>ῳ</ex></expan> <num value="1">α</num> <expan>φοίν<ex>ικος</ex></expan> <expan><unclear>π</unclear><supplied reason="lost">ατητ<ex>οῦ</ex></supplied></expan><supplied reason="lost"> <expan><ex>ἀρτάβας</ex></expan> <num value="3">γ</num> <expan><ex>ὀβολοὺς</ex></expan> <num value="2">β</num> <num value="1/2">𐅵</num></supplied> 
 
-    <lb n="23"/>Ὧρος <expan>ὁμοίω<ex>ς</ex></expan> ἐπὶ <expan>ὄν<ex>ῳ</ex></expan> <num value="1">α</num> <expan>φοίν<ex>ικος</ex></expan> <expan><unclear>π</unclear><supplied reason="lost">ατητ<ex>οῦ</ex></supplied></expan><supplied reason="lost"> <expan><ex>ἀρτάβας</ex></expan> <num value="3">γ</num> <expan><ex>ὀβολοὺς</ex></expan> <num value="2">β</num> <num value="1/2">𐅵</num></supplied> 
+    <lb n="23"/>Ὧρος <expan>ὁμοίω<ex>ς</ex></expan> ἐπὶ <expan>ὄν<ex>ῳ</ex></expan> <num value="1">α</num> <expan>φοίν<ex>ικος</ex></expan> <expan><unclear>π</unclear><supplied reason="lost">ατητ<ex>οῦ</ex></supplied></expan><supplied reason="lost"> <expan><ex>ἀρτάβας</ex></expan> <num value="3">γ</num> <expan><ex>ὀβολοὺς</ex></expan> <num value="2">β</num> <num value="1/2">𐅵</num></supplied> 
 
     <lb n="24"/><expan><ex>γίνεται</ex></expan> τῆς ἡμέρας <expan><ex>δραχμὴ</ex></expan> <num value="1">α</num> <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num>. 
 
@@ -123,7 +123,7 @@
 
     <lb n="32"/>Ὅμηρος <expan>ὄν<ex>ον</ex></expan> <num value="1">α</num> <expan>φοί<ex>νικος</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="3">γ</num> 
 
-    <lb n="33"/>Ὧρος <expan>ὄν<ex>ον</ex></expan> <num value="1">α</num> <expan>φοί<ex>νικος</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="3">γ</num> <expan><ex>δραχμὴ</ex></expan> <num value="1">α</num> <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> </ab></div></div>
+    <lb n="33"/>Ὧρος <expan>ὄν<ex>ον</ex></expan> <num value="1">α</num> <expan>φοί<ex>νικος</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="3">γ</num> <expan><ex>δραχμὴ</ex></expan> <num value="1">α</num> <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> </ab></div></div>
       </body>
    </text>
 </TEI>

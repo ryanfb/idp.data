@@ -107,7 +107,7 @@
 
     <lb n="23"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="24"/>ἐξ ὧν <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="24"/>ἐξ ῶ̔ν <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="25"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ι</unclear><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <expan><ex>πυροῦ ἀρταβ  </ex></expan> <gap reason="illegible" quantity="1" unit="character"/>ι<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -139,13 +139,13 @@
 
     <lb n="39"/>Δακικὸν μὴ <choice><reg><supplied reason="omitted">ἐ</supplied>ψεῦσ<supplied reason="lost">θαι</supplied></reg><orig>ψεῦσ<supplied reason="lost">θαι</supplied></orig></choice><supplied reason="lost"> ἢ ἔνο</supplied>
 
-    <lb n="40" break="no"/>χοι <choice><reg>εἶμεν</reg><orig>εἰημεν</orig></choice> τῷ ὅρ<supplied reason="lost">κῳ. ἔτους </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="40" break="no"/>χοι <choice><reg>εῖ̓μεν</reg><orig>εἰημεν</orig></choice> τῷ ὅρ<supplied reason="lost">κῳ. ἔτους </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="41"/>Αὐτοκράτορος Καί<supplied reason="lost">σαρος Νέρουα</supplied> 
 
     <lb n="42"/>Τραιανοῦ Σεβαστο<supplied reason="lost">ῦ Γερμανικοῦ</supplied> 
 
-    <lb n="43"/>Δακικοῦ, Παῦνι κ<gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"> <handShift new="m2"/> Ὧρος</supplied> 
+    <lb n="43"/>Δακικοῦ, Παῦνι κ<gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"> <handShift new="m2"/> Ὧρος</supplied> 
 <milestone rend="paragraphos" unit="undefined"/>
     <lb n="44"/>Καιφάλωνος καὶ <supplied reason="lost">Π</supplied><unclear>α</unclear><supplied reason="lost">νεσ</supplied>
 

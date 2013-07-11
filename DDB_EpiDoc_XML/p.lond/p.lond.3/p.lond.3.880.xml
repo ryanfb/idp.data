@@ -83,7 +83,7 @@
 
     <lb n="12"/><app type="editorial"><lem resp="BL 1.273">υἱοῖς</lem><rdg><supplied reason="lost">υἱοῖ</supplied>σ</rdg></app> ἀπὸ μὲν τῆς ὑπ<supplied reason="lost">α</supplied>ρχούσης αὐτῶι <add place="above">καὶ τοῖς <expan>ἀδ<ex>ελφοῖς</ex></expan></add> γῆς σιτοφόρου ἐ<unclear>ν</unclear> <supplied reason="lost">τ</supplied>ῶι περὶ Πάθυριν πεδίωι 
 
-    <lb n="13"/><app type="editorial"><lem resp="BL 1.273"><supplied reason="lost">δω</supplied>δεκάτην <unclear>μερίδ</unclear><supplied reason="lost">α <expan>ἀδ<ex>ιαίρετον</ex></expan></supplied> <del rend="erasure">ἀρουρῶν <num value="80"><unclear>π</unclear></num></del> <add place="above"><supplied reason="lost">ἀρουρ</supplied>ῶν <num value="80">π</num></add>, ἧς</lem><rdg><gap reason="lost" quantity="3" unit="character"/><unclear>β</unclear>εν<unclear>ν</unclear>ην<gap reason="lost" quantity="7" unit="character"/><add place="above">ων π</add><gap reason="illegible" quantity="3" unit="character"/>ησ</rdg></app> γείτονες νότου χῶμ<supplied reason="lost">α βα</supplied>σιλικὸν, βορρᾶ ὁδός, 
+    <lb n="13"/><app type="editorial"><lem resp="BL 1.273"><supplied reason="lost">δω</supplied>δεκάτην <unclear>μερίδ</unclear><supplied reason="lost">α <expan>ἀδ<ex>ιαίρετον</ex></expan></supplied> <del rend="erasure">ἀρουρῶν <num value="80"><unclear>π</unclear></num></del> <add place="above"><supplied reason="lost">ἀρουρ</supplied>ῶν <num value="80">π</num></add>, ῆ̔ς</lem><rdg><gap reason="lost" quantity="3" unit="character"/><unclear>β</unclear>εν<unclear>ν</unclear>ην<gap reason="lost" quantity="7" unit="character"/><add place="above">ων π</add><gap reason="illegible" quantity="3" unit="character"/>ησ</rdg></app> γείτονες νότου χῶμ<supplied reason="lost">α βα</supplied>σιλικὸν, βορρᾶ ὁδός, 
 
     <lb n="14"/><supplied reason="lost"><expan>ἀπηλ<ex>ιώτου</ex></expan> <app type="editorial"><lem resp="BL 1.273">ὁδὸς</lem><rdg><gap reason="illegible" quantity="5" unit="character"/></rdg></app>, λιβὸς διῶρυ</supplied>ξ Τελώνος, καὶ ἀπὸ τοῦ ἐπιβ<supplied reason="lost">άλλον</supplied>τος αὐτῶι μέρους ἄλλης 
 
@@ -92,7 +92,7 @@
 
     <lb n="16"/>νότου γῆ Ἁρμώνθου, βορρᾶ γῆ Κολλούθου, ἀπηλιώτου περίχωμα, 
 
-    <lb n="17"/>λιβὸς γῆ Πανοβχούνιος καὶ ἄλλων, ἢ οἳ ἂν ὦσι γείτονες πάντοθεν, 
+    <lb n="17"/>λιβὸς γῆ Πανοβχούνιος καὶ ἄλλων, ἢ οἳ ἂν ῶ̓σι γείτονες πάντοθεν, 
 
     <lb n="18"/>Πανοβχούνει μὲν τῶι πρεσβυτέρωι υἱῶι αὐτοῦ μερίδας δύο <num value="2"/>, 
 
@@ -102,17 +102,17 @@
 
     <lb n="21"/>ὄντος ἐν τῆι μέσῃ ταινίᾳ Παθύρεως ὅ ἐστιν πήχεις στερεοῦ 
 
-    <lb n="22"/>δύο ἥμισυ <num value="2"/><num value="1/2"/> οὗ γείτονες νότου οἰκία Ὥρου, βορρᾶ οἰκία Ψεννήσι<supplied reason="lost">ο</supplied>ς, 
+    <lb n="22"/>δύο ἥμισυ <num value="2"/><num value="1/2"/> οῦ̔ γείτονες νότου οἰκία Ὥρου, βορρᾶ οἰκία Ψεννήσι<supplied reason="lost">ο</supplied>ς, 
 
     <lb n="23"/>ἀπηλιώτου οἰκία Πατῆτος Θοτορταίου, λιβὸς πλατεῖα <app type="editorial"><lem resp="BL 1.273">ὁδὸς τῶν θεῶν</lem><rdg><unclear>αδιστακτω</unclear></rdg></app>, 
 
-    <lb n="24"/>ὧν εἶναι ἐν τῶι ἀπὸ βορρᾶ μέρει τοῦ ψιλοῦ τόπου, Πατῆιτι τῶι 
+    <lb n="24"/>ῶ̔ν εῖ̓ναι ἐν τῶι ἀπὸ βορρᾶ μέρει τοῦ ψιλοῦ τόπου, Πατῆιτι τῶι 
 
     <lb n="25"/>ἑαυτοῦ υἱῶι πῆχυν ἥμισυ <num value="1/2"/>, Πανοβχούνει τῶι <app type="editorial"><lem resp="BL 1.273">πρεσβυτέρῳ</lem><rdg>πρεσβυτερωι</rdg></app> υἱῶι 
 
     <lb n="26"/>πήχεις στερ<add place="above">ε</add>οῦ δύο <num value="2"/> καὶ ἀπὸ τῆς ἐντὸς τοῦ ὀχυρώματος οἰκία<supplied reason="lost">ς</supplied> 
 
-    <lb n="27"/><choice><reg>ᾠκοδομ<supplied reason="omitted">ημ</supplied>ένης</reg><orig>ὠικοδομένης</orig></choice> Ταελολοῦτι καὶ Σιεπμοῦτι τὸ ἥμισυ <unclear>ἧ</unclear>ς μέτεστι τὸ ἄλλο <expan><ex>ἥμισυ</ex></expan> 
+    <lb n="27"/><choice><reg>ᾠκοδομ<supplied reason="omitted">ημ</supplied>ένης</reg><orig>ὠικοδομένης</orig></choice> Ταελολοῦτι καὶ Σιεπμοῦτι τὸ ἥμισυ <unclear>ῆ̔</unclear>ς μέτεστι τὸ ἄλλο <expan><ex>ἥμισυ</ex></expan> 
 
     <lb n="28"/>Πανοβχούνει καὶ μὴ ἐπελεύσασθαι ἕτερος ἐπὶ τὸν ἕτερον περὶ τῶν 
 
@@ -120,7 +120,7 @@
 
     <lb n="30"/><app type="editorial"><lem resp="BL 1.273">ἐπιπορευομένῳ</lem><rdg>ἐπιπορευο<supplied reason="lost">μέν</supplied>ῳ</rdg></app> <expan>ἄκ<add place="above">υ</add>ρ<ex>ος</ex></expan> ἔστω καὶ προσαποτεισάτω ὁ <choice><reg><expan>παρασυγγρα<ex>φῶν</ex></expan></reg><orig><expan>παρασυνγρα<ex>φῶν</ex></expan></orig></choice> 
 
-    <lb n="31"/><app type="editorial"><lem resp="BL 2.2.82"><supplied reason="lost">τοῖς βασιλεῦσι <expan>ἀργυ<ex>ρίου</ex></expan></supplied></lem><rdg><gap reason="lost" quantity="15" unit="character"/> <expan>ἐπί<ex>τιμον</ex></expan></rdg></app> <expan><ex>δραχμὰς</ex></expan> <num value="500">φ</num> καὶ μηθὲν ἧσσον μενέτω κύρια 
+    <lb n="31"/><app type="editorial"><lem resp="BL 2.2.82"><supplied reason="lost">τοῖς βασιλεῦσι <expan>ἀργυ<ex>ρίου</ex></expan></supplied></lem><rdg><gap reason="lost" quantity="15" unit="character"/> <expan>ἐπί<ex>τιμον</ex></expan></rdg></app> <expan><ex>δραχμὰς</ex></expan> <num value="500">φ</num> καὶ μηθὲν ῆ̔σσον μενέτω κύρια 
 
     <lb n="32"/><supplied reason="lost">τὰ διωμολογημένα</supplied>. </ab></div></div>
       </body>

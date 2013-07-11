@@ -56,13 +56,13 @@
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
     <lb n="1"/>ἔτους <num value="4">δ</num> <expan>Ἀν<ex>τ</ex>ωνείνου</expan> Καίσαρος τοῦ κυρίου <app type="editorial"><lem resp="BL 1.54">Φαρμοῦ<unclear>θ</unclear>ι <num value="4"><unclear>δ</unclear></num> <unclear>παρ</unclear><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><expan>Φαρμοῦ<ex>θι</ex></expan> <num value="2">β</num><gap reason="illegible" quantity="1" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/>α<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
-    <lb n="2"/>Ψώι<add place="above">εσ</add>ος <choice><reg>προσελθὼν</reg><orig>προσεδθὼν</orig></choice> εἶπεν· <subst><add place="inline">Θέων</add><del rend="corrected">θεω<del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/>α</del></del></subst> <choice><reg>γεγονέναι</reg><orig>γεγωναίνε</orig></choice> τοῦ γρ<supplied reason="lost">α </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="2"/>Ψώι<add place="above">εσ</add>ος <choice><reg>προσελθὼν</reg><orig>προσεδθὼν</orig></choice> εῖ̓πεν· <subst><add place="inline">Θέων</add><del rend="corrected">θεω<del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/>α</del></del></subst> <choice><reg>γεγονέναι</reg><orig>γεγωναίνε</orig></choice> τοῦ γρ<supplied reason="lost">α </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="3"/><num value="2">β</num> <expan><ex>ἔτους</ex></expan> <choice><reg cert="low">γραμματέως</reg><orig>γραμματέους</orig></choice> <choice><reg>γεγονέναι</reg><orig>γεγωνέναι</orig></choice> κωμογραμματέ<supplied reason="lost">α </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="4"/><subst><add place="inline">Ἑρειέως</add><del rend="corrected">ερ<del rend="erasure">ι</del>εως</del></subst>· Ἡλιώδωρος Θέων εἶπεν· πότε Ἡρα<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="4"/><subst><add place="inline">Ἑρειέως</add><del rend="corrected">ερ<del rend="erasure">ι</del>εως</del></subst>· Ἡλιώδωρος Θέων εῖ̓πεν· πότε Ἡρα<gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="5"/>εἶπεν· <num value="2">β</num> <expan><ex>ἔτους</ex></expan> Ἀντωνείνου Καίσαρος τοῦ κυρίου <app type="editorial"><lem resp="BL 1.54">Ἑ<unclear>ρι</unclear><supplied reason="lost">εὺς </supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ε<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
+    <lb n="5"/>εῖ̓πεν· <num value="2">β</num> <expan><ex>ἔτους</ex></expan> Ἀντωνείνου Καίσαρος τοῦ κυρίου <app type="editorial"><lem resp="BL 1.54">Ἑ<unclear>ρι</unclear><supplied reason="lost">εὺς </supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ε<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
     <lb n="6"/>ματεύειν ποτὲ μὲν <add place="above"><handShift new="m2"/> κωμῶν</add> <handShift new="m1"/> γραμματεύειν, ποτὲ <unclear>τ</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -74,7 +74,7 @@
 
     <lb n="10"/>ῆλθεν <choice><reg>μέχρι</reg><orig>μεχρε<supplied reason="lost">ι</supplied>ς</orig></choice> τῆς κώμης καὶ τὰς οἰκίας τὰς <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="11"/>εἶπεν· <app type="editorial"><lem resp="BL 1.54"><expan>παῦ<ex>σον</ex></expan></lem><rdg><abbr>παυ</abbr></rdg></app> αὐτὸν τῆς γραμματείας <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="11"/>εῖ̓πεν· <app type="editorial"><lem resp="BL 1.54"><expan>παῦ<ex>σον</ex></expan></lem><rdg><abbr>παυ</abbr></rdg></app> αὐτὸν τῆς γραμματείας <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="12"/>ας καιρῷ ἐκτημένος ἀναλημ<add place="above">φ</add>θ<supplied reason="lost">εί</supplied>σας <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 

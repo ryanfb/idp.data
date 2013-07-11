@@ -55,7 +55,7 @@
 
     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
 
-    <lb n="1"/><gap reason="lost" quantity="4" unit="character"/> Θεοφίλου. σὺ οὖν ἀ<supplied reason="lost">πόστ</supplied>ει
+    <lb n="1"/><gap reason="lost" quantity="4" unit="character"/> Θεοφίλου. σὺ οῦ̓ν ἀ<supplied reason="lost">πόστ</supplied>ει
 
     <lb n="2" break="no"/><supplied reason="lost">λ</supplied>ον ὅ τι τά<supplied reason="lost">χο</supplied>ς τὸν <add place="above">μ</add><subst><add place="inline">ολ<unclear>υβ</unclear>δόν</add><del rend="corrected"><del rend="erasure"><unclear>β</unclear></del>ολ<unclear>υβ</unclear>δον</del></subst>, 
 
@@ -67,7 +67,7 @@
 <milestone rend="paragraphos" unit="undefined"/>
     <lb n="6"/>ἔγραψας ἡμῖν ἀποστεῖλαι εἰς Μέμ
 
-    <lb n="7" break="no"/><supplied reason="lost">φι</supplied>ν εἰς καυσί<supplied reason="lost">α</supplied>ς ἀρνακίδας. <choice><reg>ἡμεῖς</reg><orig>ἡμῖς</orig></choice> οὖν 
+    <lb n="7" break="no"/><supplied reason="lost">φι</supplied>ν εἰς καυσί<supplied reason="lost">α</supplied>ς ἀρνακίδας. <choice><reg>ἡμεῖς</reg><orig>ἡμῖς</orig></choice> οῦ̓ν 
 
     <lb n="8"/><supplied reason="lost">τῶ</supplied>ν <choice><reg>οὐσῶν</reg><orig>ὀντῶν</orig></choice> τὰς βελτίστας ἀπεστεί
 
@@ -102,11 +102,11 @@
 
     <lb n="22"/>παῖ<unclear>δ</unclear>ας· διὰ τὸ δὲ ποτισμὸν 
 
-    <lb n="23"/>εἶναι <unclear>ἐ</unclear>ν ἐκείνωι τῶι καιρῶι 
+    <lb n="23"/>εῖ̓ναι <unclear>ἐ</unclear>ν ἐκείνωι τῶι καιρῶι 
 
     <lb n="24"/>οὐκ ἐδύναντο ἐργάζεσθαι. 
 
-    <lb n="25"/>νυνὶ δέ, <choice><reg>ἐπεὶ</reg><orig>ἐπὶ</orig></choice> ὁ καιρὸς <choice><reg>ἦν</reg><orig>ἐ͂ν</orig></choice>, ἐπ<supplied reason="omitted">λ</supplied>
+    <lb n="25"/>νυνὶ δέ, <choice><reg>ἐπεὶ</reg><orig>ἐπὶ</orig></choice> ὁ καιρὸς <choice><reg>ῆ̓ν</reg><orig>ἐ͂ν</orig></choice>, ἐπ<supplied reason="omitted">λ</supplied>
 <choice><reg>ίνθευ<lb n="26" break="no"/>σαν</reg><orig>επίν<unclear>θ</unclear>ευ<lb n="26" break="no"/>σαν</orig></choice> ἀπὸ <num value="23">κγ</num> ἕως <num value="29">κθ</num> εἰς <num value="5">ε</num>. 
 
     <lb n="27"/>ἀπὸ <unclear>δ</unclear>ὲ <num value="30">λ</num> ἀπ<supplied reason="lost">ε</supplied>στάλκαμεν 

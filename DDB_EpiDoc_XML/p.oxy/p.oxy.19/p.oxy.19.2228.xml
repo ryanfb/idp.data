@@ -93,7 +93,7 @@
 
     <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἑ</supplied>κατοντάρχων λημμάτων τοῦ διελθόν
 
-    <lb n="18" break="no"/><supplied reason="lost">τος <num value="1">α</num> <expan><ex>ἔτους</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ταῖς το</supplied><unclear>ῦ</unclear> ταμείου ψήφοις λημματίσαι ἧτ<g type="apostrophe"/>τον 
+    <lb n="18" break="no"/><supplied reason="lost">τος <num value="1">α</num> <expan><ex>ἔτους</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ταῖς το</supplied><unclear>ῦ</unclear> ταμείου ψήφοις λημματίσαι ῆ̔τ<g type="apostrophe"/>τον 
 
     <lb n="19"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ὑποταγῆναι ἐκέλε</supplied><unclear>υ</unclear>σα, ὅπως κα<unclear>λ</unclear>ῶς τὴν ἔκπραξιν τῶν 
 
@@ -128,7 +128,7 @@
 
     <lb n="32"/>ἀργυρί<unclear>ου</unclear> τάλαντα δέκα <num value="10"/> ἀλλὰ μετὰ τὴν ἔξοδόν μου <choice><reg>ἐψηφίσασθε</reg><orig>ἐψ<unclear>η</unclear>φίσασθαι</orig></choice> ἐν τῷ βουλε<unclear>υ</unclear>τηρίῳ δεῖν <unclear>τ</unclear><supplied reason="lost">άλαντα δέ</supplied><unclear>κ</unclear>α ἑ<unclear>πτ</unclear>ὰ <num value="17"/> δο<supplied reason="lost">θῆναι </supplied><gap reason="lost" quantity="15" unit="character"/> 
 
-    <lb n="33"/>ησα λέ<unclear>γ</unclear>ων εὔδηλον εἶναι εκβουλεσθαι ὑμ<supplied reason="lost">ᾶ</supplied>ς τὸ <unclear>κ</unclear>ελευσθὲν ἀνῦσαι φ<supplied reason="lost">ρ</supplied><unclear>ο</unclear>ντίσατε πᾶσ<unclear>ιν</unclear> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="8" unit="character"/><unclear>ο</unclear>ν<gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>λ</unclear><gap reason="lost" quantity="16" unit="character"/><supplied reason="lost"> τελέ</supplied>
+    <lb n="33"/>ησα λέ<unclear>γ</unclear>ων εὔδηλον εῖ̓ναι εκβουλεσθαι ὑμ<supplied reason="lost">ᾶ</supplied>ς τὸ <unclear>κ</unclear>ελευσθὲν ἀνῦσαι φ<supplied reason="lost">ρ</supplied><unclear>ο</unclear>ντίσατε πᾶσ<unclear>ιν</unclear> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="8" unit="character"/><unclear>ο</unclear>ν<gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>λ</unclear><gap reason="lost" quantity="16" unit="character"/><supplied reason="lost"> τελέ</supplied>
 
     <lb n="34" break="no"/>σαι κατὰ τάχος ἑκάστου βουρδῶνος τάλαντα δέ<unclear>κα</unclear> <num value="10"/> εἴς τε τὴν πόλιν καὶ τὸν νομόν, <unclear>ἵ</unclear><supplied reason="lost">να οὕτως μη</supplied>δεμία <unclear>π</unclear><supplied reason="lost">ερὶ τὸ </supplied><gap reason="lost" quantity="13" unit="character"/> 
 
@@ -150,9 +150,9 @@
 
     <lb n="43"/>καμήλους τὸ <unclear>κ</unclear>αθʼ ἓν <hi rend="diaeresis">ὑ</hi>πετάξαμεν τούτοις ἡμῶν τοῖς γράμμασιν <hi rend="diaeresis">ἵ</hi>να μηδέν σου τὴν ἐπιμέλειαν λανθάνῃ. <expan><ex>ἔτους</ex></expan> <num value="2">β</num> Θὼθ <num value="6">ϛ</num>. <supplied reason="lost">ἔστι δέ.</supplied> 
 
-    <lb n="44"/>ἐν μ<unclear>ὲ</unclear>ν κώμῃ Σύρων παρὰ κωμάρχοις πρόβατα σύνμεικτα <num value="72">οβ</num>, ἀ<unclear>ρν</unclear>ίον <num value="1">α</num>, <subst><add place="inline">αἶγες</add><del rend="corrected">αι<unclear>ρ</unclear>ες</del></subst> <expan>ὁ<ex>μοίως</ex></expan> <num value="14">ιδ</num>, <supplied reason="lost">κ</supplied><unclear>α</unclear>ὶ ἐν ἐποι<supplied reason="lost">κί</supplied>ῳ Ἀννια<supplied reason="lost">νοῦ, ὅ ἐ</supplied>
+    <lb n="44"/>ἐν μ<unclear>ὲ</unclear>ν κώμῃ Σύρων παρὰ κωμάρχοις πρόβατα σύνμεικτα <num value="72">οβ</num>, ἀ<unclear>ρν</unclear>ίον <num value="1">α</num>, <subst><add place="inline">αῖ̓γες</add><del rend="corrected">αι<unclear>ρ</unclear>ες</del></subst> <expan>ὁ<ex>μοίως</ex></expan> <num value="14">ιδ</num>, <supplied reason="lost">κ</supplied><unclear>α</unclear>ὶ ἐν ἐποι<supplied reason="lost">κί</supplied>ῳ Ἀννια<supplied reason="lost">νοῦ, ὅ ἐ</supplied>
 
-    <lb n="45" break="no"/>στι <unclear>π</unclear><supplied reason="lost">ε</supplied>ρὶ κώμην Σεναώ, παρὰ τοῖς ἀ<unclear>πὸ</unclear> τοῦ ἐποικίου πρόβατα <choice><reg>σύνμεικτα</reg><orig>σύνμικτα</orig></choice> <num value="6">ϛ</num>, <subst><add place="inline"><add place="above">αἶγες</add></add><del rend="corrected"><del rend="erasure">εγες</del></del></subst> <expan>ὁμοί<ex>ως</ex></expan> <num value="6">ϛ</num>, βοῦς τελ<unclear>εί</unclear><supplied reason="lost">α</supplied> <num value="1">α</num>, δαμά<supplied reason="lost" cert="low">λιον <num value="1">α</num> </supplied> </ab></div></div>
+    <lb n="45" break="no"/>στι <unclear>π</unclear><supplied reason="lost">ε</supplied>ρὶ κώμην Σεναώ, παρὰ τοῖς ἀ<unclear>πὸ</unclear> τοῦ ἐποικίου πρόβατα <choice><reg>σύνμεικτα</reg><orig>σύνμικτα</orig></choice> <num value="6">ϛ</num>, <subst><add place="inline"><add place="above">αῖ̓γες</add></add><del rend="corrected"><del rend="erasure">εγες</del></del></subst> <expan>ὁμοί<ex>ως</ex></expan> <num value="6">ϛ</num>, βοῦς τελ<unclear>εί</unclear><supplied reason="lost">α</supplied> <num value="1">α</num>, δαμά<supplied reason="lost" cert="low">λιον <num value="1">α</num> </supplied> </ab></div></div>
       </body>
    </text>
 </TEI>

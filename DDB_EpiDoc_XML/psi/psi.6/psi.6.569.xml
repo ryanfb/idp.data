@@ -82,7 +82,7 @@
 
     <lb n="13"/><supplied reason="lost"><expan><ex>ἔτους</ex></expan> <num value="33">λγ</num>, </supplied><app type="editorial"><lem><supplied reason="lost">Τῦβι</supplied></lem><rdg><gap reason="lost" extent="unknown" unit="character"/></rdg></app>  <num value="5"><unclear>ε</unclear></num>  Φιλῖνος      Ζήνωνι 
 
-    <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> περὶ </supplied><app type="editorial"><lem><supplied reason="lost">ὧ</supplied><unclear>ν</unclear></lem><rdg><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/></rdg></app> ἀπέσταλκεν. </ab></div></div>
+    <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> περὶ </supplied><app type="editorial"><lem><supplied reason="lost">ῶ̔</supplied><unclear>ν</unclear></lem><rdg><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/></rdg></app> ἀπέσταλκεν. </ab></div></div>
       </body>
    </text>
 </TEI>

@@ -59,7 +59,7 @@
 
     <lb n="2"/>καὶ πάκτωσιν <del rend="erasure"><expan><ex>δραχμὰς</ex></expan> <num value="80">π</num></del> 
 
-    <lb n="3"/>πρότερον οἰκονομουι <expan><ex>δραχμὰς</ex></expan> <num value="80">π</num> ἐφʼ ὧι παρέ
+    <lb n="3"/>πρότερον οἰκονομουι <expan><ex>δραχμὰς</ex></expan> <num value="80">π</num> ἐφʼ ῶ̔ι παρέ
 
     <lb n="4" break="no"/>ξεται <subst><add place="inline">πλέο<add place="above">υσαν</add></add><del rend="corrected">πλεο<del rend="erasure">ν</del></del></subst> <add place="above">τὴν λιθηγὸν</add> <del rend="erasure">τὸ πλοῖον καὶ</del> στεγνὴν 
 
@@ -67,9 +67,9 @@
 
     <lb n="6" break="no"/>δεῖσθαι πακ<supplied reason="lost">τώσεω</supplied>ς διὰ <unclear>τὸ</unclear> <add place="above"><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></add> <app type="editorial"><lem>παλ<unclear>αι</unclear>
 
-    <lb n="7" break="no"/><add place="above">ο</add>τέραν</lem><rdg><gap reason="illegible" quantity="4" unit="character"/><add place="above">ο</add>τεραν</rdg></app> ἤδη εἶναι <del rend="erasure"><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/></del>. <app type="editorial"><lem resp="BL 7.162">χρημά
+    <lb n="7" break="no"/><add place="above">ο</add>τέραν</lem><rdg><gap reason="illegible" quantity="4" unit="character"/><add place="above">ο</add>τεραν</rdg></app> ἤδη εῖ̓ναι <del rend="erasure"><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/></del>. <app type="editorial"><lem resp="BL 7.162">χρημά
 
-    <lb n="8" break="no"/>τισον</lem><rdg>χρηματίσαις</rdg></app> <foreign xml:lang="la">o</foreign>ὖν αὐτῶι ἄλλας <add place="above"><expan>χαλ<ex>κοῦ</ex></expan></add> <expan><ex>δραχμὰς</ex></expan> <num value="40">μ</num> <del rend="erasure">ἕως ἂν ἐπὶ τὸν διοικητὴν <unclear>ἀνενέγκωμεν</unclear></del> 
+    <lb n="8" break="no"/>τισον</lem><rdg>χρηματίσαις</rdg></app> <foreign xml:lang="la">o</foreign>ῦ̓ν αὐτῶι ἄλλας <add place="above"><expan>χαλ<ex>κοῦ</ex></expan></add> <expan><ex>δραχμὰς</ex></expan> <num value="40">μ</num> <del rend="erasure">ἕως ἂν ἐπὶ τὸν διοικητὴν <unclear>ἀνενέγκωμεν</unclear></del> 
 
     <lb n="9"/>ἵνα <add place="above">μὴ κατὰ τοῦτο ἡ</add> <del rend="erasure"><unclear>τὸ</unclear> π<supplied reason="lost">λοῖ</supplied>ον</del> λιθηγὸς <del rend="erasure">μὴ κατὰ τοῦτο</del> 
 
@@ -85,7 +85,7 @@
 
     <lb n="15"/>τ<supplied reason="lost">ῶ</supplied><unclear>ι</unclear> <subst><add place="inline">ἐξειληφότ<add place="above">ι</add></add><del rend="corrected">εξειληφοτει</del></subst> τὴν <add place="above">προυπάρχουσαν ἐν <subst><add place="inline">Πτολεμαίδ<add place="above">ι</add></add><del rend="corrected">πτολεμαιδει</del></subst></add> <subst><add place="inline">βασιλ<add place="above">ι</add>κὴν</add><del rend="corrected">βασιλεικην</del></subst> κατάλυσιν καθελεῖν 
 
-    <lb n="16"/>διὰ τὸ πεπονηκέναι καὶ μετενηκαι τὴν πλίνθον <subst><add place="inline"><add place="above">ὅ</add>ση</add><del rend="corrected"><del rend="erasure">ου</del>ση</del></subst> ἂν ἦ<add place="above">ι</add> ὑγιὴς 
+    <lb n="16"/>διὰ τὸ πεπονηκέναι καὶ μετενηκαι τὴν πλίνθον <subst><add place="inline"><add place="above">ὅ</add>ση</add><del rend="corrected"><del rend="erasure">ου</del>ση</del></subst> ἂν ῆ̓<add place="above">ι</add> ὑγιὴς 
 
     <lb n="17"/><unclear>πρὸς</unclear> <unclear>τὰ</unclear> <unclear>θ</unclear>εμέλι<add place="above"><unclear>α</unclear></add> τῆς καινῆς καταλύσεως κατὰ τὴν ἐργολα
 

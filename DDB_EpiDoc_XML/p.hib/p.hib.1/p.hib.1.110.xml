@@ -78,7 +78,7 @@
 
     <lb n="4"/>καὶ ὑπὲρ Εὐβούλου <num value="20">κ</num>, 
 
-    <lb n="5"/><expan><ex>γίνονται</ex></expan> <num value="331">τλ<unclear>α</unclear></num> <expan><ex>ὧν</ex></expan> εἰς τὸ Ἡ<unclear>ρακ</unclear><supplied reason="lost">λ</supplied>εῖον <num value="1">α</num>, 
+    <lb n="5"/><expan><ex>γίνονται</ex></expan> <num value="331">τλ<unclear>α</unclear></num> <expan><ex>ῶ̔ν</ex></expan> εἰς τὸ Ἡ<unclear>ρακ</unclear><supplied reason="lost">λ</supplied>εῖον <num value="1">α</num>, 
 
     <lb n="6"/>καὶ εἰς τὸ ναῦλον <num value="10">ι</num> <expan><ex>δραχμῶν</ex></expan> <num value="2"><unclear>β</unclear></num><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>  
 
@@ -102,7 +102,7 @@
 
     <lb n="16"/><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="139">ρλθ</num> <num value="2"><expan><ex>διώβολον</ex></expan></num>. 
 
-    <lb n="17"/>εἶχον δὲ καὶ Κρίτωνι τῶν <num value="20">κ</num> <expan><ex>ἀρταβῶν</ex></expan> τῶν <expan><ex>πυρῶν</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="40">μ</num>, 
+    <lb n="17"/>εῖ̓χον δὲ καὶ Κρίτωνι τῶν <num value="20">κ</num> <expan><ex>ἀρταβῶν</ex></expan> τῶν <expan><ex>πυρῶν</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="40">μ</num>, 
 
     <lb n="18"/>καὶ ναῦλον <del rend="erasure">των</del> τῶν πυρῶν καὶ κριθῶν ἔχω <expan><ex>δραχμὰς</ex></expan> <num value="15">ιε</num>. 
 
@@ -135,7 +135,7 @@
 
     <lb n="32"/>ἀναπλέοντες ναῦλον <expan><ex>δραχμαὶ</ex></expan> <num value="2"><unclear>β</unclear></num> <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="33"/>εἰς τοῦτο εἶχον παρὰ Κρίτω<supplied reason="lost">νος <expan><ex>δραχμὰς</ex></expan> </supplied><gap reason="lost" quantity="2" unit="character"/>  
+    <lb n="33"/>εἰς τοῦτο εῖ̓χον παρὰ Κρίτω<supplied reason="lost">νος <expan><ex>δραχμὰς</ex></expan> </supplied><gap reason="lost" quantity="2" unit="character"/>  
 <milestone rend="paragraphos" unit="undefined"/>
     <lb n="34"/><expan><ex>ἔτους</ex></expan> <num value="14">ιδ</num> Ἐπεὶπ <num value="2">β</num>. 
 
@@ -167,13 +167,13 @@
 <milestone rend="paragraphos" unit="undefined"/>
     <lb n="47"/>ἄλλας τοῦ αὐτοῦ <expan><ex>ἔτους</ex></expan> μηνὸς Ὑπε<supplied reason="lost">ρβε</supplied>
 
-    <lb n="48" break="no"/>ρεταίου <supplied reason="lost">εἶχ</supplied><unclear>ε</unclear>ν <add place="above"><expan><ex>δραχμὰς</ex></expan> <num value="60">ξ</num></add> ἃς κατέβαλεν <supplied reason="lost">Ἀπολ</supplied>
+    <lb n="48" break="no"/>ρεταίου <supplied reason="lost">εῖ̓χ</supplied><unclear>ε</unclear>ν <add place="above"><expan><ex>δραχμὰς</ex></expan> <num value="60">ξ</num></add> ἃς κατέβαλεν <supplied reason="lost">Ἀπολ</supplied>
 
     <lb n="49" break="no"/><supplied reason="lost">λ</supplied>ωνίωι τῶι φυλακίτηι τόκου τ<supplied reason="lost">ὸν</supplied> 
 
     <lb n="50"/>μῆνα <expan><ex>δραχμῶν</ex></expan> <num value="5">ε</num>. 
 
-    <lb n="51"/><handShift new="m2"/> κυλιστοὶ <num value="6">ϛ</num>, <expan><ex>ὧν</ex></expan> <choice><reg>βασιλεῖ</reg><orig>βασιλῖ</orig></choice>  <num value="3">γ</num> κα<supplied reason="lost">ὶ ἐπισ</supplied>
+    <lb n="51"/><handShift new="m2"/> κυλιστοὶ <num value="6">ϛ</num>, <expan><ex>ῶ̔ν</ex></expan> <choice><reg>βασιλεῖ</reg><orig>βασιλῖ</orig></choice>  <num value="3">γ</num> κα<supplied reason="lost">ὶ ἐπισ</supplied>
 
     <lb n="52" break="no"/>τολήν, <unclear>Θευγένι</unclear> χρηματαγω<unclear>γ</unclear><supplied reason="lost">ῶι </supplied><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">, </supplied> 
 
@@ -210,7 +210,7 @@
 
     <lb n="65"/><num value="18">ιη</num>.  ὥρας πρώτης παρέδωκεν Θευχρ<supplied reason="lost">η</supplied>σ
 
-    <lb n="66" break="no"/>τος <choice><reg>ἄνωθεν</reg><orig>ἄνοθεν</orig></choice> Δινίαι <expan>κυ<ex>λιστοὺς</ex></expan> <num value="3">γ</num>, <expan><ex>ὧν</ex></expan> <choice><reg>βασιλεῖ</reg><orig>βασιλῖ</orig></choice> 
+    <lb n="66" break="no"/>τος <choice><reg>ἄνωθεν</reg><orig>ἄνοθεν</orig></choice> Δινίαι <expan>κυ<ex>λιστοὺς</ex></expan> <num value="3">γ</num>, <expan><ex>ῶ̔ν</ex></expan> <choice><reg>βασιλεῖ</reg><orig>βασιλῖ</orig></choice> 
 
     <lb n="67"/>Πτολεμαίωι <expan>κυ<ex>λιστοὶ</ex></expan> <num value="2">β</num>, Ἀπολλωνίωι 
 
@@ -259,7 +259,7 @@
 
     <lb n="91"/><num value="20">κ</num>.  ὥρας <gap reason="lost" quantity="1" unit="character"/> <unclear>π</unclear>αρέ<supplied reason="lost">δω</supplied>κ<supplied reason="lost">εν Λ</supplied>υκοκ<unclear>λῆ</unclear>ς Ἀμ<supplied reason="lost">ίνονι</supplied> 
 
-    <lb n="92"/><expan>κυ<ex>λιστοὺς</ex></expan> <num value="3">γ</num>, <expan><ex>ὧν</ex></expan> <choice><reg><supplied reason="lost">β</supplied>α<supplied reason="lost">σι</supplied>λεῖ</reg><orig><supplied reason="lost">β</supplied>α<supplied reason="lost">σι</supplied>λῖ</orig></choice> <supplied reason="lost">Πτο</supplied>λεμ<supplied reason="lost">αί</supplied>ωι <gap reason="lost" quantity="3" unit="character"/> τῶν ἐλεφά<supplied reason="lost">ντων</supplied> 
+    <lb n="92"/><expan>κυ<ex>λιστοὺς</ex></expan> <num value="3">γ</num>, <expan><ex>ῶ̔ν</ex></expan> <choice><reg><supplied reason="lost">β</supplied>α<supplied reason="lost">σι</supplied>λεῖ</reg><orig><supplied reason="lost">β</supplied>α<supplied reason="lost">σι</supplied>λῖ</orig></choice> <supplied reason="lost">Πτο</supplied>λεμ<supplied reason="lost">αί</supplied>ωι <gap reason="lost" quantity="3" unit="character"/> τῶν ἐλεφά<supplied reason="lost">ντων</supplied> 
 
     <lb n="93"/>τῶν κα<supplied reason="lost">τ</supplied>ὰ Θ<unclear>α</unclear><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>σ</unclear>σου <expan>κυ<ex>λιστὸς</ex></expan> <num value="1">α</num>, Ἀπολλω<supplied reason="lost">νίωι</supplied> 
 
@@ -273,11 +273,11 @@
 
     <lb n="98"/><choice><reg>κατώθεν</reg><orig>κατόθεν</orig></choice> Φανίαι ἐπιστο<supplied reason="lost">λὰ</supplied><unclear>ς</unclear> δύο <num value="2"/> <gap reason="lost" quantity="7" unit="character"/><supplied reason="lost"> ,</supplied>
 
-    <lb n="99"/>Ὧρος δὲ παρέδωκεν <unclear>Δι</unclear>ο<unclear>ν</unclear><supplied reason="lost">υ</supplied><unclear>σ</unclear>ί<unclear>ωι</unclear> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="7" unit="character"/> 
+    <lb n="99"/>Ὧρος δὲ παρέδωκεν <unclear>Δι</unclear>ο<unclear>ν</unclear><supplied reason="lost">υ</supplied><unclear>σ</unclear>ί<unclear>ωι</unclear> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="7" unit="character"/> 
 
     <lb n="100"/><num value="22">κ<unclear>β</unclear></num>.  ὥρας πρώτης πα<supplied reason="lost">ρ</supplied>έδωκεν <unclear>Α</unclear><gap reason="lost" quantity="2" unit="character"/><unclear>ων</unclear> <supplied reason="lost">Δινίαι</supplied> 
 
-    <lb n="101"/><expan>κυ<ex>λιστοὺς</ex></expan> <num value="16">ιϛ</num>, <expan><ex>ὧν</ex></expan> βασιλεῖ Πτολεμαί<supplied reason="lost">ω</supplied>ι <expan><unclear>κ</unclear><supplied reason="lost">υ<ex>λιστοὶ</ex></supplied></expan> <gap reason="lost" quantity="1" unit="character"/>  
+    <lb n="101"/><expan>κυ<ex>λιστοὺς</ex></expan> <num value="16">ιϛ</num>, <expan><ex>ῶ̔ν</ex></expan> βασιλεῖ Πτολεμαί<supplied reason="lost">ω</supplied>ι <expan><unclear>κ</unclear><supplied reason="lost">υ<ex>λιστοὶ</ex></supplied></expan> <gap reason="lost" quantity="1" unit="character"/>  
 
     <lb n="102"/>παρὰ τῶν ἐλεφάντων τῶν κατὰ Θ<unclear>α</unclear><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> σσου,</supplied> 
 
@@ -297,7 +297,7 @@
 
     <lb n="110"/>Τιμοκράτης κυλιστο<unclear>ὺ</unclear><supplied reason="lost">ς </supplied><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost"> Ἀλεξάνδρωι,</supplied> 
 
-    <lb n="111"/><expan><ex>ὧν</ex></expan> <choice><reg>βασιλεῖ</reg><orig>βασιλῖ</orig></choice> Πτολεμαίωι <expan><unclear>κ</unclear><supplied reason="lost">υ<ex>λιστοὶ</ex></supplied></expan> <gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">, Ἀπολλωνίωι</supplied>
+    <lb n="111"/><expan><ex>ῶ̔ν</ex></expan> <choice><reg>βασιλεῖ</reg><orig>βασιλῖ</orig></choice> Πτολεμαίωι <expan><unclear>κ</unclear><supplied reason="lost">υ<ex>λιστοὶ</ex></supplied></expan> <gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">, Ἀπολλωνίωι</supplied>
 
     <lb n="112"/>διοικητῆι <expan>κυ<ex>λιστὸς</ex></expan> <num value="1">α</num>, <unclear>Π</unclear><gap reason="lost" quantity="5" unit="character"/><supplied reason="lost"> χρηματα</supplied>
 

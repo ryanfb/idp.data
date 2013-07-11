@@ -76,7 +76,7 @@
 
     <lb n="9"/><app type="editorial"><lem><num value="5">ε</num> <expan><ex>ἔτει</ex></expan></lem><rdg>ἔ<supplied reason="lost">τ</supplied>ει</rdg></app> Τραιανοῦ Καίσαρος τοῦ κυρίο<supplied reason="lost">υ</supplied> <app type="editorial"><lem resp="BL 1.81">ἐδ<unclear>ό</unclear><supplied reason="lost">θ</supplied><unclear>η</unclear>
 
-    <lb n="10" break="no"/>μεν <unclear>κ</unclear>αθʼ <choice><reg>ἐπήρειαν</reg><orig>ὐ<supplied reason="lost">π</supplied>ήριαν</orig></choice></lem><rdg>ἐδ<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ν</unclear><gap reason="lost" quantity="1" unit="character"/><unclear>κ</unclear>α<gap reason="illegible" quantity="1" unit="character"/>υ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/>υρίαν</rdg></app> ἅμα ἄλλ<unclear>οις</unclear> οὖσιν 
+    <lb n="10" break="no"/>μεν <unclear>κ</unclear>αθʼ <choice><reg>ἐπήρειαν</reg><orig>ὐ<supplied reason="lost">π</supplied>ήριαν</orig></choice></lem><rdg>ἐδ<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ν</unclear><gap reason="lost" quantity="1" unit="character"/><unclear>κ</unclear>α<gap reason="illegible" quantity="1" unit="character"/>υ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/>υρίαν</rdg></app> ἅμα ἄλλ<unclear>οις</unclear> οῦ̓σιν 
 
     <lb n="11"/><unclear>καὶ</unclear> <app type="editorial"><lem resp="bgu 3 p.8 (BL 1.81)">αὐτοῖ<supplied reason="lost">ς</supplied></lem><rdg>αὐτο<supplied reason="lost">ὶ</supplied></rdg></app> ἀ<unclear>π</unclear><supplied reason="lost">ὸ τ</supplied>ῆς μητροπόλεως εἰς σι
 
@@ -112,9 +112,9 @@
 
     <lb n="27" break="no"/>χειροῦντες</reg><orig>ἐπι<lb n="27" break="no"/><unclear>χιροῦ</unclear>ν<unclear>τ</unclear><supplied reason="lost">ες</supplied></orig></choice> ἀπαιτῆσαι ἡμᾶς <choice><reg>ἔκδειαν</reg><orig>ἔ<unclear>γδι</unclear>αν</orig></choice> <app type="editorial"><lem resp="BL 1.82">σιτολογία<unclear>ς</unclear></lem><rdg>σιτολογίαν</rdg></app> 
 
-    <lb n="28"/>ἧς οὐ<unclear>κ</unclear> <choice><reg>ἐνεχειρήσαμεν</reg><orig>ἐνεχιρήσαμεν</orig></choice>. διὸ ἀξιοῦμεν, ἐάν σοι 
+    <lb n="28"/>ῆ̔ς οὐ<unclear>κ</unclear> <choice><reg>ἐνεχειρήσαμεν</reg><orig>ἐνεχιρήσαμεν</orig></choice>. διὸ ἀξιοῦμεν, ἐάν σοι 
 
-    <lb n="29"/>φαίν<supplied reason="lost">ητ</supplied>αι, <choice><reg>ἐπιτρέψαι</reg><orig>ἐπιτρέψε</orig></choice> αὐτο<unclear>ῖ</unclear>ς <choice><reg>ἀποσχέσθαι</reg><orig>ἀποσκέσθε</orig></choice> <choice><reg>ἡμῶν</reg><orig>ὑμῶν</orig></choice>, ἄχρι οὗ 
+    <lb n="29"/>φαίν<supplied reason="lost">ητ</supplied>αι, <choice><reg>ἐπιτρέψαι</reg><orig>ἐπιτρέψε</orig></choice> αὐτο<unclear>ῖ</unclear>ς <choice><reg>ἀποσχέσθαι</reg><orig>ἀποσκέσθε</orig></choice> <choice><reg>ἡμῶν</reg><orig>ὑμῶν</orig></choice>, ἄχρι οῦ̔ 
 
     <lb n="30"/><app type="editorial"><lem resp="bgu 3 p.8"><gap reason="lost" quantity="10" unit="character"/> ὁ κράτιστο<unclear>ς</unclear> <supplied reason="lost">ἡγ</supplied>εμὼν <expan>παραγεν<ex>ό</ex>μ<ex>ενος</ex></expan> <expan>ἐπ<ex>ὶ</ex></expan> <expan>τῶ<ex>ν</ex></expan> <expan>τόπ<ex>ων</ex></expan> <expan>διακο<ex>ύ</ex>σ<ex>ῃ</ex></expan> ἡμῶν</lem><rdg><gap reason="lost" quantity="10" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><unclear>τ</unclear>ι<gap reason="illegible" quantity="2" unit="character"/>ο<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><unclear>εμ</unclear><gap reason="illegible" quantity="1" unit="character"/> παραγεν<add place="above">μ</add><unclear>ος</unclear> τμ<add place="above">ω</add> <abbr><unclear>το</unclear>π</abbr> δια<gap reason="illegible" quantity="2" unit="character"/> ἡμῶν</rdg></app> </ab></div>
       </body>

@@ -89,7 +89,7 @@
 
     <lb n="18"/>καὶ τὰ ταύτης χρηστήρια πάντα ὡς ἡ <choice><reg><supplied reason="omitted">ἰ</supplied>διόγραφος</reg><orig>διόγραφος</orig></choice> 
 
-    <lb n="19"/>πρᾶσις <choice><reg>περιέχει</reg><orig>περιέχι</orig></choice>, ἧς ἐκμαρτυρηθείσης ὑπʼ <subst><add place="inline">ἐμοῦ</add><del rend="corrected"><unclear>η</unclear>μου</del></subst> 
+    <lb n="19"/>πρᾶσις <choice><reg>περιέχει</reg><orig>περιέχι</orig></choice>, ῆ̔ς ἐκμαρτυρηθείσης ὑπʼ <subst><add place="inline">ἐμοῦ</add><del rend="corrected"><unclear>η</unclear>μου</del></subst> 
 
     <lb n="20"/>διὰ τοῦ ἐνταῦθα <subst><add place="inline">μνημονίου</add><del rend="corrected">μνημονιω</del></subst> τοῦ αὐτοῦ <num value="7">ζ</num> <expan><ex>ἔτους</ex></expan> μηνὶ 
 
@@ -101,7 +101,7 @@
 
     <lb n="24"/>κ<supplied reason="lost">α</supplied>ὶ δηλῶ τὴν αὐτὴν <choice><reg>Θεωνίδα</reg><orig>Θεωδια<unclear>ν</unclear></orig></choice> <supplied reason="lost">ἀ</supplied>πογεγράφθ<supplied reason="lost">αι</supplied> 
 
-    <lb n="25"/>τὸ προκείμενον <choice><reg>ἔγγαιον</reg><orig>ἔ<supplied reason="lost">γ</supplied><g type="apostrophe"/>γεον</orig></choice> <app type="editorial"><lem resp="BL 1.333"><unclear>ε</unclear><supplied reason="lost">ἶν</supplied><unclear>αι</unclear> δ<supplied reason="lost">ὲ αὐτῶν</supplied></lem><rdg><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><unclear>α</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="7" unit="character"/></rdg></app> 
+    <lb n="25"/>τὸ προκείμενον <choice><reg>ἔγγαιον</reg><orig>ἔ<supplied reason="lost">γ</supplied><g type="apostrophe"/>γεον</orig></choice> <app type="editorial"><lem resp="BL 1.333"><unclear>ε</unclear><supplied reason="lost">ῖ̓ν</supplied><unclear>αι</unclear> δ<supplied reason="lost">ὲ αὐτῶν</supplied></lem><rdg><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><unclear>α</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="7" unit="character"/></rdg></app> 
 
     <lb n="26"/><app type="editorial"><lem resp="BL 1.333"><supplied reason="lost">κλ</supplied>ηρονο<supplied reason="lost">μικῷ δικαίῳ </supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><supplied reason="lost">κλ</supplied>ηρονο<supplied reason="lost">μ </supplied><gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 

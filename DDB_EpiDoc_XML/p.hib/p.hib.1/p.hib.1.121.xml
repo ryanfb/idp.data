@@ -53,7 +53,7 @@
 
     <lb n="1"/><supplied reason="lost"><expan><ex cert="low">ἔτους</ex></expan></supplied> <num value="35"><unclear>λε</unclear></num>, παρὰ Ἀ<unclear>γχώ</unclear>φιος <expan><ex>πυρῶν</ex></expan> <num value="50"><unclear>ν</unclear></num> 
 
-    <lb n="2"/><expan><ex cert="low">δραχμαὶ</ex></expan> <num value="100"><unclear>ρ</unclear></num>, ὧν ἔγ<unclear>ραψ</unclear>ας
+    <lb n="2"/><expan><ex cert="low">δραχμαὶ</ex></expan> <num value="100"><unclear>ρ</unclear></num>, ῶ̔ν ἔγ<unclear>ραψ</unclear>ας
 
     <lb n="3"/>Ἁ<unclear>θ</unclear><supplied reason="lost">ὺ</supplied>ρ ἁλύσιον <expan><ex>δραχμὰς</ex></expan> <num value="40">μ</num>, 
 
@@ -69,7 +69,7 @@
 
     <lb n="9"/><space extent="unknown" unit="character"/> 
 
-    <lb n="9"/>ἔλαβες <expan><ex>δραχμὰς</ex></expan> <num value="60">ξ</num>, <expan><ex>ὧν</ex></expan> ἐμοὶ <subst><add place="inline"><num value="15">ιε</num></add><del rend="corrected"><del rend="erasure"><unclear>ε</unclear></del>ιε</del></subst>, 
+    <lb n="9"/>ἔλαβες <expan><ex>δραχμὰς</ex></expan> <num value="60">ξ</num>, <expan><ex>ῶ̔ν</ex></expan> ἐμοὶ <subst><add place="inline"><num value="15">ιε</num></add><del rend="corrected"><del rend="erasure"><unclear>ε</unclear></del>ιε</del></subst>, 
 
     <lb n="10"/>Ἰσιδώρωι <num value="12">ιβ</num>, Διονύσ<unclear>ω</unclear>ι <num value="8">η</num>, 
 
@@ -90,7 +90,7 @@
 
     <lb n="17"/>θερμὸν <expan><ex>τέταρτον ὀβολοῦ</ex></expan> <num value="1/4"/>, κ<supplied reason="lost">ί</supplied>κι <expan><ex>τέταρτον ὀβολοῦ</ex></expan> <num value="1/4"/>, η<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>, 
 
-    <lb n="18"/>οἶν<supplied reason="lost">ο</supplied>ς <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/4" rend="tick">δ</num>, 
+    <lb n="18"/>οῖ̓ν<supplied reason="lost">ο</supplied>ς <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/4" rend="tick">δ</num>, 
 
     <lb n="19"/><expan><ex>γίνεται</ex></expan> <expan><ex>δραχμὴ</ex></expan> <num value="1">α</num> <expan><ex>ὀβολοὶ</ex></expan> <num value="4">δ</num> <num value="1/4" rend="tick">δ</num>. 
 
@@ -102,7 +102,7 @@
 
     <lb n="23"/>ἔλαιον <abbr>χοι</abbr> <expan><ex>τέταρτον ὀβολοῦ</ex></expan> <num value="1/4"/>, <abbr>ὀνυχ<supplied reason="lost">ι</supplied><unclear>ν</unclear></abbr> <unclear>τ</unclear>ε<gap reason="illegible" quantity="2" unit="character"/> <supplied reason="lost"><num value="1"><expan><ex>ὀβολὸς</ex></expan></num>,</supplied> 
 
-    <lb n="24"/>οἶνος <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/4" rend="tick">δ</num>, 
+    <lb n="24"/>οῖ̓νος <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/4" rend="tick">δ</num>, 
 
     <lb n="25"/><expan><ex>γίνονται</ex></expan> <expan><ex>ὀβολοὶ</ex></expan> <num value="5">ε</num> <num value="1/4" rend="tick">δ</num>. 
 
@@ -112,7 +112,7 @@
 
     <lb n="28"/><expan>Ἡρακλεί<ex>δηι</ex></expan> <expan><ex>ἡμιωβέλιον</ex></expan> <num value="1/2"/>, χόρτος <expan><ex>τέταρτον ὀβολοῦ</ex></expan> <num value="1/4"/>, 
 
-    <lb n="29"/>κίκι <expan><ex>τέταρτον ὀβολοῦ</ex></expan> <num value="1/4"/>, οἶνος σοὶ <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num>, 
+    <lb n="29"/>κίκι <expan><ex>τέταρτον ὀβολοῦ</ex></expan> <num value="1/4"/>, οῖ̓νος σοὶ <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num>, 
 
     <lb n="30"/>ἐργάτηι <expan><ex>ἡμιωβέλιον</ex></expan> <num value="1/2"/>, κράμβη <expan><ex>τέταρτον ὀβολοῦ</ex></expan> <num value="1/4"/>, 
 
@@ -132,7 +132,7 @@
 
     <lb n="38"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><unclear>α</unclear><gap reason="lost" quantity="3" unit="character"/> ἔλαιον ὄψωι <expan><ex>τέταρτον ὀβολοῦ</ex></expan> <num value="1/4"/>, 
 
-    <lb n="39"/><supplied reason="lost">οἶνος</supplied> σοὶ <expan><ex cert="low">ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num>, φόρεθρ<unclear>α</unclear> <num value="2"><expan><ex>διώβολον</ex></expan></num>, 
+    <lb n="39"/><supplied reason="lost">οῖ̓νος</supplied> σοὶ <expan><ex cert="low">ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num>, φόρεθρ<unclear>α</unclear> <num value="2"><expan><ex>διώβολον</ex></expan></num>, 
 
     <lb n="40"/><expan>ῥ<unclear>α</unclear>φά<ex>νια</ex></expan> <gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">,</supplied> ἔλαιον εἰς <supplied reason="omitted">  </supplied> <expan><ex>τέταρτον ὀβολοῦ</ex></expan> <num value="1/4"/>, 
 
@@ -151,7 +151,7 @@
 
     <lb n="46"/><gap reason="lost" extent="unknown" unit="line"/> 
 
-    <lb n="46"/>Ἡρακλείδηι <expan><ex>ἡμιωβέλιον</ex></expan> <num value="1/2"/>, οἶν<supplied reason="lost">ο</supplied>ς σοὶ <num value="2"><expan><ex>διώβολον</ex></expan></num>, 
+    <lb n="46"/>Ἡρακλείδηι <expan><ex>ἡμιωβέλιον</ex></expan> <num value="1/2"/>, οῖ̓ν<supplied reason="lost">ο</supplied>ς σοὶ <num value="2"><expan><ex>διώβολον</ex></expan></num>, 
 
     <lb n="47"/>ὄψον <expan><ex>ἡμιωβέλιον</ex></expan> <num value="1/2"/>, ἄλφιτα <expan><ex>ἡμιωβέλιον</ex></expan> <num value="1/2"/>, ἔλαιον σοὶ <expan><ex>τέταρτον ὀβολοῦ</ex></expan> <num value="1/4"/>, 
 
@@ -163,7 +163,7 @@
 
     <lb n="51"/>καὶ ἔλαιον <expan><ex>τέταρτον ὀβολοῦ</ex></expan> <num value="1/4"/>, ξύλα <expan><ex>ἡμιωβέλιον</ex></expan> <num value="1/2"/> <expan><ex>τέταρτον ὀβολοῦ</ex></expan> <num value="1/4"/>, 
 
-    <lb n="52"/>οἶνος σοὶ <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num>, ῥίσαι <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num>, <unclear>σ</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>θ</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"> ,</supplied> 
+    <lb n="52"/>οῖ̓νος σοὶ <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num>, ῥίσαι <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num>, <unclear>σ</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>θ</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"> ,</supplied> 
 
     <lb n="53"/>ἔλαιον <expan>ὀρνι<ex>θίοις</ex></expan> <expan><ex>τέταρτον ὀβολοῦ</ex></expan> <num value="1/4"/>, καὶ εἰς <expan>βαλα<ex>νεῖον</ex></expan> <expan><ex>τέταρτον ὀβολοῦ</ex></expan> <num value="1/4"/>, 
 

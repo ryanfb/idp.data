@@ -75,7 +75,7 @@
 
     <lb n="11"/>ὀφείλ<unclear>ετ</unclear><supplied reason="lost">αι </supplied><gap reason="lost" extent="unknown" unit="character"/><num value="51"><unclear>να</unclear></num> <num value="1/4" rend="tick">δ</num> 
 <milestone rend="paragraphos" unit="undefined"/>
-    <lb n="12"/>ἀπολ<unclear>ογισ</unclear><supplied reason="lost">μὸς ὧν κατ</supplied>ατέθεικας 
+    <lb n="12"/>ἀπολ<unclear>ογισ</unclear><supplied reason="lost">μὸς ῶ̔ν κατ</supplied>ατέθεικας 
 
     <lb n="13"/>παρὰ Τ<gap reason="lost" extent="unknown" unit="character"/><unclear>ε</unclear>νου 
 
@@ -95,13 +95,13 @@
 
     <lb n="21"/>Ἀ<unclear>πο</unclear>λλόδωρος ζυτηρᾶς Μέμφεως 
 
-    <lb n="22"/><supplied reason="lost">ὑπ</supplied>ὲρ <supplied reason="lost">ὧν</supplied> ἔχεις τὸ σύμβολον <expan>κρ<ex>ιθῆς</ex></expan> <num value="46">μϛ</num> 
+    <lb n="22"/><supplied reason="lost">ὑπ</supplied>ὲρ <supplied reason="lost">ῶ̔ν</supplied> ἔχεις τὸ σύμβολον <expan>κρ<ex>ιθῆς</ex></expan> <num value="46">μϛ</num> 
 
     <lb n="23"/><supplied reason="lost">κ</supplied>αὶ ἀ<supplied reason="lost">πὸ</supplied> τοῦ φορέτρου ὁμοίως <expan>πυ<ex>ροῦ</ex></expan> <num value="13">ιγ</num> <expan>κρ<ex>ιθῆς</ex></expan> <num value="47">μζ</num> <num value="1/2">𐅵</num> 
 
     <lb n="24"/><gap reason="lost" quantity="2" unit="character"/>θ<gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ις</unclear> γράφεις <expan><ex>πυροῦ</ex></expan> <num value="328">τκη</num> φακοῦ <num value="18">ιη</num> <num value="1/12" rend="tick">ιβ</num> 
 
-    <lb n="25"/><gap reason="lost" quantity="3" unit="character"/> κρ<supplied reason="lost">ιθῆς</supplied> <gap reason="illegible" quantity="1" unit="character"/><num value="1"><unclear>α</unclear></num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick"><unclear>δ</unclear></num> <expan><ex>ὧν</ex></expan> παρὰ τὸ εἰς Ἀλεξάνδρειαν 
+    <lb n="25"/><gap reason="lost" quantity="3" unit="character"/> κρ<supplied reason="lost">ιθῆς</supplied> <gap reason="illegible" quantity="1" unit="character"/><num value="1"><unclear>α</unclear></num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick"><unclear>δ</unclear></num> <expan><ex>ῶ̔ν</ex></expan> παρὰ τὸ εἰς Ἀλεξάνδρειαν 
 
     <lb n="26"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/> <unclear>ὡς</unclear> <unclear>τ</unclear>ῶν <num value="102">ρβ</num> <num value="1/2">𐅵</num> <num value="1/3" rend="tick">γ</num> <expan><ex>ἀρτάβαι</ex></expan> <num value="353">τνγ</num> 
 
@@ -146,11 +146,11 @@
 <milestone rend="paragraphos" unit="undefined"/>
     <lb n="47"/>καὶ <unclear>ἀ</unclear><supplied reason="lost">πὸ</supplied> <unclear>τῶ</unclear><supplied reason="lost">ν ἀρουρῶν</supplied> <num value="70">ο</num> <num value="1/2">𐅵</num> <num value="1/12" rend="tick">ιβ</num> <expan>ἀν<ex>ὰ</ex></expan> <expan>κρ<ex>ιθῆς</ex></expan> <subst><add place="inline"><num value="1"><unclear>α</unclear></num></add><del rend="corrected"><num value="4">δ</num></del></subst> <num value="1/2">𐅵</num>, <expan><ex>γίνονται</ex></expan> <expan>κρ<ex>ιθῆς</ex></expan> <num value="106">ρϛ</num>
 
-    <lb n="48"/><expan><ex>γίνονται</ex></expan> <expan>πυ<ex>ροῦ</ex></expan> <num value="18">ιη</num><supplied reason="lost"><num value="1">α</num> <num value="1/3" rend="tick">γ</num> κρι</supplied>θῆς καὶ <expan>κριθ<ex>οπύρου</ex></expan> <num value="478">υοη</num> <num value="1/4" rend="tick">δ</num> <num value="1/8" rend="tick">η</num> <expan><ex>ὧν</ex></expan> 
+    <lb n="48"/><expan><ex>γίνονται</ex></expan> <expan>πυ<ex>ροῦ</ex></expan> <num value="18">ιη</num><supplied reason="lost"><num value="1">α</num> <num value="1/3" rend="tick">γ</num> κρι</supplied>θῆς καὶ <expan>κριθ<ex>οπύρου</ex></expan> <num value="478">υοη</num> <num value="1/4" rend="tick">δ</num> <num value="1/8" rend="tick">η</num> <expan><ex>ῶ̔ν</ex></expan> 
 <milestone rend="paragraphos" unit="undefined"/>
     <lb n="49"/>ἐκ Βακ<supplied reason="lost" cert="low">χιάδος</supplied><supplied reason="lost"> ἀπὸ</supplied> <expan>μ<ex>υριάδος</ex></expan> <num value="1">α</num> <num value="10000"/>    <num value="1/2">𐅵</num> <expan>ἀρτ<ex>άβαι</ex></expan> <num value="708">ψη</num> <num value="1/2">𐅵</num> 
 
-    <lb n="50"/>ὡς τῶν <num value="112">ριβ</num> <expan>ἀρτ<ex>άβαι</ex></expan> <num value="85">πε</num> <expan><ex>ὧν</ex></expan> <expan>πυ<ex>ροῦ</ex></expan> <num value="42">μβ</num> <num value="1/2">𐅵</num> 
+    <lb n="50"/>ὡς τῶν <num value="112">ριβ</num> <expan>ἀρτ<ex>άβαι</ex></expan> <num value="85">πε</num> <expan><ex>ῶ̔ν</ex></expan> <expan>πυ<ex>ροῦ</ex></expan> <num value="42">μβ</num> <num value="1/2">𐅵</num> 
 
     <lb n="51"/>καὶ ἀντὶ <gap reason="illegible" quantity="3" unit="character"/> <num value="1/2">𐅵</num> <expan>κρ<ex>ιθῆς</ex></expan> <num value="63"><unclear>ξ</unclear>γ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> 
 
@@ -158,7 +158,7 @@
 <milestone rend="paragraphos" unit="undefined"/>
     <lb n="53"/>ἐκ <choice><reg>Καρανίδος</reg><orig>Κα<unclear>ρ</unclear>ανί<unclear>δ</unclear>ι</orig></choice> <unclear>ἀπὸ</unclear> <num value="3134">Γρλδ</num> <num value="1/2">𐅵</num> <expan><ex>ἀρτάβαι</ex></expan> <num value="435">υλε</num> <num value="1/2">𐅵</num> 
 
-    <lb n="54"/>ὡς τῶν <num value="117">ριζ</num> <num value="2/3">𐅷</num>  <expan><ex>ἀρτάβαι</ex></expan> <num value="76">οϛ</num> <num value="1/4" rend="tick">δ</num> <expan><ex>ὧν</ex></expan> 
+    <lb n="54"/>ὡς τῶν <num value="117">ριζ</num> <num value="2/3">𐅷</num>  <expan><ex>ἀρτάβαι</ex></expan> <num value="76">οϛ</num> <num value="1/4" rend="tick">δ</num> <expan><ex>ῶ̔ν</ex></expan> 
 
     <lb n="55"/><expan>πυρ<ex>οῦ</ex></expan> <num value="38">λ<unclear>η</unclear></num> <num value="1/3" rend="tick">γ</num> καὶ ἀντὶ <num value="38">λη</num> <num value="1/3" rend="tick">γ</num> <expan>κρ<ex>ιθῆς</ex></expan> <num value="57">νζ</num> <num value="1/2">𐅵</num> 
 

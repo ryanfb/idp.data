@@ -36,7 +36,7 @@
           <change when="2013-05-21T09:08:37.696-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Vote - Accept-Straight-to-Finalization - Fine.</change>
           <change when="2013-05-21T09:08:37.68-04:00"
-                 who="http://papyri.info/editor/users/toniasarri">Vote - AcceptText - 25 &lt;:Ἶσιν·|reg|Εἶσιν:&gt; =&gt; &lt;:Ἶσιν|reg|Εἶσιν:&gt;·</change>
+                 who="http://papyri.info/editor/users/toniasarri">Vote - AcceptText - 25 &lt;:Ἶσιν·|reg|Εῖ̓σιν:&gt; =&gt; &lt;:Ἶσιν|reg|Εῖ̓σιν:&gt;·</change>
           <change when="2013-05-21T06:02:10.324-04:00"
                  who="http://papyri.info/editor/users/giuditta%20mirizio">fixed missing line break in orig tag</change>
           <change when="2011-12-14" who="http://papyri.info/editor/users/gabrielbodard">rationalized languages in langUsage</change>
@@ -59,7 +59,7 @@
             <placeName>?</placeName>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
-    <lb n="1"/>ἡμῖν αὐτ<supplied reason="lost">οῖς· </supplied><app type="alternative"><lem><supplied reason="lost">ἔχω</supplied>ν</lem><rdg><supplied reason="lost">ἡμῖ</supplied>ν</rdg></app> οὖν τὸ <supplied reason="lost">ἐ</supplied>
+    <lb n="1"/>ἡμῖν αὐτ<supplied reason="lost">οῖς· </supplied><app type="alternative"><lem><supplied reason="lost">ἔχω</supplied>ν</lem><rdg><supplied reason="lost">ἡμῖ</supplied>ν</rdg></app> οῦ̓ν τὸ <supplied reason="lost">ἐ</supplied>
 
     <lb n="2" break="no"/>πιστόλιον το<unclear>ῦ</unclear><supplied reason="lost">το ἀ</supplied>ντίγραψ<supplied reason="lost">ον</supplied>
 
@@ -105,7 +105,7 @@
 
     <lb n="24" break="no"/>χην καὶ Σαραπάμμωνα
 
-    <lb n="25"/>καὶ <choice><reg>Ἶσιν</reg><orig>Εἶσιν</orig></choice>· <choice><reg>ἀσπάζονται</reg><orig><supplied reason="lost">ἀ</supplied>σπάζεται</orig></choice> ὑμᾶς
+    <lb n="25"/>καὶ <choice><reg>Ἶσιν</reg><orig>Εῖ̓σιν</orig></choice>· <choice><reg>ἀσπάζονται</reg><orig><supplied reason="lost">ἀ</supplied>σπάζεται</orig></choice> ὑμᾶς
 
     <lb n="26"/>Οὐαλερία κ<supplied reason="lost">αὶ</supplied> Ἀφροδεισία
 

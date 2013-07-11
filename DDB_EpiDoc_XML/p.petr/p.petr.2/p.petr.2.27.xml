@@ -72,7 +72,7 @@
 
     <lb n="4"/><expan><ex>ἔτους</ex></expan> <num value="11">ια</num> Μεχὶρ <num value="16">ιϛ</num>. ἔχει Δωρίων ν<supplied reason="lost">αύκληρος </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="5"/><app type="editorial"><lem resp="BL 3.143; cf. 1.362"><gap reason="illegible" quantity="2" unit="character"/> <expan>ἀγ<ex>ωγης</ex></expan> <num value="8000">Η</num> ἐν ὧι</lem><rdg><gap reason="illegible" quantity="4" unit="character"/>ενωι</rdg></app> κατάγεται 
+    <lb n="5"/><app type="editorial"><lem resp="BL 3.143; cf. 1.362"><gap reason="illegible" quantity="2" unit="character"/> <expan>ἀγ<ex>ωγης</ex></expan> <num value="8000">Η</num> ἐν ῶ̔ι</lem><rdg><gap reason="illegible" quantity="4" unit="character"/>ενωι</rdg></app> κατάγεται 
 
     <lb n="6"/><app type="editorial"><lem resp="BL 1.362">ξύλ<supplied reason="lost">α </supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ξυλ<gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
@@ -124,13 +124,13 @@
     <lb n="9"/>Ἀρσινόης Τεσενοῦφις Πάσιτος 
 
 
-    <lb n="10"/>καὶ Ὧρος Πάσιτος <num value="90">ϙ</num> 
+    <lb n="10"/>καὶ Ὧρος Πάσιτος <num value="90">ϙ</num> 
 
     <lb n="11"/>Φιλαγρίδος <app type="editorial"><lem>Ψεναμοῦνις Ἄρέως</lem><rdg>ψ<gap reason="illegible" quantity="1" unit="character"/> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap></rdg></app>  <num value="36">λϛ</num> 
 
     <lb n="12"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>  <num value="28">κη</num> 
 
-    <lb n="13"/><app type="editorial"><lem><supplied reason="lost">Ψινάχεως</supplied> Ὧρος</lem><rdg><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>τος</rdg></app> Ἀμεννέως  <num value="16">ιϛ</num> 
+    <lb n="13"/><app type="editorial"><lem><supplied reason="lost">Ψινάχεως</supplied> Ὧρος</lem><rdg><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>τος</rdg></app> Ἀμεννέως  <num value="16">ιϛ</num> 
 
     <lb n="14"/><app type="editorial"><lem>Εὐημερίας <unclear>Ἐ</unclear>χενε<unclear>μ</unclear>ώυτος</lem><rdg><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/></rdg></app> 
 
@@ -138,7 +138,7 @@
 
     <lb n="16"/><app type="editorial"><lem><num value="19">ιθ</num> <supplied reason="lost">Πηλουσίου</supplied> Ψεναμοῦνις</lem><rdg/></app> 
 
-    <lb n="17"/><app type="editorial"><lem>Τοτοῆτος καὶ Ὧρος Πετενούριος</lem><rdg/></app> 
+    <lb n="17"/><app type="editorial"><lem>Τοτοῆτος καὶ Ὧρος Πετενούριος</lem><rdg/></app> 
 
     <lb n="18"/><app type="editorial"><lem><supplied reason="lost">καὶ Φαβᾶις Φάβι</supplied>τος <num value="110">ρ<unclear>ι</unclear></num> <num value="5"><expan><ex>πεντώβολον</ex></expan></num></lem><rdg/></app> 
 
@@ -146,7 +146,7 @@
 
     <lb n="21"/><app type="editorial"><lem><num value="23">κγ</num> Ἀρσινόης Τεσενοῦφις Πάσιτος</lem><rdg/></app> 
 
-    <lb n="22"/><app type="editorial"><lem>καὶ Ὧρος Π<supplied reason="lost">άσ</supplied>ι<supplied reason="lost">το</supplied>ς <gap reason="illegible" quantity="2" unit="character"/></lem><rdg/></app> 
+    <lb n="22"/><app type="editorial"><lem>καὶ Ὧρος Π<supplied reason="lost">άσ</supplied>ι<supplied reason="lost">το</supplied>ς <gap reason="illegible" quantity="2" unit="character"/></lem><rdg/></app> 
 
     <lb n="23"/><app type="editorial"><lem>Θεαδελφείας Ψινταῆς Ἄρεως <num value="56">νϛ</num></lem><rdg/></app> 
 
@@ -164,13 +164,13 @@
 
     <lb n="30"/><app type="editorial"><lem>Παχράτου</lem><rdg>μεχρατου <certainty match=".." locus="value"/></rdg></app>  <num value="52">νβ</num> 
 
-    <lb n="31"/>Ψινάχεως Ὧρος Ἀμεννέως <num value="16">ιϛ</num> 
+    <lb n="31"/>Ψινάχεως Ὧρος Ἀμεννέως <num value="16">ιϛ</num> 
 
     <lb n="32"/>Πηλουσίου Ψεναμοῦνις <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="33"/><app type="editorial"><lem>Τοτοῆτος</lem><rdg>Τοτῆτος</rdg></app> καὶ Φαβάις Φάβιτος <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="34"/>καὶ Ὧρος <app type="editorial"><lem>Πετενούριος</lem><rdg>Πετενότριος</rdg></app> <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="34"/>καὶ Ὧρος <app type="editorial"><lem>Πετενούριος</lem><rdg>Πετενότριος</rdg></app> <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="35"/>Φιλωτερίδο<supplied reason="lost">ς </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 </ab></div><div n="3,b" type="textpart"><!--milestone unit="4"--><ab>

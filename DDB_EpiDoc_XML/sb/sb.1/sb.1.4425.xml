@@ -280,7 +280,7 @@
 
     <lb n="20"/>τὰ λοιπὰ <del rend="erasure"><num value="27">κζ</num></del> ἐ<supplied reason="lost">κ <expan><ex>δραχμῶν</ex></expan> <num value="17">ιζ<certainty match="../@value" locus="value"/></num> </supplied> <expan><ex>δραχμαὶ</ex></expan> <num value="102">ρβ</num> <expan>χ<ex>αλκοῦς</ex></expan> <num value="1">α</num>, 
 
-    <lb n="21"/><gap reason="illegible" quantity="1" unit="character"/> <expan>γ<unclear>ί</unclear><ex>νεται</ex></expan> ἐπὶ <expan>τ<ex>ὸ αὐτὸ</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <gap reason="illegible" quantity="2" unit="character"/><num value="4">δ</num><gap reason="lost" quantity="2" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <expan><ex>ὧν</ex></expan> ἀναλώ<unclear>σ</unclear>ῃ 
+    <lb n="21"/><gap reason="illegible" quantity="1" unit="character"/> <expan>γ<unclear>ί</unclear><ex>νεται</ex></expan> ἐπὶ <expan>τ<ex>ὸ αὐτὸ</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <gap reason="illegible" quantity="2" unit="character"/><num value="4">δ</num><gap reason="lost" quantity="2" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <expan><ex>ῶ̔ν</ex></expan> ἀναλώ<unclear>σ</unclear>ῃ 
 
     <lb n="22"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ησαν τῶν <num value="1800">Αω</num> τέλους <abbr>κατ</abbr> <abbr>συ<gap reason="illegible" quantity="3" unit="character"/><unclear>μι</unclear></abbr> <expan><ex>δραχμαὶ</ex></expan> <num value="45">με</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num>, 
 
@@ -310,7 +310,7 @@
     <lb n="10"/><expan>τεταρ<unclear>ί</unclear><supplied reason="lost">χ</supplied>ευτ<ex>αι</ex></expan> <expan>δί<unclear>χ</unclear><ex>ωρα</ex></expan> <num value="30">λ</num> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="3" unit="character"/>ε, 
 
 
-    <lb n="11"/>ὧν απη<gap reason="illegible" quantity="1" unit="character"/> <choice><reg>εἰς</reg><orig>ἰς</orig></choice> <expan>Ἀρσινοειτ<ex>ῶν πόλιν</ex></expan> <unclear>τ</unclear>η <gap reason="illegible" quantity="1" unit="character"/> τοῦ <expan>Μεχ<ex>εὶρ</ex></expan> <expan>δίχ<ex>ωρα</ex></expan> <num value="10">ι</num> 
+    <lb n="11"/>ῶ̔ν απη<gap reason="illegible" quantity="1" unit="character"/> <choice><reg>εἰς</reg><orig>ἰς</orig></choice> <expan>Ἀρσινοειτ<ex>ῶν πόλιν</ex></expan> <unclear>τ</unclear>η <gap reason="illegible" quantity="1" unit="character"/> τοῦ <expan>Μεχ<ex>εὶρ</ex></expan> <expan>δίχ<ex>ωρα</ex></expan> <num value="10">ι</num> 
 
     <lb n="12"/>βαδιστηλάτῃ κεράμιον <num value="1">α</num> 
 
@@ -361,7 +361,7 @@
 
     <lb n="3"/>Ἁτρ<supplied reason="lost">ῆ</supplied>τος <expan>ὁμ<ex>οίως</ex></expan> <del rend="erasure"><num value="5">ε</num></del> μετρητοῦ ἥμισυ <num value="1/2"/>, <expan>ὁμ<ex>οίως</ex></expan> Χοιὰκ <expan>ὁ<unclear>μ</unclear><ex>οίως</ex></expan> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="4"/>ὧδε ὄντι <expan>κοτύλ<ex>αι</ex></expan> <num value="4">δ</num> <num value="1/2">𐅵</num> <expan>ἀκταρί<ex>ο</ex>υ</expan> <expan>μετρητ<ex>αὶ</ex></expan> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="4"/>ῶ̔δε ὄντι <expan>κοτύλ<ex>αι</ex></expan> <num value="4">δ</num> <num value="1/2">𐅵</num> <expan>ἀκταρί<ex>ο</ex>υ</expan> <expan>μετρητ<ex>αὶ</ex></expan> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="5"/>καὶ <expan>τ<ex>ῇ</ex></expan> <num value="18">ιη</num> ἀπὸ <choice><reg><expan>ἐλαιουργ<ex>ίου</ex></expan></reg><orig>ἐλεουργ</orig></choice> Κιαλμινσῆσι <expan><unclear>μ</unclear>ετρητ<ex>αὶ</ex></expan> <num value="3">γ</num> 
 

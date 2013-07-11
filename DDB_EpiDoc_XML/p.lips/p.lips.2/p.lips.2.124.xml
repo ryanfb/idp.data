@@ -37,7 +37,7 @@
                  who="http://papyri.info/editor/users/james.cowey">Vote - Accept-Straight-to-Finalization - Fine.</change>
           <change when="2012-08-09T15:54:29.296-04:00"
                  who="http://papyri.info/editor/users/dieter.hagedorn">Z. 25: κδ λεΖψ → μ(υριάδας) κδ Γφοζ (Konvertierungsfehler der Zahl in Leiden+)&#xD;
-Z. 28: ὧ → ὧν  (Eingabefehler der DDbDP)&#xD;
+Z. 28: ῶ̔ → ῶ̔ν  (Eingabefehler der DDbDP)&#xD;
 Z. 29: κγ μζΖψ → μ(υριάδων) κγ Δψοζ (Konvertierungsfehler der Zahl in Leiden+)&#xD;
 Z. 47f.: προεπικε|χωπημένας → προεπικε|χωρημένας (Eingabefehler der DDbDP)&#xD;
 Z. 54: μηδὲν → μηθὲν (BL XII 99)&#xD;
@@ -89,7 +89,7 @@ Ferner fehlende Spatien eingefügt in den Zeilen 35, 48, 61 und 89.</change>
 
     <lb n="2"/>- οἱ δὲ γραμματεῖς τοὺ<unclear>ς</unclear> <unclear>το</unclear>ιούτους παραγράφουσιν
 
-    <lb n="3"/>τὰς κατὰ καιρὸ<supplied reason="lost">ν γ</supplied>ινομένας εἰσφορὰς καὶ τἆλλα
+    <lb n="3"/>τὰς κατὰ καιρὸ<supplied reason="lost">ν γ</supplied>ινομένας εἰσφορὰς καὶ τᾶ̓λλα
 
     <lb n="4"/>παρὰ τὸ δέον -, ἵνα μηθὲν τοιοῦτο γίνηται,
 
@@ -144,7 +144,7 @@ Ferner fehlende Spatien eingefügt in den Zeilen 35, 48, 61 und 89.</change>
 
     <lb n="27"/>παρ<unclear>εδέ</unclear>χοντο οἱ παρὰ τοῦ διοικητοῦ γραμματεῖς τὰ ἐπιβάλλοντα
 
-    <lb n="28"/><supplied reason="lost">κ</supplied><unclear>α</unclear>τʼ <unclear>ἔ</unclear>τος ἐξ ὧν συνήγοντο τῶν ἕως τοῦ <num value="26">κϛ</num> 
+    <lb n="28"/><supplied reason="lost">κ</supplied><unclear>α</unclear>τʼ <unclear>ἔ</unclear>τος ἐξ ῶ̔ν συνήγοντο τῶν ἕως τοῦ <num value="26">κϛ</num> 
 <expan><ex>ἔτους</ex></expan> ἐπὶ σοῦ,
 
     <lb n="29"/><supplied reason="lost">βασιλ</supplied><unclear>ε</unclear>ῦ, <expan><ex>ἀρτάβαι</ex></expan> <num value="8800">Ηω</num>, τῶν δὲ 
@@ -164,7 +164,7 @@ Ferner fehlende Spatien eingefügt in den Zeilen 35, 48, 61 und 89.</change>
 
     <lb n="35"/>εἰς τὴν κατοικίαν μετὰ τὸ σταθῆναι τὸ κεφάλαιον ἐν τῶι <num value="24">κ<unclear>δ</unclear></num> <expan><ex>ἔτει</ex></expan> 
 
-    <lb n="36"/>ὑ<unclear>π</unclear>ὸ τοῦ Διοσκουρίδου ἐν οἷς νομοῖς ἐτελεῖτο ἐπ<unclear>ι</unclear>γραφὴ τὰς 
+    <lb n="36"/>ὑ<unclear>π</unclear>ὸ τοῦ Διοσκουρίδου ἐν οῖ̔ς νομοῖς ἐτελεῖτο ἐπ<unclear>ι</unclear>γραφὴ τὰς 
 μεγίστας σοι
 </ab></div><div n="4" type="textpart"><ab>
 
@@ -189,7 +189,7 @@ Ferner fehlende Spatien eingefügt in den Zeilen 35, 48, 61 und 89.</change>
 
     <lb n="45"/>τὸν καιρὸν μεταλαβόντες ἀντείπαμεν διειληφότ<supplied reason="lost">ες</supplied>
 
-    <lb n="46"/>ἀλλότριον εἶναι τὸ διασαφούμενον τῆς δε<unclear>δο</unclear>μένης <supplied reason="lost">πα</supplied><unclear>ρ</unclear>ʼ ὑμῶν
+    <lb n="46"/>ἀλλότριον εῖ̓ναι τὸ διασαφούμενον τῆς δε<unclear>δο</unclear>μένης <supplied reason="lost">πα</supplied><unclear>ρ</unclear>ʼ ὑμῶν
 
     <lb n="47"/>χάριτος καὶ νῦν δὲ ἀξιοῦμεν βεβαιώσαντας τὰς προεπικε
 
@@ -214,7 +214,7 @@ Ferner fehlende Spatien eingefügt in den Zeilen 35, 48, 61 und 89.</change>
     <lb n="57"/>ἀπολῦσαι δʼ ἡμᾶς καὶ τῶν ἕως τοῦ <num value="32">λβ</num> 
 <expan><ex>ἔτους</ex></expan> παραγραφομένων πρὸς τὴν 
 
-    <lb n="58"/>ἱππικὴν πρόσοδον ὀφειλημάτων ἐν οἷς ἔσται καὶ τὰ πλεῖστα
+    <lb n="58"/>ἱππικὴν πρόσοδον ὀφειλημάτων ἐν οῖ̔ς ἔσται καὶ τὰ πλεῖστα
 </ab></div><div n="5" type="textpart"><ab>
 
     <lb n="59"/>τῶν προ<unclear>κ</unclear>ειμ<supplied reason="lost">έν</supplied>ων ε<unclear>ἰς</unclear> <unclear>τ</unclear><gap reason="illegible" quantity="1" unit="character"/>ν<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="15" unit="character"/>
@@ -223,7 +223,7 @@ Ferner fehlende Spatien eingefügt in den Zeilen 35, 48, 61 und 89.</change>
 
     <lb n="61"/>ἀπὸ τοῦ <num value="26">κϛ</num> <expan><ex>ἔτους</ex></expan> ἕως τοῦ <num value="29">κθ</num> <expan><ex>ἔτους</ex></expan> κατὰ τ<unclear>ὰ</unclear> <unclear>προσταχθέντα</unclear>
 
-    <lb n="62"/><unclear>ἐ</unclear>φʼ <unclear>ὧν</unclear> <unclear>εἰ</unclear>σε<unclear>δ</unclear><gap reason="lost" atLeast="4" atMost="5" unit="character"/><supplied reason="lost"> Σ</supplied>αραπίων ὁ διοικητής 
+    <lb n="62"/><unclear>ἐ</unclear>φʼ <unclear>ῶ̔ν</unclear> <unclear>εἰ</unclear>σε<unclear>δ</unclear><gap reason="lost" atLeast="4" atMost="5" unit="character"/><supplied reason="lost"> Σ</supplied>αραπίων ὁ διοικητής 
 
     <lb n="63"/>ποιῆσαι.
 
@@ -232,7 +232,7 @@ Ferner fehlende Spatien eingefügt in den Zeilen 35, 48, 61 und 89.</change>
     <lb n="65"/>ἀπὸ τῶν <unclear>πρὸς</unclear> <unclear>τ</unclear><supplied reason="lost">ὴ</supplied><unclear>ν</unclear> <unclear>ἱππι</unclear>κὴν πρόσοδ<unclear>ον</unclear> 
 <unclear>καθηκόντων</unclear>
 
-    <lb n="66"/>ὧν γράφει γεγονέναι <expan><ex cert="low">διαρταβίας</ex></expan> ἀπὸ <unclear>τῶν</unclear> <unclear>κλήρων</unclear> ἕως τοῦ <num value="26"><unclear>κϛ</unclear></num> <expan><ex>ἔτους</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="200"><unclear>σ</unclear></num><gap reason="illegible" quantity="1" unit="character"/><num value="1/4" rend="tick">δ</num>
+    <lb n="66"/>ῶ̔ν γράφει γεγονέναι <expan><ex cert="low">διαρταβίας</ex></expan> ἀπὸ <unclear>τῶν</unclear> <unclear>κλήρων</unclear> ἕως τοῦ <num value="26"><unclear>κϛ</unclear></num> <expan><ex>ἔτους</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="200"><unclear>σ</unclear></num><gap reason="illegible" quantity="1" unit="character"/><num value="1/4" rend="tick">δ</num>
 
     <lb n="67"/><gap reason="lost" quantity="15" unit="character"/> ἀντὶ <expan><ex>ἀρτάβας</ex></expan> <num value="32"><unclear>λ</unclear>β</num> <num value="1/12" rend="tick">ιβ</num> τὰς αἱρούσας <num value="60">ξ</num> <num value="1/3" rend="tick">γ</num> <num value="1/12" rend="tick">ιβ</num>
 
@@ -259,14 +259,14 @@ Ferner fehlende Spatien eingefügt in den Zeilen 35, 48, 61 und 89.</change>
     <lb n="77"/>καὶ ἀπὸ τῶν πρὸς τὴν <expan><ex>διαρταβίαν</ex></expan> τοῦ <num value="33">λγ</num> 
 <expan><ex>ἔτους</ex></expan>
 
-    <lb n="78"/>ὧν γράφει προφέρεσθαί τινας ἔχειν τοὺς κ<unclear>λ</unclear>ή<unclear>ρ</unclear>ους ἀγοραστοὺς
+    <lb n="78"/>ῶ̔ν γράφει προφέρεσθαί τινας ἔχειν τοὺς κ<unclear>λ</unclear>ή<unclear>ρ</unclear>ους ἀγοραστοὺς
 
-    <lb n="79"/>ὧν προσήγετο διὰ τὸ δεῖν πρότερον κομίσα<supplied reason="lost">ι</supplied> παρὰ τοῦ διοικητοῦ
+    <lb n="79"/>ῶ̔ν προσήγετο διὰ τὸ δεῖν πρότερον κομίσα<supplied reason="lost">ι</supplied> παρὰ τοῦ διοικητοῦ
 </ab></div><div n="6" type="textpart"><ab>
 
     <lb n="80"/>χρηματισμούς, τοὺς δʼ ἄνδρας προφέρεσθαι μὴ καθ<supplied reason="lost">η</supplied>
 
-    <lb n="81" break="no"/>κόντως περι<unclear>σπᾶ</unclear>σθαι <unclear>μ</unclear>ηδ<unclear>ὲ</unclear> <unclear>γὰ</unclear>ρ ἰσχυρότερ<unclear>ον</unclear> εἶναι
+    <lb n="81" break="no"/>κόντως περι<unclear>σπᾶ</unclear>σθαι <unclear>μ</unclear>ηδ<unclear>ὲ</unclear> <unclear>γὰ</unclear>ρ ἰσχυρότερ<unclear>ον</unclear> εῖ̓ναι
 
     <lb n="82"/>τὸν παρὰ τοῦ διοικητοῦ χρηματισμὸν τῶν περὶ αὐ<unclear>τ</unclear><supplied reason="lost">ῶν</supplied>
 
@@ -293,7 +293,7 @@ Ferner fehlende Spatien eingefügt in den Zeilen 35, 48, 61 und 89.</change>
     <lb n="92"/>σὺν δὲ τ<supplied reason="lost">α</supplied>ῖς ἐν τοῖς ἐπισκεφθησομένοις <expan><ex>ἀρτάβαις</ex></expan> 
 <num value="1785">Αψπε</num> <num value="1/8" rend="tick"><unclear>η</unclear></num>,
 
-    <lb n="93"/>ὥστʼ εἶναι τὰς προκειμένας <num value="22192"><expan>μ<ex>υριάδας</ex></expan> <num value="2">β</num> <num value="2192">Βρϙβ</num></num>.</ab></div></div>
+    <lb n="93"/>ὥστʼ εῖ̓ναι τὰς προκειμένας <num value="22192"><expan>μ<ex>υριάδας</ex></expan> <num value="2">β</num> <num value="2192">Βρϙβ</num></num>.</ab></div></div>
       </body>
    </text>
 </TEI>

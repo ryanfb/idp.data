@@ -60,7 +60,7 @@
 
     <lb n="5"/>εἰς τὸν ὑπάρχοντά μοι 
 
-    <lb n="6"/>οἶκον <subst><add place="inline">Ἀρσινόη</add><del rend="corrected">αρσι<del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/></del>νοη</del></subst> καὶ ὁ ταύτης 
+    <lb n="6"/>οῖ̓κον <subst><add place="inline">Ἀρσινόη</add><del rend="corrected">αρσι<del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/></del>νοη</del></subst> καὶ ὁ ταύτης 
 
     <lb n="7"/>υἱὸς Φατρῆς ᾤχοντο ἔχον
 
@@ -68,11 +68,11 @@
 
     <lb n="9" break="no"/>γραφὴν καὶ ἕτερα βιοτικὰ 
 
-    <lb n="10"/>σύμβολα.  ἐγὼ οὖν <choice><reg>δι<supplied reason="omitted">ὰ</supplied></reg><orig>δι</orig></choice> <supplied reason="omitted">τό</supplied> με ἐν 
+    <lb n="10"/>σύμβολα.  ἐγὼ οῦ̓ν <choice><reg>δι<supplied reason="omitted">ὰ</supplied></reg><orig>δι</orig></choice> <supplied reason="omitted">τό</supplied> με ἐν 
 
     <lb n="11"/>βαρυ<supplied reason="lost">τέ</supplied>ρᾳ ἀρρωστίᾳ <unclear>κῖσ</unclear><supplied reason="lost">θαι </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="12"/>ἐνδ<add place="above">ε</add>ὴς οὖσα τῶν ἀνα<unclear>γ</unclear><supplied reason="lost">καίων </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="12"/>ἐνδ<add place="above">ε</add>ὴς οῦ̓σα τῶν ἀνα<unclear>γ</unclear><supplied reason="lost">καίων </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="13"/>καὶ τοῖς περὶ τὸ σῶμ<supplied reason="lost">α </supplied><gap reason="lost" quantity="4" unit="character"/> 
 
@@ -82,7 +82,7 @@
 
     <lb n="16"/>καταθέσθαι εἰς διατρ<unclear>ο</unclear><supplied reason="lost">φὴν </supplied><gap reason="lost" quantity="3" unit="character"/> 
 
-    <lb n="17"/><choice><reg>τὰ ἄλλα</reg><orig>τἆλλα</orig></choice> οἱ πρ<unclear>οστ</unclear><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="6" unit="character"/> 
+    <lb n="17"/><choice><reg>τὰ ἄλλα</reg><orig>τᾶ̓λλα</orig></choice> οἱ πρ<unclear>οστ</unclear><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="6" unit="character"/> 
 
     <lb n="18"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>
       </body>

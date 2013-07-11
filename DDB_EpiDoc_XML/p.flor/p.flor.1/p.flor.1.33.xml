@@ -87,7 +87,7 @@
 
     <lb n="18"/><app type="editorial"><lem resp="BL 1.137"><supplied reason="lost" cert="low">διαδεχ</supplied><unclear>ο</unclear>μένων<certainty match=".." locus="value"/></lem><rdg><gap reason="lost" quantity="5" unit="character"/><unclear>ομεν</unclear>ων</rdg></app> τὰ μέρη τῶν ἐ<unclear>ξο</unclear>χωτάτων ἐπάρχων <app type="editorial"><lem resp="BL 1.137">δια
 
-    <lb n="19" break="no"/>φόρων</lem><rdg>διὰ <gap reason="illegible" quantity="3" unit="character"/>ων</rdg></app> τε ἡγεμόνω<unclear>ν</unclear>, <app type="editorial"><lem resp="BL 6.38">φ<unclear>υ</unclear><supplied reason="lost">λατ</supplied>τόμενον</lem><rdg><gap reason="lost" quantity="9" unit="character"/>μενον</rdg></app> δὲ οὐδὲν ἧτ<g type="apostrophe"/>τον. </ab></div>
+    <lb n="19" break="no"/>φόρων</lem><rdg>διὰ <gap reason="illegible" quantity="3" unit="character"/>ων</rdg></app> τε ἡγεμόνω<unclear>ν</unclear>, <app type="editorial"><lem resp="BL 6.38">φ<unclear>υ</unclear><supplied reason="lost">λατ</supplied>τόμενον</lem><rdg><gap reason="lost" quantity="9" unit="character"/>μενον</rdg></app> δὲ οὐδὲν ῆ̔τ<g type="apostrophe"/>τον. </ab></div>
       </body>
    </text>
 </TEI>

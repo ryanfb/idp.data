@@ -72,13 +72,13 @@
     <lb n="7"/>ἀργυρίου τάλαντα πέντε <num value="5"/> καὶ δραχμὰς τρισχιλίας <choice><reg><num value="3000"/></reg><orig>τρισχειλιας</orig></choice> 
 
 
-    <lb n="8"/>διακοσίας <expan>γ<ex>ίνεται</ex></expan> <expan>ἀργ<ex>υρίου</ex></expan> <supplied reason="lost"><expan><ex>τάλαντα</ex></expan></supplied> <num value="5">ε</num> καὶ <expan><ex>δραχμαὶ</ex></expan> <num value="3200">Γσ</num> <choice><reg>ὧν</reg><orig>ὡ<add place="above">τ</add>ν</orig></choice> πάν
+    <lb n="8"/>διακοσίας <expan>γ<ex>ίνεται</ex></expan> <expan>ἀργ<ex>υρίου</ex></expan> <supplied reason="lost"><expan><ex>τάλαντα</ex></expan></supplied> <num value="5">ε</num> καὶ <expan><ex>δραχμαὶ</ex></expan> <num value="3200">Γσ</num> <choice><reg>ῶ̔ν</reg><orig>ὡ<add place="above">τ</add>ν</orig></choice> πάν
 
     <lb n="9" break="no"/>των τὸν λόγον καταχωριεῖ εἰς τὸ πολιτικὸν 
 
-    <lb n="10"/>λογιστήριον καὶ οἷς προσήκει λόγου <expan>φυλ<ex>ασσομένου</ex></expan> τῇ πόλει 
+    <lb n="10"/>λογιστήριον καὶ οῖ̔ς προσήκει λόγου <expan>φυλ<ex>ασσομένου</ex></expan> τῇ πόλει 
 
-    <lb n="11"/>καὶ τῇ βουλῇ περὶ οὗ ἔχουσι παντὸς δικαίου 
+    <lb n="11"/>καὶ τῇ βουλῇ περὶ οῦ̔ ἔχουσι παντὸς δικαίου 
 
     <lb n="12"/><expan><ex>ἔτους</ex></expan> <num value="15">ιε</num> Θώθ 
 
@@ -100,9 +100,9 @@
 
     <lb n="21"/>νομίσματος <expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>τάλαντα</ex></expan> πέντε <num value="5"/> καὶ <expan><ex>δραχμὰς</ex></expan> <choice><reg>τρισχιλίας</reg><orig>τρισχειλίας</orig></choice> <num value="3000"/> 
 
-    <lb n="22"/>διακ<unclear>ο</unclear>σί<unclear>α</unclear>ς <expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="5">ε</num> <supplied reason="lost"><expan><ex>δραχμὰς</ex></expan></supplied> <num value="3200">Γσ</num> <space extent="unknown" unit="character"/> ὧν τὸ<supplied reason="lost">ν</supplied> 
+    <lb n="22"/>διακ<unclear>ο</unclear>σί<unclear>α</unclear>ς <expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="5">ε</num> <supplied reason="lost"><expan><ex>δραχμὰς</ex></expan></supplied> <num value="3200">Γσ</num> <space extent="unknown" unit="character"/> ῶ̔ν τὸ<supplied reason="lost">ν</supplied> 
 
-    <lb n="23"/><expan>λό<supplied reason="lost">γ</supplied><ex>ον</ex></expan> <expan>κατα<supplied reason="lost">χω</supplied>ρίσ<ex>ω</ex></expan> εἰς <supplied reason="lost">τὸ <expan>πολ<ex>ιτικὸν</ex></expan> <expan>λογ<ex>ιστήριον</ex></expan> καὶ οἷς </supplied><expan><supplied reason="lost">προσ</supplied>ήκ<ex>ει</ex></expan> 
+    <lb n="23"/><expan>λό<supplied reason="lost">γ</supplied><ex>ον</ex></expan> <expan>κατα<supplied reason="lost">χω</supplied>ρίσ<ex>ω</ex></expan> εἰς <supplied reason="lost">τὸ <expan>πολ<ex>ιτικὸν</ex></expan> <expan>λογ<ex>ιστήριον</ex></expan> καὶ οῖ̔ς </supplied><expan><supplied reason="lost">προσ</supplied>ήκ<ex>ει</ex></expan> 
 
     <lb n="24"/><expan><ex>ἔτους</ex></expan> <supplied reason="lost"><num value="15">ιε</num></supplied> Αὐτο<unclear>κ</unclear><supplied reason="lost">ράτορος Καίσαρ</supplied>ος Π<supplied reason="lost">ου</supplied>π<supplied reason="lost">λ</supplied>ίο<supplied reason="lost">υ</supplied> Λι<supplied reason="lost">κιννίου</supplied> 
 

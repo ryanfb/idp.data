@@ -69,9 +69,9 @@
 
     <lb n="7,ms"/><handShift new="m2"/> <num value="5">ε</num>  <num value="43">μγ</num>  <num value="17">ιζ</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num> 
 
-    <lb n="7"/><g type="parens-punctuation-opening"/> <handShift new="m1"/> <expan>ο<unclear>ἰ</unclear>κί<ex>α</ex></expan> <expan>Σατ<unclear>ύρ</unclear>ο<ex>υ</ex></expan> ἐν ἧι Πάπ<unclear>ος</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="7"/><g type="parens-punctuation-opening"/> <handShift new="m1"/> <expan>ο<unclear>ἰ</unclear>κί<ex>α</ex></expan> <expan>Σατ<unclear>ύρ</unclear>ο<ex>υ</ex></expan> ἐν ῆ̔ι Πάπ<unclear>ος</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="8"/><expan>οἰκί<ex>α</ex></expan> Στοτοήτεως Τεσε<unclear>νο</unclear><supplied reason="lost">ύφεω</supplied><unclear>ς</unclear> ἐν ἧι <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="8"/><expan>οἰκί<ex>α</ex></expan> Στοτοήτεως Τεσε<unclear>νο</unclear><supplied reason="lost">ύφεω</supplied><unclear>ς</unclear> ἐν ῆ̔ι <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="8/9,ms"/><handShift new="m2"/> <g type="check"/> 
 
@@ -81,7 +81,7 @@
 
     <lb n="11"/><g type="check"/> Στοτοῆτις Στοτοήτ<supplied reason="lost">ε</supplied><unclear>ω</unclear><supplied reason="lost">ς</supplied> τοῦ <unclear>Σ</unclear>τοτο<unclear>ή</unclear><supplied reason="lost">τεως <expan>μη<ex>τρὸς</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="12"/><expan>οἰκί<ex>α</ex></expan> Τρυφᾶτος τῆς Εἰρηναίου ἐ<unclear>ν</unclear> <supplied reason="lost">ἧι </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="12"/><expan>οἰκί<ex>α</ex></expan> Τρυφᾶτος τῆς Εἰρηναίου ἐ<unclear>ν</unclear> <supplied reason="lost">ῆ̔ι </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="13"/><g type="check"/> Στοτοῆτις Στοτοήτεως το<unclear>ῦ</unclear> <unclear>Στ</unclear><supplied reason="lost">οτοήτεως <expan>μη<ex>τρὸς</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -91,7 +91,7 @@
 
     <lb n="15"/><space extent="unknown" unit="character"/> 
 
-    <lb n="15"/><num value="8">η</num> ὧν ὁ <num value="1">α</num> <abbr>π</abbr> <num value="1">α</num> σ<unclear>δ</unclear><gap reason="lost" extent="unknown" unit="character"/> </ab></div>
+    <lb n="15"/><num value="8">η</num> ῶ̔ν ὁ <num value="1">α</num> <abbr>π</abbr> <num value="1">α</num> σ<unclear>δ</unclear><gap reason="lost" extent="unknown" unit="character"/> </ab></div>
       </body>
    </text>
 </TEI>

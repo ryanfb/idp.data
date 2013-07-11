@@ -36,7 +36,7 @@
           <change when="2013-01-03T06:48:32.489-05:00"
                  who="http://papyri.info/editor/users/james.cowey">Vote - Accept-Straight-to-Finalization - lin2 underdot delta in kappa delta lin7 add second slanting stroke li11 add second slanting stroke</change>
           <change when="2012-09-02T07:20:45.407-04:00"
-                 who="http://papyri.info/editor/users/PaulvdLaan">Entered Greek text from P.Rain.Unterricht 83. lin2: choosed for the contextual interpretation of the letter combinations as numbers; lin6: addendum apostrophe in abbreviated ἀφ' ὧν, prevents the text being saved; lin9: not sure about (under)dot after Δ (doesn't look like underdot)</change>
+                 who="http://papyri.info/editor/users/PaulvdLaan">Entered Greek text from P.Rain.Unterricht 83. lin2: choosed for the contextual interpretation of the letter combinations as numbers; lin6: addendum apostrophe in abbreviated ἀφ' ῶ̔ν, prevents the text being saved; lin9: not sure about (under)dot after Δ (doesn't look like underdot)</change>
           <change when="2012-09-02T06:34:04-04:00" who="http://papyri.info/editor">Automated creation from template</change>
       </revisionDesc>
   </teiHeader>
@@ -50,7 +50,7 @@
 <lb n="3"/>Θεμίστου
 <lb n="4"/>κυρ κυρίῳ μου ἀδελφ<surplus>φ</surplus>ῷ <expan>δι<ex>ὰ</ex></expan> Δωροθέου Νει<gap reason="lost" extent="unknown" unit="character"/>
 <lb n="5"/>εω ἕως <num value="60">ξ</num> 
-<lb n="6"/><expan><ex>ἀφ’ ὧν</ex></expan> <unclear>εἰς</unclear> <unclear>ὑ</unclear>πὸ <num value="900">ϡ</num> ἀφ’ ὧν ἰδ<unclear>ίας</unclear> <expan><ex>λίτρας</ex></expan> <num value="4"><unclear>δ</unclear></num> ἕως
+<lb n="6"/><expan><ex>ἀφ’ ῶ̔ν</ex></expan> <unclear>εἰς</unclear> <unclear>ὑ</unclear>πὸ <num value="900">ϡ</num> ἀφ’ ῶ̔ν ἰδ<unclear>ίας</unclear> <expan><ex>λίτρας</ex></expan> <num value="4"><unclear>δ</unclear></num> ἕως
 <lb n="7"/>τῷ τῷ ἕως <num value="15">ιε</num> <g type="slanting-stroke"/><g type="slanting-stroke"/> <expan>νο<ex>μίσματα</ex></expan> <num value="4">δ</num> <gap reason="illegible" quantity="4" unit="character"/> <num value="3/4">𐅸</num> <note xml:lang="en">?</note> <num value="60">ξ</num>
 </ab></div> <div n="v" type="textpart"><ab> 
 

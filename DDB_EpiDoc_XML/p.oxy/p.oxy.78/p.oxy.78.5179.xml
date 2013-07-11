@@ -36,7 +36,7 @@
           <change when="2013-05-22T17:36:35.805-04:00"
                  who="http://papyri.info/editor/users/berkes.lajos">Vote - AcceptText - See Sarri's comment and add: l12: =&gt; 12. Ἀττίωι (γρ(αμματεῖ)) vac.? &lt;#((ἑκατοστῆς))=1/100#&gt; καὶ &lt;#((πεντηκοστῆς))=1/50#&gt; (Πτο(λεμαΐδος)) (Ὅρμ(ου))</change>
           <change when="2013-05-22T17:36:35.758-04:00"
-                 who="http://papyri.info/editor/users/toniasarri">Vote - AcceptText - 5 εἰ οὖν =&gt; vac.? εἰ οὖν</change>
+                 who="http://papyri.info/editor/users/toniasarri">Vote - AcceptText - 5 εἰ οῦ̓ν =&gt; vac.? εἰ οῦ̓ν</change>
           <change when="2013-05-18T20:54:18.969-04:00"
                  who="http://papyri.info/editor/users/Danai%20Bafa">added text</change>
           <change when="2013-05-15T18:44:18-04:00" who="http://papyri.info/editor">Automated creation from template</change>
@@ -51,7 +51,7 @@
 <lb n="2"/>Ἡλιόδωρος ὁ φίλος παρακαλεῖ σε
 <lb n="3"/>διαπέμψασθ<unclear>αι</unclear> αὐτῷ τὰ ἐπιμή
 <lb n="4" break="no"/>νια ἑαυτοῦ, ἐ<unclear>π</unclear>εὶ μὴ τῷ πενθερῷ
-<lb n="5"/>αὐτοῦ διεπέμψω. <space extent="unknown" unit="character"/> εἰ οὖν ὡς γρά
+<lb n="5"/>αὐτοῦ διεπέμψω. <space extent="unknown" unit="character"/> εἰ οῦ̓ν ὡς γρά
 <lb n="6" break="no"/>φει μήπω τῷ πενθερῷ αὐτοῦ <g rend="extension" type="filler"/>
 <lb n="7"/>ἀπεστάλη, εὐθ<unclear>έ</unclear>ως τῷ Ἡλιοδώρῳ
 <lb n="8"/>πέμψον αὐτὰ εἰς Ἀλεξάνδρειαν.

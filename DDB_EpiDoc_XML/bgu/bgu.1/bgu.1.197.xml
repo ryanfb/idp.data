@@ -78,7 +78,7 @@
 
     <lb n="10"/>περὶ τὰ <app type="editorial"><lem resp="BL 1.25">χαλκω<supplied reason="lost">ρύχια <expan>πρό<ex>τερον</ex></expan></supplied></lem><rdg>χαλκω<supplied reason="lost">ρύχια </supplied><gap reason="lost" quantity="3" unit="character"/></rdg></app> 
 
-    <lb n="11"/>Κεφάλωνος κλῆρον ἀρουρῶν δύο <num value="2"/> ἢ ὅσων ἐὰν <app type="editorial"><lem resp="BL 1.25">ᾖ <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="10" unit="character"/></lem><rdg>αἱρ<supplied reason="lost">ῆται ἡ Θερμοῦθις</supplied></rdg></app> 
+    <lb n="11"/>Κεφάλωνος κλῆρον ἀρουρῶν δύο <num value="2"/> ἢ ὅσων ἐὰν <app type="editorial"><lem resp="BL 1.25">ῇ̓ <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="10" unit="character"/></lem><rdg>αἱρ<supplied reason="lost">ῆται ἡ Θερμοῦθις</supplied></rdg></app> 
 
     <lb n="12"/><app type="editorial"><lem resp="BGU 1 p.396">εἰς</lem><rdg>ἐπὶ</rdg></app> ἔτη δύο <num value="2"/> ἀπὸ τοῦ ἐνεστῶτος τετάρτου ἔτους Τιβερίου <app type="editorial"><lem resp="BL 1.25"><supplied reason="lost">Καίσαρος</supplied></lem><rdg><gap reason="lost" quantity="9" unit="character"/></rdg></app> 
 
@@ -96,7 +96,7 @@
 
     <lb n="19" break="no"/>τελείτωσαν</lem><rdg><supplied reason="lost">προ</supplied>στελείτωσαν</rdg></app> οἱ μεμισθωμένοι κατὰ καιρὸν <app type="editorial"><lem resp="BL 6.11"><unclear>ἐκ</unclear> <supplied reason="lost">τοῦ ἰδίου</supplied></lem><rdg><unclear>ἐκ</unclear><gap reason="lost" quantity="7" unit="character"/></rdg></app> 
 
-    <lb n="20"/>καὶ σπείροντες <choice><reg>κατʼ</reg><orig>καθʼ</orig></choice> ἔτος, οἷς ἐὰν αἱρῆται ἡ Θερμοῦθις <app type="editorial"><lem resp="BL 1.25">τ<supplied reason="lost">ῆς</supplied></lem><rdg><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="4" unit="character"/></rdg></app> <supplied reason="lost">αὐτῆς</supplied> 
+    <lb n="20"/>καὶ σπείροντες <choice><reg>κατʼ</reg><orig>καθʼ</orig></choice> ἔτος, οῖ̔ς ἐὰν αἱρῆται ἡ Θερμοῦθις <app type="editorial"><lem resp="BL 1.25">τ<supplied reason="lost">ῆς</supplied></lem><rdg><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="4" unit="character"/></rdg></app> <supplied reason="lost">αὐτῆς</supplied> 
 
     <lb n="21"/>χορηγούσης τὸ δίμοιρον μέρος τῶν εἰς τὴν γῆν <app type="editorial"><lem resp="BL 1.25"><supplied reason="lost">σπειρομένων</supplied></lem><rdg><gap reason="lost" quantity="9" unit="character"/></rdg></app> 
 

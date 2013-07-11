@@ -70,7 +70,7 @@
 
     <lb n="11"/><expan><ex>γίνονται</ex></expan> <num value="1610">Αχι</num> 
 
-    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/>   <expan><ex cert="low">ὧν</ex></expan> <subst><add place="inline"><num value="5">ε</num><add place="above"><num value="4">δ</num></add><num value="5">ε</num></add><del rend="corrected"><num value="525">φκε</num></del></subst>   <num value="390">τϙ</num> <expan><ex>γίνονται</ex></expan> <num value="930">ϡλ</num> </ab></div>
+    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/>   <expan><ex cert="low">ῶ̔ν</ex></expan> <subst><add place="inline"><num value="5">ε</num><add place="above"><num value="4">δ</num></add><num value="5">ε</num></add><del rend="corrected"><num value="525">φκε</num></del></subst>   <num value="390">τϙ</num> <expan><ex>γίνονται</ex></expan> <num value="930">ϡλ</num> </ab></div>
       </body>
    </text>
 </TEI>

@@ -52,7 +52,7 @@
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><div n="1" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="25">κε</num> <num value="2"><expan><ex>διώβολον</ex></expan></num> <expan><ex>ὧν</ex></expan> <expan>ἐδ<ex>όθησαν</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="21">κα</num> <num value="5"><expan><ex>πεντώβολον</ex></expan></num> 
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="25">κε</num> <num value="2"><expan><ex>διώβολον</ex></expan></num> <expan><ex>ῶ̔ν</ex></expan> <expan>ἐδ<ex>όθησαν</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="21">κα</num> <num value="5"><expan><ex>πεντώβολον</ex></expan></num> 
 
     <lb n="2"/><expan>λο<ex>ιπαὶ</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="3">γ</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num>. 
 
@@ -99,7 +99,7 @@
 
     <lb n="14"/><abbr>Τρεμπ<gap reason="illegible" quantity="1" unit="character"/></abbr> <expan><ex>δραχμὰς</ex></expan> <num value="2">β</num> <expan>ὀβ<ex>ολοὺς</ex></expan> <num value="6">ϛ</num> 
 
-    <lb n="15"/>Ὧρος <expan>Ψενσενφθ<unclear>ο</unclear><ex>μώνθου</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="7">ζ</num> <expan>ὀβ<ex>ολοὺς</ex></expan> <num value="6"><unclear>ϛ</unclear></num>. 
+    <lb n="15"/>Ὧρος <expan>Ψενσενφθ<unclear>ο</unclear><ex>μώνθου</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="7">ζ</num> <expan>ὀβ<ex>ολοὺς</ex></expan> <num value="6"><unclear>ϛ</unclear></num>. 
 
     <lb n="16"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <expan><ex>δραχμὰς</ex></expan> <num value="8">η</num>. </ab></div></div>
       </body>

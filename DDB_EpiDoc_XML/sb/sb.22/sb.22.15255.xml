@@ -49,7 +49,7 @@
             <placeName>?</placeName>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
-    <lb n="1"/>οἶνον <choice><reg>δομεστικὸν <app type="alternative"><lem>λαγύνιον</lem><rdg>λάγυνος</rdg></app></reg><orig>δομετικον  λαγι</orig></choice> <num value="1">α</num></ab></div>
+    <lb n="1"/>οῖ̓νον <choice><reg>δομεστικὸν <app type="alternative"><lem>λαγύνιον</lem><rdg>λάγυνος</rdg></app></reg><orig>δομετικον  λαγι</orig></choice> <num value="1">α</num></ab></div>
       </body>
    </text>
 </TEI>

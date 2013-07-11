@@ -38,7 +38,7 @@
           <change when="2012-01-08T08:54:28.385-05:00"
                  who="http://papyri.info/editor/users/joshuad.sosin">Vote - Accept-Straight-to-Finalization - Accept; these are typos and entry-errors. Lin1--&gt; ἔτους; lin18--&gt; παρειλήφασι; lin.v,1.1--&gt; ἀπόδοσις; lin.v,2.1--&gt; ἔτους; lin.v,2.1 fix multiple overstroke</change>
           <change when="2011-08-22T10:21:33.099-04:00"
-                 who="http://papyri.info/editor/users/gclaytor">added diacriticals to regs throughout. l.1: replaced odd symbol + ους with Ἔτους, as in edition. 5: fixed typo: ἀνρὸς &gt; ἀνδρὸς. 12: changed scribal correction from &lt;:ἀρτάβας|subst|αρτλεβας:&gt; to &lt;:ἀρτάβας|subst|ἀρτ(άβας)λε, as the editor indicates. 18: added reg from commentary. 19: replaced "29" with Greek number. 27: changed breathing from οὖ to οὗ to reflect relative (typo in edition). Changed accent on ἄν to ἂν. Verso 1b: added supraline over ιβ (though my preview is not showing this).</change>
+                 who="http://papyri.info/editor/users/gclaytor">added diacriticals to regs throughout. l.1: replaced odd symbol + ους with Ἔτους, as in edition. 5: fixed typo: ἀνρὸς &gt; ἀνδρὸς. 12: changed scribal correction from &lt;:ἀρτάβας|subst|αρτλεβας:&gt; to &lt;:ἀρτάβας|subst|ἀρτ(άβας)λε, as the editor indicates. 18: added reg from commentary. 19: replaced "29" with Greek number. 27: changed breathing from οῦ̓ to οῦ̔ to reflect relative (typo in edition). Changed accent on ἄν to ἂν. Verso 1b: added supraline over ιβ (though my preview is not showing this).</change>
           <change when="2011-03-02" who="http://papyri.info/editor/users/gabrielbodard">batch converted all tei:sic to tei:orig and tei:corr to tei:reg</change>
           <change when="2010-05-05" who="http://papyri.info/editor/users/gabrielbodard">changed schema; added xml:space=preserve; indented; moved title/@n to idno</change>
           <change when="2009-11-12" who="http://papyri.info/editor/users/gabrielbodard">Added language la-Grek</change>
@@ -87,9 +87,9 @@
 
     <lb n="16"/>πυρὸν νέον καθαρ<unclear>ὸ</unclear>ν ἄδολον ἀ<unclear>π</unclear><supplied reason="lost">οκ</supplied><unclear>α</unclear>θεσ
 
-    <lb n="17" break="no"/>τάμενον εἰς οἶκ<supplied reason="lost">ο</supplied><unclear>ν</unclear> πρὸς αὐτ<supplied reason="lost">ὴν ἰδ</supplied><unclear>ίο</unclear>ις
+    <lb n="17" break="no"/>τάμενον εἰς οῖ̓κ<supplied reason="lost">ο</supplied><unclear>ν</unclear> πρὸς αὐτ<supplied reason="lost">ὴν ἰδ</supplied><unclear>ίο</unclear>ις
 
-    <lb n="18"/>ἀ<unclear>νη</unclear>λώμασιν <unclear>μέ</unclear>τρωι ὧι καὶ <choice><reg>παρειλήφασι</reg><orig><unclear>πα</unclear>ρείληφαν</orig></choice>
+    <lb n="18"/>ἀ<unclear>νη</unclear>λώμασιν <unclear>μέ</unclear>τρωι ῶ̔ι καὶ <choice><reg>παρειλήφασι</reg><orig><unclear>πα</unclear>ρείληφαν</orig></choice>
 
     <lb n="19"/>πρὸς τὸ <expan><num value="29">κθ</num>-χ<ex>οίνικον</ex></expan>· ἐὰν δὲ μὴ ἀποδῶ<unclear>σ</unclear><supplied reason="lost">ι</supplied>ν ἐν τῶι
 
@@ -107,7 +107,7 @@
 
     <lb n="26"/><choice><reg>δεδανεισμένων</reg><orig>δεδανισμένων</orig></choice> καὶ ἐξ ἑνὸς καὶ ἑκάστου
 
-    <lb n="27"/>αὐτῶν καὶ ἐξ οὗ <choice><reg>ἂν</reg><orig>ἐὰν</orig></choice> αἱρῆται καὶ ἐκ τῶν
+    <lb n="27"/>αὐτῶν καὶ ἐξ οῦ̔ <choice><reg>ἂν</reg><orig>ἐὰν</orig></choice> αἱρῆται καὶ ἐκ τῶν
 
     <lb n="28"/>ὑπαρχόντων αὐτοῖς πάντων καθά
 

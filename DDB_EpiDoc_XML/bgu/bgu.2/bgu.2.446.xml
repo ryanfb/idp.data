@@ -75,7 +75,7 @@
 
     <lb n="8"/>τίωνος <gap reason="lost" quantity="8" unit="character"/>χου τῷ δευτέρῳ καὶ εἰκοστῷ <choice><reg>ἔτει</reg><orig>ἔτι</orig></choice> θεοῦ Αἰλίου Ἀντωνίνου μηνὶ <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> πα</supplied>
 
-    <lb n="9" break="no"/><unclear>τρικὸν</unclear> ἀ<supplied reason="lost">ρού</supplied>ρης τέταρτον <num value="1/4"/>, ὧν γείτονες τοῦ μὲν τρίτου μέρους τῆς αὐλῆς νό<supplied reason="lost">του </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="9" break="no"/><unclear>τρικὸν</unclear> ἀ<supplied reason="lost">ρού</supplied>ρης τέταρτον <num value="1/4"/>, ῶ̔ν γείτονες τοῦ μὲν τρίτου μέρους τῆς αὐλῆς νό<supplied reason="lost">του </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="10"/>τῆς προγεγραμμένης καὶ ἀποδομένης Σωτηρίας, λιβὸς <choice><reg>ψιλὸς</reg><orig>ψειλὸς</orig></choice> τόπος καὶ τῆς Κε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -85,7 +85,7 @@
 
     <lb n="13"/>ας τετάχθαι, κ<supplied reason="lost">α</supplied>θὼς ἐκ συνφώνου <hi rend="diaeresis">ὑ</hi>πηγόρευσαν, καὶ <choice><reg>εἰς</reg><orig>ἰς</orig></choice> τὴν Σωτηρίδα παρα<supplied reason="lost">κεχωρῆσθαι </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="14"/>εἶναι ἐν κατοικικῇ <choice><reg>τάξει</reg><orig>τάξι</orig></choice>, ἃ καὶ καταγράψει ἡ Σωτηρία τῷ Στοτοήτι, ὁπότε ἐὰ<supplied reason="lost">ν </supplied><app type="editorial"><lem resp="BL 1.46"><supplied reason="lost">αἱρῆται </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> καθαρὰ ἀπὸ</supplied></lem><rdg><supplied reason="lost">αἱρῆται </supplied><gap reason="lost" extent="unknown" unit="character"/></rdg></app> <supplied reason="lost">δη</supplied>
+    <lb n="14"/>εῖ̓ναι ἐν κατοικικῇ <choice><reg>τάξει</reg><orig>τάξι</orig></choice>, ἃ καὶ καταγράψει ἡ Σωτηρία τῷ Στοτοήτι, ὁπότε ἐὰ<supplied reason="lost">ν </supplied><app type="editorial"><lem resp="BL 1.46"><supplied reason="lost">αἱρῆται </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> καθαρὰ ἀπὸ</supplied></lem><rdg><supplied reason="lost">αἱρῆται </supplied><gap reason="lost" extent="unknown" unit="character"/></rdg></app> <supplied reason="lost">δη</supplied>
 
     <lb n="15" break="no"/>μοσίου ἢ ἰδιωτικοῦ καὶ μήπου πεπραμένα μηδὲ ὑποτε<supplied reason="lost">θ</supplied>ειμένα <app type="editorial"><lem resp="BL 6.11">δι<unclear>ὰ</unclear> <supplied reason="lost">μηδενὸς ἀρχείου</supplied><certainty match=".." locus="value"/></lem><rdg>διο<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></rdg></app> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἀπολαμβάνον</supplied>
 

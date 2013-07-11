@@ -66,7 +66,7 @@
 
     <lb n="6"/><app type="editorial"><lem resp="BGU 2 p.353"><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τὰς ὑπαρχούσ</supplied>ας</lem><rdg><gap reason="lost" quantity="25" unit="character"/></rdg></app> αὐτῇ περὶ κώμην Σαμαρίαν ἤτοι Κερκεσῆφιν κλήρου κα<supplied reason="lost">τοικικοῦ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἐξηγη</supplied>τεύσαντος ἐπὶ τοῖς οὖσι αὐτῶ<supplied reason="lost">ν</supplied> ὁρίοις καὶ ποτίστραις κ<supplied reason="lost">αὶ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἐξηγη</supplied>τεύσαντος ἐπὶ τοῖς οῦ̓σι αὐτῶ<supplied reason="lost">ν</supplied> ὁρίοις καὶ ποτίστραις κ<supplied reason="lost">αὶ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="8"/><app type="editorial"><lem resp="BGU 2 p.353"><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> κατὰ τὴν ἐξ ἀρχῆς καὶ μέ</supplied>χρι</lem><rdg><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> μέ</supplied>χρι</rdg></app> τοῦ νῦν <choice><reg>συνηθείαν</reg><orig>συνηθίαν</orig></choice> καὶ ὡς διὰ δημοσίων <app type="editorial"><lem resp="BGU 2 p.353">βιβλίω<supplied reason="lost">ν δεδήλωται </supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>βιβλίω<supplied reason="lost">ν </supplied><gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
@@ -102,7 +102,7 @@
 
     <lb n="24"/><app type="editorial"><lem resp="BGU 2 p.353"><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> κώμη</supplied>ν <certainty match=".." locus="value"/></lem><rdg><gap reason="lost" extent="unknown" unit="character"/>ν</rdg></app> Σαμάριαν ἤτο<supplied reason="lost">ι</supplied> Κ<supplied reason="lost">ερκε</supplied>σῆφ<supplied reason="lost">ιν</supplied> κλήρου κατ<supplied reason="lost">οικικοῦ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="25"/><gap reason="lost" extent="unknown" unit="character"/>νείνου ἐξηγητεύσαντος ὧν <choice><reg>γειτνίαι</reg><orig>γιτνίαι</orig></choice> πρόκειν<supplied reason="lost">ται </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="25"/><gap reason="lost" extent="unknown" unit="character"/>νείνου ἐξηγητεύσαντος ῶ̔ν <choice><reg>γειτνίαι</reg><orig>γιτνίαι</orig></choice> πρόκειν<supplied reason="lost">ται </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="26"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> κ</supplied>αθαρὰς ὡς πρόκειται καὶ ἐπερωτηθεῖσ<supplied reason="lost">α</supplied> ὡμο<supplied reason="lost">λόγησα.</supplied> 
 

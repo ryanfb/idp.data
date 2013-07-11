@@ -339,7 +339,7 @@
 
     <lb n="126"/><expan>κριθοπύρ<ex>ου</ex></expan>        <num value="298">σϙη</num> 
 
-    <lb n="127"/>καὶ ὧι πλείω προστιθέ<unclear>μ</unclear><supplied reason="lost">εθα</supplied> 
+    <lb n="127"/>καὶ ῶ̔ι πλείω προστιθέ<unclear>μ</unclear><supplied reason="lost">εθα</supplied> 
 
     <lb n="128"/>αὐτῶι ἐν τῶι <num value="34">λδ</num> <expan><ex>ἔτει</ex></expan> πα<unclear>ρ</unclear>ὰ τὴ<unclear>ν</unclear> 
 
@@ -367,7 +367,7 @@
 
     <lb n="140"/><expan>κριθ<ex>ῆς</ex></expan>                <num value="1899">Αωϙθ</num> 
 
-    <lb n="141"/><handShift new="m2"/> περὶ <subst><add place="inline"><unclear>ὧ</unclear>ν</add><del rend="corrected">ο</del></subst> πέμπει συμφωνήσας τὰ αὐ<unclear>τὰ</unclear> 
+    <lb n="141"/><handShift new="m2"/> περὶ <subst><add place="inline"><unclear>ῶ̔</unclear>ν</add><del rend="corrected">ο</del></subst> πέμπει συμφωνήσας τὰ αὐ<unclear>τὰ</unclear> 
 
     <lb n="142"/>πλήθη τὴν <add place="above">ἐν τῆι</add> <subst><add place="inline">ἐπιστολῆι</add><del rend="corrected">επιστολην</del></subst> ἐλάσσω <unclear>π</unclear>ροεῖται 
 
@@ -399,7 +399,7 @@
 
     <lb n="154"/>κνήκου                    <num value="4">δ</num> 
 
-    <lb n="155"/>μήκωνος περὶ ἧς φῆις συν
+    <lb n="155"/>μήκωνος περὶ ῆ̔ς φῆις συν
 
     <lb n="156" break="no"/>κεκρίσθαι τὰ ἐνεχυρασθέν
 
@@ -523,7 +523,7 @@
 
     <lb n="214"/><del rend="erasure">Ἐπεὶφ <num value="20"><unclear>κ</unclear></num> Χα<unclear>ι</unclear><supplied reason="lost">ριγέ</supplied>νει <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/></del> 
 
-    <lb n="215"/><del rend="erasure">  ὧν ε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ε</unclear><gap reason="lost" quantity="4" unit="character"/>     <gap reason="illegible" quantity="2" unit="character"/></del> 
+    <lb n="215"/><del rend="erasure">  ῶ̔ν ε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ε</unclear><gap reason="lost" quantity="4" unit="character"/>     <gap reason="illegible" quantity="2" unit="character"/></del> 
 
     <lb n="216"/>καὶ πρὸς τὸν τοῦ <num value="35">λε</num> <expan><ex>ἔτους</ex></expan> 
 
@@ -605,7 +605,7 @@
 
     <lb n="254"/><supplied reason="lost">κεφάλαιον</supplied> πα<supplied reason="lost">ν</supplied>τὸς 
 
-    <lb n="255"/><supplied reason="lost">οὗ</supplied> ἔχει <unclear>ἕω</unclear>ς Ἐπ<supplied reason="lost">ε</supplied>ὶφ 
+    <lb n="255"/><supplied reason="lost">οῦ̔</supplied> ἔχει <unclear>ἕω</unclear>ς Ἐπ<supplied reason="lost">ε</supplied>ὶφ 
 
     <lb n="256"/><unclear>τ</unclear>οῦ ἐν τῶι <num value="35">λ<unclear>ε</unclear></num> <expan><ex>ἔτει</ex></expan> 
 </ab></div><div n="ms,11" type="textpart"><!--milestone unit="4"--><ab>
@@ -751,7 +751,7 @@
 
     <lb n="306"/>ὑπὸ τῶν ἐκ τοῦ λογιστηρίου 
 
-    <lb n="307"/>ὧι πλεί<unclear>ω</unclear> ἔχεις εἰς τὰς <choice><reg>λοιπάδα<supplied reason="lost">ς</supplied></reg><orig>λοιπάτα<supplied reason="lost">ς</supplied></orig></choice> 
+    <lb n="307"/>ῶ̔ι πλεί<unclear>ω</unclear> ἔχεις εἰς τὰς <choice><reg>λοιπάδα<supplied reason="lost">ς</supplied></reg><orig>λοιπάτα<supplied reason="lost">ς</supplied></orig></choice> 
 
     <lb n="308"/>ἐκ τῆς κατὰ <choice><reg>φύλ<supplied reason="omitted">λ</supplied>ον</reg><orig>φύλον</orig></choice> γεωμε 
 
@@ -771,7 +771,7 @@
 
     <lb n="316"/>καὶ κριθοπύρου     <expan>ἀρ<ex>τάβας</ex></expan> <num value="500">φ</num> 
 
-    <lb n="317"/>ἀφαιρουμένων <g type="parens-punctuation-opening"/>ὧν ἐξωμο<g type="parens-punctuation-closing"/>
+    <lb n="317"/>ἀφαιρουμένων <g type="parens-punctuation-opening"/>ῶ̔ν ἐξωμο<g type="parens-punctuation-closing"/>
 
     <lb n="318" break="no"/><g type="parens-punctuation-opening"/>λόγησαι ἐπʼ Ἀγαθοκλέους<g type="parens-punctuation-closing"/> 
 

@@ -209,7 +209,7 @@
 
     <lb n="71" rend="inverse"/> ἀπὸ τῶν ἀπὸ <expan>Πτ<unclear>ύθ</unclear><ex>εως</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="66">ξϛ</num>
 
-    <lb n="72" rend="inverse"/> <expan><ex>ὧν</ex></expan> ἔχει Γέρων <expan><ex>τάλαντα</ex></expan> <num value="35">λε</num> <expan><ex>δραχμαὶ</ex></expan> <num value="4100">Δ<unclear>ρ</unclear></num> <num value="354100"/>
+    <lb n="72" rend="inverse"/> <expan><ex>ῶ̔ν</ex></expan> ἔχει Γέρων <expan><ex>τάλαντα</ex></expan> <num value="35">λε</num> <expan><ex>δραχμαὶ</ex></expan> <num value="4100">Δ<unclear>ρ</unclear></num> <num value="354100"/>
 
     <lb n="73" rend="inverse"/> <expan>Πετενεφώ<ex>τῃ</ex></expan> ὥσ<add place="above">τε</add> τοῖς Τεν
 
@@ -306,11 +306,11 @@
 
     <lb n="118"/><num value="55"><unclear>ν</unclear>ε</num>
 
-    <lb n="119" rend="inverse"/> <subst><add place="inline">λόγος</add><del rend="corrected">ωογος</del></subst> ὧν ἐ<unclear>δ</unclear>εξάμην·
+    <lb n="119" rend="inverse"/> <subst><add place="inline">λόγος</add><del rend="corrected">ωογος</del></subst> ῶ̔ν ἐ<unclear>δ</unclear>εξάμην·
 
     <lb n="120" rend="inverse"/> ἀπὸ <abbr>Χηνο<unclear>β</unclear></abbr> <expan><unclear>ἀργ</unclear><ex>υρίου</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="10">ι</num>
 
-    <lb n="121" rend="inverse"/> ἀπὸ Παπιρίου <expan><ex>τάλαντα</ex></expan> <num value="30">λ</num> ἐ<unclear>ν</unclear> ο<unclear>ἷς</unclear> <expan>Ἰτα<unclear>λ</unclear><ex>ικοῦ</ex></expan> <num value="13"><unclear>ιγ</unclear></num> <num value="1/2">𐅵</num> <num value="13500"/>
+    <lb n="121" rend="inverse"/> ἀπὸ Παπιρίου <expan><ex>τάλαντα</ex></expan> <num value="30">λ</num> ἐ<unclear>ν</unclear> ο<unclear>ῖ̔ς</unclear> <expan>Ἰτα<unclear>λ</unclear><ex>ικοῦ</ex></expan> <num value="13"><unclear>ιγ</unclear></num> <num value="1/2">𐅵</num> <num value="13500"/>
 
     <lb n="122" rend="inverse"/> ἀπὸ <expan>Ψενπνήχθ<ex>ιος</ex></expan> πρεσ
 
@@ -805,7 +805,7 @@
 
     <lb n="361" rend="inverse"/> <gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> Πααχιλλέως <gap reason="lost" extent="unknown" unit="character"/> <num value="4000"><unclear>Δ</unclear></num>
 
-    <lb n="362" rend="inverse"/> <supplied reason="lost" cert="low"><expan><ex>ὧν</ex></expan> </supplied> ἔσχον <expan>δι<ex>ὰ</ex></expan> Στατιλλίο<supplied reason="lost">υ </supplied><gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="362" rend="inverse"/> <supplied reason="lost" cert="low"><expan><ex>ῶ̔ν</ex></expan> </supplied> ἔσχον <expan>δι<ex>ὰ</ex></expan> Στατιλλίο<supplied reason="lost">υ </supplied><gap reason="lost" extent="unknown" unit="character"/>
 
     <lb n="363" rend="inverse"/> <expan><supplied reason="lost">δι</supplied><ex>ὰ</ex></expan> τοῦ υἱοῦ αὐτοῦ <expan>Ἠλ<ex>ίου</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
 

@@ -56,7 +56,7 @@
             <ref n="chr.mitt;;94" type="reprint-from">P.Stras 1.20; Chr.Mitt 94</ref>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
-    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>Αὐρ<ex>ήλιοι</ex></expan> Γελάσιος καὶ ὡς χρηματίζ</supplied><unclear>ει</unclear> καὶ Εὖς <unclear>Πελ</unclear>αίου γενομένου <supplied reason="lost">β</supplied>ουλευτοῦ <expan>Ἑρμου<supplied reason="lost">π</supplied><unclear>ό</unclear><supplied reason="lost">λ<ex>εως</ex></supplied></expan> 
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>Αὐρ<ex>ήλιοι</ex></expan> Γελάσιος καὶ ὡς χρηματίζ</supplied><unclear>ει</unclear> καὶ Εῦ̓ς <unclear>Πελ</unclear>αίου γενομένου <supplied reason="lost">β</supplied>ουλευτοῦ <expan>Ἑρμου<supplied reason="lost">π</supplied><unclear>ό</unclear><supplied reason="lost">λ<ex>εως</ex></supplied></expan> 
 
     <lb n="2"/><supplied reason="lost">τῆς μεγάλης ἀρχαίας</supplied> καὶ σεμνοτάτης καὶ λαμπροτάτης εἰδυ<hi rend="diaeresis">ῖ</hi>α γράμματα 
 
@@ -94,7 +94,7 @@
 
     <lb n="19" break="no"/><supplied reason="lost">ρ</supplied>ου με<gap reason="illegible" quantity="3" unit="character"/>οι <gap reason="lost" quantity="1" unit="character"/> βιβλιδίο<unclear>ις</unclear>. ἡ ἀνεγ<g type="apostrophe"/>κλησία κυρία <choice><reg>δισσὴ</reg><orig>δισσὰ</orig></choice> γραφεῖσα ὁμότυ
 
-    <lb n="20" break="no"/><supplied reason="lost">π</supplied>ος εἰς τὸ π<supplied reason="lost">α</supplied>ρʼ ἑκατέρ<supplied reason="lost">ῳ</supplied> <choice><reg>μέρει</reg><orig>μέρι</orig></choice> εἶναι μοναχὴν καὶ ἀντεπερωτηθέντες 
+    <lb n="20" break="no"/><supplied reason="lost">π</supplied>ος εἰς τὸ π<supplied reason="lost">α</supplied>ρʼ ἑκατέρ<supplied reason="lost">ῳ</supplied> <choice><reg>μέρει</reg><orig>μέρι</orig></choice> εῖ̓ναι μοναχὴν καὶ ἀντεπερωτηθέντες 
 
     <lb n="21"/>ὑπʼ ἀ<supplied reason="lost">λλ</supplied>ήλων ὡμολο<supplied reason="lost">γή</supplied>σαμεν· <expan><ex>ἔτους</ex></expan> <num value="3">γ</num> Αὐτοκράτορος Καίσαρος 
 
@@ -104,7 +104,7 @@
 
     <lb n="24"/><supplied reason="lost">κ</supplied>αὶ ὡς χρ<supplied reason="lost">ημα</supplied>τίζω <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> οὐδὲ <add place="above">ἐν</add>καλέσω <supplied reason="lost">ὡς</supplied> πρόκιται. <handShift new="m3"/> Αὐρηλ<supplied reason="lost">ί</supplied>
 
-    <lb n="25" break="no"/>α Εὖς <supplied reason="lost" cert="low">συν</supplied>επιδ<unclear>ώσ</unclear>ω οὐδὲν <choice><reg>ἐγκαλέσω</reg><orig>ἐνκενλεν<supplied reason="lost">σ</supplied>ω</orig></choice> ὡ<unclear>ς</unclear> 
+    <lb n="25" break="no"/>α Εῦ̓ς <supplied reason="lost" cert="low">συν</supplied>επιδ<unclear>ώσ</unclear>ω οὐδὲν <choice><reg>ἐγκαλέσω</reg><orig>ἐνκενλεν<supplied reason="lost">σ</supplied>ω</orig></choice> ὡ<unclear>ς</unclear> 
 
     <lb n="26"/>πρόκι<supplied reason="lost">ται</supplied>. <handShift new="m4"/> <expan>Αὐρ<ex>ήλιος</ex></expan> Σιλβ<supplied reason="lost">α</supplied>νὸς ὁ <expan>προκ<ex>είμενος</ex></expan> παρίστημι <supplied reason="lost">ὡ</supplied>ς <expan>πρόκ<ex>ειται</ex></expan>. <g type="x"/> </ab></div>
       </body>

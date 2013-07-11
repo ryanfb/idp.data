@@ -59,7 +59,7 @@
 
     <lb n="2"/>χαίρειν καὶ <app type="editorial"><lem resp="BL 1.187"><supplied reason="lost">διὰ παντὸς </supplied><supplied reason="lost" cert="low">ἐρρ</supplied><unclear>ω</unclear>μένων<certainty match=".." locus="value"/></lem><rdg><gap reason="lost" quantity="8" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>μένων</rdg></app> 
 
-    <lb n="3"/>διευτυχεῖ<supplied reason="lost">ν. καλῶς οὖ</supplied>ν <choice><reg>ποιήσεις</reg><orig>ποιήσις</orig></choice> 
+    <lb n="3"/>διευτυχεῖ<supplied reason="lost">ν. καλῶς οῦ̓</supplied>ν <choice><reg>ποιήσεις</reg><orig>ποιήσις</orig></choice> 
 
     <lb n="4"/>μὴ ἀμελήσ<supplied reason="lost">α</supplied>ς <app type="editorial"><lem resp="BL 1.187">ἀ<supplied reason="lost">λλ</supplied></lem><rdg>α<gap reason="lost" quantity="2" unit="character"/></rdg></app><supplied reason="lost"> ἀγο</supplied>ράσαι <gap reason="illegible" quantity="2" unit="character"/>υ
 

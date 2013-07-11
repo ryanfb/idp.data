@@ -58,9 +58,9 @@
 
     <lb n="1"/><gap reason="lost" quantity="45" unit="character"/><supplied reason="lost">                                      σὺν</supplied> 
 
-    <lb n="2"/><supplied reason="lost">αἷς λημψόμεθα πυροῦ ἀρ</supplied><unclear>τά</unclear>βας <num value="3">γ</num> πυροῦ <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="6" unit="character"/> 
+    <lb n="2"/><supplied reason="lost">αῖ̔ς λημψόμεθα πυροῦ ἀρ</supplied><unclear>τά</unclear>βας <num value="3">γ</num> πυροῦ <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="6" unit="character"/> 
 
-    <lb n="3"/> <gap reason="lost" quantity="14" unit="character"/><supplied reason="lost">      τῷ <num value="1">α</num> καὶ <num value="3">γ</num></supplied> <choice><reg>ἔτει</reg><orig><unclear>ἔ</unclear>τι</orig></choice> ὁμοίως σὺν αἷς <choice><reg>λημψόμεθα</reg><orig>λημψόμ<unclear>α</unclear>ι<unclear>θα</unclear></orig></choice> πυ
+    <lb n="3"/> <gap reason="lost" quantity="14" unit="character"/><supplied reason="lost">      τῷ <num value="1">α</num> καὶ <num value="3">γ</num></supplied> <choice><reg>ἔτει</reg><orig><unclear>ἔ</unclear>τι</orig></choice> ὁμοίως σὺν αῖ̔ς <choice><reg>λημψόμεθα</reg><orig>λημψόμ<unclear>α</unclear>ι<unclear>θα</unclear></orig></choice> πυ
 
     <lb n="4" break="no"/><supplied reason="lost">ροῦ ἀρτάβας </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> πυροῦ ἀρταβ</supplied><unclear>ῶ</unclear>ν τριάκ<unclear>ο</unclear>ντα ἐννέα <num value="39"/>, τῷ δὲ <expan>δευτέ<ex>ρῳ</ex></expan> 
 
@@ -68,7 +68,7 @@
 
     <lb n="6"/><supplied reason="lost">ἀργυρίου <expan><ex>δραχμῶν</ex></expan> </supplied><gap reason="lost" quantity="7" unit="character"/><supplied reason="lost"> κον</supplied>τα ἕξ, καὶ τῶν ἄλλων <expan><ex>ἀρουρῶν</ex></expan> <num value="3">γ</num> ὁμοίως καὶ 
 
-    <lb n="7"/><supplied reason="lost">τῷ <num value="1">α</num> καὶ <num value="3">γ</num> ἔτει τῆς μισ</supplied>θώσεως σὺν αἷς λημψόμ<unclear>εθα</unclear> <expan>κριθ<ex>ῆς</ex></expan> 
+    <lb n="7"/><supplied reason="lost">τῷ <num value="1">α</num> καὶ <num value="3">γ</num> ἔτει τῆς μισ</supplied>θώσεως σὺν αῖ̔ς λημψόμ<unclear>εθα</unclear> <expan>κριθ<ex>ῆς</ex></expan> 
 
     <lb n="8"/><supplied reason="lost">ἀρτάβας <num value="3">γ<certainty match="../@value" locus="value"/></num>  κριθῆς ἀρτα</supplied>βῶν τριάκοντα ἕξ <num value="36"/>, τῷ δὲ δευτέρῳ <choice><reg>ἔτει</reg><orig><unclear>ἔτι</unclear></orig></choice> 
 
@@ -76,13 +76,13 @@
 
     <lb n="10" break="no"/><supplied reason="lost">γυρίου <expan><ex>δραχμῶν</ex></expan> </supplied><gap reason="lost" quantity="5" unit="character"/><supplied reason="lost"> κο</supplied>ντα <unclear>ἕ</unclear>ξ, τῶν δὲ <expan><ex>ἀρουρῶν</ex></expan> <num value="2">β</num> <num value="1/2">𐅵</num> ὁμοίως τῷ <num value="1">α</num> <expan><ex>ἔτει</ex></expan> καὶ <num value="2">β</num> <expan><ex>ἔτει</ex></expan> 
 
-    <lb n="11"/><supplied reason="lost">τῆς μισθώσεως σὺν</supplied> <unclear>α</unclear>ἷς λημψόμε<unclear>θα</unclear> σπερμάτων π<unclear>υ</unclear>ροῦ μ<unclear>ὲ</unclear>ν μ<unclear>έ</unclear>
+    <lb n="11"/><supplied reason="lost">τῆς μισθώσεως σὺν</supplied> <unclear>α</unclear>ῖ̔ς λημψόμε<unclear>θα</unclear> σπερμάτων π<unclear>υ</unclear>ροῦ μ<unclear>ὲ</unclear>ν μ<unclear>έ</unclear>
 
     <lb n="12" break="no"/><supplied reason="lost">τρα </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">  κριθῆς δὲ μέτρ</supplied><unclear>α</unclear> ἓξ <num value="6"/>  πυροῦ ἀρταβῶν <unclear>πέ</unclear>ντε <num value="5"/> καὶ κριθῆς ἀρτα
 
     <lb n="13" break="no"/><supplied reason="lost">βῶν </supplied><gap reason="lost" quantity="16" unit="character"/><unclear>τ</unclear><gap reason="illegible" quantity="1" unit="character"/>ας δραχμὰς εἴκοσι <num value="20"/> καὶ τῷ τρίτῳ <choice><reg>ἔτει</reg><orig>ἔτ<unclear>ι</unclear></orig></choice> μό
 
-    <lb n="14" break="no"/><supplied reason="lost">νῳ </supplied><gap reason="lost" quantity="18" unit="character"/> <expan><gap reason="lost" extent="unknown" unit="character"/><ex cert="low">ἔτει</ex></expan> ὁ<unclear>μ</unclear>οίως ἐκφορίου σὺν <choice><reg>α<supplied reason="omitted">ἷ</supplied>ς</reg><orig><unclear>ἇ</unclear>ς</orig></choice> λημψόμ<unclear>ε</unclear>
+    <lb n="14" break="no"/><supplied reason="lost">νῳ </supplied><gap reason="lost" quantity="18" unit="character"/> <expan><gap reason="lost" extent="unknown" unit="character"/><ex cert="low">ἔτει</ex></expan> ὁ<unclear>μ</unclear>οίως ἐκφορίου σὺν <choice><reg>α<supplied reason="omitted">ῖ̔</supplied>ς</reg><orig><unclear>ᾶ̔</unclear>ς</orig></choice> λημψόμ<unclear>ε</unclear>
 
     <lb n="15" break="no"/><supplied reason="lost">θα σπερμάτων πυροῦ ἀρτά</supplied>β<unclear>ην</unclear> μίαν <choice><reg>πέ<unclear>μ</unclear>πτον</reg><orig>πέ<unclear>ν</unclear>πτον</orig></choice> <num value="1"/> καὶ κριθῆς ἀρτάβην 
 
@@ -92,7 +92,7 @@
 
     <lb n="18" break="no"/><supplied reason="lost">τα ὅσα καθήκει ἐκ τοῦ ἰδίου τ</supplied>οῖς δέ<unclear>ου</unclear>σι καιροῖς βλάβος μηδὲν ποι<unclear>οῦ</unclear>ν
 
-    <lb n="19" break="no"/><supplied reason="lost">τες σπείροντες οἷς ἐὰν </supplied><choice><reg><supplied reason="lost">αἱρ</supplied>ώμεθα</reg><orig><supplied reason="lost">αἱρ</supplied><unclear>ώμα</unclear>ιθα</orig></choice> γέ<unclear>ν</unclear>εσι πλὴν <choice><reg>κνήκου</reg><orig>γνήκου</orig></choice>, τὸ δὲ κα
+    <lb n="19" break="no"/><supplied reason="lost">τες σπείροντες οῖ̔ς ἐὰν </supplied><choice><reg><supplied reason="lost">αἱρ</supplied>ώμεθα</reg><orig><supplied reason="lost">αἱρ</supplied><unclear>ώμα</unclear>ιθα</orig></choice> γέ<unclear>ν</unclear>εσι πλὴν <choice><reg>κνήκου</reg><orig>γνήκου</orig></choice>, τὸ δὲ κα
 
     <lb n="20" break="no"/><supplied reason="lost">τʼ ἔτος ἐκφόριον ἀποδώσομεν ἐ</supplied>ν μηνὶ Παῦνι ἐφʼ ἅλῳ μ<unclear>έ</unclear>τρῳ Διδύμο<unclear>υ</unclear> 
 

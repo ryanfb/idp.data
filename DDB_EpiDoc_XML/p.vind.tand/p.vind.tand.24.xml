@@ -63,7 +63,7 @@
 
     <lb n="1"/><supplied reason="lost">ἐν κώμῃ Σοκνοπαίου Νήσου τῆς Ἡρ</supplied>ακ<supplied reason="lost">λ</supplied>είδ<supplied reason="lost">ου μερίδος </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">                 , ὧν γείτονε</supplied>ς ὅλης τ<supplied reason="lost">ῆς οἰκίας </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">                 , ῶ̔ν γείτονε</supplied>ς ὅλης τ<supplied reason="lost">ῆς οἰκίας </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="2" unit="character"/> τοῦ <gap reason="illegible" quantity="1" unit="character"/>ισο<gap reason="illegible" quantity="1" unit="character"/>μ<gap reason="illegible" quantity="1" unit="character"/>ν<gap reason="illegible" quantity="2" unit="character"/> οἰ<unclear>κία</unclear> <unclear>ἀπη</unclear>λιώ<unclear>το</unclear>υ <gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -77,7 +77,7 @@
 
     <lb n="8"/><choice><reg>ἀκανθίνου</reg><orig>ἀγανθινον</orig></choice> <choice><reg>ἐλαιουργείου</reg><orig>ἐλαιοργίου</orig></choice>
 <choice><reg>ἐξηρτισ<lb n="9" break="no"/><supplied reason="lost">μένου</supplied></reg><orig>ἐξερτισ<lb n="9" break="no"/><supplied reason="lost">μένου</supplied></orig></choice> <gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>τον απα<gap reason="lost" quantity="3" unit="character"/>λουθοντος πάσης <unclear>κ</unclear>αὶ <choice><reg>μηχανῆς</reg><orig>μιχανῆς</orig></choice> <choice><reg>λιθίνης</reg><orig>λιθινος</orig></choice> σὺν τῇ <choice><reg>θυίᾳ</reg><orig>θυειαν</orig></choice> 
-<choice><reg>λιθίνῃ</reg><orig><subst><add place="inline">λιθινος</add><del rend="corrected">λιθιοος</del></subst></orig></choice> <choice><reg>ἐξηρτισμένης</reg><orig>ἐξερτισμενου</orig></choice>, ὧν <choice><reg>γείτονες</reg><orig>γίτονος</orig></choice> <choice><reg>ὅλης</reg><orig>ὥλης</orig></choice> τῆς <choice><reg>οἰκίας</reg><orig>οἰκια</orig></choice> 
+<choice><reg>λιθίνῃ</reg><orig><subst><add place="inline">λιθινος</add><del rend="corrected">λιθιοος</del></subst></orig></choice> <choice><reg>ἐξηρτισμένης</reg><orig>ἐξερτισμενου</orig></choice>, ῶ̔ν <choice><reg>γείτονες</reg><orig>γίτονος</orig></choice> <choice><reg>ὅλης</reg><orig>ὥλης</orig></choice> τῆς <choice><reg>οἰκίας</reg><orig>οἰκια</orig></choice> 
 
     <lb n="10"/><supplied reason="lost">καὶ</supplied> <unclear>αὐ</unclear>λῆς, αἳ <choice><reg>πρόκεινται</reg><orig>πρ<supplied reason="lost">οκε</supplied>ιτε</orig></choice>, ἣν <choice><reg>ποιοῦνται</reg><orig>ποιειτε</orig></choice> <unclear>Τεσ</unclear>εν<unclear>ο</unclear>ῦφ<unclear>ις</unclear> Τ<unclear>ε</unclear>σε<unclear>ν</unclear>ούφ<supplied reason="lost">ιος μ</supplied>ητρὸς <choice><reg>Τανεφρύμμιος</reg><orig>Τανεφρυμμις</orig></choice> 
 <expan>ὡ<ex>ς</ex></expan> <expan><ex>ἐτῶν</ex></expan> <num value="45">με</num> <expan>ο<ex>ὐλὴ</ex></expan> <choice><reg>μετώπῳ</reg><orig>μετόπου</orig></choice> <choice><reg>μέσῳ</reg><orig>μέσου</orig></choice> καὶ ἡ τού

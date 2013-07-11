@@ -65,17 +65,17 @@
 
     <lb n="6"/>καλοῦ μετρητὰς τέσσαρας ἥμισυ <num value="4"/><num value="1/2"/>· 
 
-    <lb n="7"/>κομισαμένη οὖν δήλωσόν μοι. 
+    <lb n="7"/>κομισαμένη οῦ̓ν δήλωσόν μοι. 
 
     <lb n="8"/>ἐὰν δὲ μὴ λαμβάνω ἐπιστολὰς παρʼ αὐ
 
     <lb n="9" break="no"/>τοῦ περὶ τῆς ποσότητος τῶν <expan>ἐλαίω<ex>ν</ex></expan> 
 
-    <lb n="10"/>ὧν <choice><reg>κομίσει</reg><orig>κομίσι</orig></choice> <choice><reg>ὑμῖν</reg><orig><unclear>ὑ</unclear>μεῖν</orig></choice> <app type="editorial"><lem resp="BL cf. 1.334">οὐ μέλλω <choice><reg>ἔτι</reg><orig>ἔδει</orig></choice></lem><rdg><supplied reason="omitted" cert="low">πέμψειν</supplied> οὐ μέλλω. ἔδει</rdg></app> 
+    <lb n="10"/>ῶ̔ν <choice><reg>κομίσει</reg><orig>κομίσι</orig></choice> <choice><reg>ὑμῖν</reg><orig><unclear>ὑ</unclear>μεῖν</orig></choice> <app type="editorial"><lem resp="BL cf. 1.334">οὐ μέλλω <choice><reg>ἔτι</reg><orig>ἔδει</orig></choice></lem><rdg><supplied reason="omitted" cert="low">πέμψειν</supplied> οὐ μέλλω. ἔδει</rdg></app> 
 
     <lb n="11"/>αὐτῶι <choice><reg>διδόναι</reg><orig>διδώναι</orig></choice> <subst><add place="inline"><choice><reg>ὅτι</reg><orig>ὅσι</orig></choice></add><del rend="corrected">ο<gap reason="illegible" quantity="1" unit="character"/>ι</del></subst> οὐκ <unclear>ἔ</unclear>στʼ αὐτὸς 
 
-    <lb n="12"/>Σαρᾶς, ἀλλὰ ἄλλος ξένος ἐστὶν <choice><reg>ᾧ</reg><orig>οὗ</orig></choice> δεῖ 
+    <lb n="12"/>Σαρᾶς, ἀλλὰ ἄλλος ξένος ἐστὶν <choice><reg>ῷ̔</reg><orig>οῦ̔</orig></choice> δεῖ 
 
     <lb n="13"/>με <choice><reg>πεισθῆναι</reg><orig>πισθῆναι</orig></choice> ὡς ἐσχήκατε· ὥσ
 
@@ -93,7 +93,7 @@
 
     <lb n="20"/>τοὺς ἄλλους πέντε <num value="5"/> μετρητὰς περὶ 
 
-    <lb n="21"/>ὧν γράφεις εἰς τὸ ἄλλο ἀγώγιον· ἐὰν 
+    <lb n="21"/>ῶ̔ν γράφεις εἰς τὸ ἄλλο ἀγώγιον· ἐὰν 
 
     <lb n="22"/>δὲ μὴ εὕρω τὸν βαστάζοντα, ἐάσω 
 
@@ -105,7 +105,7 @@
 
     <lb n="26"/>κατ<unclear>α</unclear><supplied reason="lost" cert="low">γαγεῖν</supplied> διὰ τὸ τὰς ἡμέρας 
 
-    <lb n="27"/><gap reason="lost" quantity="8" unit="character"/><supplied reason="lost"> ε</supplied><unclear>ἶ</unclear>ναι. ἔγραψα αὐτῶι 
+    <lb n="27"/><gap reason="lost" quantity="8" unit="character"/><supplied reason="lost"> ε</supplied><unclear>ῖ̓</unclear>ναι. ἔγραψα αὐτῶι 
 
     <lb n="28"/><gap reason="lost" quantity="9" unit="character"/><unclear>α</unclear> εἰ μὴ σύ μοι αὐτὰ 
 

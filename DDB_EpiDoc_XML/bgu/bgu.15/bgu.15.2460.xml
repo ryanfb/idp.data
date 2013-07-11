@@ -54,7 +54,7 @@
 
     <lb n="1"/><gap reason="lost" quantity="7" unit="character"/><unclear>ς</unclear> <unclear>τ</unclear>έ<unclear>ρ</unclear>μ<supplied reason="lost" cert="low">α </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="2"/><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"> ν</supplied>ῦν οὖν, ἡγεμὼν κύρι<supplied reason="lost" cert="low">ε, κατεφύγομεν </supplied> 
+    <lb n="2"/><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"> ν</supplied>ῦν οῦ̓ν, ἡγεμὼν κύρι<supplied reason="lost" cert="low">ε, κατεφύγομεν </supplied> 
 
     <lb n="3"/><supplied reason="lost">ἐπὶ σὲ</supplied> τὸν πάντων σωτῆρα <supplied reason="lost" cert="low">δεόμενοι</supplied><supplied reason="lost" cert="low"> λαβεῖν </supplied> 
 
@@ -72,7 +72,7 @@
 
     <lb n="10" break="no"/><supplied reason="lost">νάσ</supplied>τας ἐκ τῆς ἰδίας γένεσθα<supplied reason="lost">ι     </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="11"/><gap reason="lost" quantity="4" unit="character"/>ς, ἵνʼ ὦμεν <unclear>ὑπὸ</unclear> <unclear>σ</unclear>οῦ εὐε<unclear>ρ</unclear>γ<unclear>ε</unclear><supplied reason="lost">τημένοι. διευτύχει</supplied>. </ab></div>
+    <lb n="11"/><gap reason="lost" quantity="4" unit="character"/>ς, ἵνʼ ῶ̓μεν <unclear>ὑπὸ</unclear> <unclear>σ</unclear>οῦ εὐε<unclear>ρ</unclear>γ<unclear>ε</unclear><supplied reason="lost">τημένοι. διευτύχει</supplied>. </ab></div>
       </body>
    </text>
 </TEI>

@@ -47,7 +47,7 @@ l3: use hlaf sign &#xD;
          <head xml:lang="en"/>
          <div xml:lang="grc" type="edition" xml:space="preserve">
 <ab>
-<lb n="1"/><g type="check"/> Ὧρος <choice><reg>Παμίνεως</reg><orig>Παμίνεος</orig></choice> <abbr>σα<gap reason="illegible" quantity="2" unit="character"/></abbr> <expan><ex>ἀρτάβαι</ex></expan> <num value="3">γ</num>
+<lb n="1"/><g type="check"/> Ὧρος <choice><reg>Παμίνεως</reg><orig>Παμίνεος</orig></choice> <abbr>σα<gap reason="illegible" quantity="2" unit="character"/></abbr> <expan><ex>ἀρτάβαι</ex></expan> <num value="3">γ</num>
 <lb n="2"/><g type="check"/> Κλε<gap reason="illegible" atLeast="2" atMost="3" unit="character"/>ς Κρονίου <expan><ex>ἀρτάβαι</ex></expan> <num value="3">γ</num>
 <lb n="3"/><g type="check"/> Πετεμιν<gap reason="illegible" quantity="9" unit="character"/> <num value="1/2">𐅵</num>
 <lb n="4"/><g type="check"/> Πέσουρις Ψ<gap reason="lost" extent="unknown" unit="character"/>

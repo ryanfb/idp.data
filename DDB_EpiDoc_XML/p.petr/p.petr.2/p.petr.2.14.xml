@@ -56,7 +56,7 @@
     <lb n="1"/><note xml:lang="en">PPetr 2,14,1 reprinted in PPetr 3,46,1 </note>
 </ab></div><div n="2,a" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="1"/>καλῶς <app type="editorial"><lem>ἂν</lem><rdg/></app> <choice><reg>οὖ<supplied reason="omitted">ν</supplied></reg><orig>οὐ</orig></choice> ποιήσαις 
+    <lb n="1"/>καλῶς <app type="editorial"><lem>ἂν</lem><rdg/></app> <choice><reg>οῦ̓<supplied reason="omitted">ν</supplied></reg><orig>οὐ</orig></choice> ποιήσαις 
 
     <lb n="2"/><choice><reg>ἀποστείλας</reg><orig>ἀποστίλας</orig></choice> <add place="above">τὴν ταχίστην</add> τοὺς ἐκ τοῦ 
 
@@ -72,7 +72,7 @@
 
     <lb n="7" break="no"/>ματιστῆι</reg><orig>χρη<lb n="7" break="no"/>ματισθῆι</orig></choice> <unclear>ουσταμος</unclear>
 
-    <lb n="8"/>γράψον οὖν εὐτονώ
+    <lb n="8"/>γράψον οῦ̓ν εὐτονώ
 
     <lb n="9" break="no"/>τερον Θέρωνι καὶ τοῖς 
 
@@ -82,13 +82,13 @@
 
     <lb n="12"/><add place="above">τοὺς ψ<gap reason="lost" quantity="4" unit="character"/>ετωιθε<gap reason="lost" quantity="3" unit="character"/></add> ἐς τὰ ἄχυρα πρὸς τὴν 
 
-    <lb n="13"/><app type="editorial"><lem>πλινθολκίαν</lem><rdg>πλίνθον καὶ ἂἷ</rdg></app> διʼ 
+    <lb n="13"/><app type="editorial"><lem>πλινθολκίαν</lem><rdg>πλίνθον καὶ ἂῖ̔</rdg></app> διʼ 
 
     <lb n="14"/>Ἀπολλοδώρου τοῦ ε<gap reason="illegible" quantity="3" unit="character"/> 
 
     <lb n="15"/>ρεν κ<gap reason="illegible" quantity="3" unit="character"/><unclear>ς</unclear> <gap reason="illegible" quantity="3" unit="character"/> ἔφη 
 
-    <lb n="16"/>ἐπὶ μὲν τῶν ἄλλων ὧν 
+    <lb n="16"/>ἐπὶ μὲν τῶν ἄλλων ῶ̔ν 
 
     <lb n="17"/><choice><reg>παραδείξειν</reg><orig>παραδίξιν</orig></choice> τὰ ἄχυρα 
 
