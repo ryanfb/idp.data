@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0009;1;202" xml:id="cpr.1.202" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     n="0009;1;202"
+     xml:id="cpr.1.202"
+     xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -32,10 +35,14 @@
           <change when="2011-12-14" who="http://papyri.info/editor/users/gabrielbodard">changed editor names to URIs</change>
           <change when="2011-11-29" who="http://papyri.info/editor/users/gabrielbodard">converted app type=BL|SoSOL to editorial</change>
           <change when="2011-10-31" who="http://papyri.info/editor/users/gabrielbodard">changed type=inWord to break=no</change>
-          <change when="2010-11-21T09:42:19.226-05:00" who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
-          <change when="2010-11-21T09:42:17.938-05:00" who="http://papyri.info/editor/users/james.cowey">Vote - AcceptText</change>
-          <change when="2010-11-21T09:42:16.676-05:00" who="http://papyri.info/editor/users/joshuad.sosin">Vote - AcceptText</change>
-          <change when="2010-11-18T04:52:57.787-05:00" who="http://papyri.info/editor/users/dieter.hagedorn">Z. 5: Ἡρακλεοπλείτου -&gt; Ἡρακλεοπολείτου&#xD;
+          <change when="2010-11-21T09:42:19.226-05:00"
+                 who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
+          <change when="2010-11-21T09:42:17.938-05:00"
+                 who="http://papyri.info/editor/users/james.cowey">Vote - AcceptText</change>
+          <change when="2010-11-21T09:42:16.676-05:00"
+                 who="http://papyri.info/editor/users/joshuad.sosin">Vote - AcceptText</change>
+          <change when="2010-11-18T04:52:57.787-05:00"
+                 who="http://papyri.info/editor/users/dieter.hagedorn">Z. 5: Ἡρακλεοπλείτου -&gt; Ἡρακλεοπολείτου&#xD;
 Z. 8: ἀπεσχη[ᾴὧἷἂῄ -&gt; ἀπεσχη[κέναι&#xD;
 Z. 11: Ergänzung nach BL I 453 eingefügt.</change>
           <change when="2010-05-05" who="http://papyri.info/editor/users/gabrielbodard">changed schema; added xml:space=preserve; indented; moved title/@n to idno</change>

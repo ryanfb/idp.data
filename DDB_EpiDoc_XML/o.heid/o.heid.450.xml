@@ -34,7 +34,8 @@
           <change when="2011-12-14" who="http://papyri.info/editor/users/gabrielbodard">rationalized languages in langUsage</change>
           <change when="2011-12-14" who="http://papyri.info/editor/users/gabrielbodard">changed editor names to URIs</change>
           <change when="2011-03-27" who="http://papyri.info/editor/users/gabrielbodard">updated markup for fractions (rend=tick)</change>
-          <change when="2010-07-01T07:51:59.888-04:00" who="http://papyri.info/editor/users/marionlame">Copied from the paper edition, p. 423-424.</change>
+          <change when="2010-07-01T07:51:59.888-04:00"
+                 who="http://papyri.info/editor/users/marionlame">Copied from the paper edition, p. 423-424.</change>
           <change when="2010-06-30T12:09:26-04:00" who="http://papyri.info/editor">Automated creation from template</change>
       </revisionDesc>
   </teiHeader>

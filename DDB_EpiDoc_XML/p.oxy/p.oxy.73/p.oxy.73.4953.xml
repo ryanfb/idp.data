@@ -40,8 +40,10 @@
           <change when="2011-03-02" who="http://papyri.info/editor/users/gabrielbodard">batch converted all tei:sic to tei:orig and tei:corr to tei:reg</change>
           <change when="2010-11-15T03:15:37.668-05:00" who="rodney ast">Finalized - Ast finalizing.</change>
           <change when="2010-11-15T03:15:36.784-05:00" who="rodney ast">Vote - AcceptText</change>
-          <change when="2010-11-15T03:15:35.855-05:00" who="http://papyri.info/editor/users/joshuad.sosin">Vote - AcceptText</change>
-          <change when="2010-10-09T05:33:24.342-04:00" who="http://papyri.info/editor/users/ngonis">Text entry.</change>
+          <change when="2010-11-15T03:15:35.855-05:00"
+                 who="http://papyri.info/editor/users/joshuad.sosin">Vote - AcceptText</change>
+          <change when="2010-10-09T05:33:24.342-04:00"
+                 who="http://papyri.info/editor/users/ngonis">Text entry.</change>
           <change when="2010-09-01T18:01:58-04:00" who="http://papyri.info/editor">Automated creation from template</change>
       </revisionDesc>
   </teiHeader>

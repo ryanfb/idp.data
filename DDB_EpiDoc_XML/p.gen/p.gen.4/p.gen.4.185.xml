@@ -42,7 +42,8 @@ l12: .42 =&gt; .43&#xD;
 l.14:  ((γίνεται)) =&gt;  ((γίνονται))&#xD;
 l18: [.46] =&gt; [.47];  [.43]=&gt; [.44]&#xD;
 l.19: [.46] =&gt; [.47], ].1 ̣ ε̣ρ̣[.4̣].1 νο[ =&gt; ].1ε̣ρ̣[.4].1νο[</change>
-          <change when="2012-06-15T03:12:04.919-04:00" who="http://papyri.info/editor/users/Zoom">after the word document provided at the Leiden session</change>
+          <change when="2012-06-15T03:12:04.919-04:00"
+                 who="http://papyri.info/editor/users/Zoom">after the word document provided at the Leiden session</change>
           <change when="2012-06-14T08:42:17-04:00" who="http://papyri.info/editor">Automated creation from template</change>
       </revisionDesc>
   </teiHeader>
