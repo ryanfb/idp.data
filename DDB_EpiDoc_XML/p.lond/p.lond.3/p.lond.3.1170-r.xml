@@ -67,7 +67,7 @@
 
     <lb n="8"/><expan>γεί<ex>νονται</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="2">β</num> <supplied reason="lost"><expan><ex>δραχμαὶ</ex></expan></supplied> <num value="3964">Γϡξδ</num> <num value="3"><expan><ex>τριώβολον</ex></expan></num> <expan>χ<ex>αλκοῖ</ex></expan> <num value="3">γ</num> <expan>πρ<ex>οσδιαγραφομένων</ex></expan> καὶ <expan>σ<ex>υμβόλων</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="70">ο</num> <num value="1"><expan><ex>ὀβολὸς</ex></expan></num> <expan>χ<ex>αλκοῖ 2</ex></expan><num value="2"/> <expan><ex>γίνονται</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="2">β</num> <expan><ex>δραχμαὶ</ex></expan> <num value="4034">Δλδ</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num> <num value="1/2"><expan><ex>ἡμιωβέλιον</ex></expan></num> <expan>χ<ex>αλκοῦς 1</ex></expan><num value="1"/> 
 
-    <lb n="9"/>ὧν ἔστιν πάντων τὸ κ<unclear>ατὰ</unclear> πρακ
+    <lb n="9"/>ῶ̔ν ἔστιν πάντων τὸ κ<unclear>ατὰ</unclear> πρακ
 
     <lb n="10" break="no"/>τορείαν  <choice><reg>τιμῆς</reg><orig>τειμῆς</orig></choice> οἴνου κώμης Πηλουσίου 
 
@@ -192,7 +192,7 @@
 
     <lb n="70"/>ἐξ<supplied reason="lost">ε</supplied>νιαύτ<supplied reason="lost">ω</supplied>ν <expan>ὁμοί<ex>ως</ex></expan> 
 
-    <lb n="71"/>Ἰσαρί<unclear>ω</unclear>ν ἀνθʼ οὗ Σωταρίων <expan><ex>δραχμαὶ</ex></expan> <gap reason="illegible" quantity="1" unit="character"/> 
+    <lb n="71"/>Ἰσαρί<unclear>ω</unclear>ν ἀνθʼ οῦ̔ Σωταρίων <expan><ex>δραχμαὶ</ex></expan> <gap reason="illegible" quantity="1" unit="character"/> 
 
     <lb n="72"/><gap reason="illegible" quantity="2" unit="line"/> 
 
@@ -688,7 +688,7 @@
 
     <lb n="315"/>Πάσ<supplied reason="lost">ει</supplied>το<supplied reason="lost">ς</supplied> Σώτου        <expan><ex>δραχμαὶ</ex></expan> <num value="4">δ</num> 
 
-    <lb n="316"/>Πνεφερῶτος ἀνθʼ <expan><ex>οὗ</ex></expan> Πρωτᾶ <expan><ex>δραχμαὶ</ex></expan> <num value="6">ϛ</num> 
+    <lb n="316"/>Πνεφερῶτος ἀνθʼ <expan><ex>οῦ̔</ex></expan> Πρωτᾶ <expan><ex>δραχμαὶ</ex></expan> <num value="6">ϛ</num> 
 
     <lb n="317"/>Πασίωνος Θεομνήστου       <expan><ex>δραχμαὶ</ex></expan> <num value="18">ιη</num>
 
@@ -928,7 +928,7 @@
 
     <lb n="446"/>Φανίου Φάν                <expan><ex>δραχμαὶ</ex></expan> <num value="4">δ</num> 
 
-    <lb n="447"/>Φαύσεως ἀνθʼ οὗ <gap reason="lost" quantity="2" unit="character"/>λεθυτου <expan><ex>δραχμαὶ</ex></expan> <num value="4">δ</num> 
+    <lb n="447"/>Φαύσεως ἀνθʼ οῦ̔ <gap reason="lost" quantity="2" unit="character"/>λεθυτου <expan><ex>δραχμαὶ</ex></expan> <num value="4">δ</num> 
 
     <lb n="448"/>Χαριδήμου Πατύ<supplied reason="lost">ν</supplied>εως      <expan><ex>δραχμαὶ</ex></expan> <num value="12">ιβ</num>
 
@@ -962,7 +962,7 @@
 
     <lb n="466"/>τοῦ αὐτοῦ <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="467"/>Ὥρου ἀνθʼ οὗ Π<gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="467"/>Ὥρου ἀνθʼ οῦ̔ Π<gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="468"/><gap reason="lost" quantity="2" unit="character"/>του Θέω<supplied reason="lost">νος</supplied>          <expan><ex>δραχμαὶ</ex></expan> <num value="10"><unclear>ι</unclear></num> 
 
@@ -1125,7 +1125,7 @@
 
     <lb n="546"/>Ἥρων Νεφερῶτος           <expan><ex>δραχμαὶ</ex></expan> <num value="23">κγ</num>
 
-    <lb n="547"/>Ἥρων ἀνθʼ οὗ <gap reason="lost" quantity="4" unit="character"/><supplied reason="lost"> Δι</supplied>οσκόρου <expan><ex>δραχμαὶ</ex></expan> <num value="29">κθ</num> 
+    <lb n="547"/>Ἥρων ἀνθʼ οῦ̔ <gap reason="lost" quantity="4" unit="character"/><supplied reason="lost"> Δι</supplied>οσκόρου <expan><ex>δραχμαὶ</ex></expan> <num value="29">κθ</num> 
 
     <lb n="548"/>Ἡρακλείδου Ἡρ<unclear>ακ</unclear>λεί<unclear>δ</unclear><supplied reason="lost">ο</supplied><unclear>υ</unclear> <expan><ex>δραχμαὶ</ex></expan> <num value="12">ιβ</num> 
 
@@ -1163,7 +1163,7 @@
 
     <lb n="565"/>Νείλου Νιννάρου           <expan><ex>δραχμαὶ</ex></expan> <num value="44">μδ</num>
 
-    <lb n="566"/><unclear>Σ</unclear>ιμ<unclear>άρ</unclear>ου ἀνθʼ <expan><ex>οὗ</ex></expan> Νείλου Ἀγχορ<supplied reason="lost">ίμ</supplied><unclear>φεως</unclear> <expan><ex>δραχμαὶ</ex></expan> <num value="34">λδ</num> 
+    <lb n="566"/><unclear>Σ</unclear>ιμ<unclear>άρ</unclear>ου ἀνθʼ <expan><ex>οῦ̔</ex></expan> Νείλου Ἀγχορ<supplied reason="lost">ίμ</supplied><unclear>φεως</unclear> <expan><ex>δραχμαὶ</ex></expan> <num value="34">λδ</num> 
 
     <lb n="567"/><supplied reason="lost">Ὀννώ</supplied>φρεως Ὀννώφρε<supplied reason="lost">ως</supplied> <expan><ex>δραχμαὶ</ex></expan> <num value="42">μβ</num>
 
@@ -1279,7 +1279,7 @@
 
     <lb n="622"/>Ἥρωνος νε<unclear>ωτ</unclear>έρου <expan>Π<unclear>α</unclear>λ<ex cert="low">ασίου</ex></expan> Φ<unclear>ι</unclear><gap reason="illegible" quantity="3" unit="character"/> <expan><ex>δραχμαὶ</ex></expan> <num value="4">δ</num> 
 
-    <lb n="623"/>Παπείρεως ἀνθʼ οὗ <unclear>Ὀρσέω</unclear>ς <expan><ex>δραχμαὶ</ex></expan> <num value="2">β</num> 
+    <lb n="623"/>Παπείρεως ἀνθʼ οῦ̔ <unclear>Ὀρσέω</unclear>ς <expan><ex>δραχμαὶ</ex></expan> <num value="2">β</num> 
 
     <lb n="624"/>Παποντῶ<supplied reason="lost">τος</supplied> Διονυσίου    <expan><ex>δραχμαὶ</ex></expan> <num value="2">β</num> 
 
@@ -1486,9 +1486,9 @@
 
     <lb n="725"/>Θεοξενίδος 
 
-    <lb n="726"/>Διοδώρου Ἑρμείου ἀνθʼ οὗ <gap reason="illegible" quantity="3" unit="character"/> <expan><ex>δραχμαὶ</ex></expan> <num value="34">λδ</num> 
+    <lb n="726"/>Διοδώρου Ἑρμείου ἀνθʼ οῦ̔ <gap reason="illegible" quantity="3" unit="character"/> <expan><ex>δραχμαὶ</ex></expan> <num value="34">λδ</num> 
 
-    <lb n="727"/>Ἑκύσεως ἀνθʼ οὗ Ἑκύσεως <expan><ex>δραχμαὶ</ex></expan> <num value="4">δ</num> 
+    <lb n="727"/>Ἑκύσεως ἀνθʼ οῦ̔ Ἑκύσεως <expan><ex>δραχμαὶ</ex></expan> <num value="4">δ</num> 
 
     <lb n="728"/>Ἡρῴδου Ἁρφαήσεω<supplied reason="lost">ς</supplied>      <expan><ex>δραχμαὶ</ex></expan> <num value="4"><unclear>δ</unclear></num> 
 
@@ -1530,7 +1530,7 @@
 
     <lb n="747"/>Φάσειτος Πεκύσεως         <expan><ex>δραχμαὶ</ex></expan> <num value="4">δ</num> 
 
-    <lb n="748"/>Ὡρίωνος ἀνθʼ οὗ Ἀιώνεως  <expan><ex>δραχμαὶ</ex></expan> <num value="34">λδ</num> 
+    <lb n="748"/>Ὡρίωνος ἀνθʼ οῦ̔ Ἀιώνεως  <expan><ex>δραχμαὶ</ex></expan> <num value="34">λδ</num> 
 
     <lb n="749"/><expan><ex>γίνονται</ex></expan> <expan>α<ex>ὐτενιαύτων</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="175">ροε</num> 
 

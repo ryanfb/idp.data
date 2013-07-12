@@ -66,7 +66,7 @@
 
     <lb n="7" break="no"/>α λευκὴ ἐκπηδήσασα παρὰ Νικί
 
-    <lb n="8" break="no"/>ου <subst><add place="inline">νυκτός</add><del rend="corrected">μυκτος</del></subst>, ὧν τιμὴ <expan><ex>δραχμῶν</ex></expan> <num value="80">π</num>. 
+    <lb n="8" break="no"/>ου <subst><add place="inline">νυκτός</add><del rend="corrected">μυκτος</del></subst>, ῶ̔ν τιμὴ <expan><ex>δραχμῶν</ex></expan> <num value="80">π</num>. 
 </ab></div><div n="ext" type="textpart"><!--milestone unit="4"--><ab>
 
     <lb n="9"/><expan><ex>ἔτους</ex></expan> <choice><reg><num value="31">λα</num></reg><orig>αλ</orig></choice>, μηνὸς Ἁθὺρ <num value="12">ιβ</num>, <choice><reg>ἐν</reg><orig>ἐμ</orig></choice> 
@@ -89,7 +89,7 @@
 
     <lb n="16"/>λευκὴ ἐκπηδήσασα παρὰ 
 
-    <lb n="17"/>Νικίου νυκτός, <subst><add place="inline">ἧς</add><del rend="corrected">ων</del></subst> τιμὴ <expan><ex>δραχμῶν</ex></expan> <num value="80">π</num>. </ab></div></div>
+    <lb n="17"/>Νικίου νυκτός, <subst><add place="inline">ῆ̔ς</add><del rend="corrected">ων</del></subst> τιμὴ <expan><ex>δραχμῶν</ex></expan> <num value="80">π</num>. </ab></div></div>
       </body>
    </text>
 </TEI>

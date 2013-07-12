@@ -85,7 +85,7 @@
 
     <lb n="14" break="no"/><supplied reason="lost">εστάλη ἄνωθ</supplied><unclear>εν</unclear> ὑπὸ Οὐμβρικίου Καπιτωλείνου ἐπιστρατη
 
-    <lb n="15" break="no"/><supplied reason="lost">γήσαντος Θη</supplied>βαίδος, ἧς ἐπιστολῆς ἔ<unclear>νεσ</unclear>τιν <add place="above">τὸ</add> ἀντίγραφον· 
+    <lb n="15" break="no"/><supplied reason="lost">γήσαντος Θη</supplied>βαίδος, ῆ̔ς ἐπιστολῆς ἔ<unclear>νεσ</unclear>τιν <add place="above">τὸ</add> ἀντίγραφον· 
 
     <lb n="16"/><supplied reason="lost">Οὐμβρίκιος Κ</supplied>απιτωλεῖνος Πτολεμαίῳ <unclear>βασι</unclear>λικῷ <choice><reg>γραμματεῖ</reg><orig>γραμματῖ</orig></choice> 
 
@@ -100,7 +100,7 @@
     <lb n="21"/><supplied reason="lost">ἵνʼ εἰδῇς ὅτι </supplied><supplied reason="lost" cert="low">ἐναργε</supplied><unclear>ῖ</unclear>ς μοι κρίσεις <supplied reason="lost" cert="low">περὶ τῶν ἀνδρῶν</supplied> τοιούτων <expan>γεγέ<ex>νηνται</ex></expan>. 
 </ab></div><div n="v" type="textpart"><ab>
 
-    <lb n="22"/>εὔ<unclear>λ</unclear>ογον οὖν ἐστιν τὰ τοῖς τοιού<supplied reason="lost">τ</supplied><unclear>οι</unclear><supplied reason="lost" cert="low">ς διὰ τῶν κρίσεων</supplied> 
+    <lb n="22"/>εὔ<unclear>λ</unclear>ογον οῦ̓ν ἐστιν τὰ τοῖς τοιού<supplied reason="lost">τ</supplied><unclear>οι</unclear><supplied reason="lost" cert="low">ς διὰ τῶν κρίσεων</supplied> 
 
     <lb n="23"/>φυλαχθέντα <unclear>δ</unclear>ί<unclear>κ</unclear>αια καὶ αὐτῷ τηρη<supplied reason="lost" cert="low">θῆναι. σὺ δὲ φρόντισον</supplied> 
 
@@ -108,9 +108,9 @@
 
     <lb n="25"/>πόρ<unclear>ο</unclear>ς καθα<supplied reason="lost">ρὸς</supplied> διαμεῖναι δυνηθῇ. <supplied reason="lost">ἐρρῶσθαί σε βούλομαι.</supplied> 
 
-    <lb n="26"/><expan><ex>ἔτους</ex></expan> <num value="22">κβ</num> <unclear>θε</unclear>οῦ Αἰλίο<unclear>υ</unclear> Ἀ<unclear>ν</unclear>τωνείνο<unclear>υ</unclear> <unclear>μην</unclear>ὸς Ἁδρ<unclear>ι</unclear><supplied reason="lost" cert="low">ανοῦ </supplied><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"> ταῦτα οὖν ἀξιῶ</supplied> 
+    <lb n="26"/><expan><ex>ἔτους</ex></expan> <num value="22">κβ</num> <unclear>θε</unclear>οῦ Αἰλίο<unclear>υ</unclear> Ἀ<unclear>ν</unclear>τωνείνο<unclear>υ</unclear> <unclear>μην</unclear>ὸς Ἁδρ<unclear>ι</unclear><supplied reason="lost" cert="low">ανοῦ </supplied><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"> ταῦτα οῦ̓ν ἀξιῶ</supplied> 
 
-    <lb n="27"/><supplied reason="lost">ἵ</supplied>νʼ ὦ <unclear>ε</unclear>ὐ<supplied reason="lost">ε</supplied><unclear>ρ</unclear>γετημέ<unclear>νο</unclear>ς. δι<unclear>ε</unclear>υτύ<supplied reason="lost">χει </supplied><gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>
+    <lb n="27"/><supplied reason="lost">ἵ</supplied>νʼ ῶ̓ <unclear>ε</unclear>ὐ<supplied reason="lost">ε</supplied><unclear>ρ</unclear>γετημέ<unclear>νο</unclear>ς. δι<unclear>ε</unclear>υτύ<supplied reason="lost">χει </supplied><gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>
       </body>
    </text>
 </TEI>

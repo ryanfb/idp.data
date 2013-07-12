@@ -60,7 +60,7 @@
 
     <lb n="6"/><supplied reason="lost">καὶ Οὐήρου τ</supplied>ῶν κυρίων Σεβαστῶν 
 
-    <lb n="7"/><supplied reason="lost">ὧν ἐμίσθ</supplied>ωσας παρʼ ἡμῶν τῆς 
+    <lb n="7"/><supplied reason="lost">ῶ̔ν ἐμίσθ</supplied>ωσας παρʼ ἡμῶν τῆς 
 
     <lb n="8"/><gap reason="lost" quantity="8" unit="character"/>ης κληρουχίας περὶ 
 
@@ -68,7 +68,7 @@
 
     <lb n="10" break="no"/><supplied reason="lost">ανῆς </supplied><app type="editorial"><lem resp="BL 1.61"><supplied reason="lost">ουσί</supplied><unclear>α</unclear>ς</lem><rdg><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost" cert="low">γ</supplied>ῆσ<certainty match=".." locus="value"/></rdg></app> ἀρούρας <choice><reg>τρεῖς</reg><orig>τρῖς</orig></choice> 
 
-    <lb n="11"/><app type="editorial"><lem resp="bgu 3 p.4"><supplied reason="lost">ἢ ὅσαι ἐὰν</supplied> <unclear>ὦ</unclear>σι</lem><rdg><gap reason="lost" quantity="8" unit="character"/><unclear>ω</unclear>σι</rdg></app> εἰς κοπὴν κ<unclear>αὶ</unclear> 
+    <lb n="11"/><app type="editorial"><lem resp="bgu 3 p.4"><supplied reason="lost">ἢ ὅσαι ἐὰν</supplied> <unclear>ῶ̓</unclear>σι</lem><rdg><gap reason="lost" quantity="8" unit="character"/><unclear>ω</unclear>σι</rdg></app> εἰς κοπὴν κ<unclear>αὶ</unclear> 
 
     <lb n="12"/><app type="editorial"><lem resp="BL 3.14"><supplied reason="lost">ξηρασίαν</supplied></lem><rdg><gap reason="lost" quantity="8" unit="character"/></rdg></app> πυροῦ μέτρῳ ἑξα
 

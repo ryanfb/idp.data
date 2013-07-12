@@ -87,11 +87,11 @@
 
     <lb n="14"/>τῶν αὐτῶν τεσσάρων <num value="4"/> νομισμάτων λέγουσα ταῦτά σοι δοθῆναι περὶ τῆς 
 
-    <lb n="15"/>ἐκ <app type="editorial"><lem resp="BL 3.98"><choice><reg>παιδιόθεν</reg><orig>παιδιώθην</orig></choice></lem><rdg><subst><add place="inline">παιδίας</add><del rend="corrected">π<gap reason="illegible" quantity="2" unit="character"/>διας</del></subst> <subst><add place="inline">δὴ<certainty match=".." locus="value"/></add><del rend="corrected">θην</del></subst></rdg></app> ἀναγκαίας μου τροφῆς. διὰ τὸ οὖν τραφῆναί με <hi rend="diaeresis">ὑ</hi>πὸ τοῦ 
+    <lb n="15"/>ἐκ <app type="editorial"><lem resp="BL 3.98"><choice><reg>παιδιόθεν</reg><orig>παιδιώθην</orig></choice></lem><rdg><subst><add place="inline">παιδίας</add><del rend="corrected">π<gap reason="illegible" quantity="2" unit="character"/>διας</del></subst> <subst><add place="inline">δὴ<certainty match=".." locus="value"/></add><del rend="corrected">θην</del></subst></rdg></app> ἀναγκαίας μου τροφῆς. διὰ τὸ οῦ̓ν τραφῆναί με <hi rend="diaeresis">ὑ</hi>πὸ τοῦ 
 
     <lb n="16"/>πατρός μου <choice><reg>ἔκβλητον</reg><orig>ἐκβληθεισαν</orig></choice> δὲ <hi rend="diaeresis">ὑ</hi>πὸ σοῦ <choice><reg>γενέσθαι</reg><orig>γενομενης</orig></choice> καί <supplied reason="omitted">σε</supplied> κολλᾶσθαι ἑτέρῳ ἀνδρὶ <g type="mid-punctus"/> 
 
-    <lb n="17"/>ταῦτα ἐπεξῆλθον σοι ζητοῦσα λαβεῖν, <g type="mid-punctus"/> <space extent="unknown" unit="character"/> <choice><reg>σὺ</reg><orig>σοὶ</orig></choice> δὲ <choice><reg>ἀμφιβάλλεις</reg><orig>ἀμφιβάλεις</orig></choice> λέγουσα εἶναι 
+    <lb n="17"/>ταῦτα ἐπεξῆλθον σοι ζητοῦσα λαβεῖν, <g type="mid-punctus"/> <space extent="unknown" unit="character"/> <choice><reg>σὺ</reg><orig>σοὶ</orig></choice> δὲ <choice><reg>ἀμφιβάλλεις</reg><orig>ἀμφιβάλεις</orig></choice> λέγουσα εῖ̓ναι 
 
     <lb n="18"/>τὰ αὐτὰ <choice><reg>τέσσαρα</reg><orig>τέσσερα</orig></choice> <num value="4"/> νομίσματα <hi rend="diaeresis">ὑ</hi>πὲρ ἀπολύσεως μου καὶ προικός, <g type="mid-punctus"/> καὶ πολλῶν 
 
@@ -99,13 +99,13 @@
 
     <lb n="20"/>ἐμὲ τὰ αὐτὰ <choice><reg>τέσσαρα</reg><orig>τέσσερα</orig></choice> <num value="4"/> νομίσματα δέξασθαι διὰ τὸ ὡς προειρήται ἀνατραφῆναί με 
 
-    <lb n="21"/><hi rend="diaeresis">ὑ</hi>πὸ τοῦ προειρημένου μου πατρὸς καὶ ἐφʼ ᾧ ἐμὲ μὴ δέξασθαι μήτε λαβεῖν <hi rend="diaeresis">ὑ</hi>πὲρ σοῦ 
+    <lb n="21"/><hi rend="diaeresis">ὑ</hi>πὸ τοῦ προειρημένου μου πατρὸς καὶ ἐφʼ ῷ̔ ἐμὲ μὴ δέξασθαι μήτε λαβεῖν <hi rend="diaeresis">ὑ</hi>πὲρ σοῦ 
 
     <lb n="22"/>μήτε ἐνάγειν σοι ἢ <g type="mid-punctus"/> τοῖς κληρονόμοις σου ἐν τῷ νῦν καὶ ἐν μηδένι καιρῷ κατὰ μηδένα 
 
     <lb n="23"/>τρόπον ἀφορμῇ μηδεμίᾳ· ὅθεν ἐλήλυθα εἰς ταύτην τὴν ἔγγραφον <choice><reg>ἀμεριμνίαν</reg><orig>ἀμεριμνείαν</orig></choice> 
 
-    <lb n="24"/>ἐξ ἧς ὁμολογῶ μηκέτι μηδένα λόγον <subst><add place="inline">ἔχειν</add><del rend="corrected">εχω</del></subst> πρὸς σὲ μήτε πρὸς τοὺς μετὰ σὲ κληρονόμους 
+    <lb n="24"/>ἐξ ῆ̔ς ὁμολογῶ μηκέτι μηδένα λόγον <subst><add place="inline">ἔχειν</add><del rend="corrected">εχω</del></subst> πρὸς σὲ μήτε πρὸς τοὺς μετὰ σὲ κληρονόμους 
 
     <lb n="25"/>μήτε ἐνάγειν μήτε ἐγκαλεῖν ἢ <g type="mid-punctus"/> δίαιταν κινῆσαι κατὰ σοῦ ταύτης ἕνεκεν τῆς <hi rend="diaeresis">ὑ</hi>ποθέσεως 
 
@@ -113,7 +113,7 @@
 
     <lb n="27"/>σοι ἢ τοῖς κληρονόμοις <expan>σο<ex>υ</ex></expan> ἢ τέκνοις ἢ <g type="mid-punctus"/> ἐγγόνοις σου·<g type="mid-punctus"/> εἰ δὲ συμβαίη με κατὰ σοῦ ἐπεξελθεῖν 
 
-    <lb n="28"/>ἔν τινι καιρῷ ἢ τοῖς κληρονόμοις σου περὶ οἱουδήποτε πράγματος ἐφʼ ᾧ ἐμὲ παρασχεῖν 
+    <lb n="28"/>ἔν τινι καιρῷ ἢ τοῖς κληρονόμοις σου περὶ οἱουδήποτε πράγματος ἐφʼ ῷ̔ ἐμὲ παρασχεῖν 
 
     <lb n="29"/>λόγῳ <expan>προστίμο<ex>υ</ex></expan> παραβάσεως χρυσοῦ <choice><reg>οὐγκίαν</reg><orig>ὀγγίαν</orig></choice> μίαν <num value="1"/> ἔργῳ καὶ δυνάμει <choice><reg>ἀπαιτουμένην</reg><orig>ἀπαιτουμενα</orig></choice> ἐκ τῆς 
 

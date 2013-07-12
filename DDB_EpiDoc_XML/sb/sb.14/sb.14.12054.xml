@@ -59,7 +59,7 @@
 
     <lb n="5"/>ῥύσεως <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="15">ιε</num> 
 
-    <lb n="6"/><expan><ex>ὧν</ex></expan> <expan>ἀνα<hi rend="superscript">λ</hi><ex>ώματα</ex></expan> τέκτοσι ὑπὲρ μηχανῶν <num value="2">β</num> <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="4">δ</num> 
+    <lb n="6"/><expan><ex>ῶ̔ν</ex></expan> <expan>ἀνα<hi rend="superscript">λ</hi><ex>ώματα</ex></expan> τέκτοσι ὑπὲρ μηχανῶν <num value="2">β</num> <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="4">δ</num> 
 
     <lb n="7"/><expan>λοι<hi rend="superscript">π</hi><ex>ὰ</ex></expan> κυριακὰ <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="11">ια</num> 
 
@@ -67,7 +67,7 @@
 
     <lb n="9"/>ῥύσεως <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="208">ση</num> 
 
-    <lb n="10"/><expan><ex>ὧν</ex></expan> <expan>ἀνα<hi rend="superscript">λ</hi><ex>ώματα</ex></expan> πατηταῖς ὑπὲρ  μισθοῦ <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="2">β</num> 
+    <lb n="10"/><expan><ex>ῶ̔ν</ex></expan> <expan>ἀνα<hi rend="superscript">λ</hi><ex>ώματα</ex></expan> πατηταῖς ὑπὲρ  μισθοῦ <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="2">β</num> 
 
     <lb n="11"/><supplied reason="lost">τέκτοσ</supplied>ι ὑπὲρ μηχανῶν <num value="2">β</num>                 <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="4">δ</num> 
 
@@ -79,7 +79,7 @@
 
     <lb n="15"/><expan>λοι<hi rend="superscript">π</hi><ex>ὰ</ex></expan> <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="198">ρϙη</num> 
 
-    <lb n="16"/>ἀφʼ ὧν αἱρεῖ καρπώνῃ ὑπὲρ <expan><ex>τρίτου</ex></expan> <choice><reg>μέρους</reg><orig>μέρος</orig></choice> 
+    <lb n="16"/>ἀφʼ ῶ̔ν αἱρεῖ καρπώνῃ ὑπὲρ <expan><ex>τρίτου</ex></expan> <choice><reg>μέρους</reg><orig>μέρος</orig></choice> 
 
     <lb n="17"/><expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <subst><add place="inline"><num value="66">ξϛ</num></add><del rend="corrected"><num value="6">ϛ</num><del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/></del></del></subst> 
 
@@ -98,7 +98,7 @@
 
     <lb n="24"/>ῥύσεως <expan>μ<unclear>ονό</unclear>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan>       <num value="287">σπζ</num> 
 
-    <lb n="25"/><expan><ex>ὧν</ex></expan> <expan>ἀνα<hi rend="superscript">λ</hi><ex>ώματα</ex></expan> 
+    <lb n="25"/><expan><ex>ῶ̔ν</ex></expan> <expan>ἀνα<hi rend="superscript">λ</hi><ex>ώματα</ex></expan> 
 
     <lb n="26"/>πατηταῖς ἐπὶ ληνῶν <expan>μ<hi rend="superscript">ο</hi><ex>νόχωρον</ex></expan> <num value="1">α</num> 
 
@@ -116,7 +116,7 @@
 
     <lb n="33"/><expan>λοι<hi rend="superscript">π</hi><ex>ὰ</ex></expan> <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="273">σογ</num> 
 
-    <lb n="34"/>ὧν αἱρεῖν τῷ κοφίνῳ <expan>μ<hi rend="superscript">ο</hi><ex>νόχωρα</ex></expan> <num value="5">ε</num> <num value="3/4">𐅸</num> 
+    <lb n="34"/>ῶ̔ν αἱρεῖν τῷ κοφίνῳ <expan>μ<hi rend="superscript">ο</hi><ex>νόχωρα</ex></expan> <num value="5">ε</num> <num value="3/4">𐅸</num> 
 
     <lb n="35"/>τούτων ὑπὲρ κοφίνων <num value="20">κ</num> <expan>κτή<ex>ματος</ex></expan> 
 
@@ -133,7 +133,7 @@
 
     <lb n="41"/><expan>λοι<hi rend="superscript">π</hi><ex>ὰ</ex></expan> κυρια<supplied reason="lost">κ</supplied><unclear>ὰ</unclear> <expan>μονόχ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="221">σκα</num> 
 
-    <lb n="42"/>ὧν ἐν <expan>διχ<hi rend="superscript">ώ</hi><ex>ροις</ex></expan> <num value="30">λ</num> 
+    <lb n="42"/>ῶ̔ν ἐν <expan>διχ<hi rend="superscript">ώ</hi><ex>ροις</ex></expan> <num value="30">λ</num> 
 
     <lb n="43"/>μονόχωρα <num value="161">ρξα</num> 
 
@@ -147,7 +147,7 @@
 
     <lb n="48"/>ῥύσεως <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="429">υκθ</num> 
 
-    <lb n="49"/>ὧν <expan>ἀνα<hi rend="superscript">λ</hi><ex>ώματα</ex></expan> 
+    <lb n="49"/>ῶ̔ν <expan>ἀνα<hi rend="superscript">λ</hi><ex>ώματα</ex></expan> 
 
     <lb n="50"/><g type="slanting-stroke"/> πατηταῖς ἐπὶ ληνῶν <expan>μ<hi rend="superscript">ο</hi><ex>νόχωρον</ex></expan> <num value="1">α</num> 
 
@@ -176,7 +176,7 @@
     <lb n="62"/>ῥύσεως <expan>μ<unclear>ονό</unclear>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> 
 </ab></div><div n="4" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="63"/>ὧν <expan>ἀνα<hi rend="superscript">λ</hi><ex>ώματα</ex></expan> 
+    <lb n="63"/>ῶ̔ν <expan>ἀνα<hi rend="superscript">λ</hi><ex>ώματα</ex></expan> 
 
     <lb n="64"/>πατηταῖς ἐπὶ ληνῶν <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρον</ex></expan> <num value="1">α</num> 
 
@@ -188,17 +188,17 @@
 
     <lb n="68"/><expan>λοι<hi rend="superscript">π</hi><ex>ὰ</ex></expan> <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan>           <num value="228">σκη</num> 
 
-    <lb n="69"/>ὧν αἱρεῖν τῷ κοφίνῳ 
+    <lb n="69"/>ῶ̔ν αἱρεῖν τῷ κοφίνῳ 
 
     <lb n="70"/><expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="5">ε</num> <num value="1/2">𐅵</num> <num value="5">ε</num> <g type="slanting-stroke"/><g type="slanting-stroke"/> 
 
-    <lb n="71"/>ἀφʼ ὧν αἱρεῖ <expan>κοφ<ex>ίνοις</ex></expan> <num value="11">ια</num> 
+    <lb n="71"/>ἀφʼ ῶ̔ν αἱρεῖ <expan>κοφ<ex>ίνοις</ex></expan> <num value="11">ια</num> 
 
     <lb n="72"/><expan>κτή<ex>ματος</ex></expan> Χρυσοχόου <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="63">ξγ</num> 
 
     <lb n="73"/>λοι<add place="above">π</add>ὰ <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="165">ρξε</num> 
 
-    <lb n="74"/>ἐξ ὧν <expan>ἀνα<hi rend="superscript">λ</hi><ex>ώσθη</ex></expan> ἀπὸ τῶν προκειμένων 
+    <lb n="74"/>ἐξ ῶ̔ν <expan>ἀνα<hi rend="superscript">λ</hi><ex>ώσθη</ex></expan> ἀπὸ τῶν προκειμένων 
 
     <lb n="75"/><expan>μο<ex>νο</ex>χ<hi rend="superscript">ώ</hi><ex>ρων</ex></expan> <num value="165">ρξε</num> 
 
@@ -216,7 +216,7 @@
 
     <lb n="82"/><expan>λοι<hi rend="superscript">π</hi><ex>ὰ</ex></expan> <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="157">ρνζ</num> 
 
-    <lb n="83"/>ἀφʼ ὧν αἱρεῖ καρπώνῃ ὑπὲρ <expan><ex>τρίτου</ex></expan> <choice><reg>μέρους</reg><orig>μέρος</orig></choice> 
+    <lb n="83"/>ἀφʼ ῶ̔ν αἱρεῖ καρπώνῃ ὑπὲρ <expan><ex>τρίτου</ex></expan> <choice><reg>μέρους</reg><orig>μέρος</orig></choice> 
 
     <lb n="84"/><expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> <num value="52">νβ</num> 
 </ab></div><div n="5" type="textpart"><!--milestone unit="4"--><ab>
@@ -251,7 +251,7 @@
 
     <lb n="99"/>ῥύσεως <expan>μο<ex>νό</ex>χ<hi rend="superscript">ω</hi><ex>ρα</ex></expan> 
 
-    <lb n="100"/>ὧν <expan>ἀνα<hi rend="superscript">λ</hi><ex>ώματα</ex></expan> 
+    <lb n="100"/>ῶ̔ν <expan>ἀνα<hi rend="superscript">λ</hi><ex>ώματα</ex></expan> 
 
     <lb n="101"/>πατηταῖς ἐπὶ ληνῶν <expan>μ<hi rend="superscript">ο</hi><ex>νόχωρον</ex></expan> <num value="1">α</num> 
 
@@ -302,7 +302,7 @@
 
     <lb n="123"/>Πυάρεως ἤτοι <expan>Ἀπφο<ex>δου   </ex></expan> <expan>κόφ<ex>ινοι</ex></expan> <num value="5">ε</num> <expan>ῥύσ<ex>εως</ex></expan> <expan>μο<ex>νόχωρα</ex></expan> <num value="15">ιε</num> 
 
-    <lb n="124"/>ὧν <expan>ἀναλ<ex>ώματα</ex></expan> <expan>μ<hi rend="superscript">ο</hi><ex>νόχωρα</ex></expan> <num value="4">δ</num> <expan><ex>λοιπὰ</ex></expan> <num value="11">ια</num> 
+    <lb n="124"/>ῶ̔ν <expan>ἀναλ<ex>ώματα</ex></expan> <expan>μ<hi rend="superscript">ο</hi><ex>νόχωρα</ex></expan> <num value="4">δ</num> <expan><ex>λοιπὰ</ex></expan> <num value="11">ια</num> 
 
     <lb n="125"/>Ἐλπιδηφόρου καθαρὰ <num value="132">ρλβ</num> 
 

@@ -46,21 +46,21 @@
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><div n="A" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="1"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="8" unit="character"/><gap reason="illegible" quantity="4" unit="character"/>τριου ἐξ ἧς γεωργεῖ <expan>β<ex>ασιλικῆς</ex></expan> γῆς 
+    <lb n="1"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="8" unit="character"/><gap reason="illegible" quantity="4" unit="character"/>τριου ἐξ ῆ̔ς γεωργεῖ <expan>β<ex>ασιλικῆς</ex></expan> γῆς 
 
     <lb n="2"/>Ἀσκ<unclear>λ</unclear><supplied reason="lost">ηπιάδης </supplied><gap reason="lost" quantity="2" unit="character"/> <expan><unclear>μ</unclear>ε<ex>τρεῖ</ex></expan> Τῦβι <num value="21">κα</num>  <num value="11">ια</num> <num value="1/3" rend="tick">γ</num> 
 
     <lb n="3"/>καὶ <unclear>ὑπὲ</unclear><supplied reason="lost">ρ </supplied><gap reason="lost" quantity="5" unit="character"/> τοῦ <unclear>Π</unclear>αασιφίβιος <expan>ὡσαύτ<ex>ως</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="6">ϛ</num> <num value="1/2">𐅵</num> 
 
-    <lb n="4"/>καὶ <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="7" unit="character"/><supplied reason="lost"> ἐξ ἧς</supplied> γεωργεῖ <expan>β<ex>ασιλικῆς</ex></expan> Νικαγόρας <num value="6">ϛ</num> <num value="1/12" rend="tick">ιβ</num> 
+    <lb n="4"/>καὶ <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="7" unit="character"/><supplied reason="lost"> ἐξ ῆ̔ς</supplied> γεωργεῖ <expan>β<ex>ασιλικῆς</ex></expan> Νικαγόρας <num value="6">ϛ</num> <num value="1/12" rend="tick">ιβ</num> 
 
     <lb n="5"/><supplied reason="lost">Φιλ</supplied>αγρίδος Φ<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="8" unit="character"/><gap reason="illegible" quantity="4" unit="character"/> <num value="6">ϛ</num> <num value="1/12" rend="tick">ιβ</num> <expan><ex>γίνονται</ex></expan> <num value="30">λ</num> <expan><ex>ἀνὰ</ex></expan> <num value="13">ιγ</num> <num value="1/3" rend="tick">γ</num> 
 
-    <lb n="6"/><supplied reason="lost">Μ</supplied>αγαίδος Ὀρόντας Νικαγ<supplied reason="lost">όρου ἐ</supplied>ξ ἧς γεωργεῖ <expan>β<ex>ασιλικῆς</ex></expan> 
+    <lb n="6"/><supplied reason="lost">Μ</supplied>αγαίδος Ὀρόντας Νικαγ<supplied reason="lost">όρου ἐ</supplied>ξ ῆ̔ς γεωργεῖ <expan>β<ex>ασιλικῆς</ex></expan> 
 
     <lb n="7"/>Νικαγόρας <expan>β<ex>ασιλικῆς</ex></expan> γῆς <gap reason="lost" quantity="3" unit="character"/>μ<gap reason="lost" quantity="4" unit="character"/> <num value="1/3" rend="tick">γ</num>  <num value="16">ιϛ</num> <num value="2/3">𐅷</num> 
 
-    <lb n="8"/>Φῖβις ἐξ ἧς γεωργεῖ Νι<supplied reason="lost">καγόρ</supplied><unclear>ας</unclear> <expan>β<ex>ασιλικῆς</ex></expan> γῆς <gap reason="illegible" quantity="2" unit="character"/> <expan>με<ex>τρεῖ</ex></expan> Τῦβι 
+    <lb n="8"/>Φῖβις ἐξ ῆ̔ς γεωργεῖ Νι<supplied reason="lost">καγόρ</supplied><unclear>ας</unclear> <expan>β<ex>ασιλικῆς</ex></expan> γῆς <gap reason="illegible" quantity="2" unit="character"/> <expan>με<ex>τρεῖ</ex></expan> Τῦβι 
 
     <lb n="9"/><num value="22">κβ</num>  <num value="15">ιε</num> 
 
@@ -118,7 +118,7 @@
 
     <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/> <expan>ἀγοραστ<ex>οῦ</ex></expan> <num value="1/2">𐅵</num> <num value="1/3" rend="tick">γ</num> 
 
-    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/> <num value="10">ι</num> <num value="2/3">𐅷</num> <expan><ex>ὧν</ex></expan> 
+    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/> <num value="10">ι</num> <num value="2/3">𐅷</num> <expan><ex>ῶ̔ν</ex></expan> 
 
     <lb n="18"/><gap reason="lost" extent="unknown" unit="character"/>του <num value="9">θ</num> <num value="1/2">𐅵</num> 
 
@@ -155,7 +155,7 @@
 
     <lb n="5"/><gap reason="lost" quantity="5" unit="character"/> Βοκκάνου καὶ Φίλιππος Δίνν<supplied reason="lost">υος ἐκ</supplied> 
 
-    <lb n="6"/><supplied reason="lost">τῶν ἰ</supplied>δίων <num value="25">κε</num> <num value="2/3">𐅷</num> <num value="1/24" rend="tick">κδ</num> <expan><ex>ὧν</ex></expan> σπέρμα <num value="1/2">𐅵</num> <num value="1/3" rend="tick">γ</num> ἀγορ<supplied reason="lost">αστοῦ </supplied><gap reason="lost" quantity="2" unit="character"/> 
+    <lb n="6"/><supplied reason="lost">τῶν ἰ</supplied>δίων <num value="25">κε</num> <num value="2/3">𐅷</num> <num value="1/24" rend="tick">κδ</num> <expan><ex>ῶ̔ν</ex></expan> σπέρμα <num value="1/2">𐅵</num> <num value="1/3" rend="tick">γ</num> ἀγορ<supplied reason="lost">αστοῦ </supplied><gap reason="lost" quantity="2" unit="character"/> 
 
     <lb n="7"/><supplied reason="lost">Πρ</supplied>ωτογένης Ἑρμολάου ἐκ τοῦ Πτολεμαίου <supplied reason="lost">τ</supplied>οῦ 
 
@@ -171,7 +171,7 @@
 
     <lb n="13"/>μαχίμων πενταρούρων 
 
-    <lb n="14"/>Θοτεὺς Φιμήνιος ἐκ τοῦ <app type="editorial"><lem resp="BL 6.116">ἰδίο<supplied reason="lost">υ <num value="1">α</num></supplied></lem><rdg>ἰδίο<supplied reason="lost">υ </supplied><gap reason="lost" quantity="1" unit="character"/></rdg></app> <num value="1/2">𐅵</num> <num value="1/12" rend="tick">ιβ</num> <expan><ex>ὧν</ex></expan> σπέρμα <num value="1/12" rend="tick">ιβ</num> 
+    <lb n="14"/>Θοτεὺς Φιμήνιος ἐκ τοῦ <app type="editorial"><lem resp="BL 6.116">ἰδίο<supplied reason="lost">υ <num value="1">α</num></supplied></lem><rdg>ἰδίο<supplied reason="lost">υ </supplied><gap reason="lost" quantity="1" unit="character"/></rdg></app> <num value="1/2">𐅵</num> <num value="1/12" rend="tick">ιβ</num> <expan><ex>ῶ̔ν</ex></expan> σπέρμα <num value="1/12" rend="tick">ιβ</num> 
 
     <lb n="15"/>καὶ ὑπὲρ Πετῶτ<supplied reason="lost">ος</supplied> καὶ Νίκω<supplied reason="lost">νος</supplied> εἰς τὸν Ἁρυώτου 
 

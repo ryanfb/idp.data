@@ -74,11 +74,11 @@
 
     <lb n="11"/><supplied reason="lost">ἀρούρας μὲν</supplied> δέκα <num value="10"/> εἰς <choice><reg><supplied reason="omitted">σ</supplied>πορὰν</reg><orig>πορὰν</orig></choice> πυροῦ, ἐκφορίου 
 
-    <lb n="12"/><supplied reason="lost">σὺν αἷς λημ</supplied>ψόμεθα σπερμάτων πυροῦ ἀρτάβαις 
+    <lb n="12"/><supplied reason="lost">σὺν αῖ̔ς λημ</supplied>ψόμεθα σπερμάτων πυροῦ ἀρτάβαις 
 
     <lb n="13"/><supplied reason="lost">δέκα <num value="10"/> πυρ</supplied>οῦ ἀρταβῶν ἑκατὸν δέκα <num value="110"/>, διὰ τὸ ἀπὸ 
 
-    <lb n="14"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="4" unit="character"/>του εἶναι, τὰς δὲ λοιπὰς ἀρούρας <app type="editorial"><lem>ἕνδε
+    <lb n="14"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="4" unit="character"/>του εῖ̓ναι, τὰς δὲ λοιπὰς ἀρούρας <app type="editorial"><lem>ἕνδε
 
     <lb n="15" break="no"/><unclear>κ</unclear><supplied reason="lost">α</supplied> <unclear>ε</unclear>ἰς <supplied reason="lost">σπορὰν</supplied> χόρτου σεαυτ<unclear>ῷ</unclear> κατασπείρων </lem><rdg>ἕνδεκα εἰς <supplied reason="lost"><supplied reason="omitted">σ</supplied>πορὰν</supplied> χόρτου σεαυτῷ κατασπείρων εἰς κατά<supplied reason="lost">βρω</supplied>-</rdg></app>
             
@@ -90,7 +90,7 @@
             
     <lb n="19"/><app type="editorial"><lem>τῆς μισθ<supplied reason="lost">ώσεως τ</supplied>ὰς <unclear>μὲν</unclear> ἀρούρας ἕνδεκα <num value="11"/>, <unclear>εἰς</unclear> <choice><reg><supplied reason="omitted">σ</supplied>πορὰν</reg><orig><unclear>πο</unclear>ρὰν</orig></choice> </lem><rdg>ἐκφορίου σὺν ταῖς τῶν σπερμάτων ἀρτά</rdg></app>
             
-    <lb n="20"/><app type="editorial"><lem>πυροῦ, ἐκφ<supplied reason="lost">ορίου σ</supplied>ὺν αἷς λ<unclear>η</unclear>μψ<unclear>ό</unclear>μεθα σπερμάτ<supplied reason="lost">ων</supplied> </lem><rdg>βαις δέκα <num value="10"/> πυροῦ ἀρταβῶν ἑκατὸν τριάκοντα</rdg></app> <num value="130"/>, 
+    <lb n="20"/><app type="editorial"><lem>πυροῦ, ἐκφ<supplied reason="lost">ορίου σ</supplied>ὺν αῖ̔ς λ<unclear>η</unclear>μψ<unclear>ό</unclear>μεθα σπερμάτ<supplied reason="lost">ων</supplied> </lem><rdg>βαις δέκα <num value="10"/> πυροῦ ἀρταβῶν ἑκατὸν τριάκοντα</rdg></app> <num value="130"/>, 
             
     <lb n="21"/><app type="editorial"><lem>πυροῦ ἀρτά<supplied reason="lost">βαις ἕ</supplied>νδεκα <num value="11"/>, πυροῦ ἀρταβῶν ἑκατὸ<supplied reason="lost">ν τεσ</supplied></lem><rdg>καὶ τὰς ἀρούρας ἕνδεκα <num value="11"/> εἰς <supplied reason="omitted">σ</supplied>πορὰν χόρτου σεαυ-</rdg></app>
             

@@ -71,7 +71,7 @@
 
     <lb n="10"/><del rend="erasure"> <gap reason="illegible" quantity="2" unit="line"/> </del> 
 
-    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <expan>τά<ex>λαντα</ex></expan> <num value="3">γ</num>  <num value="5040">Εμ</num>, <expan><ex>ὧν</ex></expan> 
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <expan>τά<ex>λαντα</ex></expan> <num value="3">γ</num>  <num value="5040">Εμ</num>, <expan><ex>ῶ̔ν</ex></expan> 
 
     <lb n="11"/><supplied reason="lost"><num value="1/4" rend="tick">δ</num> <expan>τά<ex>λαντα</ex></expan> <num value="2">β</num>,</supplied> <expan>λ<ex>οιπὸν</ex></expan> εἰς τὸ <expan>ἐπώ<ex>νιον</ex></expan> 
 
@@ -116,7 +116,7 @@
 
     <lb n="26"/><expan><ex>γίνονται</ex></expan> <num value="1150">Αρν</num> <expan><ex>γίνονται</ex></expan> <num value="19">ιθ</num><gap reason="lost" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="27"/><expan><ex>γίνονται</ex></expan> <num value="3300">Γτ</num>, <expan><ex>ὧν</ex></expan> τετάρ<supplied reason="lost">τ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="27"/><expan><ex>γίνονται</ex></expan> <num value="3300">Γτ</num>, <expan><ex>ῶ̔ν</ex></expan> τετάρ<supplied reason="lost">τ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="28"/>ἐπωνίων <num value="1300">Ατ</num>, <expan>τά<ex>λαντα</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>
       </body>

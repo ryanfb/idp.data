@@ -74,7 +74,7 @@
 
     <lb n="7"/>Καίσαρα Τρα<hi rend="diaeresis">ι</hi>ανὸν Σεβαστὸν Γερμανικ<supplied reason="lost">ὸ</supplied>ν 
 
-    <lb n="8"/>ἐφηβευκέναι τὸ προκίμενον ἔτος <num value="2">β</num>, ε<supplied reason="lost">ἶ</supplied>
+    <lb n="8"/>ἐφηβευκέναι τὸ προκίμενον ἔτος <num value="2">β</num>, ε<supplied reason="lost">ῖ̓</supplied>
 
     <lb n="9" break="no"/>ναι τῆς προκιμένης συνμορίας καὶ μὴ ἀλ
 
@@ -149,7 +149,7 @@
 
     <lb n="45" break="no"/>κείμενον ἔτος 
 
-    <lb n="46"/><choice><reg>κα<supplied reason="omitted">ὶ</supplied></reg><orig>κὰ</orig></choice> εἶναι τῆς προ
+    <lb n="46"/><choice><reg>κα<supplied reason="omitted">ὶ</supplied></reg><orig>κὰ</orig></choice> εῖ̓ναι τῆς προ
 
     <lb n="47" break="no"/>κειμένης συμ<supplied reason="omitted">μ</supplied>
 <choice><reg>ο<lb n="48" break="no"/>ρίας</reg><orig>συμο<lb n="48" break="no"/>ρίας</orig></choice> <choice><reg>κα<supplied reason="omitted">ὶ</supplied></reg><orig>κὰ</orig></choice> μὴ <choice><reg>ἀλ<supplied reason="omitted">λ</supplied>οτρίᾳ</reg><orig>ἀλοτρίᾳ</orig></choice> 
@@ -216,7 +216,7 @@
 
     <lb n="79"/><choice><reg>ἐφηβευκένα<supplied reason="omitted">ι τὸ</supplied></reg><orig><subst><add place="inline">ἐφηβευκενα</add><del rend="corrected">εφη<unclear>ε</unclear>υυκενα</del></subst></orig></choice> προκεί
 
-    <lb n="80" break="no"/>μενον ἔτος καὶ <choice><reg>εἶν<supplied reason="omitted">αι</supplied></reg><orig>εἰν</orig></choice> τῆς 
+    <lb n="80" break="no"/>μενον ἔτος καὶ <choice><reg>εῖ̓ν<supplied reason="omitted">αι</supplied></reg><orig>εἰν</orig></choice> τῆς 
 
     <lb n="81"/>προκειμένης <choice><reg>συμ<supplied reason="omitted">μ</supplied>ορίας</reg><orig>συμο<lb n="48" break="no"/>ρίας</orig></choice> 
 

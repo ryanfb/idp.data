@@ -70,7 +70,7 @@
 
     <lb n="8"/>ἕως Μεσορὴ τοῦ ἐνεστῶτος <num value="2">β</num> <expan><ex>ἔτους</ex></expan> ἔστι δέ· 
 
-    <lb n="9"/>πυλὼν ἐν ᾧ θυρουρικὸν ὑπὸ Σαπρίωνα θυρουρὸν χωρὶς ἐν<supplied reason="lost">οικίου</supplied> 
+    <lb n="9"/>πυλὼν ἐν ῷ̔ θυρουρικὸν ὑπὸ Σαπρίωνα θυρουρὸν χωρὶς ἐν<supplied reason="lost">οικίου</supplied> 
 
     <lb n="10"/>καὶ ἐκ δεξιῶν <choice><reg>εἰσερχομένο<supplied reason="omitted">ι</supplied>ς</reg><orig><hi rend="diaeresis">ἰ</hi>σερχόμενος</orig></choice> <supplied reason="lost">ἐ</supplied><unclear>κ</unclear> λιβὸς ἐργαστήριον γερδια<supplied reason="lost">κόν</supplied>, 
 
@@ -131,7 +131,7 @@
 
     <lb n="38"/><num value="22">κβ</num> κέλλα ὑπὸ <unclear>Πε</unclear><gap reason="illegible" quantity="4" unit="character"/>, ἐνοικίου <expan><ex>δραχμῶν</ex></expan> <num value="20">κ</num> <expan>ἐργ<ex>ατῶν</ex></expan> <num value="12">ιβ</num> <expan>δελφ<ex>ακίου</ex></expan> <num value="1/2">𐅵</num> 
 
-    <lb n="39"/><supplied reason="lost"><num value="23">κγ</num></supplied> κέλλα ὑπὸ <choice><reg>ἐμὲ</reg><orig>ἐμαὶ</orig></choice> Ἀλκιμέδο<supplied reason="lost">ντα</supplied> <unclear>δ</unclear>ιὰ τὸ καταπεπτωκυ<hi rend="diaeresis">ῖ</hi>αν <supplied reason="omitted">εἶναι</supplied> 
+    <lb n="39"/><supplied reason="lost"><num value="23">κγ</num></supplied> κέλλα ὑπὸ <choice><reg>ἐμὲ</reg><orig>ἐμαὶ</orig></choice> Ἀλκιμέδο<supplied reason="lost">ντα</supplied> <unclear>δ</unclear>ιὰ τὸ καταπεπτωκυ<hi rend="diaeresis">ῖ</hi>αν <supplied reason="omitted">εῖ̓ναι</supplied> 
 
     <lb n="40"/><gap reason="lost" extent="unknown" unit="character"/><unclear>λ</unclear>λων ξενία<unclear>ι</unclear> <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> 
 
@@ -168,17 +168,17 @@
 
     <lb n="55"/><space extent="unknown" unit="character"/> 
 
-    <lb n="55"/>κτ<unclear>ήσ</unclear>εως Ἀριστοκλέους ὁμοίως, ἐν ᾧ πυλών· 
+    <lb n="55"/>κτ<unclear>ήσ</unclear>εως Ἀριστοκλέους ὁμοίως, ἐν ῷ̔ πυλών· 
 
     <lb n="56"/><num value="1">α</num> κέλλα <expan><ex>πρότερον</ex></expan> ὑπὸ Παῆσιν θυρουρόν, νυνὶ δὲ ὑπὸ Ὡρίωνα 
 
     <lb n="57"/>υ<hi rend="diaeresis">ἱ</hi>όν, χωρὶς παντός 
 
-    <lb n="58"/><num value="2">β</num> κέλλα ἐκ νότου τοῦ ἐποικίου σκοτινὴ οὖσα, ἀργή 
+    <lb n="58"/><num value="2">β</num> κέλλα ἐκ νότου τοῦ ἐποικίου σκοτινὴ οῦ̓σα, ἀργή 
 
     <lb n="59"/><num value="3">γ</num> κέλλα ὑπὸ Ἀϊῶνα, ἐνοικίου <expan><ex>δραχμῶν</ex></expan> <num value="20">κ</num> <expan>ἐργ<ex>ατῶν</ex></expan> <num value="12">ιβ</num> <expan><unclear>δελφ</unclear><ex>ακίου</ex></expan> <num value="1/2">𐅵</num> 
 
-    <lb n="60"/><num value="4">δ</num> κέλλα πρότερον οὖσα ἀργή, νυνὶ δὲ ὑπὸ Δι<unclear>όδ</unclear>ωρον, 
+    <lb n="60"/><num value="4">δ</num> κέλλα πρότερον οῦ̓σα ἀργή, νυνὶ δὲ ὑπὸ Δι<unclear>όδ</unclear>ωρον, 
 
     <lb n="61"/><supplied reason="lost">ἐνοικίου <expan><ex>δραχμῶν</ex></expan> <num value="20">κ</num> <expan>ἐργ<ex>ατῶν</ex></expan> <num value="12">ιβ</num> <expan>δελφ<ex>ακίου</ex></expan> <num value="1/2">𐅵</num></supplied> 
 
@@ -192,7 +192,7 @@
 
     <lb n="66"/><supplied reason="lost"><expan>ἐργ<ex>ατῶν</ex></expan> <num value="12">ιβ</num> <expan>δελφ<ex>ακίου</ex></expan> <num value="1/2">𐅵</num></supplied> 
 
-    <lb n="67"/><supplied reason="lost">καὶ ἐξ ἀριστερῶν ἐκ βορ</supplied><unclear>ρ</unclear>ᾶ <note xml:lang="en">?</note> κελλῶν <num value="4">δ</num> ὧν 
+    <lb n="67"/><supplied reason="lost">καὶ ἐξ ἀριστερῶν ἐκ βορ</supplied><unclear>ρ</unclear>ᾶ <note xml:lang="en">?</note> κελλῶν <num value="4">δ</num> ῶ̔ν 
 
     <lb n="68"/><supplied reason="lost"><num value="1">α</num> κέλλα ὑπὸ   </supplied> <unclear>π</unclear>ροστάτην Λογ<g type="apostrophe"/>γίνου, ἐνοικίου <expan><ex>δραχμῶν</ex></expan> <num value="20">κ</num> 
 
@@ -205,17 +205,17 @@
     <lb n="72"/><supplied reason="lost"><expan>δελφ<ex>ακίου</ex></expan> <num value="1/2">𐅵</num>, χωρὶς</supplied> <unclear>ἐρ</unclear>γατῶν 
 </ab></div><div n="4" type="textpart"><ab>
 
-    <lb n="73"/><num value="4">δ</num> κ<unclear>έ</unclear><supplied reason="lost">λλ</supplied>α πρότερον οὖσα ἀργή, νυνὶ δὲ ὑπὸ Χαιρήμονα, 
+    <lb n="73"/><num value="4">δ</num> κ<unclear>έ</unclear><supplied reason="lost">λλ</supplied>α πρότερον οῦ̓σα ἀργή, νυνὶ δὲ ὑπὸ Χαιρήμονα, 
 
     <lb n="74"/>ἐνοικίου <expan><ex>δραχμῶν</ex></expan> <num value="20">κ</num> <expan>ἐργ<ex>ατῶν</ex></expan> <num value="12">ιβ</num> <expan>δελφ<ex>ακίου</ex></expan> <num value="1/2">𐅵</num> 
 
-    <lb n="75"/>καὶ ἐκ δεξιῶν ἐκ βορρᾶ ὁμοίως, <supplied reason="omitted">πρώτης</supplied> στέγης ὧν· 
+    <lb n="75"/>καὶ ἐκ δεξιῶν ἐκ βορρᾶ ὁμοίως, <supplied reason="omitted">πρώτης</supplied> στέγης ῶ̔ν· 
 
-    <lb n="76"/><num value="1">α</num> κέλλα, ἔστιν <choice><reg>ταμεῖον</reg><orig>ταμῖον</orig></choice>, πρότερον οὖσα ὑπὸ κυριακὸν 
+    <lb n="76"/><num value="1">α</num> κέλλα, ἔστιν <choice><reg>ταμεῖον</reg><orig>ταμῖον</orig></choice>, πρότερον οῦ̓σα ὑπὸ κυριακὸν 
 
     <lb n="77"/>χόρτον, νυνὶ δὲ ὑπὸ Χρυσᾶν, ἐνοικίου <expan><ex>δραχμῶν</ex></expan> <num value="20">κ</num> <expan>ἐργ<ex>ατῶν</ex></expan> <num value="12">ιβ</num> <expan>δελφ<ex>ακίου</ex></expan> <num value="1/2">𐅵</num> 
 
-    <lb n="78"/>καὶ ἐπάνω τοῦ ταμείου   ὧν· 
+    <lb n="78"/>καὶ ἐπάνω τοῦ ταμείου   ῶ̔ν· 
 
     <lb n="79"/><num value="1">α</num> κέλλα ὑπὸ Ἥρωνα προστάτην νεοφύτων Αὔλωνος 
 
@@ -225,11 +225,11 @@
 
     <lb n="82"/><num value="1">α</num> κέλλα ὑπὸ Ὃλʼ ἀπὸ τῆς Ἀλεξάνδρου, ἐνοικίου <expan><ex>δραχμῶν</ex></expan> <num value="20">κ</num> <expan>ἐργ<ex>ατῶν</ex></expan> <num value="12">ιβ</num> <expan>δελφ<ex>ακίου</ex></expan> <num value="1/2">𐅵</num> 
 
-    <lb n="83"/><num value="2">β</num> κέλλα πρότερον οὖσα ὑπὸ Νεῖλον, νυνὶ οὖσα ἀργή 
+    <lb n="83"/><num value="2">β</num> κέλλα πρότερον οῦ̓σα ὑπὸ Νεῖλον, νυνὶ οῦ̓σα ἀργή 
 
     <lb n="84"/><num value="3">γ</num> κέλλα ὑπὸ Τουτουῆν, ἐνοικίου <expan><ex>δραχμῶν</ex></expan> <num value="20">κ</num> <expan>ἐργ<ex>ατῶν</ex></expan> <num value="12">ιβ</num> <expan>δελφ<ex>ακίου</ex></expan> <num value="1/2">𐅵</num> 
 
-    <lb n="85"/><num value="4">δ</num> κέλλα διπλῆ οὖσα, ἐν <choice><reg>ᾗ</reg><orig>οἷς</orig></choice> μυλαῖον, ὑπὸ Ἀνὸψʼ μυλωνι
+    <lb n="85"/><num value="4">δ</num> κέλλα διπλῆ οῦ̓σα, ἐν <choice><reg>ῇ̔</reg><orig>οῖ̔ς</orig></choice> μυλαῖον, ὑπὸ Ἀνὸψʼ μυλωνι
 
     <lb n="86" break="no"/>κὸν μισθωτήν, χωρὶς παντός 
 
@@ -237,9 +237,9 @@
 
     <lb n="88"/><num value="6">ϛ</num> κέλλα ὑπὸ Κάστορα, ἐνοικίου <expan><ex>δραχμῶν</ex></expan> <num value="20">κ</num> <expan>ἐργ<ex>ατῶν</ex></expan> <num value="12">ιβ</num> <expan>δελφ<ex>ακίου</ex></expan> <num value="1/2">𐅵</num> 
 
-    <lb n="89"/>καὶ ἐπάνω τούτων, δευτέρας στέγης κελλῶν <num value="3">γ</num> ὧν· 
+    <lb n="89"/>καὶ ἐπάνω τούτων, δευτέρας στέγης κελλῶν <num value="3">γ</num> ῶ̔ν· 
 
-    <lb n="90"/><num value="1">α</num> κέλλα πρότερον οὖσα ὑπὸ Νεμεσᾶν, νυνὶ δὲ ἀργή 
+    <lb n="90"/><num value="1">α</num> κέλλα πρότερον οῦ̓σα ὑπὸ Νεμεσᾶν, νυνὶ δὲ ἀργή 
 
     <lb n="91"/><num value="2">β</num> κέλλα ὑπὸ Πετερμοῦθιν, ἐνοικίου <expan><ex>δραχμῶν</ex></expan> <num value="20">κ</num> <expan>ἐργ<ex>ατῶν</ex></expan> <num value="12">ιβ</num> <expan>δελφ<ex>ακίου</ex></expan> <num value="1/2">𐅵</num> 
 
@@ -247,15 +247,15 @@
 
     <lb n="93"/>χωρὶς ἐνοικίου καὶ παντός 
 
-    <lb n="94"/>ληνὸς ἐγ<g type="apostrophe"/>γύς, ἐν αὐτῇ <add place="above">ὧν</add> γερδιακὸν ἐργαστήριον διὰ 
+    <lb n="94"/>ληνὸς ἐγ<g type="apostrophe"/>γύς, ἐν αὐτῇ <add place="above">ῶ̔ν</add> γερδιακὸν ἐργαστήριον διὰ 
 
-    <lb n="95"/>Ἆπον γέρδιν μισθωτήν, χωρὶς παντός 
+    <lb n="95"/>Ἆπον γέρδιν μισθωτήν, χωρὶς παντός 
 
     <lb n="96"/>στεμφυλούργιον ὑπὸ Ἡραΐσκον καὶ <choice><reg>τοὺς</reg><orig>τῶν</orig></choice> σὺν αὐτῷ 
 
     <lb n="97"/><choice><reg>μισθωτὰς</reg><orig>μισθωτῶν</orig></choice> 
 
-    <lb n="98"/>καὶ ἀπὸ λιβὸς ὁμοίως τοῦ ἐποικίου ὧν· 
+    <lb n="98"/>καὶ ἀπὸ λιβὸς ὁμοίως τοῦ ἐποικίου ῶ̔ν· 
 
     <lb n="99"/><num value="1">α</num> κέλλα ὑπὸ Ὀρσενοῦφιν, ἐνοικίου <expan><ex>δραχμῶν</ex></expan> <num value="20">κ</num> <expan>ἐργ<ex>ατῶν</ex></expan> <num value="12">ιβ</num> <expan>δελφ<ex>ακίου</ex></expan> <num value="1/2">𐅵</num> 
 
@@ -288,9 +288,9 @@
 
     <lb n="114" break="no"/>ρον προστάτας, χωρὶς ἐνοι<supplied reason="lost">κίου καὶ π</supplied>αντός 
 
-    <lb n="115"/>γίνονται ἐπὶ τὸ αὐτὸ κέλλαι <num value="30">λ</num>   <unclear>ὧ</unclear>ν ἀργηταὶ οὖσαι <num value="4">δ</num> 
+    <lb n="115"/>γίνονται ἐπὶ τὸ αὐτὸ κέλλαι <num value="30">λ</num>   <unclear>ῶ̔</unclear>ν ἀργηταὶ οῦ̓σαι <num value="4">δ</num> 
 
-    <lb n="116"/>καὶ <num value="1">α</num> διπλῆ οὖσα ὑπὸ τὸν μυλω<supplied reason="lost">νικόν</supplied>, καὶ <num value="1">α</num> ὑπὸ τὸν 
+    <lb n="116"/>καὶ <num value="1">α</num> διπλῆ οῦ̓σα ὑπὸ τὸν μυλω<supplied reason="lost">νικόν</supplied>, καὶ <num value="1">α</num> ὑπὸ τὸν 
 
     <lb n="117"/>κηπουρόν, καὶ <num value="1">α</num> ὑ<supplied reason="lost">πὸ</supplied> τὸν θ<supplied reason="lost">υρουρό</supplied>ν. λοιπαὶ ἐνοικού
 
@@ -455,7 +455,7 @@
 
     <lb n="194"/><supplied reason="lost"><choice><reg>ἔμειναν</reg><orig><supplied reason="lost">ἔμιναν</supplied></orig></choice> ἐν τῇ φροντίδι ἀπὸ <num value="29">κθ</num> ἕως</supplied> <num value="30">λ</num> ἡμερῶν <num value="2">β</num> 
 
-    <lb n="195"/><supplied reason="lost">ὧν τὰ ἔργα· ἄχυρον μεταφέροντες εἰς τ</supplied>ὴν πλαστὴν τῶν 
+    <lb n="195"/><supplied reason="lost">ῶ̔ν τὰ ἔργα· ἄχυρον μεταφέροντες εἰς τ</supplied>ὴν πλαστὴν τῶν 
 
     <lb n="196"/><supplied reason="lost">κτημάτων                σὺν τῷ ὀνηλ</supplied>άτῃ, ἡμερησίως 
 
@@ -516,7 +516,7 @@
 
     <lb n="224"/>ὁμοίως καμήλοις <num value="12">ιβ</num> τοῦ εὐσχήμονος ἐλθόν<unclear>τ</unclear>ων 
 
-    <lb n="225"/>ἐπὶ οἶνον τῇ <num value="15">ιε</num> καὶ κοιμηθέντων παρʼ ἐμο<unclear>ὶ</unclear>, <expan>δέσ<ex>μαι</ex></expan> <num value="144">ρμδ</num> 
+    <lb n="225"/>ἐπὶ οῖ̓νον τῇ <num value="15">ιε</num> καὶ κοιμηθέντων παρʼ ἐμο<unclear>ὶ</unclear>, <expan>δέσ<ex>μαι</ex></expan> <num value="144">ρμδ</num> 
 
     <lb n="226"/><expan>γ<ex>ίνονται</ex></expan> ἀναλ<supplied reason="lost">ώ</supplied>ματος   δέσμαι <num value="1108">Αρη</num> 
 
@@ -569,7 +569,7 @@
 
     <lb n="250"/><choice><reg>ἔμε<supplied reason="lost">ι</supplied>ναν</reg><orig>ἔ<unclear>μ</unclear><supplied reason="lost">ι</supplied>ναν</orig></choice> ἐν τ<supplied reason="lost">ῇ φρον</supplied>τίδι ἀπὸ <num value="1">α</num> ἕως <num value="17">ιζ</num> ἡμερῶν <num value="17">ιζ</num> 
 
-    <lb n="251"/>ὧν τὰ ἔργα· <supplied reason="lost">ἄ</supplied>χυρον <expan>μεταφ<ex>έροντες</ex></expan> εἰς τὰς πλαστὰς τῶν κτη
+    <lb n="251"/>ῶ̔ν τὰ ἔργα· <supplied reason="lost">ἄ</supplied>χυρον <expan>μεταφ<ex>έροντες</ex></expan> εἰς τὰς πλαστὰς τῶν κτη
 
     <lb n="252" break="no"/>μά<unclear>τ</unclear>ω<unclear>ν</unclear> πρὸ <unclear>τ</unclear><supplied reason="lost">ῶν πλ</supplied>αστευτῶν ἐπὶ ἡμέρας <num value="16">ιϛ</num> σὺν τῷ 
 

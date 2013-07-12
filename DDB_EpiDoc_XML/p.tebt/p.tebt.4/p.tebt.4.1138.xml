@@ -78,9 +78,9 @@
 
     <lb n="14"/><g type="check"/> Φαῆσις Ὥρου <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> 
 
-    <lb n="15"/><g type="check"/> Ὧρος Ἀμεννέως <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> 
+    <lb n="15"/><g type="check"/> Ὧρος Ἀμεννέως <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> 
 
-    <lb n="16"/><g type="check"/> Ὧρος Τιμο<unclear>θ</unclear>είου <num value="1/2"><unclear>𐅵</unclear></num> 
+    <lb n="16"/><g type="check"/> Ὧρος Τιμο<unclear>θ</unclear>είου <num value="1/2"><unclear>𐅵</unclear></num> 
 
     <lb n="17"/><g type="check"/> Ὀννῶφρις Μαρρείους <del rend="erasure"> <gap reason="illegible" quantity="1" unit="character"/> <num value="1/3" rend="tick">γ</num></del> <add place="above"><num value="4">δ</num> <num value="1/3" rend="tick">γ</num></add> 
 
@@ -89,19 +89,19 @@
     <lb n="19"/><num value="1/3" rend="tick">γ</num> <num value="1/12" rend="tick">ιβ</num>   <num value="60">ξ</num> <num value="1/4" rend="tick">δ</num>    <num value="54">νδ</num> <num value="1/12" rend="tick">ιβ</num> 
 </ab></div><div n="2" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="20"/><g type="check"/> Ὧρος Πετεσούχου <num value="3">γ</num> 
+    <lb n="20"/><g type="check"/> Ὧρος Πετεσούχου <num value="3">γ</num> 
 
-    <lb n="21"/><g type="check"/> Ὧρος Ἰναρῶτος <del rend="erasure"><num value="1">α</num> <num value="1/3" rend="tick">γ</num></del> <add place="above"><num value="1/2">𐅵</num></add> 
+    <lb n="21"/><g type="check"/> Ὧρος Ἰναρῶτος <del rend="erasure"><num value="1">α</num> <num value="1/3" rend="tick">γ</num></del> <add place="above"><num value="1/2">𐅵</num></add> 
 
-    <lb n="22"/><g type="check"/> Ὧρος Πετῶτος <num value="6">ϛ</num> <num value="2/3">𐅷</num> 
+    <lb n="22"/><g type="check"/> Ὧρος Πετῶτος <num value="6">ϛ</num> <num value="2/3">𐅷</num> 
 
     <lb n="23"/><num value="6">ϛ</num> <num value="2/3">𐅷</num> 
 
     <lb n="24"/><g type="check"/> Ὀννῶφρις Τεῶτος καὶ Τεῶς <num value="4">δ</num> <num value="1/2">𐅵</num> <num value="1/3" rend="tick">γ</num> 
 
-    <lb n="25"/><g type="check"/> Ὧρος Πετεχῶντος <num value="12">ιβ</num> <num value="1/4" rend="tick">δ</num> 
+    <lb n="25"/><g type="check"/> Ὧρος Πετεχῶντος <num value="12">ιβ</num> <num value="1/4" rend="tick">δ</num> 
 
-    <lb n="26"/><g type="check"/> Ὧρος Ὀρσείους <num value="1/2">𐅵</num> 
+    <lb n="26"/><g type="check"/> Ὧρος Ὀρσείους <num value="1/2">𐅵</num> 
 
     <lb n="27"/><g type="check"/> Ἡράκλειος Πετάλου <num value="5">ε</num> 
 
@@ -163,7 +163,7 @@
 
     <lb n="55"/><g type="check"/> Πετῶς Μαρρείους <num value="12">ι<del rend="erasure"><unclear>β</unclear></del></num><del rend="erasure"> <num value="1/2"><unclear>𐅵</unclear></num></del>                     <num value="10">ι</num> 
 
-    <lb n="56"/><g type="check"/> Ὧρος Πετενεφιείους <subst><add place="inline"><num value="3">γ</num></add><del rend="corrected"><gap reason="illegible" quantity="1" unit="character"/></del></subst>                      <num value="3">γ</num> 
+    <lb n="56"/><g type="check"/> Ὧρος Πετενεφιείους <subst><add place="inline"><num value="3">γ</num></add><del rend="corrected"><gap reason="illegible" quantity="1" unit="character"/></del></subst>                      <num value="3">γ</num> 
 
     <lb n="57"/><g type="check"/> Μεγχῆς <expan>Δημη<ex>τρίου</ex></expan> <num value="1"><unclear>α</unclear></num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> 
 
@@ -196,7 +196,7 @@
 
     <lb n="71"/>Μαρρῆς Ἰμ<unclear>ούθ</unclear><supplied reason="lost">ου</supplied> <num value="1">α</num> 
 
-    <lb n="72"/>Ὧρος <expan>μέ<ex>γας</ex></expan> Κε<supplied reason="lost">ντί</supplied><unclear>σ</unclear>ιος <num value="2">β</num> 
+    <lb n="72"/>Ὧρος <expan>μέ<ex>γας</ex></expan> Κε<supplied reason="lost">ντί</supplied><unclear>σ</unclear>ιος <num value="2">β</num> 
 
     <lb n="73"/>Ἁρμιῦσις <gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><unclear>ς</unclear> <num value="1/2">𐅵</num> 
 

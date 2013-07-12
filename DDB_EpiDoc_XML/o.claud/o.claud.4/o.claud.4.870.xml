@@ -46,16 +46,16 @@
          <head xml:lang="en"/>
          <div xml:lang="grc" type="edition" xml:space="preserve">
 <ab>
-<lb n="1"/>Ἀμμώνιος Ἑρμαίσκωι
-<lb n="2"/>τῶι φιλτάτωι πολλὰ χαίρειν. 
-<lb n="3"/>ἐκομισάμην σοῦ ὄστρακον ἐν ᾧ μοι 
-<lb n="4"/>δηλοῖς μὴ <choice><reg><app type="alternative"><lem>πολὺ ἀνθράκων</lem><rdg>πολὺν ἄνθρακα</rdg></app></reg><orig>πολὺν  ἀνθρακον</orig></choice> ἀνη<unclear>λ</unclear><supplied reason="lost">ῶ</supplied>
-<lb n="5" break="no"/>σαι εἰς τὸ <choice><reg>στομωτήριον</reg><orig>στωμωτήριν</orig></choice> σοῦ παρόν<supplied reason="lost">τος</supplied> 
+<lb n="1"/>Ἀμμώνιος Ἑρμαίσκωι
+<lb n="2"/>τῶι φιλτάτωι πολλὰ χαίρειν. 
+<lb n="3"/>ἐκομισάμην σοῦ ὄστρακον ἐν ῷ̔ μοι 
+<lb n="4"/>δηλοῖς μὴ <choice><reg><app type="alternative"><lem>πολὺ ἀνθράκων</lem><rdg>πολὺν ἄνθρακα</rdg></app></reg><orig>πολὺν  ἀνθρακον</orig></choice> ἀνη<unclear>λ</unclear><supplied reason="lost">ῶ</supplied>
+<lb n="5" break="no"/>σαι εἰς τὸ <choice><reg>στομωτήριον</reg><orig>στωμωτήριν</orig></choice> σοῦ παρόν<supplied reason="lost">τος</supplied> 
 <lb n="6"/>ἐχθὲς <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="7"/>τε ε<gap reason="lost" extent="unknown" unit="character"/>
 <lb n="8"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
 <lb n="8"/><gap reason="lost" extent="unknown" unit="line"/>
-<lb n="9,ms" rend="perpendicular"/> καὶ περὶ οὗ ἄλλου <choice><reg>σοὶ</reg><orig><unclear>σο</unclear>υ</orig></choice> <app type="alternative"><lem><unclear>αν</unclear><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><unclear>ἀν</unclear><supplied reason="lost">άγκη ἐστὶν</supplied> <gap reason="lost" extent="unknown" unit="character"/></rdg></app>
+<lb n="9,ms" rend="perpendicular"/> καὶ περὶ οῦ̔ ἄλλου <choice><reg>σοὶ</reg><orig><unclear>σο</unclear>υ</orig></choice> <app type="alternative"><lem><unclear>αν</unclear><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><unclear>ἀν</unclear><supplied reason="lost">άγκη ἐστὶν</supplied> <gap reason="lost" extent="unknown" unit="character"/></rdg></app>
 <lb n="10,ms" rend="perpendicular"/> <space extent="unknown" unit="character"/> <expan>ἔρρωσθ<ex>αι</ex></expan>.
 </ab>
       </div>

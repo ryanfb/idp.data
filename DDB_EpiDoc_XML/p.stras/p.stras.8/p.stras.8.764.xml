@@ -66,7 +66,7 @@
 
     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/>ο<gap reason="illegible" quantity="1" unit="character"/> <unclear>τῆ</unclear>ς Πολέμωνος μερίδος ἐν μιᾷ σφραγῖδι προσο
 
-    <lb n="5" break="no"/><supplied reason="lost">δικῆς γῆς </supplied><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>ης σχοινίῳ <num value="96">ϙϛ</num> <expan><unclear>π</unclear>ήχ<ex>εων</ex></expan> ὧν <choice><reg>γείτονες</reg><orig>γίτωνες</orig></choice> νότου 
+    <lb n="5" break="no"/><supplied reason="lost">δικῆς γῆς </supplied><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>ης σχοινίῳ <num value="96">ϙϛ</num> <expan><unclear>π</unclear>ήχ<ex>εων</ex></expan> ῶ̔ν <choice><reg>γείτονες</reg><orig>γίτωνες</orig></choice> νότου 
 
     <lb n="4a"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> 
 
@@ -100,7 +100,7 @@
 
     <lb n="20"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>τ<gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> ζε<unclear>ῦγος</unclear> <unclear>τ</unclear>ρίτ<gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="3" unit="character"/>υ <expan>τετάρ<unclear>τ</unclear>ω<ex>ν</ex></expan> 
 
-    <lb n="21"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> κον</supplied>τα ἀφʼ ἧς ἐὰν ἀπαιτηθῇ <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="2" unit="character"/>ω<unclear>ν</unclear>ης <unclear>τ</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>ν</unclear> 
+    <lb n="21"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> κον</supplied>τα ἀφʼ ῆ̔ς ἐὰν ἀπαιτηθῇ <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="2" unit="character"/>ω<unclear>ν</unclear>ης <unclear>τ</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>ν</unclear> 
 
     <lb n="22"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/> 
 
@@ -129,7 +129,7 @@
 
     <lb n="34"/>γινομ<supplied reason="lost">ένης τῆς πράξεως </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="35"/>ἧς ἔχει <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> κατοι</supplied>
+    <lb n="35"/>ῆ̔ς ἔχει <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> κατοι</supplied>
 
     <lb n="36" break="no"/>κικῶν <unclear>κ</unclear><supplied reason="lost">λήρων </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -141,7 +141,7 @@
 
     <lb n="40"/>τῷ ἰδίῳ <unclear>γ</unclear><supplied reason="lost">άλακτι εἰς ἔτη δύο <num value="2"/> ἀπὸ τοῦ προκειμένου χρόνου καὶ τιθηνήσειν ἐπʼ ἄλλους μῆνας ἓξ <num value="6"/> τὸ γεγονὸς τῇ </supplied><gap reason="lost" quantity="6" unit="character"/><supplied reason="lost"> ἐκ τῆς</supplied> 
 
-    <lb n="41"/>ὑπαρχο<unclear>ύ</unclear><supplied reason="lost" cert="low">σης αὐτῷ δούλης </supplied><gap reason="lost" quantity="7" unit="character"/><supplied reason="lost" cert="low"> ἀρσενικὸν ἔγγονον ᾧ ὄνομα </supplied><gap reason="lost" quantity="5" unit="character"/><supplied reason="lost" cert="low"> λαμβάνουσα παρὰ τοῦ </supplied><gap reason="lost" quantity="5" unit="character"/><supplied reason="lost"> ὑπέρ τε τῶν τῆς γάλα</supplied>
+    <lb n="41"/>ὑπαρχο<unclear>ύ</unclear><supplied reason="lost" cert="low">σης αὐτῷ δούλης </supplied><gap reason="lost" quantity="7" unit="character"/><supplied reason="lost" cert="low"> ἀρσενικὸν ἔγγονον ῷ̔ ὄνομα </supplied><gap reason="lost" quantity="5" unit="character"/><supplied reason="lost" cert="low"> λαμβάνουσα παρὰ τοῦ </supplied><gap reason="lost" quantity="5" unit="character"/><supplied reason="lost"> ὑπέρ τε τῶν τῆς γάλα</supplied>
 
     <lb n="42" break="no"/>κτοτροφ<supplied reason="lost">ίας κατὰ μῆνα δραχμὰς </supplied><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> καὶ ἐλαίου κοτύλας δύο <num value="2"/> καὶ τῶν τῆς </supplied><gap reason="lost" quantity="40" unit="character"/> 
 

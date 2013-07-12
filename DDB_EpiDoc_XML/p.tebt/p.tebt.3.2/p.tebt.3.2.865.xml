@@ -73,7 +73,7 @@
 
     <lb n="14"/>Θμοινέψεως <num value="10"><unclear>ι</unclear></num>, <expan><ex cert="low">γίνονται</ex></expan> <num value="185"><unclear>ρ</unclear>π<unclear>ε</unclear></num>. 
 
-    <lb n="15"/><expan><ex>γίνονται</ex></expan> <num value="332">τλβ</num> <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num>, <expan><ex>ὧν</ex></expan> 
+    <lb n="15"/><expan><ex>γίνονται</ex></expan> <num value="332">τλβ</num> <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num>, <expan><ex>ῶ̔ν</ex></expan> 
 
     <lb n="16"/>πόλεως <num value="40">μ</num> <expan><ex>τέταρτον</ex></expan> <num value="1/4"/>, 
 
@@ -107,7 +107,7 @@
 
     <lb n="31"/>Θμοινεφύρεως <num value="26">κϛ</num>, <expan><ex>γίνονται</ex></expan> <num value="305">τ<unclear>ε</unclear></num> <num value="2"><expan><ex>διώβολον</ex></expan></num> 
 
-    <lb n="32"/><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="972">ϡοβ</num> <expan><ex>ὀβολοὶ</ex></expan> <num value="4">δ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num>, <expan><ex>ὧν</ex></expan> 
+    <lb n="32"/><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="972">ϡοβ</num> <expan><ex>ὀβολοὶ</ex></expan> <num value="4">δ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num>, <expan><ex>ῶ̔ν</ex></expan> 
 
     <lb n="33"/>π<supplied reason="lost">όλεως <num value="387">τπζ</num> <expan><ex>τέταρτον ὀβολοῦ</ex></expan> <num value="1/4"/>,</supplied> 
 
@@ -133,7 +133,7 @@
 
     <lb n="44"/>Σχρύος <num value="49">μθ</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num>, <expan><ex>γίνονται</ex></expan> <num value="67">ξζ</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num>. 
 
-    <lb n="45"/><expan><ex>γίνονται</ex></expan> <num value="237">σλζ</num> <num value="2"><expan><ex>διώβολον</ex></expan></num>, <expan><ex>ὧν</ex></expan> πόλεως <num value="2">β</num>, 
+    <lb n="45"/><expan><ex>γίνονται</ex></expan> <num value="237">σλζ</num> <num value="2"><expan><ex>διώβολον</ex></expan></num>, <expan><ex>ῶ̔ν</ex></expan> πόλεως <num value="2">β</num>, 
 
     <lb n="46"/>Τούφεως <num value="27">κζ</num> <num value="2"><expan><ex>διώβολον</ex></expan></num>, 
 
@@ -152,7 +152,7 @@
 
     <lb n="52"/>Σχρύος <num value="25"><unclear>κε</unclear></num> <gap reason="illegible" quantity="2" unit="character"/> <expan><ex>γίνονται</ex></expan> <num value="2">β</num><gap reason="lost" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="53"/><expan><ex cert="low">γίνονται</ex></expan> <gap reason="illegible" quantity="2" unit="character"/> <num value="2"><expan><ex>διώβολον</ex></expan></num>, <expan><ex>ὧν</ex></expan> Τούφεως <num value="4">δ</num><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="53"/><expan><ex cert="low">γίνονται</ex></expan> <gap reason="illegible" quantity="2" unit="character"/> <num value="2"><expan><ex>διώβολον</ex></expan></num>, <expan><ex>ῶ̔ν</ex></expan> Τούφεως <num value="4">δ</num><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="54"/>Σχρύος <num value="25">κε</num> <expan><ex>ὀβολοὶ</ex></expan> <num value="3">γ<certainty match="../@value" locus="value"/></num>  <num value="1/2"><unclear>𐅵</unclear></num>
 

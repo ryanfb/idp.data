@@ -61,7 +61,7 @@
 
     <lb n="2"/>πρ<supplied reason="lost">ο</supplied>γεγ<supplied reason="lost">ραμμεν </supplied><gap reason="lost" quantity="12" unit="character"/><supplied reason="lost"> ἀπηλιώτου ἱερὰ γῆ</supplied> 
 
-    <lb n="3"/>Ἀρσέμθ<supplied reason="lost">εως</supplied> <expan>λι<ex>βὸς</ex></expan> <app type="editorial"><lem resp="BL 1.181">ὄρ<supplied reason="lost">ος</supplied></lem><rdg>ὅρ<supplied reason="lost">ος</supplied></rdg></app><supplied reason="lost"> ἢ</supplied> οἳ ἂν ὦσι <expan><unclear>γ</unclear><supplied reason="lost">ε</supplied><unclear>ίτ</unclear><supplied reason="lost">ο<ex>νες</ex></supplied></expan><supplied reason="lost">. ἐπ</supplied><unclear>ρ</unclear><supplied reason="lost">ίατο Π</supplied>αῆσις ὡς <expan><ex>ἐτῶν</ex></expan> <num value="25">κε</num> 
+    <lb n="3"/>Ἀρσέμθ<supplied reason="lost">εως</supplied> <expan>λι<ex>βὸς</ex></expan> <app type="editorial"><lem resp="BL 1.181">ὄρ<supplied reason="lost">ος</supplied></lem><rdg>ὅρ<supplied reason="lost">ος</supplied></rdg></app><supplied reason="lost"> ἢ</supplied> οἳ ἂν ῶ̓σι <expan><unclear>γ</unclear><supplied reason="lost">ε</supplied><unclear>ίτ</unclear><supplied reason="lost">ο<ex>νες</ex></supplied></expan><supplied reason="lost">. ἐπ</supplied><unclear>ρ</unclear><supplied reason="lost">ίατο Π</supplied>αῆσις ὡς <expan><ex>ἐτῶν</ex></expan> <num value="25">κε</num> 
 
     <lb n="4"/>Πετεύριος <expan>χα<ex>λκοῦ</ex></expan> <expan><ex>ταλάντου</ex></expan> <num value="1">α</num>. <supplied reason="lost">βεβαιωτὴς <expan>Ψεναμοῦ<ex>νις</ex></expan> ὃν</supplied> ἐδέξατο 
 
@@ -75,7 +75,7 @@
 
     <lb n="9"/>μέση <expan>μελί<ex>χρως</ex></expan> <expan>τετα<ex>νὴ</ex></expan> <expan>μακροπρ<ex>όσωπος</ex></expan> <expan>εὐθύρ<ex>ριν</ex></expan>, καὶ <expan>Ψενχοῦ<ex>βις</ex></expan> Ψεμμίνιος 
 
-    <lb n="10"/><app type="editorial"><lem resp="BL 1.181">ὃς</lem><rdg>ἧσ</rdg></app> καὶ Ὀβράπις <app type="editorial"><lem resp="BL "><expan>Ἄρ<ex>αψ</ex></expan></lem><rdg><abbr>αρ</abbr></rdg></app> ὡς <expan><ex>ἐτῶν</ex></expan> <num value="22">κβ</num> μέσος ὑπόπυρρος <expan>μακροπρ<ex>όσωπος</ex></expan> 
+    <lb n="10"/><app type="editorial"><lem resp="BL 1.181">ὃς</lem><rdg>ῆ̔σ</rdg></app> καὶ Ὀβράπις <app type="editorial"><lem resp="BL "><expan>Ἄρ<ex>αψ</ex></expan></lem><rdg><abbr>αρ</abbr></rdg></app> ὡς <expan><ex>ἐτῶν</ex></expan> <num value="22">κβ</num> μέσος ὑπόπυρρος <expan>μακροπρ<ex>όσωπος</ex></expan> 
 
     <lb n="11"/><expan>εὐθύρ<ex>ριν</ex></expan>, καὶ <expan>Σενχνοῦ<ex>βις</ex></expan> <expan>πρεσβυ<ex>τέρα</ex></expan> <app type="editorial"><lem resp="BL 8.141"><expan>Ἀρ<ex>άβισσα</ex></expan></lem><rdg><abbr>αρ</abbr></rdg></app> ὡς <expan><ex>ἐτῶν</ex></expan> <num value="40">μ</num> μέση ὑπόπυρρος 
 
@@ -99,9 +99,9 @@
 
     <lb n="21"/><expan>Ψεναμού<ex>νιος</ex></expan> Καλλίου, βορρᾶ Πετεύριος, <expan>ἀπηλ<ex>ιώτου</ex></expan> ἱερὰ γῆ τόπος ψιλὸς 
 
-    <lb n="22"/>Ἀρσέμθεως, <expan>λι<ex>βὸς</ex></expan> ὅρος, ἢ οἳ ἂν ὦσι <expan>γείτο<ex>νες</ex></expan> πάντοθεν, 
+    <lb n="22"/>Ἀρσέμθεως, <expan>λι<ex>βὸς</ex></expan> ὅρος, ἢ οἳ ἂν ῶ̓σι <expan>γείτο<ex>νες</ex></expan> πάντοθεν, 
 
-    <lb n="23"/>ὧν εἰσιν <expan>Παχνοῦ<ex>βις</ex></expan> καὶ Παύ<supplied reason="lost">σ</supplied>εως καὶ Ὀμβρα<unclear>α</unclear>ρ<gap reason="illegible" quantity="1" unit="character"/>α 
+    <lb n="23"/>ῶ̔ν εἰσιν <expan>Παχνοῦ<ex>βις</ex></expan> καὶ Παύ<supplied reason="lost">σ</supplied>εως καὶ Ὀμβρα<unclear>α</unclear>ρ<gap reason="illegible" quantity="1" unit="character"/>α 
 
     <lb n="24"/><expan>ἐπρία<ex>το</ex></expan> Παῆσις Πετεύρ<supplied reason="lost">ι</supplied>ος <expan>χα<ex>λκοῦ</ex></expan> <expan><ex>δραχμῶν</ex></expan> <num value="2800">Βω</num>. βεβαιωταὶ 
 
@@ -124,7 +124,7 @@
 
     <lb n="33"/>μελιχρώου τετανοῦ <expan>μακροπρ<ex>οσώπου</ex></expan> <expan>εὐθύρ<ex>ρινος</ex></expan> τὰς ἐπιβαλλούσας 
 
-    <lb n="34"/>αὐτῇ μερίδας γῆς <expan>ἠπ<ex>είρου</ex></expan> <expan>σιτο<ex>φόρου</ex></expan> ἐν τῇ κάτω τοπαρχίᾳ τοῦ <expan>Λατοπο<ex>λίτου</ex></expan> ὧν εἰσιν 
+    <lb n="34"/>αὐτῇ μερίδας γῆς <expan>ἠπ<ex>είρου</ex></expan> <expan>σιτο<ex>φόρου</ex></expan> ἐν τῇ κάτω τοπαρχίᾳ τοῦ <expan>Λατοπο<ex>λίτου</ex></expan> ῶ̔ν εἰσιν 
 
     <lb n="35"/>σφραγίδων τεσσάρων <num value="4"/> ἅ ἐστιν <expan>ἀρού<ex>ρης</ex></expan> <num value="1/2">𐅵</num>, <expan>σφρα<ex>γίδων</ex></expan> <num value="3">γ</num> 
 
@@ -151,7 +151,7 @@
 
     <lb n="46"/>Πετουπβήκιος, <expan>ἀπηλι<ex>ώτου</ex></expan> ἱερὰ γῆ Ἀρσέμθεως, <expan>λι<ex>βὸς</ex></expan> ὅρος, 
 
-    <lb n="47"/>ἢ οἳ ἂν ὦσι <expan>γείτο<ex>νες</ex></expan> πάντοθεν τῶν <expan>σφρα<ex>γίδων</ex></expan> <num value="4">δ</num>. 
+    <lb n="47"/>ἢ οἳ ἂν ῶ̓σι <expan>γείτο<ex>νες</ex></expan> πάντοθεν τῶν <expan>σφρα<ex>γίδων</ex></expan> <num value="4">δ</num>. 
 
     <lb n="48"/>ἐπρίατο Παῆσις Πετεύριος <expan>χα<ex>λκοῦ</ex></expan> <expan><ex>δραχμῶν</ex></expan> <num value="2800">Βω</num>. 
 
@@ -161,11 +161,11 @@
 
     <lb n="51"/>οἰκία <expan>Παχνού<ex>βιος</ex></expan> τοῦ Τάσκου, βορρᾶ οἰκία Πετεύριος τοῦ Καλλίου 
 
-    <lb n="52"/><expan>ἀπηλι<ex>ώτου</ex></expan> ψιλὸς τόπος τῶν α<gap reason="illegible" quantity="3" unit="character"/>ης καὶ <expan>θησαυ<ex>ρὸς</ex></expan> <expan>βα<ex>σιλικός</ex></expan>, ἢ οἳ ἂν ὦσι 
+    <lb n="52"/><expan>ἀπηλι<ex>ώτου</ex></expan> ψιλὸς τόπος τῶν α<gap reason="illegible" quantity="3" unit="character"/>ης καὶ <expan>θησαυ<ex>ρὸς</ex></expan> <expan>βα<ex>σιλικός</ex></expan>, ἢ οἳ ἂν ῶ̓σι 
 
     <lb n="53"/><supplied reason="lost">γείτονες πάντοθεν. ἐπρίατο Παῆσις Πετεύ</supplied>ριος. 
 
-    <lb n="54"/>ὧν <expan>εἶνα<ex>ι</ex></expan> <expan>Παχνοῦ<ex>βις</ex></expan> <unclear>Πάσπω</unclear> <expan>Ψένχνου<ex>βις</ex></expan> <expan>ἄρου<ex>ρα</ex></expan> <num value="1">α</num> 
+    <lb n="54"/>ῶ̔ν <expan>εῖ̓να<ex>ι</ex></expan> <expan>Παχνοῦ<ex>βις</ex></expan> <unclear>Πάσπω</unclear> <expan>Ψένχνου<ex>βις</ex></expan> <expan>ἄρου<ex>ρα</ex></expan> <num value="1">α</num> 
 
     <lb n="55"/><expan>Σένχνου<ex>βις</ex></expan> <expan>πρεσβυ<ex>τέρα</ex></expan>, <expan>Σένχνου<ex>βις</ex></expan> νεωτερὰ, Τάψαϊς, αἱ <num value="3">γ</num> 
 

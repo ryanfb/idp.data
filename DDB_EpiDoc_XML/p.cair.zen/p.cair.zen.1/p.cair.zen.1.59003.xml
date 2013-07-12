@@ -58,7 +58,7 @@
 
     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>ήνωνι Ἀγρεοφῶντος Καυνίωι τῶν περὶ Ἀπολλώνιον 
 
-    <lb n="5"/><add place="above"><gap reason="lost" extent="unknown" unit="character"/><unclear>λ</unclear>ώνιον ἧι</add> <del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/> <unclear>ἧ</unclear>ι</del> ὄνομα Σφραγὶς ὡς ἐτῶν ἑπτὰ <num value="7"/> δραχμῶν πεντήκοντα <num value="50"/>. 
+    <lb n="5"/><add place="above"><gap reason="lost" extent="unknown" unit="character"/><unclear>λ</unclear>ώνιον ῆ̔ι</add> <del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/> <unclear>ῆ̔</unclear>ι</del> ὄνομα Σφραγὶς ὡς ἐτῶν ἑπτὰ <num value="7"/> δραχμῶν πεντήκοντα <num value="50"/>. 
 
     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>τ</unclear>ῶν Τουβίου <add place="above">κληροῦχος</add> <del rend="erasure">τῶν Τουβίου ἱππέων κληροῦχος</del>. μάρτυρες 
 
@@ -80,7 +80,7 @@
 
     <lb n="15"/><supplied reason="lost">Ζήνωνι Ἀγρεοφῶντ</supplied>ος Καυνίωι τῶν περὶ Ἀπολλώνιον τὸν διοικητὴν 
 
-    <lb n="16"/><supplied reason="lost">παιδίσκην Βαβυλώ</supplied>νιον ἧι ὄνο<add place="above">μα</add> Σφραγὶς ὡ<supplied reason="lost">ς ἐτ</supplied>ῶν ἑπτὰ <num value="7"/> δραχμῶν πεντήκοντα <num value="50"/>. 
+    <lb n="16"/><supplied reason="lost">παιδίσκην Βαβυλώ</supplied>νιον ῆ̔ι ὄνο<add place="above">μα</add> Σφραγὶς ὡ<supplied reason="lost">ς ἐτ</supplied>ῶν ἑπτὰ <num value="7"/> δραχμῶν πεντήκοντα <num value="50"/>. 
 
     <lb n="17"/><gap reason="lost" quantity="12" unit="character"/>ος Ἀνανίου Πέρσης <supplied reason="lost">τῶ</supplied>ν Τουβίου <del rend="erasure">ἱππέων</del> κληροῦχος. 
 

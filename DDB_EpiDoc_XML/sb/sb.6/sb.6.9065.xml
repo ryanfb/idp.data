@@ -53,7 +53,7 @@
 
     <lb n="3"/>Ἡλιόδωρος Σωτηρίχου κατὰ συγγραφὴν Αἰγυπτίαν τροφῖτιν <expan>ἀργυ<ex>ρίου</ex></expan> <expan><ex>δραχμῶν</ex></expan> <num value="2200">Βσ</num> μεταλλάσσων τὸν βί<unclear>ον</unclear> 
 
-    <lb n="4"/>διʼ ἧς ἔθετο διὰ τῆς τῶ<unclear>ν</unclear> μνημόνων ἀρχῆς διαθήκης τὰ καθʼ ἑαυτὸν διατάσσων διὰ ταύτης 
+    <lb n="4"/>διʼ ῆ̔ς ἔθετο διὰ τῆς τῶ<unclear>ν</unclear> μνημόνων ἀρχῆς διαθήκης τὰ καθʼ ἑαυτὸν διατάσσων διὰ ταύτης 
 
     <lb n="5"/>τά τε <unclear>ἄλ</unclear>λα τὰ ἐν ἔθει σημήνας, κατέλιπέν μοι τὰ <choice><reg>σεσημασμένα</reg><orig>σεσημαμμένα</orig></choice> διὰ ταύτης καὶ τῆς ἐξ ἀμφοτέρων 
 
@@ -77,7 +77,7 @@
 
     <lb n="15"/><supplied reason="lost">τῶν συνκυρόντων πάντων</supplied> <expan><ex>τέταρτον</ex></expan> μέρος, καὶ ἐν τῶι ἐν τῆι αὐτῇ πόλ<unclear>ει</unclear> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/>ι Σαραπιδείωι χηνοβοσκίου <expan><ex>τέταρτον</ex></expan> 
 
-    <lb n="16"/><supplied reason="lost">μέρος, ὑποκεῖσθαι πρὸς τ</supplied><unclear>αῦ</unclear>τα. ἐὰν δὲ μὴ κομίζωμαι, εἶναί με πάντων κυρίαν καθότι καὶ <unclear>ὁ</unclear> <unclear>Ἡλι</unclear>
+    <lb n="16"/><supplied reason="lost">μέρος, ὑποκεῖσθαι πρὸς τ</supplied><unclear>αῦ</unclear>τα. ἐὰν δὲ μὴ κομίζωμαι, εῖ̓ναί με πάντων κυρίαν καθότι καὶ <unclear>ὁ</unclear> <unclear>Ἡλι</unclear>
 
     <lb n="17" break="no"/><supplied reason="lost">όδωρος ἐσήμηνε ἐν τ</supplied><unclear>ῇ</unclear> διαθήκῃ καὶ ταῖς ἄλλαις <choice><reg>σεσημασμέναις</reg><orig>σεσημαμμέναις</orig></choice> διαστολαῖς συνευδοκη
 
@@ -95,7 +95,7 @@
 
     <lb n="24"/><supplied reason="lost">τῆς ἐντεύξεως, ὅπως </supplied><gap reason="lost" quantity="23" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><unclear>σθ</unclear>αι ἐν ταῖς <choice><reg>σεσημασμέναις</reg><orig>σεσημαμμέναις</orig></choice> ἡμέραις <num value="60">ξ</num> 
 
-    <lb n="25"/><gap reason="lost" quantity="36" unit="character"/><gap reason="illegible" quantity="3" unit="character"/>ολιας, αὐτόθι εἰδῇ <choice><reg>κυρίαν</reg><orig>κυρίαμ</orig></choice> με οὖσαν 
+    <lb n="25"/><gap reason="lost" quantity="36" unit="character"/><gap reason="illegible" quantity="3" unit="character"/>ολιας, αὐτόθι εἰδῇ <choice><reg>κυρίαν</reg><orig>κυρίαμ</orig></choice> με οῦ̓σαν 
 
     <lb n="26"/><gap reason="lost" quantity="39" unit="character"/><supplied reason="lost"> μη</supplied><unclear>δ</unclear>εμιᾶς ἔτι καταλιπομένης τῶι 
 
@@ -107,7 +107,7 @@
 
     <lb n="30"/><gap reason="lost" quantity="39" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/> <unclear>π</unclear>αραχωροῦσα ἑτέραις, 
 
-    <lb n="31"/><supplied reason="lost" cert="low">αἷς ἐὰν αἱρῶμαι. τούτου δὲ γενομένου ἔσομαι</supplied> <unclear>εὐεργετη</unclear>μένη. εὐτυχεῖτε. </ab></div>
+    <lb n="31"/><supplied reason="lost" cert="low">αῖ̔ς ἐὰν αἱρῶμαι. τούτου δὲ γενομένου ἔσομαι</supplied> <unclear>εὐεργετη</unclear>μένη. εὐτυχεῖτε. </ab></div>
       </body>
    </text>
 </TEI>

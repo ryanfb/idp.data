@@ -48,7 +48,7 @@
             <placeName>Oxyrhynchus</placeName>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
-    <lb n="1"/>Αὐρήλιοι <gap reason="lost" quantity="10" unit="character"/><supplied reason="lost"> κα</supplied>ὶ Σαραπίων καὶ Ὧρος καὶ Κόλλουθος <unclear>Τ</unclear><gap reason="lost" quantity="10" unit="character"/> 
+    <lb n="1"/>Αὐρήλιοι <gap reason="lost" quantity="10" unit="character"/><supplied reason="lost"> κα</supplied>ὶ Σαραπίων καὶ Ὧρος καὶ Κόλλουθος <unclear>Τ</unclear><gap reason="lost" quantity="10" unit="character"/> 
 
     <lb n="2"/>λου μητ<supplied reason="lost">ρὸς </supplied><gap reason="lost" quantity="6" unit="character"/><supplied reason="lost"> ἀπὸ κ</supplied>ώμης Παείμεως τοῦ Ὀξυρυγ<g type="apostrophe"/>χείτου <unclear>ν</unclear><supplied reason="lost">ο</supplied><unclear>μ</unclear><supplied reason="lost">οῦ Αὐρηλίῳ</supplied> 
 
@@ -61,7 +61,7 @@
 
     <lb n="6"/>ἀθύρωτον καὶ <app type="editorial"><lem resp="BL 8.249"><supplied reason="lost" cert="low">ἀθυρίδ</supplied>ωτον<certainty match=".." locus="value"/></lem><rdg><gap reason="lost" quantity="5" unit="character"/>ωτον</rdg></app> καὶ τοὺς περὶ αὐτὴν <choice><reg>ψιλοὺς</reg><orig>ψειλοὺς</orig></choice> τόπους σὺν <expan><unclear>χ</unclear>ρη<unclear>στη</unclear><ex>ρίοις</ex></expan> καὶ <supplied reason="lost">ἀνήκου</supplied>
 
-    <lb n="7" break="no"/>σι καὶ συνκύρουσι <choice><reg>πᾶσι</reg><orig>πᾶσει</orig></choice>, ὧν <supplied reason="lost">γ</supplied>είτονες νότου Φουλλίου καὶ Πασαλύμιος καὶ ἄλλων, βορρᾶ <supplied reason="lost" cert="low">Ὥ</supplied><unclear>ρ</unclear><supplied reason="lost" cert="low">ου</supplied> 
+    <lb n="7" break="no"/>σι καὶ συνκύρουσι <choice><reg>πᾶσι</reg><orig>πᾶσει</orig></choice>, ῶ̔ν <supplied reason="lost">γ</supplied>είτονες νότου Φουλλίου καὶ Πασαλύμιος καὶ ἄλλων, βορρᾶ <supplied reason="lost" cert="low">Ὥ</supplied><unclear>ρ</unclear><supplied reason="lost" cert="low">ου</supplied> 
 
     <lb n="8"/>Πετ<g type="apostrophe"/>τίριος, ἀπηλιώτου δημοσία ῥύμη, λιβὸς ἱερόν, τιμῆς τῆς συμπεφωνημένης 
 

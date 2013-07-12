@@ -47,7 +47,7 @@
 
     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τοῦ Ὀξυ</supplied>ρ<unclear>υγ</unclear>χί<unclear>του</unclear> <unclear>νο</unclear>μοῦ
 
-    <lb n="2"/>Αὐρηλίῳ Ἀνο<unclear>ῦπ</unclear> ἑτέρῳ υἱ̈ῷ Βίκτορος οἰνοπράτῃ
+    <lb n="2"/>Αὐρηλίῳ Ἀνο<unclear>ῦπ</unclear> ἑτέρῳ υἱ̈ῷ Βίκτορος οἰνοπράτῃ
 
     <lb n="3"/>ἀπὸ τῆς Ὀξυρυγχιτῶν χαίρειν· ὁμολογῶ ἐσχηκέναι
 
@@ -55,18 +55,18 @@
 
     <lb n="5" break="no"/>νημένην καὶ ἀρέσασ<unclear>άν</unclear> <unclear>μ</unclear>οι τι<unclear>μὴ</unclear>ν πλήρης
 
-    <lb n="6"/>οἴνου πενταξεστιαίων <unclear>ἐ</unclear>κ τοῦ σηκώματος τοῦ υἱ̈οῦ
+    <lb n="6"/>οἴνου πενταξεστιαίων <unclear>ἐ</unclear>κ τοῦ σηκώματος τοῦ υἱ̈οῦ
 
     <lb n="7"/>Ἑλλᾶ σηκωμάτων διακοσίων τεσσαράκοντα ἕξ,
 
-    <lb n="8"/><expan>γί<ex>νεται</ex></expan> <expan>οἴν<ex>ου</ex></expan> <expan>σηκ<ex>ώματα</ex></expan> <num value="246">σμϛ</num>, ὅνπερ οἶνον παρὰ ληνὸν
+    <lb n="8"/><expan>γί<ex>νεται</ex></expan> <expan>οἴν<ex>ου</ex></expan> <expan>σηκ<ex>ώματα</ex></expan> <num value="246">σμϛ</num>, ὅνπερ οῖ̓νον παρὰ ληνὸν
 
     <lb n="9"/><supplied reason="lost">ἀπὸ γλεύκους ἀδόλου σου παρέχ</supplied>οντος τὰ κοῦφα
 
     <lb n="10"/><gap reason="lost" extent="unknown" unit="line"/>
 </ab></div><div n="v" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="10"/><supplied reason="lost"><g type="chirho"/> <expan>γρ<ex>αμμάτειον</ex></expan> Ἀ</supplied><unclear>ν</unclear>οῦπ υἱ̈οῦ Φοιβάμ<unclear>μ</unclear><supplied reason="lost">ωνος ἀπὸ </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>οἴν<ex>ου</ex></expan> <expan>σηκ<ex>ώματα</ex></expan> <num value="246">σμϛ</num> <g type="stauros"/>.</supplied></ab></div></div>
+    <lb n="10"/><supplied reason="lost"><g type="chirho"/> <expan>γρ<ex>αμμάτειον</ex></expan> Ἀ</supplied><unclear>ν</unclear>οῦπ υἱ̈οῦ Φοιβάμ<unclear>μ</unclear><supplied reason="lost">ωνος ἀπὸ </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>οἴν<ex>ου</ex></expan> <expan>σηκ<ex>ώματα</ex></expan> <num value="246">σμϛ</num> <g type="stauros"/>.</supplied></ab></div></div>
       </body>
    </text>
 </TEI>

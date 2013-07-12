@@ -64,7 +64,7 @@
 
     <lb n="5"/>μετρεῖ δὲ <app type="editorial"><lem><supplied reason="lost">εἰς τοῦς ὑπολόγους </supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
-    <lb n="6"/>καὶ εἰς <app type="editorial"><lem>τὸ<supplied reason="lost">ν ἀγοραστὸν οὗ ἡ τιμὴ</supplied></lem><rdg>το<gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
+    <lb n="6"/>καὶ εἰς <app type="editorial"><lem>τὸ<supplied reason="lost">ν ἀγοραστὸν οῦ̔ ἡ τιμὴ</supplied></lem><rdg>το<gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
     <lb n="7"/><app type="editorial"><lem>ἀντιδια<supplied reason="lost">γέγραπται </supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>αντιδια<gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
@@ -76,7 +76,7 @@
 
     <lb n="11"/>μίσθωσ<supplied reason="lost">ις</supplied> <app type="editorial"><lem>ο<supplied reason="lost">ὐκ ἀναφέρεται </supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><gap reason="lost" extent="unknown" unit="character"/>α<gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
-    <lb n="12"/>εἰς τὸν ἀγ<supplied reason="lost">ορ</supplied>αστὸν οὗ ἡ τιμὴ ἀντιδια
+    <lb n="12"/>εἰς τὸν ἀγ<supplied reason="lost">ορ</supplied>αστὸν οῦ̔ ἡ τιμὴ ἀντιδια
 
     <lb n="13" break="no"/>γέγραπτ<supplied reason="lost">αι </supplied><gap reason="lost" extent="unknown" unit="character"/> <num value="23">κγ</num> <num value="1/2">𐅵</num> φόρετρον <num value="4">δ</num> <num value="1/2">𐅵</num> 
 
@@ -90,7 +90,7 @@
 
     <lb n="18"/><app type="editorial"><lem><supplied reason="lost">μετ</supplied>ρεῖ</lem><rdg><gap reason="lost" extent="unknown" unit="character"/>ρει</rdg></app> δὲ εἰς τοὺς ὑπολόγους <num value="3">γ</num> <num value="1/2">𐅵</num> <num value="1/24" rend="tick">κδ</num> 
 
-    <lb n="19"/><app type="editorial"><lem>κ<supplied reason="lost">αὶ</supplied></lem><rdg><gap reason="illegible" quantity="2" unit="character"/></rdg></app> εἰς τὸν ἀγοραστὸν οὗ ἡ τιμὴ <app type="editorial"><lem>ἀντι
+    <lb n="19"/><app type="editorial"><lem>κ<supplied reason="lost">αὶ</supplied></lem><rdg><gap reason="illegible" quantity="2" unit="character"/></rdg></app> εἰς τὸν ἀγοραστὸν οῦ̔ ἡ τιμὴ <app type="editorial"><lem>ἀντι
 
     <lb n="20" break="no"/><supplied reason="lost">δια</supplied>γέγραπται</lem><rdg>αντι<gap reason="lost" extent="unknown" unit="character"/>γεγραπται</rdg></app>  <num value="60">ξ</num> <num value="1/3" rend="tick">γ</num> <num value="1/8" rend="tick">η</num> <expan>φόρε<ex>τρον</ex></expan> <num value="12">ιβ</num> <expan><ex>γίνονται</ex></expan> <num value="76">οϛ</num> 
 
@@ -194,7 +194,7 @@
 
     <lb n="8"/>καὶ ἀμπελώνων γένημα <app type="editorial"><lem><num value="7000">Ζ</num></lem><rdg><num value="300">τ</num></rdg></app> 
 
-    <lb n="9"/><app type="editorial"><lem resp="BL 1.367">ὧν ἕκ<supplied reason="lost">τ</supplied>η <num value="1">α<certainty match="../@value" locus="value"/></num> <num value="1/3" rend="tick">γ</num> <num value="1/12" rend="tick">ιβ</num> <g type="parens-deletion-opening"/>κεράμου <gap reason="illegible" quantity="2" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/></lem><rdg><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> κεράμου <gap reason="illegible" quantity="2" unit="character"/></rdg></app> 
+    <lb n="9"/><app type="editorial"><lem resp="BL 1.367">ῶ̔ν ἕκ<supplied reason="lost">τ</supplied>η <num value="1">α<certainty match="../@value" locus="value"/></num> <num value="1/3" rend="tick">γ</num> <num value="1/12" rend="tick">ιβ</num> <g type="parens-deletion-opening"/>κεράμου <gap reason="illegible" quantity="2" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/></lem><rdg><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> κεράμου <gap reason="illegible" quantity="2" unit="character"/></rdg></app> 
 </ab></div><div n="Drp" type="textpart"><!--milestone unit="4"--><ab>
 
     <lb n="1"/><note xml:lang="en">PPetr 2,30,D reprinted in PPetr 3,75 </note>
@@ -224,7 +224,7 @@
 
     <lb n="7"/>εἰς τὸ <num value="23">κγ</num> <expan><ex>ἔτος</ex></expan> μετρητῶν διακο<supplied reason="lost">σίων</supplied> <num value="200"/> 
 
-    <lb n="8"/>ὧν ἕκτη οἴνου μετρηταὶ τριάκον<supplied reason="lost">τα</supplied> 
+    <lb n="8"/>ῶ̔ν ἕκτη οἴνου μετρηταὶ τριάκον<supplied reason="lost">τα</supplied> 
 
     <lb n="9"/>τρεῖς τρίτον <num value="33"/><num value="1/3"/> 
 </ab></div><div n="F" type="textpart"><!--milestone unit="4"--><ab>

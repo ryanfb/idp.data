@@ -57,7 +57,7 @@
 
     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ι<gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>υς</unclear> μ<unclear>εγ</unclear>ι<gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>νναρα βουλευτὴς <expan><supplied reason="lost">ε</supplied><unclear>ἶ</unclear><supplied reason="lost">π<ex>εν</ex></supplied></expan><supplied reason="lost">· </supplied><gap reason="lost" extent="unknown" unit="character"/>  
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>νναρα βουλευτὴς <expan><supplied reason="lost">ε</supplied><unclear>ῖ̓</unclear><supplied reason="lost">π<ex>εν</ex></supplied></expan><supplied reason="lost">· </supplied><gap reason="lost" extent="unknown" unit="character"/>  
 
     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τ</supplied>ης πίστεως ἀμφοτε
 
@@ -67,13 +67,13 @@
 
     <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> ἱερὰ ἀργυρᾶ προτομή 
 
-    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> ἦξεν <choice><reg>λίτρας</reg><orig>λείτρας</orig></choice> δέκα <num value="10"/> 
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> ῆ̓ξεν <choice><reg>λίτρας</reg><orig>λείτρας</orig></choice> δέκα <num value="10"/> 
 
     <lb n="9"/><app type="editorial"><lem resp="BL 2.2.162"><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> εἰς</supplied> αἰῶνα</lem><rdg><gap reason="lost" extent="unknown" unit="character"/> αἰῶνα</rdg></app> τοὺς κυρίους 
 
     <lb n="10"/><handShift new="m2"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἀ</supplied>νέγνων. 
 
-    <lb n="11"/><handShift new="m1"/> <gap reason="lost" extent="unknown" unit="character"/>ς εἶπεν τὰ ἐπιστα
+    <lb n="11"/><handShift new="m1"/> <gap reason="lost" extent="unknown" unit="character"/>ς εῖ̓πεν τὰ ἐπιστα
 
     <lb n="12" break="no"/><supplied reason="lost">λέντα </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Ἀχ</supplied>ιλλᾶς ἐξηγητεύσας 
 
@@ -91,7 +91,7 @@
 
     <lb n="19"/><gap reason="lost" extent="unknown" unit="character"/>ος οὕτω ἕως ἂν παρα 
 
-    <lb n="20"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ε</supplied>ἶπεν ὅτι ἀνοίσω τῷ 
+    <lb n="20"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ε</supplied>ῖ̓πεν ὅτι ἀνοίσω τῷ 
 
     <lb n="21"/><gap reason="lost" extent="unknown" unit="character"/> διοικήσεως τῆς κατα 
 

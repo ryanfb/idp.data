@@ -233,7 +233,7 @@
 
     <lb n="19"/><supplied reason="lost">γ</supplied>ράμματα. 
 
-    <lb n="20"/><handShift new="m9"/>Αἶ<unclear>λ</unclear>ις <choice><reg>Καπίτων</reg><orig>Καιπίτον</orig></choice> <choice><reg>ἱππεὺ<supplied reason="omitted">ς</supplied></reg><orig>ἱππευ</orig></choice> <choice><reg>ἴλης</reg><orig>εἴλης</orig></choice> <choice><reg>Γαλλικῆς</reg><orig>Γαλικῆς</orig></choice> τούρμης <choice><reg>Ὀπτατιάνου</reg><orig>Ὀ<unclear>π</unclear>τατιανι</orig></choice> 
+    <lb n="20"/><handShift new="m9"/>Αῖ̓<unclear>λ</unclear>ις <choice><reg>Καπίτων</reg><orig>Καιπίτον</orig></choice> <choice><reg>ἱππεὺ<supplied reason="omitted">ς</supplied></reg><orig>ἱππευ</orig></choice> <choice><reg>ἴλης</reg><orig>εἴλης</orig></choice> <choice><reg>Γαλλικῆς</reg><orig>Γαλικῆς</orig></choice> τούρμης <choice><reg>Ὀπτατιάνου</reg><orig>Ὀ<unclear>π</unclear>τατιανι</orig></choice> 
 
     <lb n="21"/><choice><reg>Ἰουλίῳ</reg><orig>Εἰολιων</orig></choice> Σερήνῳ <choice><reg>σούμμῳ</reg><orig>σούμῳ</orig></choice> κουράτ<unclear>ο</unclear>ρι <choice><reg>χαίρειν</reg><orig>χαιρι</orig></choice>· ἔλαβον πα<supplied reason="lost">ρ</supplied><unclear>ὰ</unclear> σοῦ τὴν 
 
@@ -270,7 +270,7 @@
 
     <lb n="11"/><gap quantity="1" reason="lost" unit="character"/><gap quantity="3" reason="illegible" unit="character"/><gap quantity="1" reason="lost" unit="character"/> <unclear>Κο</unclear>λλουθι ἱππεὺς ἴλης <choice><reg>Γαλλικῆς</reg><orig>Καλλικῆς</orig></choice> τύρμης Ἰουλίου 
 
-    <lb n="12"/>α <supplied reason="lost"> ξ ι7 Σ</supplied><unclear>ε</unclear>ρήνῳ <choice><reg>σούμμῳ</reg><orig>σύμμου</orig></choice> <choice><reg>κουράτορι</reg><orig>κουρά<lb n="3" break="no"/>τωρι</orig></choice> χαίρειν· ἔλαβον 
+    <lb n="12"/>α <supplied reason="lost"> ξ ι7 Σ</supplied><unclear>ε</unclear>ρήνῳ <choice><reg>σούμμῳ</reg><orig>σύμμου</orig></choice> <choice><reg>κουράτορι</reg><orig>κουρά<lb n="3" break="no"/>τωρι</orig></choice> χαίρειν· ἔλαβον 
 
     <lb n="13"/><supplied reason="lost">παρὰ σοῦ τ</supplied><unclear>ὴ</unclear>ν <choice><reg>γράστιν</reg><orig>γρασιν</orig></choice> μου τοῦ <num value="19">ιθ</num> <expan><ex>ἔτους</ex></expan> δηνάρια <choice><reg>εἴκοσι</reg><orig>ἴκοσι</orig></choice> 
 
@@ -511,7 +511,7 @@
 
     <lb n="12"/>τ<supplied reason="lost">ὸ μὴ εἰδέ</supplied><unclear>ν</unclear>αι αὐτοὺς <choice><reg>γράμματα</reg><orig>γρά<unclear>μ</unclear>ατα</orig></choice>. 
 
-    <lb n="13"/><handShift new="m20"/>Κο<gap quantity="1" reason="illegible" unit="character"/><gap quantity="5" reason="lost" unit="character"/>ς <choice><reg cert="low">Θέωνος</reg><orig>Θηων</orig></choice> ἱ̈ππεὺς ἰ̈́λης Γαλλ<unclear>ικ</unclear><supplied reason="lost">ῆ</supplied><unclear>ς</unclear> <unclear>το</unclear>ύρ<unclear>μ</unclear><supplied reason="lost">ης</supplied> Σο<unclear>υ</unclear>πατιανοῦ 
+    <lb n="13"/><handShift new="m20"/>Κο<gap quantity="1" reason="illegible" unit="character"/><gap quantity="5" reason="lost" unit="character"/>ς <choice><reg cert="low">Θέωνος</reg><orig>Θηων</orig></choice> ἱ̈ππεὺς ἰ̈́λης Γαλλ<unclear>ικ</unclear><supplied reason="lost">ῆ</supplied><unclear>ς</unclear> <unclear>το</unclear>ύρ<unclear>μ</unclear><supplied reason="lost">ης</supplied> Σο<unclear>υ</unclear>πατιανοῦ 
 
     <lb n="14"/>Ἰ¨ου<unclear>λ</unclear><supplied reason="lost">ί</supplied><unclear>ῳ</unclear> <unclear>Σε</unclear>ρήνῳ σούμμῳ <choice><reg>κουράτορι</reg><orig>κουράτο<unclear>ρει</unclear></orig></choice> χ<unclear>α</unclear>ίρει<unclear>ν</unclear>· <choice><reg>ἔλαβον</reg><orig>ἔλ<unclear>ε</unclear>βον</orig></choice> πα
 
@@ -522,9 +522,9 @@
 
     <lb n="17"/>καὶ <choice><reg>Κομμόδου</reg><orig>Κομόδου</orig></choice> τῶν κυρ<supplied reason="lost">ίω</supplied><unclear>ν</unclear> σε<unclear>βα</unclear>σ<unclear>τ</unclear><supplied reason="lost">ῶ</supplied><unclear>ν</unclear> Τῦβι <num value="22">κβ</num>. 
 
-    <lb n="18"/>Ἥρων <choice><reg>Ἰσιδώρου</reg><orig>ϊσιδωρος</orig></choice> ἱ̈ππεὺς ἰ̈́λη<unclear>ς</unclear> <unclear>τ</unclear><supplied reason="lost">ῆ</supplied>ς αὐ<unclear>τ</unclear><supplied reason="lost">ῆ</supplied><unclear>ς</unclear> <unclear>το</unclear>ύρμης Λουκιλλίου 
+    <lb n="18"/>Ἥρων <choice><reg>Ἰσιδώρου</reg><orig>ϊσιδωρος</orig></choice> ἱ̈ππεὺς ἰ̈́λη<unclear>ς</unclear> <unclear>τ</unclear><supplied reason="lost">ῆ</supplied>ς αὐ<unclear>τ</unclear><supplied reason="lost">ῆ</supplied><unclear>ς</unclear> <unclear>το</unclear>ύρμης Λουκιλλίου 
 
-    <lb n="19"/>ἔγραψα ὑ̈πὲρ αὐτοῦ <choice><reg>ἐρωτηθεὶς</reg><orig>ἐρωθ<unclear>η</unclear>θεὶς</orig></choice>. 
+    <lb n="19"/>ἔγραψα ὑ̈πὲρ αὐτοῦ <choice><reg>ἐρωτηθεὶς</reg><orig>ἐρωθ<unclear>η</unclear>θεὶς</orig></choice>. 
 </ab></div><div n="x" type="textpart"><ab>
 
     <lb n="1"/><num value="10">ι</num>
@@ -555,7 +555,7 @@
 
     <lb n="14"/>Τῦβει δευτέρᾳ <unclear>κ</unclear><supplied reason="lost">αὶ</supplied> <unclear>εἰκοστ</unclear><supplied reason="lost">ῇ</supplied>. 
 
-    <lb n="15"/><handShift new="m20"/>Ἡλιόδωρο<unclear>ς</unclear> <choice><reg>Πατρόκλου</reg><orig><supplied reason="lost">Π</supplied><unclear>ά</unclear>τρο<unclear>κλ</unclear>ος</orig></choice> ἱ̈ππεὺς ἰ̈́λης Γαλλι
+    <lb n="15"/><handShift new="m20"/>Ἡλιόδωρο<unclear>ς</unclear> <choice><reg>Πατρόκλου</reg><orig><supplied reason="lost">Π</supplied><unclear>ά</unclear>τρο<unclear>κλ</unclear>ος</orig></choice> ἱ̈ππεὺς ἰ̈́λης Γαλλι
 
     <lb n="16" break="no"/>κῆς τούρμ<unclear>ης</unclear> <choice><reg>Ἀγρίππα</reg><orig>Ἀγρίπα</orig></choice> Ἰ¨ουλίῳ Σερήνῳ σούμ
 
@@ -563,22 +563,22 @@
 
     <lb n="18"/><num value="1">α</num>τὴν <choice><reg>γράστιν</reg><orig>γρασιν</orig></choice> μου ἐν προχρείᾳ ἐξερχόμενος 
 
-    <lb n="19"/><unclear>ε</unclear><supplied reason="lost">ἰ</supplied>ς <choice><reg><supplied reason="omitted">Σ</supplied>κηνὰς</reg><orig>Κη<unclear>ν</unclear>ὰς</orig></choice> Μ<unclear>αρ</unclear>δας ὑ̈πὲρ τοῦ <expan><ex>ἔτους</ex></expan> <num value="19">ιθ</num> δ<unclear>ην</unclear>ά<unclear>ρι</unclear>α 
+    <lb n="19"/><unclear>ε</unclear><supplied reason="lost">ἰ</supplied>ς <choice><reg><supplied reason="omitted">Σ</supplied>κηνὰς</reg><orig>Κη<unclear>ν</unclear>ὰς</orig></choice> Μ<unclear>αρ</unclear>δας ὑ̈πὲρ τοῦ <expan><ex>ἔτους</ex></expan> <num value="19">ιθ</num> δ<unclear>ην</unclear>ά<unclear>ρι</unclear>α 
 
     <lb n="20"/>εἴ<unclear>κ</unclear><supplied reason="lost">ο</supplied>σι καὶ πέντε <num value="25"/>. ἔτους <num value="19">ιθ</num> Αὐρηλίων <supplied reason="lost">Ἀντ</supplied>ωνίνου 
 
     <lb n="21"/>καὶ <choice><reg>Κομμόδου</reg><orig>Κ<supplied reason="lost">ο</supplied>μόδου</orig></choice> τῶν κυρίων σεβαστῶν Τῦβι <num value="23">κγ</num>. 
 
-    <lb n="22"/>Ἥρων Ἰ¨σίδωρος ἱ̈ππεὺς ἰ̈́λης τῆς αὐτῆς τούρμης 
+    <lb n="22"/>Ἥρων Ἰ¨σίδωρος ἱ̈ππεὺς ἰ̈́λης τῆς αὐτῆς τούρμης 
 
-    <lb n="23"/>Λουκιλλίου ἔγραψα ὑ̈πὲρ αὐτοῦ διὰ τὸ μὴ εἰδέναι 
+    <lb n="23"/>Λουκιλλίου ἔγραψα ὑ̈πὲρ αὐτοῦ διὰ τὸ μὴ εἰδέναι 
 
     <lb n="24"/>αὐτὸν γράμματα. 
 </ab></div><div n="xi" type="textpart"><ab>
 
     <lb n="1"/><num value="11">ια</num>
 
-    <lb n="2"/>Κᾶσις Ἄπιτος ἱ̈ππεὺς ἰ̈́λ<unclear>η</unclear>ς Γαλ<supplied reason="lost">λι</supplied><unclear>κῆ</unclear><supplied reason="lost">ς</supplied> <unclear>τ</unclear>ούρ
+    <lb n="2"/>Κᾶσις Ἄπιτος ἱ̈ππεὺς ἰ̈́λ<unclear>η</unclear>ς Γαλ<supplied reason="lost">λι</supplied><unclear>κῆ</unclear><supplied reason="lost">ς</supplied> <unclear>τ</unclear>ούρ
 
     <lb n="3" break="no"/>μης Λουκιλλίου Ἰ¨ουλίῳ Σερήνῳ σού<unclear>μ</unclear>μῳ 
 
@@ -586,15 +586,15 @@
 
     <lb n="5" break="no"/>στιν μου ἐν προχρείᾳ ἐξερχόμενος εἰς 
 
-    <lb n="6"/><choice><reg><supplied reason="omitted">Σ</supplied>κηνὰς</reg><orig>Κ<unclear>η</unclear>νὰς</orig></choice> Μεγάλας ὑ̈πὲρ τοῦ <expan><ex>ἔτους</ex></expan> <num value="19">ιθ</num> <choice><reg>δηνάρια</reg><orig>δηνάρεια</orig></choice> 
+    <lb n="6"/><choice><reg><supplied reason="omitted">Σ</supplied>κηνὰς</reg><orig>Κ<unclear>η</unclear>νὰς</orig></choice> Μεγάλας ὑ̈πὲρ τοῦ <expan><ex>ἔτους</ex></expan> <num value="19">ιθ</num> <choice><reg>δηνάρια</reg><orig>δηνάρεια</orig></choice> 
 
     <lb n="7"/><choice><reg>εἴκοσι</reg><orig>εἴκοσει</orig></choice> πέντε <num value="25"/>. ἔτους <num value="19">ιθ</num> Αὐρηλίων Ἀντωνίνου 
 
     <lb n="8"/>καὶ <choice><reg>Κομμόδου</reg><orig>Κομόδου</orig></choice> τῶν κυρίων σεβαστῶν Τῦβι <num value="23">κγ</num>. 
 
-    <lb n="9"/>Ἥρων <choice><reg>Ἰσιδώρου</reg><orig>ϊσιδωρος</orig></choice> ἱ̈ππεὺς ἰ̈́λης τῆς αὐτῆς τούρμης τῆς 
+    <lb n="9"/>Ἥρων <choice><reg>Ἰσιδώρου</reg><orig>ϊσιδωρος</orig></choice> ἱ̈ππεὺς ἰ̈́λης τῆς αὐτῆς τούρμης τῆς 
 
-    <lb n="10"/>αὐτῆς ἔγραψα ὑ̈πὲρ αὐτοῦ <choice><reg>ἐρωτηθεὶς</reg><orig>ἐρωθηθεὶς</orig></choice>. 
+    <lb n="10"/>αὐτῆς ἔγραψα ὑ̈πὲρ αὐτοῦ <choice><reg>ἐρωτηθεὶς</reg><orig>ἐρωθηθεὶς</orig></choice>. 
 
     <lb n="11"/><handShift new="m45"/>Κᾶσις Ἄπιτος ἔλαβον. 
 
@@ -1034,7 +1034,7 @@
 
     <lb n="16"/>αὐτῆς τούρμης Λουκιλλίου ἔγραψα ὑπὲρ αὐτῶν ἐρωτηθεὶς 
 
-    <lb n="17"/>διὰ τὸ μὴ εἰδέναι <choice><reg>αὐτοὺς</reg><orig>αὐτὺς</orig></choice> <surplus>εἶναι</surplus> γράμματα. 
+    <lb n="17"/>διὰ τὸ μὴ εἰδέναι <choice><reg>αὐτοὺς</reg><orig>αὐτὺς</orig></choice> <surplus>εῖ̓ναι</surplus> γράμματα. 
 
     <lb n="18"/><handShift new="m39"/>Πουο͂νσις Πανεχάτες ἱππεὺς <choice><reg>ἴλης</reg><orig>εἴλης</orig></choice> οὐετρανῆς Γαλλικῆς 
 
@@ -1063,7 +1063,7 @@
 
     <lb n="4"/>Αὐτοκρατόρων <choice><reg>δηνάρια</reg><orig>δηνάρεια</orig></choice> <choice><reg>εἴκοσι</reg><orig>εἴ<unclear>κοσει</unclear></orig></choice> πέντε <num value="25"/>. Παχὼν <num value="10">ι</num>. 
 
-    <lb n="5"/>Καλ<unclear>λίγ</unclear>ονος Κλεονίκου κουράτωρ ἰ̈́λης τῆς αὐτῆς τούρμης 
+    <lb n="5"/>Καλ<unclear>λίγ</unclear>ονος Κλεονίκου κουράτωρ ἰ̈́λης τῆς αὐτῆς τούρμης 
 
     <lb n="6"/>τῆς αὐτῆς ἔγρα<unclear>ψ</unclear>α ὑπὲρ αὐτοῦ διὰ τὸ μὴ <choice><reg>εἰδέναι</reg><orig>εἰ<lb n="18" break="no"/>δήναι</orig></choice> αὐτὸν γράμματα. 
 </ab></div><div n="xxiv" type="textpart"><ab>
@@ -1102,7 +1102,7 @@
     <lb n="10"/>εἰδέναι <expan>γράμμ<ex>ατα</ex></expan>. 
 </ab></div><div n="ff" type="textpart"><ab>
 
-    <lb n="1"/><handShift new="m20"/><supplied reason="lost">Ἰοῦλις Σερῆνος ἱπ</supplied><unclear>π</unclear>εὺς ἰ̈́λη<unclear>ς</unclear> <supplied reason="lost">Γ</supplied><unclear>αλ</unclear><supplied reason="lost">λικ</supplied><unclear>ῆ</unclear><supplied reason="lost">ς</supplied> τού<unclear>ρ</unclear>μ<unclear>ης</unclear> Ἡρωδιανι καὶ Ἰ¨ού
+    <lb n="1"/><handShift new="m20"/><supplied reason="lost">Ἰοῦλις Σερῆνος ἱπ</supplied><unclear>π</unclear>εὺς ἰ̈́λη<unclear>ς</unclear> <supplied reason="lost">Γ</supplied><unclear>αλ</unclear><supplied reason="lost">λικ</supplied><unclear>ῆ</unclear><supplied reason="lost">ς</supplied> τού<unclear>ρ</unclear>μ<unclear>ης</unclear> Ἡρωδιανι καὶ Ἰ¨ού
 
     <lb n="2" break="no"/><supplied reason="lost">λιο</supplied><unclear>ς</unclear> <supplied reason="lost">Νεπωτι</supplied>α<unclear>ν</unclear><supplied reason="lost">ὸς</supplied> <unclear>τ</unclear>ούρμης τῆς αὐτῆς καὶ Πατερμοῦθι<unclear>ς</unclear> Ὀρσενού
 
@@ -1110,15 +1110,15 @@
 
     <lb n="4" break="no"/>μῳ <choice><reg>κουράτορι</reg><orig>κουράτορει</orig></choice> χαίρειν· ἐλάβαμεν τὸ ἔπουλον ἡμῶν 
 
-    <lb n="5"/>Αὐτοκράτορος <choice><reg>Κομμόδου</reg><orig>Κομόδου</orig></choice> τὸ <num value="2">β</num> καὶ Οὐήρου τὸ <num value="2">β</num> ὑ̈πατείας 
+    <lb n="5"/>Αὐτοκράτορος <choice><reg>Κομμόδου</reg><orig>Κομόδου</orig></choice> τὸ <num value="2">β</num> καὶ Οὐήρου τὸ <num value="2">β</num> ὑ̈πατείας 
 
     <lb n="6"/>ἐκ <choice><reg>δηναρίων</reg><orig>δηναρείων</orig></choice> δέκα <num value="10"/> ὀβολῶν ὀκτώ . ἔτους <num value="19">ιθ</num> Αὐρηλίων 
 
     <lb n="7"/>Ἀντωνείνου καὶ <choice><reg>Κομμόδου</reg><orig>Κομόδου</orig></choice> τῶν κυρίων σεβαστῶν 
 
-    <lb n="8"/>Τῦβι <num value="23">κγ</num>. Ἥρων <choice><reg>Ἰσιδώρου</reg><orig>ϊσιδωρος</orig></choice> ἱ̈ππεὺς ἰ̈́λης τῆς αὐτῆς τούρμης 
+    <lb n="8"/>Τῦβι <num value="23">κγ</num>. Ἥρων <choice><reg>Ἰσιδώρου</reg><orig>ϊσιδωρος</orig></choice> ἱ̈ππεὺς ἰ̈́λης τῆς αὐτῆς τούρμης 
 
-    <lb n="9"/>Λουκιλλίου ἔγραψα ὑ̈πὲρ αὐτῶν <choice><reg>ἐρωτηθεὶς</reg><orig>ἐρωθηθεὶς</orig></choice> διὰ τὸ μ<unclear>ὴ</unclear> εἰ
+    <lb n="9"/>Λουκιλλίου ἔγραψα ὑ̈πὲρ αὐτῶν <choice><reg>ἐρωτηθεὶς</reg><orig>ἐρωθηθεὶς</orig></choice> διὰ τὸ μ<unclear>ὴ</unclear> εἰ
 
     <lb n="10" break="no"/>δέναι αὐτοὺς γράμματα. 
 </ab></div><div n="gg" type="textpart"><ab>
@@ -1127,7 +1127,7 @@
 
     <lb n="2"/><choice><reg>τύρμης</reg><orig>τυρμα</orig></choice> Φουρώνι Ἰ¨ουλ<unclear>ί</unclear>ῳ <unclear>Σ</unclear>ερήνῳ <unclear>σ</unclear>ούμμῳ κουράτορι <choice><reg>χαίρειν</reg><orig>χαίριν</orig></choice>· 
 
-    <lb n="3"/>ἔλαβον παρὰ σοῦ τὴν γ<unclear>ρά</unclear>στιν μου ὑ̈πὲρ τοῦ ὀκτωκαιδ<unclear>ε</unclear>
+    <lb n="3"/>ἔλαβον παρὰ σοῦ τὴν γ<unclear>ρά</unclear>στιν μου ὑ̈πὲρ τοῦ ὀκτωκαιδ<unclear>ε</unclear>
 
     <lb n="4" break="no"/>κάτου ἔτους ὁμοίως καὶ τοῦ ἐν<unclear>ν</unclear>εακαιδεκάτου ἔτους 
 
@@ -1147,10 +1147,10 @@
 
     <lb n="12"/>Φαμενὼθ <num value="5">ε</num>. Π<unclear>ο</unclear>μπήϊος Διογένης ἱππεὺς <choice><reg>ἴλης</reg><orig>εἴλης</orig></choice> τῆς αὐτῆς <expan>τ<ex>ούρμης</ex></expan> <subst><add place="inline">Ἰουλίου</add><del rend="corrected">ιευλιου</del></subst> 
 
-    <lb n="13"/>ἔγραψα ὑ̈πὲρ αὐτοῦ ἐρωτηθεὶς παρόντος αὐτοῦ διὰ τὸ μὴ εἰδέναι αὐτ<unclear>ὸν</unclear> γράμματα. 
+    <lb n="13"/>ἔγραψα ὑ̈πὲρ αὐτοῦ ἐρωτηθεὶς παρόντος αὐτοῦ διὰ τὸ μὴ εἰδέναι αὐτ<unclear>ὸν</unclear> γράμματα. 
 </ab></div><div n="hh, i" type="textpart"><ab>
 
-    <lb n="1"/><handShift new="m44"/>ισᾶς Σαραπίωνος <expan><unclear>ἱππ</unclear><ex>εὺς</ex></expan> ἰ̈́λῆς <unclear>ο</unclear><supplied reason="lost">ὐε</supplied>τρανῆς <choice><reg>Γαλλικῆς</reg><orig>Γαλειγῆς</orig></choice> 
+    <lb n="1"/><handShift new="m44"/>ισᾶς Σαραπίωνος <expan><unclear>ἱππ</unclear><ex>εὺς</ex></expan> ἰ̈́λῆς <unclear>ο</unclear><supplied reason="lost">ὐε</supplied>τρανῆς <choice><reg>Γαλλικῆς</reg><orig>Γαλειγῆς</orig></choice> 
 
     <lb n="2"/>τούρμης Ἀγρίππα Ἰουλίῳ Σερήνῳ <choice><reg>σούμμῳ</reg><orig>σούμῳ</orig></choice> <choice><reg>κου
 
@@ -1175,7 +1175,7 @@
 
     <lb n="6"/>ἐν Ἀρσιν<unclear>ο</unclear>είτου <choice><reg>δηνάρια</reg><orig>δηνάρεια</orig></choice> εἴκοσι 
 
-    <lb n="7"/>πέντε <num value="25"/> παρʼ οὗ καὶ λήμψῃ τὴν <choice><reg>ἀπο
+    <lb n="7"/>πέντε <num value="25"/> παρʼ οῦ̔ καὶ λήμψῃ τὴν <choice><reg>ἀπο
 
     <lb n="8" break="no"/>χὴν</reg><orig>ἀπο<lb n="8" break="no"/>χὴμ</orig></choice> μου. <choice><reg>ἐρρῶ<supplied reason="omitted">σ</supplied>θ<supplied reason="omitted">αί</supplied></reg><orig>ἐρρωθ</orig></choice> σε <choice><reg><expan><supplied reason="omitted">ε</supplied>ὔχο<ex>μαι</ex></expan></reg><orig>ὐχο</orig></choice> <add place="above"><expan>κ<ex>αὶ</ex></expan></add> <expan>π<unclear>ρ</unclear>οκοπ<ex>έσθαι</ex></expan> ἀεὶ.</ab></div><div n="ii" type="textpart"><!--milestone unit="4"--><ab>
 
@@ -1259,7 +1259,7 @@
 
     <lb n="19"/><supplied reason="lost">γ</supplied>ράμματα. 
 
-    <lb n="20"/><handShift new="m9"/>Αἶ<unclear>λ</unclear>ις <choice><reg>Καπίτων</reg><orig>Καιπίτον</orig></choice> <choice><reg>ἱππεὺ<supplied reason="omitted">ς</supplied></reg><orig>ἱππευ</orig></choice> <choice><reg>ἴλης</reg><orig>εἴλης</orig></choice> <choice><reg>Γαλλικῆς</reg><orig>Γαλικῆς</orig></choice> τούρμης <choice><reg>Ὀπτατιάνου</reg><orig>Ὀ<unclear>π</unclear>τατιανι</orig></choice> 
+    <lb n="20"/><handShift new="m9"/>Αῖ̓<unclear>λ</unclear>ις <choice><reg>Καπίτων</reg><orig>Καιπίτον</orig></choice> <choice><reg>ἱππεὺ<supplied reason="omitted">ς</supplied></reg><orig>ἱππευ</orig></choice> <choice><reg>ἴλης</reg><orig>εἴλης</orig></choice> <choice><reg>Γαλλικῆς</reg><orig>Γαλικῆς</orig></choice> τούρμης <choice><reg>Ὀπτατιάνου</reg><orig>Ὀ<unclear>π</unclear>τατιανι</orig></choice> 
 
     <lb n="21"/><choice><reg>Ἰουλίῳ</reg><orig>Εἰολιων</orig></choice> Σερήνῳ <choice><reg>σούμμῳ</reg><orig>σούμῳ</orig></choice> κουράτ<unclear>ο</unclear>ρι <choice><reg>χαίρειν</reg><orig>χαιρι</orig></choice>· ἔλαβον πα<supplied reason="lost">ρ</supplied><unclear>ὰ</unclear> σοῦ τὴν 
 
@@ -1537,7 +1537,7 @@
 
     <lb n="12"/>τ<supplied reason="lost">ὸ μὴ εἰδέ</supplied><unclear>ν</unclear>αι αὐτοὺς <choice><reg>γράμματα</reg><orig>γρά<unclear>μ</unclear>ατα</orig></choice>. 
 
-    <lb n="13"/><handShift new="m20"/>Κο<gap quantity="1" reason="illegible" unit="character"/><gap quantity="5" reason="lost" unit="character"/>ς <choice><reg cert="low">Θέωνος</reg><orig>Θηων</orig></choice> ἱ̈ππεὺς ἰ̈́λης Γαλλ<unclear>ικ</unclear><supplied reason="lost">ῆ</supplied><unclear>ς</unclear> <unclear>το</unclear>ύρ<unclear>μ</unclear><supplied reason="lost">ης</supplied> Σο<unclear>υ</unclear>πατιανοῦ 
+    <lb n="13"/><handShift new="m20"/>Κο<gap quantity="1" reason="illegible" unit="character"/><gap quantity="5" reason="lost" unit="character"/>ς <choice><reg cert="low">Θέωνος</reg><orig>Θηων</orig></choice> ἱ̈ππεὺς ἰ̈́λης Γαλλ<unclear>ικ</unclear><supplied reason="lost">ῆ</supplied><unclear>ς</unclear> <unclear>το</unclear>ύρ<unclear>μ</unclear><supplied reason="lost">ης</supplied> Σο<unclear>υ</unclear>πατιανοῦ 
 
     <lb n="14"/>Ἰ¨ου<unclear>λ</unclear><supplied reason="lost">ί</supplied><unclear>ῳ</unclear> <unclear>Σε</unclear>ρήνῳ σούμμῳ <choice><reg>κουράτορι</reg><orig>κουράτο<unclear>ρει</unclear></orig></choice> χ<unclear>α</unclear>ίρει<unclear>ν</unclear>· <choice><reg>ἔλαβον</reg><orig>ἔλ<unclear>ε</unclear>βον</orig></choice> πα
 
@@ -1548,9 +1548,9 @@
 
     <lb n="17"/>καὶ <choice><reg>Κομμόδου</reg><orig>Κομόδου</orig></choice> τῶν κυρ<supplied reason="lost">ίω</supplied><unclear>ν</unclear> σε<unclear>βα</unclear>σ<unclear>τ</unclear><supplied reason="lost">ῶ</supplied><unclear>ν</unclear> Τῦβι <num value="22">κβ</num>. 
 
-    <lb n="18"/>Ἥρων <choice><reg>Ἰσιδώρου</reg><orig>ϊσιδωρος</orig></choice> ἱ̈ππεὺς ἰ̈́λη<unclear>ς</unclear> <unclear>τ</unclear><supplied reason="lost">ῆ</supplied>ς αὐ<unclear>τ</unclear><supplied reason="lost">ῆ</supplied><unclear>ς</unclear> <unclear>το</unclear>ύρμης Λουκιλλίου 
+    <lb n="18"/>Ἥρων <choice><reg>Ἰσιδώρου</reg><orig>ϊσιδωρος</orig></choice> ἱ̈ππεὺς ἰ̈́λη<unclear>ς</unclear> <unclear>τ</unclear><supplied reason="lost">ῆ</supplied>ς αὐ<unclear>τ</unclear><supplied reason="lost">ῆ</supplied><unclear>ς</unclear> <unclear>το</unclear>ύρμης Λουκιλλίου 
 
-    <lb n="19"/>ἔγραψα ὑ̈πὲρ αὐτοῦ <choice><reg>ἐρωτηθεὶς</reg><orig>ἐρωθ<unclear>η</unclear>θεὶς</orig></choice>. 
+    <lb n="19"/>ἔγραψα ὑ̈πὲρ αὐτοῦ <choice><reg>ἐρωτηθεὶς</reg><orig>ἐρωθ<unclear>η</unclear>θεὶς</orig></choice>. 
 </ab></div><div n="x" type="textpart"><!--milestone unit="4"--><ab>
 
     <lb n="1"/><num value="10">ι</num>
@@ -1581,7 +1581,7 @@
 
     <lb n="14"/>Τῦβει δευτέρᾳ <unclear>κ</unclear><supplied reason="lost">αὶ</supplied> <unclear>εἰκοστ</unclear><supplied reason="lost">ῇ</supplied>. 
 
-    <lb n="15"/><handShift new="m20"/>Ἡλιόδωρο<unclear>ς</unclear> <choice><reg>Πατρόκλου</reg><orig><supplied reason="lost">Π</supplied><unclear>ά</unclear>τρο<unclear>κλ</unclear>ος</orig></choice> ἱ̈ππεὺς ἰ̈́λης Γαλλι
+    <lb n="15"/><handShift new="m20"/>Ἡλιόδωρο<unclear>ς</unclear> <choice><reg>Πατρόκλου</reg><orig><supplied reason="lost">Π</supplied><unclear>ά</unclear>τρο<unclear>κλ</unclear>ος</orig></choice> ἱ̈ππεὺς ἰ̈́λης Γαλλι
 
     <lb n="16" break="no"/>κῆς τούρμ<unclear>ης</unclear> <choice><reg>Ἀγρίππα</reg><orig>Ἀγρίπα</orig></choice> Ἰ¨ουλίῳ Σερήνῳ σούμ
 
@@ -1589,22 +1589,22 @@
 
     <lb n="18"/><num value="1">α</num>τὴν <choice><reg>γράστιν</reg><orig>γρασιν</orig></choice> μου ἐν προχρείᾳ ἐξερχόμενος 
 
-    <lb n="19"/><unclear>ε</unclear><supplied reason="lost">ἰ</supplied>ς <choice><reg><supplied reason="omitted">Σ</supplied>κηνὰς</reg><orig>Κη<unclear>ν</unclear>ὰς</orig></choice> Μ<unclear>αρ</unclear>δας ὑ̈πὲρ τοῦ <expan><ex>ἔτους</ex></expan> <num value="19">ιθ</num> δ<unclear>ην</unclear>ά<unclear>ρι</unclear>α 
+    <lb n="19"/><unclear>ε</unclear><supplied reason="lost">ἰ</supplied>ς <choice><reg><supplied reason="omitted">Σ</supplied>κηνὰς</reg><orig>Κη<unclear>ν</unclear>ὰς</orig></choice> Μ<unclear>αρ</unclear>δας ὑ̈πὲρ τοῦ <expan><ex>ἔτους</ex></expan> <num value="19">ιθ</num> δ<unclear>ην</unclear>ά<unclear>ρι</unclear>α 
 
     <lb n="20"/>εἴ<unclear>κ</unclear><supplied reason="lost">ο</supplied>σι καὶ πέντε <num value="25"/>. ἔτους <num value="19">ιθ</num> Αὐρηλίων <supplied reason="lost">Ἀντ</supplied>ωνίνου 
 
     <lb n="21"/>καὶ <choice><reg>Κομμόδου</reg><orig>Κ<supplied reason="lost">ο</supplied>μόδου</orig></choice> τῶν κυρίων σεβαστῶν Τῦβι <num value="23">κγ</num>. 
 
-    <lb n="22"/>Ἥρων Ἰ¨σίδωρος ἱ̈ππεὺς ἰ̈́λης τῆς αὐτῆς τούρμης 
+    <lb n="22"/>Ἥρων Ἰ¨σίδωρος ἱ̈ππεὺς ἰ̈́λης τῆς αὐτῆς τούρμης 
 
-    <lb n="23"/>Λουκιλλίου ἔγραψα ὑ̈πὲρ αὐτοῦ διὰ τὸ μὴ εἰδέναι 
+    <lb n="23"/>Λουκιλλίου ἔγραψα ὑ̈πὲρ αὐτοῦ διὰ τὸ μὴ εἰδέναι 
 
     <lb n="24"/>αὐτὸν γράμματα. 
 </ab></div><div n="xi" type="textpart"><!--milestone unit="4"--><ab>
 
     <lb n="1"/><num value="11">ια</num>
 
-    <lb n="2"/>Κᾶσις Ἄπιτος ἱ̈ππεὺς ἰ̈́λ<unclear>η</unclear>ς Γαλ<supplied reason="lost">λι</supplied><unclear>κῆ</unclear><supplied reason="lost">ς</supplied> <unclear>τ</unclear>ούρ
+    <lb n="2"/>Κᾶσις Ἄπιτος ἱ̈ππεὺς ἰ̈́λ<unclear>η</unclear>ς Γαλ<supplied reason="lost">λι</supplied><unclear>κῆ</unclear><supplied reason="lost">ς</supplied> <unclear>τ</unclear>ούρ
 
     <lb n="3" break="no"/>μης Λουκιλλίου Ἰ¨ουλίῳ Σερήνῳ σού<unclear>μ</unclear>μῳ 
 
@@ -1612,15 +1612,15 @@
 
     <lb n="5" break="no"/>στιν μου ἐν προχρείᾳ ἐξερχόμενος εἰς 
 
-    <lb n="6"/><choice><reg><supplied reason="omitted">Σ</supplied>κηνὰς</reg><orig>Κ<unclear>η</unclear>νὰς</orig></choice> Μεγάλας ὑ̈πὲρ τοῦ <expan><ex>ἔτους</ex></expan> <num value="19">ιθ</num> <choice><reg>δηνάρια</reg><orig>δηνάρεια</orig></choice> 
+    <lb n="6"/><choice><reg><supplied reason="omitted">Σ</supplied>κηνὰς</reg><orig>Κ<unclear>η</unclear>νὰς</orig></choice> Μεγάλας ὑ̈πὲρ τοῦ <expan><ex>ἔτους</ex></expan> <num value="19">ιθ</num> <choice><reg>δηνάρια</reg><orig>δηνάρεια</orig></choice> 
 
     <lb n="7"/><choice><reg>εἴκοσι</reg><orig>εἴκοσει</orig></choice> πέντε <num value="25"/>. ἔτους <num value="19">ιθ</num> Αὐρηλίων Ἀντωνίνου 
 
     <lb n="8"/>καὶ <choice><reg>Κομμόδου</reg><orig>Κομόδου</orig></choice> τῶν κυρίων σεβαστῶν Τῦβι <num value="23">κγ</num>. 
 
-    <lb n="9"/>Ἥρων <choice><reg>Ἰσιδώρου</reg><orig>ϊσιδωρος</orig></choice> ἱ̈ππεὺς ἰ̈́λης τῆς αὐτῆς τούρμης τῆς 
+    <lb n="9"/>Ἥρων <choice><reg>Ἰσιδώρου</reg><orig>ϊσιδωρος</orig></choice> ἱ̈ππεὺς ἰ̈́λης τῆς αὐτῆς τούρμης τῆς 
 
-    <lb n="10"/>αὐτῆς ἔγραψα ὑ̈πὲρ αὐτοῦ <choice><reg>ἐρωτηθεὶς</reg><orig>ἐρωθηθεὶς</orig></choice>. 
+    <lb n="10"/>αὐτῆς ἔγραψα ὑ̈πὲρ αὐτοῦ <choice><reg>ἐρωτηθεὶς</reg><orig>ἐρωθηθεὶς</orig></choice>. 
 
     <lb n="11"/><handShift new="m45"/>Κᾶσις Ἄπιτος ἔλαβον. 
 
@@ -1691,7 +1691,7 @@
 
     <lb n="23"/>Ἁρμ<unclear>ειυ</unclear><supplied reason="lost">σ</supplied><unclear>ει</unclear> εἰς <choice><reg><supplied reason="omitted">Σ</supplied>κηνὰς</reg><orig>Καινὰς</orig></choice> Μ<unclear>αντρ</unclear>ας <choice><reg>ἕκαστος</reg><orig>αἵκαστος</orig></choice> <choice><reg>δηνάρια</reg><orig>τηνάρια</orig></choice> <choice><reg>εἴκοσι</reg><orig>εἴκοσει</orig></choice> <choice><reg>πέντε</reg><orig>πένται</orig></choice> <num value="25"/>. 
 
-    <lb n="24"/><expan><ex>ἔτους</ex></expan> <num value="19">ιθ</num> Α<unclear>ὐ</unclear><supplied reason="lost">ρη</supplied><unclear>λίω</unclear>ν Ἀντωνίνου καὶ <choice><reg>Κομμόδου</reg><orig>Κομόδου</orig></choice> τῶν κυρίων σεβαστῶν 
+    <lb n="24"/><expan><ex>ἔτους</ex></expan> <num value="19">ιθ</num> Α<unclear>ὐ</unclear><supplied reason="lost">ρη</supplied><unclear>λίω</unclear>ν Ἀντωνίνου καὶ <choice><reg>Κομμόδου</reg><orig>Κομόδου</orig></choice> τῶν κυρίων σεβαστῶν 
 
     <lb n="25"/>Τῦ<unclear>βι</unclear> <num value="23"><unclear>κγ</unclear></num>. 
 </ab></div><div n="xiii" type="textpart"><!--milestone unit="4"--><ab>
@@ -1749,7 +1749,7 @@
 
     <lb n="2"/><handShift new="m26"/><choice><reg>Ἰούλιος</reg><orig>Ἰούλις</orig></choice> Ἀ<unclear>γ</unclear>αθ<supplied reason="lost">ὸ</supplied>ς Δαίμων ἱππεὺς <add place="above">στάτωρ</add> ἴλης Γαλλικῆς 
 
-    <lb n="3"/>τούρμης Ἀμμωνιανοῦ Ἰουλίῳ Σερήνῳ σούμμωι 
+    <lb n="3"/>τούρμης Ἀμμωνιανοῦ Ἰουλίῳ Σερήνῳ σούμμωι 
 
     <lb n="4"/><choice><reg>κουράτωρι</reg><orig>κουρατωρ</orig></choice> χαίρειν· ἔλαβον παρὰ σοῦ τὴν <choice><reg>γράστιν</reg><orig>γράσσιν</orig></choice> 
 
@@ -1822,7 +1822,7 @@
 
     <lb n="20"/>παρὰ σοῦ τὴν <choice><reg>γράστιν</reg><orig>γράτιν</orig></choice> μου ἐν <choice><reg>προχρείᾳ</reg><orig>προχρίᾳ</orig></choice> <choice><reg>ἐξερχόμενος</reg><orig>ἐξερχομενον</orig></choice> εἰς 
 
-    <lb n="21"/><num value="1">α</num> Λαύραν ὑπὲρ τοῦ <expan><ex>ἔτους</ex></expan> <num value="19">ιθ</num> Ἀντωνίνου κ<unclear>α</unclear><supplied reason="lost">ὶ</supplied> <choice><reg>Κομμόδου</reg><orig>Κομόδου</orig></choice> τῶν κυρίων 
+    <lb n="21"/><num value="1">α</num> Λαύραν ὑπὲρ τοῦ <expan><ex>ἔτους</ex></expan> <num value="19">ιθ</num> Ἀντωνίνου κ<unclear>α</unclear><supplied reason="lost">ὶ</supplied> <choice><reg>Κομμόδου</reg><orig>Κομόδου</orig></choice> τῶν κυρίων 
 
     <lb n="22"/>σε<unclear>β</unclear><supplied reason="lost">α</supplied>στῶν δηνάρια εἴκοσι πέντε <num value="25"/>, Μεχεὶρ <num value="10">ι</num>. 
 </ab></div><div n="xvi" type="textpart"><!--milestone unit="4"--><ab>
@@ -2060,7 +2060,7 @@
 
     <lb n="16"/>αὐτῆς τούρμης Λουκιλλίου ἔγραψα ὑπὲρ αὐτῶν ἐρωτηθεὶς 
 
-    <lb n="17"/>διὰ τὸ μὴ εἰδέναι <choice><reg>αὐτοὺς</reg><orig>αὐτὺς</orig></choice> <surplus>εἶναι</surplus> γράμματα. 
+    <lb n="17"/>διὰ τὸ μὴ εἰδέναι <choice><reg>αὐτοὺς</reg><orig>αὐτὺς</orig></choice> <surplus>εῖ̓ναι</surplus> γράμματα. 
 
     <lb n="18"/><handShift new="m39"/>Πουο͂νσις Πανεχάτες ἱππεὺς <choice><reg>ἴλης</reg><orig>εἴλης</orig></choice> οὐετρανῆς Γαλλικῆς 
 
@@ -2089,7 +2089,7 @@
 
     <lb n="4"/>Αὐτοκρατόρων <choice><reg>δηνάρια</reg><orig>δηνάρεια</orig></choice> <choice><reg>εἴκοσι</reg><orig>εἴ<unclear>κοσει</unclear></orig></choice> πέντε <num value="25"/>. Παχὼν <num value="10">ι</num>. 
 
-    <lb n="5"/>Καλ<unclear>λίγ</unclear>ονος Κλεονίκου κουράτωρ ἰ̈́λης τῆς αὐτῆς τούρμης 
+    <lb n="5"/>Καλ<unclear>λίγ</unclear>ονος Κλεονίκου κουράτωρ ἰ̈́λης τῆς αὐτῆς τούρμης 
 
     <lb n="6"/>τῆς αὐτῆς ἔγρα<unclear>ψ</unclear>α ὑπὲρ αὐτοῦ διὰ τὸ μὴ <choice><reg>εἰδέναι</reg><orig>εἰ<lb n="18" break="no"/>δήναι</orig></choice> αὐτὸν γράμματα. 
 </ab></div><div n="xxiv" type="textpart"><!--milestone unit="4"--><ab>
@@ -2128,7 +2128,7 @@
     <lb n="10"/>εἰδέναι <expan>γράμμ<ex>ατα</ex></expan>. 
 </ab></div><div n="ff" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="1"/><handShift new="m20"/><supplied reason="lost">Ἰοῦλις Σερῆνος ἱπ</supplied><unclear>π</unclear>εὺς ἰ̈́λη<unclear>ς</unclear> <supplied reason="lost">Γ</supplied><unclear>αλ</unclear><supplied reason="lost">λικ</supplied><unclear>ῆ</unclear><supplied reason="lost">ς</supplied> τού<unclear>ρ</unclear>μ<unclear>ης</unclear> Ἡρωδιανι καὶ Ἰ¨ού
+    <lb n="1"/><handShift new="m20"/><supplied reason="lost">Ἰοῦλις Σερῆνος ἱπ</supplied><unclear>π</unclear>εὺς ἰ̈́λη<unclear>ς</unclear> <supplied reason="lost">Γ</supplied><unclear>αλ</unclear><supplied reason="lost">λικ</supplied><unclear>ῆ</unclear><supplied reason="lost">ς</supplied> τού<unclear>ρ</unclear>μ<unclear>ης</unclear> Ἡρωδιανι καὶ Ἰ¨ού
 
     <lb n="2" break="no"/><supplied reason="lost">λιο</supplied><unclear>ς</unclear> <supplied reason="lost">Νεπωτι</supplied>α<unclear>ν</unclear><supplied reason="lost">ὸς</supplied> <unclear>τ</unclear>ούρμης τῆς αὐτῆς καὶ Πατερμοῦθι<unclear>ς</unclear> Ὀρσενού
 
@@ -2136,15 +2136,15 @@
 
     <lb n="4" break="no"/>μῳ <choice><reg>κουράτορι</reg><orig>κουράτορει</orig></choice> χαίρειν· ἐλάβαμεν τὸ ἔπουλον ἡμῶν 
 
-    <lb n="5"/>Αὐτοκράτορος <choice><reg>Κομμόδου</reg><orig>Κομόδου</orig></choice> τὸ <num value="2">β</num> καὶ Οὐήρου τὸ <num value="2">β</num> ὑ̈πατείας 
+    <lb n="5"/>Αὐτοκράτορος <choice><reg>Κομμόδου</reg><orig>Κομόδου</orig></choice> τὸ <num value="2">β</num> καὶ Οὐήρου τὸ <num value="2">β</num> ὑ̈πατείας 
 
     <lb n="6"/>ἐκ <choice><reg>δηναρίων</reg><orig>δηναρείων</orig></choice> δέκα <num value="10"/> ὀβολῶν ὀκτώ . ἔτους <num value="19">ιθ</num> Αὐρηλίων 
 
     <lb n="7"/>Ἀντωνείνου καὶ <choice><reg>Κομμόδου</reg><orig>Κομόδου</orig></choice> τῶν κυρίων σεβαστῶν 
 
-    <lb n="8"/>Τῦβι <num value="23">κγ</num>. Ἥρων <choice><reg>Ἰσιδώρου</reg><orig>ϊσιδωρος</orig></choice> ἱ̈ππεὺς ἰ̈́λης τῆς αὐτῆς τούρμης 
+    <lb n="8"/>Τῦβι <num value="23">κγ</num>. Ἥρων <choice><reg>Ἰσιδώρου</reg><orig>ϊσιδωρος</orig></choice> ἱ̈ππεὺς ἰ̈́λης τῆς αὐτῆς τούρμης 
 
-    <lb n="9"/>Λουκιλλίου ἔγραψα ὑ̈πὲρ αὐτῶν <choice><reg>ἐρωτηθεὶς</reg><orig>ἐρωθηθεὶς</orig></choice> διὰ τὸ μ<unclear>ὴ</unclear> εἰ
+    <lb n="9"/>Λουκιλλίου ἔγραψα ὑ̈πὲρ αὐτῶν <choice><reg>ἐρωτηθεὶς</reg><orig>ἐρωθηθεὶς</orig></choice> διὰ τὸ μ<unclear>ὴ</unclear> εἰ
 
     <lb n="10" break="no"/>δέναι αὐτοὺς γράμματα. 
 </ab></div><div n="gg" type="textpart"><!--milestone unit="4"--><ab>
@@ -2153,7 +2153,7 @@
 
     <lb n="2"/><choice><reg>τύρμης</reg><orig>τυρμα</orig></choice> Φουρώνι Ἰ¨ουλ<unclear>ί</unclear>ῳ <unclear>Σ</unclear>ερήνῳ <unclear>σ</unclear>ούμμῳ κουράτορι <choice><reg>χαίρειν</reg><orig>χαίριν</orig></choice>· 
 
-    <lb n="3"/>ἔλαβον παρὰ σοῦ τὴν γ<unclear>ρά</unclear>στιν μου ὑ̈πὲρ τοῦ ὀκτωκαιδ<unclear>ε</unclear>
+    <lb n="3"/>ἔλαβον παρὰ σοῦ τὴν γ<unclear>ρά</unclear>στιν μου ὑ̈πὲρ τοῦ ὀκτωκαιδ<unclear>ε</unclear>
 
     <lb n="4" break="no"/>κάτου ἔτους ὁμοίως καὶ τοῦ ἐν<unclear>ν</unclear>εακαιδεκάτου ἔτους 
 
@@ -2173,10 +2173,10 @@
 
     <lb n="12"/>Φαμενὼθ <num value="5">ε</num>. Π<unclear>ο</unclear>μπήϊος Διογένης ἱππεὺς <choice><reg>ἴλης</reg><orig>εἴλης</orig></choice> τῆς αὐτῆς <expan>τ<ex>ούρμης</ex></expan> <subst><add place="inline">Ἰουλίου</add><del rend="corrected">ιευλιου</del></subst> 
 
-    <lb n="13"/>ἔγραψα ὑ̈πὲρ αὐτοῦ ἐρωτηθεὶς παρόντος αὐτοῦ διὰ τὸ μὴ εἰδέναι αὐτ<unclear>ὸν</unclear> γράμματα. 
+    <lb n="13"/>ἔγραψα ὑ̈πὲρ αὐτοῦ ἐρωτηθεὶς παρόντος αὐτοῦ διὰ τὸ μὴ εἰδέναι αὐτ<unclear>ὸν</unclear> γράμματα. 
 </ab></div><div n="hh, i" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="1"/><handShift new="m44"/>ισᾶς Σαραπίωνος <expan><unclear>ἱππ</unclear><ex>εὺς</ex></expan> ἰ̈́λῆς <unclear>ο</unclear><supplied reason="lost">ὐε</supplied>τρανῆς <choice><reg>Γαλλικῆς</reg><orig>Γαλειγῆς</orig></choice> 
+    <lb n="1"/><handShift new="m44"/>ισᾶς Σαραπίωνος <expan><unclear>ἱππ</unclear><ex>εὺς</ex></expan> ἰ̈́λῆς <unclear>ο</unclear><supplied reason="lost">ὐε</supplied>τρανῆς <choice><reg>Γαλλικῆς</reg><orig>Γαλειγῆς</orig></choice> 
 
     <lb n="2"/>τούρμης Ἀγρίππα Ἰουλίῳ Σερήνῳ <choice><reg>σούμμῳ</reg><orig>σούμῳ</orig></choice> <choice><reg>κου
 
@@ -2201,7 +2201,7 @@
 
     <lb n="6"/>ἐν Ἀρσιν<unclear>ο</unclear>είτου <choice><reg>δηνάρια</reg><orig>δηνάρεια</orig></choice> εἴκοσι 
 
-    <lb n="7"/>πέντε <num value="25"/> παρʼ οὗ καὶ λήμψῃ τὴν <choice><reg>ἀπο
+    <lb n="7"/>πέντε <num value="25"/> παρʼ οῦ̔ καὶ λήμψῃ τὴν <choice><reg>ἀπο
 
     <lb n="8" break="no"/>χὴν</reg><orig>ἀπο<lb n="8" break="no"/>χὴμ</orig></choice> μου. <choice><reg>ἐρρῶ<supplied reason="omitted">σ</supplied>θ<supplied reason="omitted">αί</supplied></reg><orig>ἐρρωθ</orig></choice> σε <choice><reg><expan><supplied reason="omitted">ε</supplied>ὔχο<ex>μαι</ex></expan></reg><orig>ὐχο</orig></choice> <add place="above"><expan>κ<ex>αὶ</ex></expan></add> <expan>π<unclear>ρ</unclear>οκοπ<ex>έσθαι</ex></expan> ἀεὶ.</ab></div></div>
       </body>

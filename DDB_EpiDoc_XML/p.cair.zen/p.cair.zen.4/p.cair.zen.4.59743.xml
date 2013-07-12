@@ -45,7 +45,7 @@
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>θησαν βανωτοὶ <num value="190">ρϙ</num> 
 
-    <lb n="2"/><supplied reason="lost">ἀ</supplied>φʼ ὧν κατεχύθη εἰς <num value="159">ρνθ</num> <expan>λοι<ex>ποὶ</ex></expan> <num value="31">λα</num> 
+    <lb n="2"/><supplied reason="lost">ἀ</supplied>φʼ ῶ̔ν κατεχύθη εἰς <num value="159">ρνθ</num> <expan>λοι<ex>ποὶ</ex></expan> <num value="31">λα</num> 
 
     <lb n="3"/><space extent="unknown" unit="character"/> 
 
@@ -55,7 +55,7 @@
 
     <lb n="5"/>καὶ τῶν <del rend="erasure">περιγ</del> ἐξανηλωμένων 
 
-    <lb n="6"/>ἔσω, ὧν δὲ τὸν κενὸν περιεῖναι. </ab></div>
+    <lb n="6"/>ἔσω, ῶ̔ν δὲ τὸν κενὸν περιεῖναι. </ab></div>
       </body>
    </text>
 </TEI>

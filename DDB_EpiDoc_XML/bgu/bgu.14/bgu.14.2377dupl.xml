@@ -59,7 +59,7 @@
 
     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> τοῦ δη<unclear>λου</unclear>μέ<unclear>ν</unclear>ου <supplied reason="lost">νομοῦ</supplied> 
 
-    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> χ</supplied>ρη<unclear>ματισμο</unclear>ῦ <unclear>οὗ</unclear> <supplied reason="lost">χρόνος</supplied> 
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> χ</supplied>ρη<unclear>ματισμο</unclear>ῦ <unclear>οῦ̔</unclear> <supplied reason="lost">χρόνος</supplied> 
 
     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἔγκλ</supplied><unclear>ησ</unclear>ιν ἐπὶ τῶν 
 
@@ -89,7 +89,7 @@
 
     <lb n="19"/><gap reason="lost" extent="unknown" unit="character"/><choice><reg><supplied reason="lost">λύσι</supplied>μον</reg><orig>λύσιμα</orig></choice> ὡς <choice><reg>τὸ</reg><orig>η</orig></choice> διάγραμμα συντάσσει 
 
-    <lb n="20"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> παραδείσο</supplied>υ ἐρήμου ἐν ὧι <choice><reg>δένδρα</reg><orig>δένδρη</orig></choice> καὶ 
+    <lb n="20"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> παραδείσο</supplied>υ ἐρήμου ἐν ῶ̔ι <choice><reg>δένδρα</reg><orig>δένδρη</orig></choice> καὶ 
 
     <lb n="21"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> χρηστ</supplied><unclear>η</unclear>ρίοις τὸ ἥμισυ <num value="1/2"/> ἐν <expan>χα<ex>λκ  </ex></expan> <expan><ex>τάλαντ  </ex></expan> <num value="2">β</num> 
 
@@ -104,9 +104,9 @@
 
     <lb n="26"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="27"/><supplied reason="lost">νομοῦ Π</supplied>τολεμαίωι Ἡρωίδου ἀφʼ οὗ μετ<supplied reason="lost">ήνεγκεν ἐκ τοῦ κριτηρίου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="27"/><supplied reason="lost">νομοῦ Π</supplied>τολεμαίωι Ἡρωίδου ἀφʼ οῦ̔ μετ<supplied reason="lost">ήνεγκεν ἐκ τοῦ κριτηρίου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="28"/><supplied reason="lost">οὗ χρό</supplied><unclear>νος</unclear> <unclear>τὸ</unclear> διεληλυθὸς <num value="16">ιϛ</num> τὸ καὶ <num value="1">α</num> <expan><ex>ἔτος</ex></expan> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τό</supplied>
+    <lb n="28"/><supplied reason="lost">οῦ̔ χρό</supplied><unclear>νος</unclear> <unclear>τὸ</unclear> διεληλυθὸς <num value="16">ιϛ</num> τὸ καὶ <num value="1">α</num> <expan><ex>ἔτος</ex></expan> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τό</supplied>
 
     <lb n="29" break="no"/><supplied reason="lost">πῶν χρ</supplied>ηματισάντων χρηματιστῶν κα<supplied reason="lost">ὶ Δωροθέου εἰσαγωγέως </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -136,7 +136,7 @@
 
     <lb n="42"/>ἔ<unclear>στ</unclear>ιν δ<unclear>ὲ</unclear> <unclear>ἐν</unclear> κώμηι Σώβθει πάν<unclear>τα</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="43"/>καὶ φρέαρ <expan>ἀρουρ<ex>ῶν</ex></expan> <num value="2">β</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> καὶ ὅσαι ἐὰν ὦ<unclear>σι</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="43"/>καὶ φρέαρ <expan>ἀρουρ<ex>ῶν</ex></expan> <num value="2">β</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> καὶ ὅσαι ἐὰν ῶ̓<unclear>σι</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="44"/><expan>γεί<ex>τονες</ex></expan> τοῦ ὅλου παραδείσου <expan>νό<ex>του</ex></expan> διῶρυξ καλουμέν<supplied reason="lost">η </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 

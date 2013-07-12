@@ -70,7 +70,7 @@
 
     <lb n="3"/>ταῖς <subst><add place="inline">ἄλλ<add place="above">ων</add></add><del rend="corrected">αλλ<del rend="erasure">αις</del></del></subst> συ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="4"/>ὧν εἰσὶν αμ<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="4"/>ῶ̔ν εἰσὶν αμ<gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="5"/>δύο <num value="2"/> ξοσι <gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -88,9 +88,9 @@
 
     <lb n="12"/>φροντίδες <unclear>ἐπ</unclear><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="13"/>ἧς ἔχουσι κ<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="13"/>ῆ̔ς ἔχουσι κ<gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="14"/>οὖν πέν<supplied reason="lost">τ</supplied>ε <num value="5"/> <unclear>εθ</unclear><gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>
+    <lb n="14"/>οῦ̓ν πέν<supplied reason="lost">τ</supplied>ε <num value="5"/> <unclear>εθ</unclear><gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>
       </body>
    </text>
 </TEI>

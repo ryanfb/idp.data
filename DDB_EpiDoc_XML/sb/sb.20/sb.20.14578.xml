@@ -44,7 +44,7 @@
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><div n="r" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="1"/>ἐπίποκα <expan>ἀρ<ex>σενικὰ</ex></expan> <num value="392">τϙβ</num> <expan><ex>ὧν</ex></expan>
+    <lb n="1"/>ἐπίποκα <expan>ἀρ<ex>σενικὰ</ex></expan> <num value="392">τϙβ</num> <expan><ex>ῶ̔ν</ex></expan>
 
     <lb n="2"/>πεπλυμένα <num value="220">σκ</num>
 
@@ -56,7 +56,7 @@
 
     <lb n="6"/>Π<gap reason="illegible" quantity="2" unit="character"/><unclear>φο</unclear><gap reason="lost" quantity="2" unit="character"/> <expan><unclear>ἀ</unclear><supplied reason="lost">ρ</supplied>σ<ex>ενικὸν</ex></expan> <num value="1">α</num>
 
-    <lb n="7"/>Κήτ<supplied reason="lost">ι</supplied>α <gap reason="illegible" quantity="1" unit="character"/><num value="7">ζ</num> <expan><ex>ὧν</ex></expan>
+    <lb n="7"/>Κήτ<supplied reason="lost">ι</supplied>α <gap reason="illegible" quantity="1" unit="character"/><num value="7">ζ</num> <expan><ex>ῶ̔ν</ex></expan>
 
     <lb n="8"/><num value="42">μβ</num>
 
@@ -64,14 +64,14 @@
 
     <lb n="10"/><gap reason="illegible" quantity="2" unit="line"/>
 
-    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>ὧν</ex></expan> <num value="8"><unclear>η</unclear></num> <expan><ex>γίνεται</ex></expan> <num value="3">γ</num> <expan><ex>ὧν</ex></expan> Ἀ<unclear>ρ</unclear>ά<unclear>β</unclear>ια <num value="2"><unclear>β</unclear></num>
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>ῶ̔ν</ex></expan> <num value="8"><unclear>η</unclear></num> <expan><ex>γίνεται</ex></expan> <num value="3">γ</num> <expan><ex>ῶ̔ν</ex></expan> Ἀ<unclear>ρ</unclear>ά<unclear>β</unclear>ια <num value="2"><unclear>β</unclear></num>
 </ab></div><div n="v" type="textpart"><!--milestone unit="4"--><ab>
 
     <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/> <expan>πρ<ex>όβατα</ex></expan> <num value="50"><unclear>ν</unclear></num><gap reason="illegible" quantity="1" unit="character"/>
 
     <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> <expan>πρ<ex>όβατα</ex></expan> <num value="16">ιϛ</num>
 
-    <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/> <expan>πρ<ex>όβατα</ex></expan> <num value="7">ζ</num> <expan><ex>ὧν</ex></expan>
+    <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/> <expan>πρ<ex>όβατα</ex></expan> <num value="7">ζ</num> <expan><ex>ῶ̔ν</ex></expan>
 
     <lb n="14"/><gap reason="illegible" quantity="2" unit="line"/>
 
@@ -83,7 +83,7 @@
 
     <lb n="19"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τ</supplied><unclear>ετελεύτηκεν</unclear> <num value="1">α</num>
 
-    <lb n="20"/><gap reason="lost" extent="unknown" unit="character"/> <num value="1">α</num> <expan><ex>ὧν</ex></expan> <num value="4">δ</num> <expan><ex>γίνεται</ex></expan> <num value="5">ε</num> <expan>πρ<ex>όβατα</ex></expan>.
+    <lb n="20"/><gap reason="lost" extent="unknown" unit="character"/> <num value="1">α</num> <expan><ex>ῶ̔ν</ex></expan> <num value="4">δ</num> <expan><ex>γίνεται</ex></expan> <num value="5">ε</num> <expan>πρ<ex>όβατα</ex></expan>.
 
     <lb n="21"/><gap reason="lost" extent="unknown" unit="character"/><num value="3"><unclear>γ</unclear></num> <num value="3">γ</num> ἄ<unclear>ρ</unclear>να <num value="30">λ</num></ab></div></div>
       </body>

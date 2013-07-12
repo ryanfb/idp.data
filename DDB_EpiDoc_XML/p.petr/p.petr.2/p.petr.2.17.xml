@@ -52,7 +52,7 @@
 
     <lb n="1"/><gap reason="lost" quantity="6" unit="character"/>ι ἐγκλήματι ὡς ἄρα <app type="editorial"><lem>ὕβ<supplied reason="lost">ρισα αὐτὴν</supplied></lem><rdg>υ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
-    <lb n="2"/><app type="editorial"><lem><supplied reason="lost">ἐν τῆι ῥύ</supplied>μηι</lem><rdg><gap reason="lost" extent="unknown" unit="character"/>μηι</rdg></app> ἧι αὐτή φησιν εἶναι δ<gap reason="lost" quantity="6" unit="character"/> 
+    <lb n="2"/><app type="editorial"><lem><supplied reason="lost">ἐν τῆι ῥύ</supplied>μηι</lem><rdg><gap reason="lost" extent="unknown" unit="character"/>μηι</rdg></app> ῆ̔ι αὐτή φησιν εῖ̓ναι δ<gap reason="lost" quantity="6" unit="character"/> 
 
     <lb n="3"/><gap reason="lost" quantity="6" unit="character"/>ου δοθέντος μοι <app type="editorial"><lem>ἀνὰ μ<unclear>έσ</unclear>ον <supplied reason="lost">τῆς </supplied><gap reason="lost" quantity="3" unit="character"/></lem><rdg>ανα<gap reason="illegible" quantity="2" unit="character"/>αιον<gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
@@ -66,13 +66,13 @@
 
     <lb n="8"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> πρά</supplied>κτορι, τοῦτο δὲ γενέσθαι διαρκυ<gap reason="lost" quantity="4" unit="character"/> 
 
-    <lb n="9"/><gap reason="lost" quantity="6" unit="character"/> περὶ ὧν βούλομαι τῶν <app type="editorial"><lem>καταμ<supplied reason="lost">αρτυ</supplied>
+    <lb n="9"/><gap reason="lost" quantity="6" unit="character"/> περὶ ῶ̔ν βούλομαι τῶν <app type="editorial"><lem>καταμ<supplied reason="lost">αρτυ</supplied>
 
     <lb n="10" break="no"/><supplied reason="lost">ρούντων ἐμ</supplied>φανίσαι</lem><rdg>κατὰ μ<supplied reason="lost">οῦ </supplied><gap reason="lost" extent="unknown" unit="character"/>φανίσαι</rdg></app> παραχρῆμα Ἀριστομά<supplied reason="lost">χωι</supplied> 
 
     <lb n="11"/><gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> ἵνα ὑπογραφὴ γένηται <app type="editorial"><lem>ἐπʼ Ἀριστ<supplied reason="lost">ομάχου</supplied>.</lem><rdg>εἰς Ἀριστ<supplied reason="lost">όμαχον</supplied></rdg></app> 
 
-    <lb n="12"/><supplied reason="lost">δέομα</supplied>ι οὖν σοῦ, βασιλεῦ, εἰ σοι δοκεῖ, προστάξ<supplied reason="lost">αι <app type="editorial"><lem resp="BL 1.357">γράψαι</lem><rdg/></app></supplied> 
+    <lb n="12"/><supplied reason="lost">δέομα</supplied>ι οῦ̓ν σοῦ, βασιλεῦ, εἰ σοι δοκεῖ, προστάξ<supplied reason="lost">αι <app type="editorial"><lem resp="BL 1.357">γράψαι</lem><rdg/></app></supplied> 
 
     <lb n="13"/><supplied reason="lost">Ἀριστο</supplied>μάχωι τῶι στρατηγῶι <app type="editorial"><lem>ἀνακαλέσα<supplied reason="lost">σθαι</supplied></lem><rdg>ἀνακαλεσά<supplied reason="lost">μενον</supplied></rdg></app> 
 
@@ -98,7 +98,7 @@
 
     <lb n="24"/><app type="editorial"><lem><supplied reason="lost">γένητα</supplied>ι. ἐὰν δὲ</lem><rdg><gap reason="lost" extent="unknown" unit="character"/> καὶ <supplied reason="lost">τ</supplied>άδε</rdg></app> ἄλλως πως δοκῆι Ἀριστ<supplied reason="lost">ομάχωι</supplied> 
 
-    <lb n="25"/><supplied reason="lost">ἀνα</supplied>κα<supplied reason="lost">λ</supplied>εσάμενον <app type="editorial"><lem>αὐτὴν</lem><rdg>αὖ τὴν</rdg></app> Λαμίσκη<supplied reason="lost">ν</supplied> 
+    <lb n="25"/><supplied reason="lost">ἀνα</supplied>κα<supplied reason="lost">λ</supplied>εσάμενον <app type="editorial"><lem>αὐτὴν</lem><rdg>αῦ̓ τὴν</rdg></app> Λαμίσκη<supplied reason="lost">ν</supplied> 
 
     <lb n="26"/><app type="editorial"><lem><supplied reason="lost">ἐρωτῆ</supplied>σαι τὰ ὀνόματα τῶν ἀνθρώπων <gap reason="lost" quantity="2" unit="character"/></lem><rdg><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/>ταοι.ουτε τοῦ Διονυσόδ<supplied reason="lost" cert="low">ωρον</supplied><certainty match=".." locus="value"/></rdg></app> 
 
@@ -142,9 +142,9 @@
 
     <lb n="2" break="no"/><supplied reason="lost">λων πόλει </supplied><app type="editorial"><lem><supplied reason="lost">μετὰ τοῦ πατ</supplied>ρός</lem><rdg><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> πατ</supplied>ρός</rdg></app> μου καὶ τῆς μητρὸς <app type="editorial"><lem>Ἰσ<supplied reason="lost">ι</supplied>δότης</lem><rdg>κ<supplied reason="lost">αὶ α</supplied>ὐτῆς</rdg></app> ἐν τῶι οἰκήματι 
 
-    <lb n="3"/><supplied reason="lost"><app type="editorial"><lem>τῶι πρὸς</lem><rdg><gap reason="lost" extent="unknown" unit="character"/></rdg></app> τοῖς Ἀριστίππου λε</supplied>γομένοις προσφόροις ὧν <supplied reason="lost">ἐ</supplied>στιν ἀπέναντι κατά τι 
+    <lb n="3"/><supplied reason="lost"><app type="editorial"><lem>τῶι πρὸς</lem><rdg><gap reason="lost" extent="unknown" unit="character"/></rdg></app> τοῖς Ἀριστίππου λε</supplied>γομένοις προσφόροις ῶ̔ν <supplied reason="lost">ἐ</supplied>στιν ἀπέναντι κατά τι 
 
-    <lb n="4"/><supplied reason="lost"><app type="editorial"><lem>μέρος</lem><rdg/></app> </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τ</supplied>οῦ οἰκήματος ἐν ὧι <app type="editorial"><lem>οἰκ<supplied reason="lost">οῦ</supplied>μεν</lem><rdg>οἰκ<supplied reason="lost">ῶ τὸ</supplied> μὲν</rdg></app> οἴκ<supplied reason="lost">ημ</supplied>α ἐν ὧι Ἡρα
+    <lb n="4"/><supplied reason="lost"><app type="editorial"><lem>μέρος</lem><rdg/></app> </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τ</supplied>οῦ οἰκήματος ἐν ῶ̔ι <app type="editorial"><lem>οἰκ<supplied reason="lost">οῦ</supplied>μεν</lem><rdg>οἰκ<supplied reason="lost">ῶ τὸ</supplied> μὲν</rdg></app> οἴκ<supplied reason="lost">ημ</supplied>α ἐν ῶ̔ι Ἡρα
 
     <lb n="5" break="no"/><gap reason="lost" extent="unknown" unit="character"/> α<supplied reason="lost">ὐ</supplied>τῆι ἐργαζόμενος τὸ πλέον τῆς ἡμέρας ἐν τῶι <app type="editorial"><lem>οἰ
 

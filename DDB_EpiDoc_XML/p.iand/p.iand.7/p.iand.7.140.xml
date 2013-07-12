@@ -52,7 +52,7 @@
 
     <lb n="2"/><supplied reason="lost">ἐπιστολῆς γραφείσης ὑπὸ Ἑρεν</supplied>νίου Φιλώτα τοῦ κρατίστου ἐπιστρατήγο<supplied reason="lost">υ</supplied> 
 
-    <lb n="3"/><supplied reason="lost">στρατηγοῖς τῶν </supplied><supplied reason="lost" cert="low">ὑποτεταγμέ</supplied><unclear>ν</unclear>ων <app type="editorial"><lem resp="BL 3.88">αὐτ<supplied reason="lost">ῇ</supplied></lem><rdg>αὐτ<supplied reason="lost">ῷ</supplied></rdg></app> νομῶν, ᾗ ὑπετήγη ἀντίγραφον 
+    <lb n="3"/><supplied reason="lost">στρατηγοῖς τῶν </supplied><supplied reason="lost" cert="low">ὑποτεταγμέ</supplied><unclear>ν</unclear>ων <app type="editorial"><lem resp="BL 3.88">αὐτ<supplied reason="lost">ῇ</supplied></lem><rdg>αὐτ<supplied reason="lost">ῷ</supplied></rdg></app> νομῶν, ῇ̔ ὑπετήγη ἀντίγραφον 
 
     <lb n="4"/><supplied reason="lost">διατάγματος τοῦ λαμπροτάτ</supplied>ου ἡγεμόν<supplied reason="lost">ο</supplied>ς Μουνατίου Φήλικος περὶ τ<supplied reason="lost">ῶ</supplied>ν 
 
@@ -84,7 +84,7 @@
 
     <lb n="18"/><supplied reason="lost">Ἀντωνῖνος ὁ κύριος τῷ α</supplied>ὑτοῦ πατρὶ θεῷ Ἁδρι<supplied reason="lost">αν</supplied>ῷ ἐν πᾶσ<unclear>ιν</unclear> 
 
-    <lb n="19"/><supplied reason="lost">ἕπεσθαι βουλόμενος, ὦ</supplied> ἄνδρες Ἀντινοεῖς, ἐ<supplied reason="lost">ν τοῖς</supplied> ἔμ<unclear>π</unclear><supplied reason="lost">ρο</supplied>
+    <lb n="19"/><supplied reason="lost">ἕπεσθαι βουλόμενος, ῶ̓</supplied> ἄνδρες Ἀντινοεῖς, ἐ<supplied reason="lost">ν τοῖς</supplied> ἔμ<unclear>π</unclear><supplied reason="lost">ρο</supplied>
 
     <lb n="20" break="no"/><supplied reason="lost">σθεν χρόνοις ἀεὶ ἐτήρ</supplied>ησεν τὰς δοθε<supplied reason="lost">ί</supplied>σας <choice><reg>ὑμῖν</reg><orig>ὑμεῖν</orig></choice> ὑ<unclear>πὸ</unclear> <unclear>αὐ</unclear>τοῦ 
 
@@ -92,7 +92,7 @@
 
     <lb n="22"/><supplied reason="lost" cert="low">ἐπαγγελθέντων</supplied><supplied reason="lost"> ὅτε ἔκ</supplied>τισεν ὑμῶν τὴν π<supplied reason="lost">ό</supplied>λ<supplied reason="lost">ι</supplied>ν. π<unclear>ε</unclear><supplied reason="lost">ι</supplied><unclear>θόμενος</unclear> 
 
-    <lb n="23"/><supplied reason="lost">οὖν </supplied><gap reason="lost" quantity="15" unit="character"/><supplied reason="lost"> α</supplied>υτο<supplied reason="lost">υ </supplied><gap reason="lost" quantity="4" unit="character"/><unclear>ει</unclear><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost" cert="low">γ</supplied><unclear>εν</unclear><supplied reason="lost" cert="low">ε</supplied>α<unclear>ς</unclear> καὶ δι<unclear>ὰ</unclear> <unclear>τ</unclear><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost" cert="low"> </supplied> </ab></div>
+    <lb n="23"/><supplied reason="lost">οῦ̓ν </supplied><gap reason="lost" quantity="15" unit="character"/><supplied reason="lost"> α</supplied>υτο<supplied reason="lost">υ </supplied><gap reason="lost" quantity="4" unit="character"/><unclear>ει</unclear><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost" cert="low">γ</supplied><unclear>εν</unclear><supplied reason="lost" cert="low">ε</supplied>α<unclear>ς</unclear> καὶ δι<unclear>ὰ</unclear> <unclear>τ</unclear><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost" cert="low"> </supplied> </ab></div>
       </body>
    </text>
 </TEI>

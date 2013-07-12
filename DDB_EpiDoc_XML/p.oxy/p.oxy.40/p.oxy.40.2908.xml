@@ -79,13 +79,13 @@
 
     <lb n="9" break="no"/>του Κρηπεῖδος καὶ ἐπικριθεὶς 
 
-    <lb n="10"/>τῷ <num value="13">ιγ</num> <expan><ex>ἔτει</ex></expan>, ὡς εἶ
+    <lb n="10"/>τῷ <num value="13">ιγ</num> <expan><ex>ἔτει</ex></expan>, ὡς εῖ̓
 
     <lb n="11" break="no"/>ναί με πρὸς τὸ ἐνεστὸς <num value="1">α</num> <expan><ex>ἔτος</ex></expan> <expan><ex>ἐτῶν</ex></expan> <num value="19">ιθ</num>, 
 
     <lb n="12"/>οὐχ <hi rend="diaeresis">ὑ</hi>πήκουσα ἐν τῇ γενο
 
-    <lb n="13" break="no"/>μένῃ ἀναγορείᾳ διὰ τ<unclear>ὸ</unclear> <supplied reason="lost">ε</supplied><unclear>ἶ</unclear>ναί 
+    <lb n="13" break="no"/>μένῃ ἀναγορείᾳ διὰ τ<unclear>ὸ</unclear> <supplied reason="lost">ε</supplied><unclear>ῖ̓</unclear>ναί 
 
     <lb n="14"/>με ἐπὶ τῆς ἀλλοδαπῆς. νῦν δὲ 
 
@@ -143,7 +143,7 @@
 
     <lb n="41"/><unclear>ὑπ</unclear>ακου<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" quantity="1" unit="character"/> <space extent="unknown" unit="character"/> 
 
-    <lb n="42"/><supplied reason="lost"><handShift new="m6"/> </supplied><expan><supplied reason="lost">Αὐ</supplied><unclear>ρ</unclear><ex>ήλιος</ex></expan> <expan>Ζωίλ<ex>ος</ex></expan> <expan><unclear>γεν</unclear><supplied reason="lost">όμ<ex>ενος</ex></supplied></expan> <expan>φύλ<ex>αρχος</ex></expan>· <unclear>οὗτος</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="42"/><supplied reason="lost"><handShift new="m6"/> </supplied><expan><supplied reason="lost">Αὐ</supplied><unclear>ρ</unclear><ex>ήλιος</ex></expan> <expan>Ζωίλ<ex>ος</ex></expan> <expan><unclear>γεν</unclear><supplied reason="lost">όμ<ex>ενος</ex></supplied></expan> <expan>φύλ<ex>αρχος</ex></expan>· <unclear>οῦ̔τος</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="43"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -205,7 +205,7 @@
 
     <lb n="23"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>δα τὴ<unclear>ν</unclear> π<unclear>ερ</unclear>ὶ αὐτὸν <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" atLeast="2" atMost="5" unit="character"/> 
 
-    <lb n="24"/>ἐπιδιδοὺς οὖν <unclear>τ</unclear>ὰ βιβλία ἀ<supplied reason="lost">ξιῶ</supplied> 
+    <lb n="24"/>ἐπιδιδοὺς οῦ̓ν <unclear>τ</unclear>ὰ βιβλία ἀ<supplied reason="lost">ξιῶ</supplied> 
 
     <lb n="25"/><choice><reg>καὶ ἂν</reg><orig>κἂν</orig></choice> νῦν ἐνταγῆναι αὐτὸ<supplied reason="lost">ν ἐν</supplied> 
 
@@ -233,7 +233,7 @@
 
     <lb n="37" break="no"/>ξει τῶν ῥεμβῶν. <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="38"/><handShift new="m5"/> Αὐρήλιος <expan>Ζωίλ<ex>ος</ex></expan> <expan>γενόμ<ex>ενος</ex></expan> <expan>φύλαρχ<ex>ος</ex></expan>· οὗτ<unclear>ο</unclear><supplied reason="lost">ς </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="38"/><handShift new="m5"/> Αὐρήλιος <expan>Ζωίλ<ex>ος</ex></expan> <expan>γενόμ<ex>ενος</ex></expan> <expan>φύλαρχ<ex>ος</ex></expan>· οῦ̔τ<unclear>ο</unclear><supplied reason="lost">ς </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="39"/><unclear>ὃ</unclear><supplied reason="lost">ς</supplied> <unclear>κ</unclear>αὶ ἐπὶ τ<unclear>ῆ</unclear><supplied reason="lost">ς</supplied> ἀναγορίας ὑπ<gap reason="lost" quantity="1" unit="character"/>κου<del rend="erasure"><gap reason="illegible" quantity="2" unit="character"/></del><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 

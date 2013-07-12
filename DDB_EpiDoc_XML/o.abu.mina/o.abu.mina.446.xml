@@ -47,8 +47,8 @@
          <head xml:lang="en"/>
          <div xml:lang="grc" type="edition" xml:space="preserve">
 <ab>
-<lb n="1"/><g type="stauros"/> ἀπὸ απα  <choice><reg>Ἰωάν
-<lb n="2" break="no"/>νου</reg><orig>Ἰά<lb n="2" break="no"/>νι</orig></choice> <choice><reg>ὀνικαὶ</reg><orig>ὀνικὲ&#8232;</orig></choice> 
+<lb n="1"/><g type="stauros"/> ἀπὸ απα  <choice><reg>Ἰωάν
+<lb n="2" break="no"/>νου</reg><orig>Ἰά<lb n="2" break="no"/>νι</orig></choice> <choice><reg>ὀνικαὶ</reg><orig>ὀνικὲ&#x2028;</orig></choice> 
 <lb n="3"/><expan>φ<ex>οραὶ</ex></expan> <num value="2">β</num>
 </ab></div>
       </body>

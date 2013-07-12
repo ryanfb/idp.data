@@ -113,7 +113,7 @@
 
     <lb n="3"/><g type="check"/> <num value="1">α<certainty match="../@value" locus="value"/></num>  Μόνης <expan>Φοιβάμ<ex>μωνος</ex></expan> <expan><ex>δηναρίων μυριὰς</ex></expan> <num value="1">α</num>  <num value="6700">Ϛψ</num> <num value="16700"/> 
 
-    <lb n="4"/><expan>ὑ<ex>πὲρ</ex></expan> <choice><reg>τοῦ</reg><orig>των</orig></choice> <expan>νο<ex>μισματίου</ex></expan> <num value="1">α</num> <expan>δι<ex>ὰ</ex></expan> <abbr>Ἀντιουχ</abbr> <expan>στρ<ex>ατιώτου</ex></expan> <expan>δι<ex>ὰ</ex></expan> <abbr>Ἰαι</abbr> <del rend="erasure">ὧν <expan><ex>δηναρίων μυριάδες</ex></expan> <num value="10">ι</num> <num value="4000">Δ</num> <num value="104000"/></del> 
+    <lb n="4"/><expan>ὑ<ex>πὲρ</ex></expan> <choice><reg>τοῦ</reg><orig>των</orig></choice> <expan>νο<ex>μισματίου</ex></expan> <num value="1">α</num> <expan>δι<ex>ὰ</ex></expan> <abbr>Ἀντιουχ</abbr> <expan>στρ<ex>ατιώτου</ex></expan> <expan>δι<ex>ὰ</ex></expan> <abbr>Ἰαι</abbr> <del rend="erasure">ῶ̔ν <expan><ex>δηναρίων μυριάδες</ex></expan> <num value="10">ι</num> <num value="4000">Δ</num> <num value="104000"/></del> 
 
     <lb n="5"/>ὁδὸς μο<gap reason="illegible" quantity="1" unit="character"/>ου <expan><ex>τάλαντα</ex></expan> <num value="5500">Εφ</num> 
 
@@ -222,7 +222,7 @@
 
     <lb n="11"/>β<g type="slanting-stroke"/>β Πιασανίγης <expan><ex>τάλαντα</ex></expan> <num value="6000">Ϛ</num> 
 
-    <lb n="12"/>β<g type="slanting-stroke"/>γ Ὧρος Κολλούθου <expan><ex>τάλαντα</ex></expan> <num value="3700">Γψ</num> 
+    <lb n="12"/>β<g type="slanting-stroke"/>γ Ὧρος Κολλούθου <expan><ex>τάλαντα</ex></expan> <num value="3700">Γψ</num> 
 
     <lb n="13"/>β<g type="slanting-stroke"/>α <expan>Φοιβ<ex>άμμων</ex></expan> Βέτος <expan>δι<ex>ὰ</ex></expan> <expan>Βάν<ex>ου</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="4000">Δ</num> 
 

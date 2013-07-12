@@ -68,7 +68,7 @@
 
     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἐπιδημία</supplied><unclear>ς</unclear> τ<unclear>οῦ</unclear> δια<unclear>σ</unclear>ημοτάτου Θεο<supplied reason="lost">δώ</supplied><unclear>ρ</unclear>ου τῶν ἀπὸ <num value="1">α</num> 
 
-    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Αὐ</supplied>ρ<supplied reason="lost">ή</supplied>λι<unclear>ο</unclear>ς <supplied reason="lost">Ἀμ</supplied>μωνᾶς ὁ καὶ <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="6" unit="character"/> βουλευτὴς <expan>εἶπ<ex>εν</ex></expan> 
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Αὐ</supplied>ρ<supplied reason="lost">ή</supplied>λι<unclear>ο</unclear>ς <supplied reason="lost">Ἀμ</supplied>μωνᾶς ὁ καὶ <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="6" unit="character"/> βουλευτὴς <expan>εῖ̓π<ex>εν</ex></expan> 
 
     <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -104,9 +104,9 @@
 
     <lb n="7"/>καὶ Πουπλίου Λικιννίου Κ<supplied reason="lost">ο</supplied>ρ<supplied reason="lost">ν</supplied>ηλίου Οὐαλεριανοῦ τοῦ ἐπιφανεστάτου Κ<supplied reason="lost">αίσαρος </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="8"/>ὁ πρυτανικὸς εἶπ<supplied reason="lost">ε</supplied>ν· αἰτησ<supplied reason="lost">α</supplied>μένοις τοῖς ἐπι<supplied reason="lost">μελη</supplied>ταῖς τοῦ ἐπι<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> εἰς πλήρω</supplied>
+    <lb n="8"/>ὁ πρυτανικὸς εῖ̓π<supplied reason="lost">ε</supplied>ν· αἰτησ<supplied reason="lost">α</supplied>μένοις τοῖς ἐπι<supplied reason="lost">μελη</supplied>ταῖς τοῦ ἐπι<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> εἰς πλήρω</supplied>
 
-    <lb n="9" break="no"/><unclear>σι</unclear>ν <expan><ex>ταλαντ  </ex></expan> <gap reason="illegible" quantity="1" unit="character"/><num value="10">ι</num> <expan><ex>δραχμ  </ex></expan> <num value="1500">Αφ</num> ὡς <choice><reg>ἀναγιγνώσκω</reg><orig>ἀναγεινώσκω</orig></choice>. <supplied reason="lost">ἀν</supplied>αγνόντος τὰς μὲν αἰτήσεις ὡς εἶ<supplied reason="lost" cert="low">πεν </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="9" break="no"/><unclear>σι</unclear>ν <expan><ex>ταλαντ  </ex></expan> <gap reason="illegible" quantity="1" unit="character"/><num value="10">ι</num> <expan><ex>δραχμ  </ex></expan> <num value="1500">Αφ</num> ὡς <choice><reg>ἀναγιγνώσκω</reg><orig>ἀναγεινώσκω</orig></choice>. <supplied reason="lost">ἀν</supplied>αγνόντος τὰς μὲν αἰτήσεις ὡς εῖ̓<supplied reason="lost" cert="low">πεν </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="10"/>Ἑλλήνων τῆς λ<supplied reason="lost">α</supplied>μπρᾶς πόλεως οἱ ἄρχοντες καὶ ἡ βουλὴ <gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -122,9 +122,9 @@
 
     <lb n="16"/>ψηφίσμασι ὁ ἐξο<supplied reason="lost">δι</supplied>ασμὸς, ἔ<supplied reason="lost">σ</supplied>ται γὰρ ἡ δέουσα ἐξέτασις ὑπὸ τοῦ αἱρεθέντ<supplied reason="lost">ος </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="17"/>ὁ πρυτανικὸς εἶπεν· καὶ οἱ ἐπιμεληταὶ τοῦ εὐτυχῶς κατασκευαζομ<supplied reason="lost">ένου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="17"/>ὁ πρυτανικὸς εῖ̓πεν· καὶ οἱ ἐπιμεληταὶ τοῦ εὐτυχῶς κατασκευαζομ<supplied reason="lost">ένου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="18"/>τῶν λίθων <expan><ex>δραχμ  </ex></expan> <num value="2500">Βφ</num> ὡς <choice><reg>ἀναγιγνώσκω</reg><orig>ἀναγεινώσκω</orig></choice>. ἀναγνόντος τὰς μὲν αἰτήσεις ὡς <supplied reason="lost" cert="low">εἶπεν </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="18"/>τῶν λίθων <expan><ex>δραχμ  </ex></expan> <num value="2500">Βφ</num> ὡς <choice><reg>ἀναγιγνώσκω</reg><orig>ἀναγεινώσκω</orig></choice>. ἀναγνόντος τὰς μὲν αἰτήσεις ὡς <supplied reason="lost" cert="low">εῖ̓πεν </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="19"/>Νέων Ἑλλήνων τῆ<supplied reason="lost">ς λ</supplied>αμπρᾶς πόλεως οἱ ἄρχοντες καὶ 
 

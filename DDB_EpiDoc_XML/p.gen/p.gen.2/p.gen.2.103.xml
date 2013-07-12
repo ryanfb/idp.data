@@ -73,7 +73,7 @@
 
     <lb n="4" break="no"/><supplied reason="lost">γένους </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> μη</supplied>νὸς Μεσορὴ ἀπέ
 
-    <lb n="5" break="no"/><supplied reason="lost">θανέν μου ἀνὴρ Ἑρέννιος</supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Ο</supplied><unclear>ὐ</unclear>άλεντα εἶναι
+    <lb n="5" break="no"/><supplied reason="lost">θανέν μου ἀνὴρ Ἑρέννιος</supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Ο</supplied><unclear>ὐ</unclear>άλεντα εῖ̓ναι
 
     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τοῦ υἱοῦ</supplied><app type="editorial"><lem resp="BL 9.91"><gap reason="illegible" quantity="1" unit="character"/>ου</lem><rdg><unclear>μ</unclear>ου</rdg></app> Λουκίου Ἑ
 
@@ -139,7 +139,7 @@
     <lb n="7" break="no"/>μὲ πεπλη<supplied reason="lost">ρ</supplied>ῶσθαι, καὶ μηδὲν παρʼ ἐμὴν
 
     <lb n="8"/><choice><reg>αἰτίαν</reg><orig><app type="editorial"><lem resp="BL 9.91">αἰ<unclear>τ</unclear>ειαν</lem><rdg>αἰ<unclear>τ</unclear>ε<supplied reason="lost">ι</supplied>αν</rdg></app></orig></choice> <choice><reg>γεγονέναι</reg><orig>γεγοναίναι</orig></choice>, 
-ἵνʼ ὦ εὐεργετημένη.
+ἵνʼ ῶ̓ εὐεργετημένη.
 
     <lb n="9"/><handShift new="m2"/> <app type="editorial"><lem resp="BL 9.91"><choice><corr>διευτύχει</corr><sic>διευχυχι</sic></choice></lem><rdg><choice><reg>διευτύχει</reg><orig>διευτύχι</orig></choice></rdg></app>. 
 <handShift new="m1"/> <expan><ex>ἔτους</ex></expan> <num value="11">ια</num> Θ<unclear>ὼθ</unclear> <supplied reason="lost"><num value="27">κζ</num></supplied>
@@ -151,7 +151,7 @@
 <app type="editorial"><lem resp="U. Wilcken, APF 3 (1906) 376"><choice><reg>ἐπιστέλουμεν</reg><orig>ἐπιστέλλουμε<unclear>ν</unclear></orig></choice></lem><rdg>
 ἐπιστέλλου <supplied reason="omitted">τὴν</supplied> μέαν</rdg></app></rdg></app></rdg></app>
 
-    <lb n="11"/><handShift new="m4"/> ἀντίγραφον <expan>ἐπιστολ<ex>ῆς</ex></expan> ἧς ἔγραψεν Πτολεμαίος Μα<supplied reason="lost">ξίμωι</supplied>.
+    <lb n="11"/><handShift new="m4"/> ἀντίγραφον <expan>ἐπιστολ<ex>ῆς</ex></expan> ῆ̔ς ἔγραψεν Πτολεμαίος Μα<supplied reason="lost">ξίμωι</supplied>.
 
     <lb n="12"/><supplied reason="lost">Π</supplied>τολεμαῖος στρατηγὸς Ἀφροδειτοπολείτου Μαξ<supplied reason="lost">ίμωι</supplied>
 
@@ -161,7 +161,7 @@
 
     <lb n="15"/><supplied reason="lost">ἔ</supplied>γραψάς μοι <choice><reg>Καλουισίου</reg><orig>Καλουείσιον</orig></choice> <choice><reg>Πατροφίλου</reg><orig>Πατρόφιλον</orig></choice> <choice><reg>τοῦ</reg><orig>τὸν</orig></choice> <choice><reg>κρατίστου</reg><orig>κράτιστον</orig></choice> <choice><reg><supplied reason="lost">δικαι</supplied>
 
-    <lb n="16" break="no"/><supplied reason="lost">ο</supplied>δότου</reg><orig><supplied reason="lost">δικαιο</supplied><lb n="16" break="no"/>δότην</orig></choice> ἧς ἔγραψέν σοι ἐπιστολῆς περὶ καταστάσεω<supplied reason="lost">ς ἐπιτρό</supplied>
+    <lb n="16" break="no"/><supplied reason="lost">ο</supplied>δότου</reg><orig><supplied reason="lost">δικαιο</supplied><lb n="16" break="no"/>δότην</orig></choice> ῆ̔ς ἔγραψέν σοι ἐπιστολῆς περὶ καταστάσεω<supplied reason="lost">ς ἐπιτρό</supplied>
 
     <lb n="17" break="no"/>πων Λουκίου Ἑρεννίου ἀφήλικος ἀντίγραφον πέ<supplied reason="lost">μψαι</supplied>
 
@@ -171,7 +171,7 @@
 
     <lb n="20" break="no"/>ρος αὐτῶν <supplied reason="lost">ἀξι</supplied>οπιστότερ<supplied reason="lost">ό</supplied>ς ἐστιν <supplied reason="lost">πρὸς</supplied> τὴν ἐπιτρο<supplied reason="lost">πήν</supplied>,
 
-    <lb n="21"/>ἀκολούθω<supplied reason="lost">ς οἷς ἔ</supplied>γραψεν ὁ κράτιστος δ<supplied reason="lost">ικα</supplied>ιοδότης <unclear>κ</unclear><supplied reason="lost">ατʼ</supplied>
+    <lb n="21"/>ἀκολούθω<supplied reason="lost">ς οῖ̔ς ἔ</supplied>γραψεν ὁ κράτιστος δ<supplied reason="lost">ικα</supplied>ιοδότης <unclear>κ</unclear><supplied reason="lost">ατʼ</supplied>
 
     <lb n="22"/>Αἴλιον Ἀπο<supplied reason="lost">λλώ</supplied>νιον γεγυμνασιαρχη<supplied reason="lost">κ</supplied><unclear>ό</unclear>τα Ἀντι<unclear>ν</unclear><supplied reason="lost">όου <expan>πόλ<ex>εως</ex></expan></supplied>,
 
@@ -182,9 +182,9 @@
 
     <lb n="25"/><expan>Ἀφροδειτοπόλ<ex>εως</ex></expan> γεουχοῦντα ἐν τῷ αὐτῷ νομῷ. <supplied reason="lost">δηλῶ</supplied>
 
-    <lb n="26"/>οὖν τὸν τῆς πόλεως <supplied reason="lost">γρα</supplied>μ<supplied reason="lost">ματ</supplied>έα προσπεφων<supplied reason="lost">ηκέναι</supplied>
+    <lb n="26"/>οῦ̓ν τὸν τῆς πόλεως <supplied reason="lost">γρα</supplied>μ<supplied reason="lost">ματ</supplied>έα προσπεφων<supplied reason="lost">ηκέναι</supplied>
 
-    <lb n="27"/>εἶναι τὸν ἀξιοπιστ<supplied reason="lost">ότερο</supplied>ν αὐτῶν Αἴλιον Ἀπολλ<supplied reason="lost">ώνιον</supplied>·
+    <lb n="27"/>εῖ̓ναι τὸν ἀξιοπιστ<supplied reason="lost">ότερο</supplied>ν αὐτῶν Αἴλιον Ἀπολλ<supplied reason="lost">ώνιον</supplied>·
 
     <lb n="28"/>διὸ γράφω σοι, <choice><reg>τιμιώ<supplied reason="lost">τατε</supplied></reg><orig>τειμιώ<supplied reason="lost">τατε</supplied></orig></choice><supplied reason="lost">, ἵ</supplied>ν<supplied reason="lost">α</supplied> εἰδῇς. ἔ<supplied reason="lost">ρρωσο</supplied>,
 
@@ -224,7 +224,7 @@
 
     <lb n="14"/>προσπε<supplied reason="lost">φωνῆσθαι </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ὑπὸ τοῦ τῆς πόλεως</supplied>
 
-    <lb n="15"/><expan>γρα<ex>μματέως</ex></expan> ἀξι<supplied reason="lost">οπιστότερον εἶναι πρὸς τὴν ἐπιτροπὴν αὐ</supplied>
+    <lb n="15"/><expan>γρα<ex>μματέως</ex></expan> ἀξι<supplied reason="lost">οπιστότερον εῖ̓ναι πρὸς τὴν ἐπιτροπὴν αὐ</supplied>
 
     <lb n="16" break="no"/>τοῦ Αἴλι<supplied reason="lost">ον Ἀπολλώνιον. διὸ γράφω σοι, κύριε, ἵνʼ εἰδῆις. εὐτύχει,</supplied>
 

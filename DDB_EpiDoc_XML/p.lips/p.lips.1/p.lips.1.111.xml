@@ -61,13 +61,13 @@
 
     <lb n="6"/>γνῶναί σε θέλω, κύριέ μου ἄδελφε, ὅτι ἀπῆλθεν Εὐσέ
 
-    <lb n="7" break="no"/>βιος εἰς τὴν κώμην εἰς τὸ γεώργιον καὶ οὐχ <subst><add place="inline">εὗρ<add place="above">ε</add>ν</add><del rend="corrected">ευρ<unclear>ο</unclear>ν</del></subst> το<unclear>ὺς</unclear> 
+    <lb n="7" break="no"/>βιος εἰς τὴν κώμην εἰς τὸ γεώργιον καὶ οὐχ <subst><add place="inline">εῦ̔ρ<add place="above">ε</add>ν</add><del rend="corrected">ευρ<unclear>ο</unclear>ν</del></subst> το<unclear>ὺς</unclear> 
 
     <lb n="8"/><app type="editorial"><lem resp="BL 1.214">μόσχους</lem><rdg><gap reason="illegible" quantity="2" unit="character"/>οσχουσ</rdg></app> ἐν τῷ γεωργίῳ ἐργαζομένους οὔτε τὰ <app type="editorial"><lem resp="BL 1.214">Γενναδίου</lem><rdg>Γε<unclear>ρασ</unclear>τί<supplied reason="lost">ο</supplied>υ</rdg></app> 
 
-    <lb n="9"/>οὔτε τὰ Δικαιάρχου· ἀλλὰ <app type="editorial"><lem resp="BL 1.214"><add place="above">καὶ <surplus>ει</surplus></add> εἶπον</lem><rdg>εἷ<add place="above">κα</add> <add place="above">ει</add> σὺν</rdg></app> Διδύμῳ ὅτι· <app type="editorial"><lem resp="BL 1.214">δὸς τοὺς μισθο<supplied reason="lost">ὺς</supplied></lem><rdg>δούλους <unclear>μισ</unclear>θώ<supplied reason="lost">σῃ</supplied></rdg></app> 
+    <lb n="9"/>οὔτε τὰ Δικαιάρχου· ἀλλὰ <app type="editorial"><lem resp="BL 1.214"><add place="above">καὶ <surplus>ει</surplus></add> εῖ̓πον</lem><rdg>εῖ̔<add place="above">κα</add> <add place="above">ει</add> σὺν</rdg></app> Διδύμῳ ὅτι· <app type="editorial"><lem resp="BL 1.214">δὸς τοὺς μισθο<supplied reason="lost">ὺς</supplied></lem><rdg>δούλους <unclear>μισ</unclear>θώ<supplied reason="lost">σῃ</supplied></rdg></app> 
 
-    <lb n="10"/>ἄλλους, ἵνα ἐ<supplied reason="lost">ρ</supplied>γάσωσιν. εἶπέν μοι ὅτι · ἀργύρια οὐκ <app type="editorial"><lem resp="BL 6.60">ἔχ<unclear>ο</unclear><supplied reason="lost">μεν</supplied></lem><rdg>ἔχε<supplied reason="lost">ις</supplied></rdg></app>, 
+    <lb n="10"/>ἄλλους, ἵνα ἐ<supplied reason="lost">ρ</supplied>γάσωσιν. εῖ̓πέν μοι ὅτι · ἀργύρια οὐκ <app type="editorial"><lem resp="BL 6.60">ἔχ<unclear>ο</unclear><supplied reason="lost">μεν</supplied></lem><rdg>ἔχε<supplied reason="lost">ις</supplied></rdg></app>, 
 
     <lb n="11"/>καὶ εἰ <add place="above">μὲν</add> θέλεις με ἀπελθεῖν ἐκεῖ καὶ μισθῶσαι ἐργάτας, 
 
@@ -75,9 +75,9 @@
 
     <lb n="13"/>ἀντίγραψόν μοι, ἀλλʼ ὅρα μὴ ἀμελήσῃς ἀντιγράψαι μοι 
 
-    <lb n="14"/>περὶ τούτου. οἶδας γάρ, ὅτι καιρός ἐστιν. γνῶθι δέ, κύρι
+    <lb n="14"/>περὶ τούτου. οῖ̓δας γάρ, ὅτι καιρός ἐστιν. γνῶθι δέ, κύρι
 
-    <lb n="15" break="no"/>έ μου ἄδελφε, ὅτι ὁ ἀδελφός σου ἦλθεν ἀπὸ τ<unclear>ο</unclear><supplied reason="lost">ῦ </supplied><app type="editorial"><lem resp="BL 6.60"><supplied reason="lost">κομι</supplied>
+    <lb n="15" break="no"/>έ μου ἄδελφε, ὅτι ὁ ἀδελφός σου ῆ̓λθεν ἀπὸ τ<unclear>ο</unclear><supplied reason="lost">ῦ </supplied><app type="editorial"><lem resp="BL 6.60"><supplied reason="lost">κομι</supplied>
 
     <lb n="16" break="no"/><unclear>τ</unclear>ά<unclear>τ</unclear>ου<certainty match=".." locus="value"/></lem><rdg><gap reason="lost" quantity="5" unit="character"/>πάγου</rdg></app> ἔχων πραιποσιτούρα<supplied reason="lost">ν</supplied>, εἰς τὴν Ὄασιν εὐθὺ 
 
@@ -89,7 +89,7 @@
 
     <lb n="20"/><supplied reason="lost">ἄ</supplied><unclear>δ</unclear><supplied reason="lost">ε</supplied><unclear>λφ</unclear><supplied reason="lost">ε</supplied>, διὰ τί ἀλόγως <app type="editorial"><lem resp="BL 1.215">ἀπαιδι<gap reason="lost" quantity="4" unit="character"/><unclear>σ</unclear>ας αὐτῷ</lem><rdg>ἀπ<unclear>α</unclear>ι<unclear>τ</unclear>η<gap reason="lost" quantity="4" unit="character"/><unclear>σ</unclear>ας <unclear>α</unclear>ὐτό</rdg></app>. ἀν<unclear>τίγ</unclear><supplied reason="lost">ρα</supplied>
 
-    <lb n="21" break="no"/><unclear>ψ</unclear>όν μοι περὶ ὧν βούλῃ καὶ <app type="editorial"><lem resp="BL 1.215"><choice><reg>μὴ</reg><orig>μὲ</orig></choice> μεριμν<supplied reason="lost">ή</supplied>σῃς περὶ <supplied reason="lost" cert="low">ἡ</supplied><unclear>μῶν</unclear><certainty match=".." locus="value"/></lem><rdg>μεμ<unclear>φιω</unclear>ν<gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ῃς περὶ <unclear>ὧν</unclear> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/></rdg></app>, 
+    <lb n="21" break="no"/><unclear>ψ</unclear>όν μοι περὶ ῶ̔ν βούλῃ καὶ <app type="editorial"><lem resp="BL 1.215"><choice><reg>μὴ</reg><orig>μὲ</orig></choice> μεριμν<supplied reason="lost">ή</supplied>σῃς περὶ <supplied reason="lost" cert="low">ἡ</supplied><unclear>μῶν</unclear><certainty match=".." locus="value"/></lem><rdg>μεμ<unclear>φιω</unclear>ν<gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ῃς περὶ <unclear>ῶ̔ν</unclear> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/></rdg></app>, 
 
     <lb n="22"/>οὐδεὶς <supplied reason="lost">γ</supplied>ὰρ ἐνοχλεῖ ἡμῖν, οὔτε <app type="editorial"><lem resp="BL 1.215">Ζωσί<supplied reason="lost">μ</supplied>ῳ</lem><rdg>Ζώσι<supplied reason="lost">μ</supplied>οσ</rdg></app> περὶ <unclear>δ</unclear>ημοσίων 
 

@@ -51,7 +51,7 @@
 
     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>α</unclear>ς τῆς 
 
-    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><num value="7"><unclear>ζ</unclear></num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/8" rend="tick">η</num> <expan><ex>ὧν</ex></expan> <expan><ex cert="low">πυρῷ</ex></expan> <num value="2">β</num> <num value="1/2">𐅵</num> <expan>χέ<ex>ρσου</ex></expan> <num value="4">δ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/8" rend="tick">η</num> 
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><num value="7"><unclear>ζ</unclear></num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/8" rend="tick">η</num> <expan><ex>ῶ̔ν</ex></expan> <expan><ex cert="low">πυρῷ</ex></expan> <num value="2">β</num> <num value="1/2">𐅵</num> <expan>χέ<ex>ρσου</ex></expan> <num value="4">δ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/8" rend="tick">η</num> 
 
     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> ἐκ <expan><ex>τοῦ</ex></expan> <expan>Θεο<unclear>γ</unclear>έ<ex>νους</ex></expan> <num value="2">β</num> <expan>χέ<ex>ρσου</ex></expan> 
 
@@ -87,7 +87,7 @@
 
     <lb n="21"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Τιμοκράτου</supplied><gap reason="illegible" quantity="1" unit="character"/> <num value="1">α</num> <expan><ex>γίνονται</ex></expan> <num value="7">ζ</num> 
 
-    <lb n="22"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <expan><ex>ὧν</ex></expan> <surplus>ὧν</surplus> <expan>σι<ex>τικὸν</ex></expan> <expan>ἐκφ<unclear>ό</unclear><ex>ριον</ex></expan> <num value="20">κ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/8" rend="tick">η</num> 
+    <lb n="22"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <expan><ex>ῶ̔ν</ex></expan> <surplus>ῶ̔ν</surplus> <expan>σι<ex>τικὸν</ex></expan> <expan>ἐκφ<unclear>ό</unclear><ex>ριον</ex></expan> <num value="20">κ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/8" rend="tick">η</num> 
 
     <lb n="23"/><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -128,23 +128,23 @@
 
     <lb n="41"/>Ἀπολλωνίου καὶ Ἡρακλείδου <expan>ἀμφό<ex>τεροι</ex></expan> Ἀπολλωνίου 
 
-    <lb n="42"/>ἐκ τοῦ <expan>Πελέμω<ex>νος</ex></expan> τοῦ Δωρίωνος <num value="5">ε</num> <expan><ex>ὧν</ex></expan> <expan>χρη<ex>σίμου</ex></expan> <num value="1">α</num> <num value="1/16" rend="tick">ιϛ</num> <expan>κα<ex>ταλείπονται</ex></expan> <expan>ἐρή<ex>μου</ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/8" rend="tick">η</num> <num value="1/16" rend="tick">ιϛ</num> 
+    <lb n="42"/>ἐκ τοῦ <expan>Πελέμω<ex>νος</ex></expan> τοῦ Δωρίωνος <num value="5">ε</num> <expan><ex>ῶ̔ν</ex></expan> <expan>χρη<ex>σίμου</ex></expan> <num value="1">α</num> <num value="1/16" rend="tick">ιϛ</num> <expan>κα<ex>ταλείπονται</ex></expan> <expan>ἐρή<ex>μου</ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/8" rend="tick">η</num> <num value="1/16" rend="tick">ιϛ</num> 
 
-    <lb n="43"/>καὶ τοῦ <expan>ἐωνη<ex>μένου</ex></expan> ἐκ τοῦ <expan>βα<ex>σιλικοῦ</ex></expan> οὗ <expan><ex>ἕκτη</ex></expan> Εσηφ <expan>θε<ex>ῷ</ex></expan> <expan>με<ex>γίστῳ</ex></expan> τοὺς δʼ <expan>ἀργ<ex>υρικοὺς</ex></expan> <expan>φό<ex>ρους</ex></expan> τῶι <expan>βα<ex>σιλεῖ</ex></expan>· 
+    <lb n="43"/>καὶ τοῦ <expan>ἐωνη<ex>μένου</ex></expan> ἐκ τοῦ <expan>βα<ex>σιλικοῦ</ex></expan> οῦ̔ <expan><ex>ἕκτη</ex></expan> Εσηφ <expan>θε<ex>ῷ</ex></expan> <expan>με<ex>γίστῳ</ex></expan> τοὺς δʼ <expan>ἀργ<ex>υρικοὺς</ex></expan> <expan>φό<ex>ρους</ex></expan> τῶι <expan>βα<ex>σιλεῖ</ex></expan>· 
 
     <lb n="44"/>Ὀννώφριος τοῦ Ἀχοάπιος καὶ Θαήσιος τῆς 
 
     <lb n="45"/>Πτολεμαίου κατὰ τὸ <expan><ex>ἥμισυ</ex></expan> ἐκ τοῦ Νικολάου <num value="1">α</num> <num value="1/2">𐅵</num> 
 
-    <lb n="46"/>καὶ τῆς προσ<unclear>ο</unclear>ύσης <expan>ἐ<unclear>μ</unclear><ex>βρόχου</ex></expan> <num value="1">α</num>, καὶ ὧι <expan>πλ<ex>είωι</ex></expan> ἐκ <expan>γε<ex>ωμετρίας</ex></expan> <num value="1">α</num> <expan><ex>γίνονται</ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> <expan>ἐρή<ex>μου</ex></expan> 
+    <lb n="46"/>καὶ τῆς προσ<unclear>ο</unclear>ύσης <expan>ἐ<unclear>μ</unclear><ex>βρόχου</ex></expan> <num value="1">α</num>, καὶ ῶ̔ι <expan>πλ<ex>είωι</ex></expan> ἐκ <expan>γε<ex>ωμετρίας</ex></expan> <num value="1">α</num> <expan><ex>γίνονται</ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> <expan>ἐρή<ex>μου</ex></expan> 
 
-    <lb n="47"/>Ἡφαιστίωνος τοῦ Ξενάρχου ἐκ <expan><ex>τοῦ</ex></expan> Φιλίππου <num value="1">α</num> <expan><ex>οὗ</ex></expan> 
+    <lb n="47"/>Ἡφαιστίωνος τοῦ Ξενάρχου ἐκ <expan><ex>τοῦ</ex></expan> Φιλίππου <num value="1">α</num> <expan><ex>οῦ̔</ex></expan> 
 
     <lb n="48"/><expan>χρη<ex>σίμου</ex></expan> <num value="1/4" rend="tick">δ</num> <expan>κα<ex>ταλείπονται</ex></expan> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <expan>κατακεκο<ex>μμένης</ex></expan> <expan>ἴσ<ex>ον</ex></expan> 
 
     <lb n="49"/>Θερμούθιος τῆς Θεοδοσίου καὶ Ἀλεξάνδρου 
 
-    <lb n="50"/>ὃ ἦν Ἡρακλείδου ἐκ <expan><ex>τοῦ</ex></expan> Φιλίππου <num value="8">η</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/16" rend="tick">ιϛ</num> <expan><ex>ὧν</ex></expan> <expan>ἀμπε<ex>λῶνος</ex></expan> <num value="2">β</num> <expan>καταλεί<ex>πονται</ex></expan> <expan>ἐρή<ex>μου</ex></expan> <supplied reason="lost"><num value="6">ϛ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/16" rend="tick">ιϛ</num> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="50"/>ὃ ῆ̓ν Ἡρακλείδου ἐκ <expan><ex>τοῦ</ex></expan> Φιλίππου <num value="8">η</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/16" rend="tick">ιϛ</num> <expan><ex>ῶ̔ν</ex></expan> <expan>ἀμπε<ex>λῶνος</ex></expan> <num value="2">β</num> <expan>καταλεί<ex>πονται</ex></expan> <expan>ἐρή<ex>μου</ex></expan> <supplied reason="lost"><num value="6">ϛ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/16" rend="tick">ιϛ</num> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 </ab></div><div n="3" type="textpart"><!--milestone unit="4"--><ab>
 
     <lb n="51"/>καὶ ἐν <expan>περιμέ<ex>τρῳ</ex></expan> τῆς <expan>κώ<ex>μης</ex></expan>· Καλάμου τοῦ Καλάμου <num value="1/4" rend="tick">δ</num> <num value="1/8" rend="tick">η</num> <num value="1/16" rend="tick">ιϛ</num> <expan>ἐρή<ex>μου</ex></expan> 
@@ -171,7 +171,7 @@
 
     <lb n="62"/><g type="check"/>Καλάμου τοῦ <abbr>Δεκ<unclear>ε</unclear></abbr> <expan>γε<ex>ωργὸς</ex></expan> Ἀπολλῶς ἀπὸ <expan>κρ<ex>ι</ex>θ<ex>ῆς</ex></expan> <expan><ex>πυρῷ</ex></expan> <num value="10">ι</num> <expan><ex>γίνονται</ex></expan> <num value="20"><unclear>κ</unclear></num> 
 
-    <lb n="63"/>γίν<unclear>ονται</unclear> ἰδίου λόγου <num value="57">νζ</num> <expan><ex>ὧν</ex></expan> <expan><ex>πυρῷ</ex></expan> <num value="16">ιϛ</num> <num value="1/4" rend="tick">δ</num> 
+    <lb n="63"/>γίν<unclear>ονται</unclear> ἰδίου λόγου <num value="57">νζ</num> <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῷ</ex></expan> <num value="16">ιϛ</num> <num value="1/4" rend="tick">δ</num> 
 
     <lb n="64"/>βασιλίσσης <expan><ex>πρότερον</ex></expan> Ἀμενείους ἐκ <expan><ex>τοῦ</ex></expan> Ἀσκληπιάδου 
 
@@ -179,7 +179,7 @@
 
     <lb n="66"/><expan>σκω<ex cert="low">ληκοβρώτῳ</ex></expan> <expan><ex>πυρῷ</ex></expan> <num value="3"><unclear>γ</unclear></num> <num value="1/4" rend="tick"><unclear>δ</unclear></num>, <expan>κο<ex>λοκύνθῃ</ex></expan> <num value="5">ε</num>, <expan>κεχε<ex cert="low">ρσευμένης</ex></expan> <num value="5">ε</num>, <expan>κα<ex>τε</ex>ξ<ex>υσμένης</ex></expan> <num value="13"><unclear>ι</unclear>γ</num> <num value="1/2">𐅵</num> <num value="1/8" rend="tick">η</num> 
 
-    <lb n="67"/><g type="check"/>Στράτωνος τοῦ Δημητρίου <num value="39">λθ</num> <expan><ex>ὧν</ex></expan> <gap reason="lost" quantity="2" unit="character"/><abbr><gap reason="illegible" quantity="1" unit="character"/><unclear>λι</unclear></abbr> <num value="1">α</num>  <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="67"/><g type="check"/>Στράτωνος τοῦ Δημητρίου <num value="39">λθ</num> <expan><ex>ῶ̔ν</ex></expan> <gap reason="lost" quantity="2" unit="character"/><abbr><gap reason="illegible" quantity="1" unit="character"/><unclear>λι</unclear></abbr> <num value="1">α</num>  <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="68"/>ἀσπόρου <expan>ἐπιγεγρ<ex>αμμέν  </ex></expan> Σενθεῖ καὶ Δείνωνι εἰς ἣν 
 
@@ -191,11 +191,11 @@
 
     <lb n="72"/><expan>κεχε<ex>ρσευμένης</ex></expan> <num value="6">ϛ</num> <expan>χέ<ex>ρσου</ex></expan> <num value="4">δ</num> <num value="1/2">𐅵</num> <num value="1/8" rend="tick">η</num> <expan>διώ<ex>ρυγος</ex></expan> <num value="15">ιε</num> 
 
-    <lb n="73"/><g type="check"/>Στράτωνος τοῦ Νικοστράτου <num value="83">πγ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <expan><ex>ὧν</ex></expan> <expan><ex>πυρῷ</ex></expan> <num value="40">μ</num>, 
+    <lb n="73"/><g type="check"/>Στράτωνος τοῦ Νικοστράτου <num value="83">πγ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῷ</ex></expan> <num value="40">μ</num>, 
 
     <lb n="74"/><num value="6">ϛ</num>  <abbr>ε<gap reason="illegible" quantity="2" unit="character"/></abbr> <num value="6">ϛ</num> <expan>σκω<ex>ληκοβρώτου</ex></expan>, <expan>ἐρή<ex>μου</ex></expan> <expan><ex>πυρῷ</ex></expan> <num value="5">ε</num> <expan><ex>γίνονται</ex></expan> <num value="51">να</num> <expan>χέ<ex>ρσου</ex></expan> <num value="19">ιθ</num> <expan>διώ<ex>ρυγ  </ex></expan> <num value="13">ιγ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> 
 
-    <lb n="75"/><supplied reason="lost">Πο</supplied>λέμωνος τοῦ Δωρίωνος <num value="39">λθ</num> <expan><ex>ὧν</ex></expan> <expan><ex>πυρῷ</ex></expan> <num value="1">α</num> <expan>χόρ<ex>τῳ</ex></expan> <num value="20">κ</num> <expan><ex>γίνονται</ex></expan> <num value="21">κα</num> 
+    <lb n="75"/><supplied reason="lost">Πο</supplied>λέμωνος τοῦ Δωρίωνος <num value="39">λθ</num> <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῷ</ex></expan> <num value="1">α</num> <expan>χόρ<ex>τῳ</ex></expan> <num value="20">κ</num> <expan><ex>γίνονται</ex></expan> <num value="21">κα</num> 
 
     <lb n="76"/>ἀπὸ <expan>κρ<ex>ι</ex>θ<ex>ῆς</ex></expan> <expan><ex>πυρῷ</ex></expan> <num value="4">δ</num> <expan>κ<ex>ριθῇ</ex></expan> <num value="5">ε</num> <expan><ex>γίνονται</ex></expan> <num value="9">θ</num> <expan><ex>γίνονται</ex></expan> <num value="30">λ</num> <gap reason="illegible" quantity="2" unit="character"/><expan><ex>  </ex></expan> <num value="9">θ</num> <expan><ex>γίνονται</ex></expan> <num value="39">λθ</num> 
 </ab></div><div n="4" type="textpart"><!--milestone unit="4"--><ab>
@@ -283,7 +283,7 @@
 
     <lb n="117"/>διʼ <expan>Ἐξα<ex>κόντος</ex></expan>· Ἀλεξάνδρου τοῦ Ἀλεξάνδρου <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="118"/><expan>Τιμοκρ<ex>άτου</ex></expan> <num value="30">λ</num> <expan><ex>ὧν</ex></expan> <expan>παρα<ex>κεχωρημέναι</ex></expan> <num value="20">κ</num> <expan>κα<ex>ταλείπονται</ex></expan> <supplied reason="lost"><num value="10">ι</num></supplied> <expan><unclear>ἐρ</unclear>ή<ex>μου</ex></expan> 
+    <lb n="118"/><expan>Τιμοκρ<ex>άτου</ex></expan> <num value="30">λ</num> <expan><ex>ῶ̔ν</ex></expan> <expan>παρα<ex>κεχωρημέναι</ex></expan> <num value="20">κ</num> <expan>κα<ex>ταλείπονται</ex></expan> <supplied reason="lost"><num value="10">ι</num></supplied> <expan><unclear>ἐρ</unclear>ή<ex>μου</ex></expan> 
 
     <lb n="119"/><g type="check"/>Ἀ<unclear>ν</unclear>τιλά<unclear>ῳ</unclear> <num value="10">ι</num> <expan>παρα<ex>κεχωρημέναι</ex></expan> ἀπὸ τοῦ <expan><ex>αὐτοῦ</ex></expan> <num value="10">ι</num> <expan>ἀσπό<ex>ρου</ex></expan> ἀπὸ <gap reason="illegible" quantity="2" unit="character"/><expan><ex>  </ex></expan><gap reason="lost" extent="unknown" unit="character"/> 
 

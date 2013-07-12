@@ -58,7 +58,7 @@
 
     <lb n="2"/><app type="editorial"><lem resp="BL 8.129"><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> εὐσέβ</supplied><unclear>ε</unclear><supplied reason="lost">ι</supplied><unclear>αν</unclear> <unclear>κ</unclear>αὶ <subst><add place="inline">νίκην</add><del rend="corrected">νικων</del></subst> τ<supplied reason="lost">ῶ</supplied>ν </lem><rdg><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> καὶ νικώντ<supplied reason="lost">ω</supplied>ν</rdg></app> δεσποτῶν ἡμῶν Θεοδοσίου 
 
-    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost" cert="low"> καὶ Οὐαλεντινιανοῦ </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἦ</supplied>λθον εἰς <supplied reason="lost">ἡμ</supplied>ᾶς ἀπό τε πατρῴας κληρονομίας 
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost" cert="low"> καὶ Οὐαλεντινιανοῦ </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ῆ̓</supplied>λθον εἰς <supplied reason="lost">ἡμ</supplied>ᾶς ἀπό τε πατρῴας κληρονομίας 
 
     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>ου, ἔτι μὴν <supplied reason="lost">κ</supplied>αὶ ἄλλο χώρημα ἐκ βορρᾶ 
 
@@ -80,7 +80,7 @@
 
     <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> καὶ ἐπερωτηθ</supplied>έντες ὡμ<unclear>ο</unclear>λογήσαμεν. 
 
-    <lb n="14"/><handShift new="m2"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἧς ἐὰν ᾖ δ</supplied>ιαθέσεως, <choice><reg>τοῦτʼ ἔστιν</reg><orig>τουδέστιν</orig></choice> ἀπὸ τοῦ <choice><reg>βορινοῦ</reg><orig>βορηνοῦ</orig></choice> ἄκρου 
+    <lb n="14"/><handShift new="m2"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ῆ̔ς ἐὰν ῇ̓ δ</supplied>ιαθέσεως, <choice><reg>τοῦτʼ ἔστιν</reg><orig>τουδέστιν</orig></choice> ἀπὸ τοῦ <choice><reg>βορινοῦ</reg><orig>βορηνοῦ</orig></choice> ἄκρου 
 
     <lb n="15"/><supplied reason="lost">τοῦ μνημείου </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> χώρημα ἐκ βορρᾶ τῶν</supplied> <unclear>αὐ</unclear>τῶν πηχῶν τεσσάρων <num value="4"/>, <add place="above">εἰς ἀπηλιώτην</add>, οσαν ἐστὶν πηχισμοῦ 
 

@@ -156,7 +156,7 @@
 
     <lb n="2"/>καὶ εἰς ἱμάντας ἐλαίου <expan>κ<ex>οτύλην</ex></expan> <num value="1">α</num> 
 
-    <lb n="3"/>ὁμολογεῖ Ὧρος ἔχειν παρὰ Χάρμου τὰ δέοντα 
+    <lb n="3"/>ὁμολογεῖ Ὧρος ἔχειν παρὰ Χάρμου τὰ δέοντα 
 
     <lb n="4"/>κατὰ σύμβολον τοῦτο. ἔγραψεν <app type="editorial"><lem>Σιτάλκας</lem><rdg>ειταψεος</rdg></app> Ὥρου 
 
@@ -165,7 +165,7 @@
     <lb n="6"/>γράμματα. 
 </ab></div><div n="FrD,Fr" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="1"/>ὁμολογεῖ Ὧρος ὀνηλάτης ἔχειν 
+    <lb n="1"/>ὁμολογεῖ Ὧρος ὀνηλάτης ἔχειν 
 
     <lb n="2"/>παρὰ Χάρμου δέοντα 
 
@@ -204,7 +204,7 @@
 
     <lb n="2"/>ταῖς ε<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> 
 
-    <lb n="3"/><expan><ex>ἔτους</ex></expan> <num value="21">κα</num> Τῦβι <num value="24">κδ</num>. ὁμολογεῖ Ὧρος <supplied reason="lost">ὀνηλάτης</supplied> 
+    <lb n="3"/><expan><ex>ἔτους</ex></expan> <num value="21">κα</num> Τῦβι <num value="24">κδ</num>. ὁμολογεῖ Ὧρος <supplied reason="lost">ὀνηλάτης</supplied> 
 
     <lb n="4"/>ἔχειν παρὰ Χάρμου τοῦ παρʼ Ἀσκλη<supplied reason="lost">πιάδου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -247,11 +247,11 @@
 
     <lb n="13"/>Ἀσκληπιάδει οἰκονόμωι <add place="above">καὶ Ψενουνει θ<gap reason="lost" extent="unknown" unit="character"/></add> <del rend="erasure">καὶ <app type="editorial"><lem>Μανρεῖ</lem><rdg>Μανρέους</rdg></app></del> <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="14"/><add place="above"><app type="editorial"><lem>παρόντος</lem><rdg>παρὰ τοῦ</rdg></app> Ἀριστάρχου τοῦ <app type="editorial"><lem>παρὰ Διονυσοδώρου</lem><rdg>παραγινοντος Θεοδώρωι<certainty match=".." locus="value"/></rdg></app></add> <app type="editorial"><lem><del rend="erasure">Πα<gap reason="illegible" quantity="1" unit="character"/>ει τῶι παρὰ <gap reason="illegible" quantity="2" unit="character"/><unclear>μ</unclear>ουνιος</del></lem><rdg>Πάετει τῶ<del rend="erasure"><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap></del></rdg></app> ἐφʼ ὧι λαβόν<supplied reason="lost">τες </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="14"/><add place="above"><app type="editorial"><lem>παρόντος</lem><rdg>παρὰ τοῦ</rdg></app> Ἀριστάρχου τοῦ <app type="editorial"><lem>παρὰ Διονυσοδώρου</lem><rdg>παραγινοντος Θεοδώρωι<certainty match=".." locus="value"/></rdg></app></add> <app type="editorial"><lem><del rend="erasure">Πα<gap reason="illegible" quantity="1" unit="character"/>ει τῶι παρὰ <gap reason="illegible" quantity="2" unit="character"/><unclear>μ</unclear>ουνιος</del></lem><rdg>Πάετει τῶ<del rend="erasure"><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap></del></rdg></app> ἐφʼ ῶ̔ι λαβόν<supplied reason="lost">τες </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="15"/>τιμὴν ὑποζυγίων <num value="24">κδ</num> ἑκάστωι <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="16"/>σάκκου <expan><ex>δραχμὰς</ex></expan> <num value="24">κδ</num> ὥστε εἶναι <num value="3360">Γτξ</num> <gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>
+    <lb n="16"/>σάκκου <expan><ex>δραχμὰς</ex></expan> <num value="24">κδ</num> ὥστε εῖ̓ναι <num value="3360">Γτξ</num> <gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>
       </body>
    </text>
 </TEI>

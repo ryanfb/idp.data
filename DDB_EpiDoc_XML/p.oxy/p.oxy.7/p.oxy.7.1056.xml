@@ -61,7 +61,7 @@
 
     <lb n="5"/><g type="slanting-stroke"/> ὡς τῆς ἀρτάβης μίας <num value="1"/> <choice><reg>λογιζομένης</reg><orig>λογισζομένης</orig></choice> ἐκ δηναρίων μυριάδων 
 
-    <lb n="6"/>ἑκατὸν ὀγδοήκοντα <num value="1800000"/>, ὡς εἶναι τοῦ ἐπιστάλματος 
+    <lb n="6"/>ἑκατὸν ὀγδοήκοντα <num value="1800000"/>, ὡς εῖ̓ναι τοῦ ἐπιστάλματος 
 
     <lb n="7"/>δηναρίων μυριάδας ἑπτακισχιλίας διακοσίας, <expan><ex>γίνονται</ex></expan> <expan><ex>δηναρίων</ex></expan> <expan>μ<ex>υριάδες</ex></expan> <num value="7200">Ζσ</num> <num value="72000000"/>. 
 
@@ -70,7 +70,7 @@
     <lb n="9"/><handShift new="m1"/> <expan><ex>ἔτους</ex></expan> <num value="37">λζ</num> <expan><ex>ἔτους</ex></expan> <num value="6">ϛ</num> <expan><ex>ἔτους</ex></expan> Φαῶφι <num value="13">ιγ</num>. 
 </ab></div><div n="v" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="10"/>εἷς θεός.           ἄρακος Φαῶφι. </ab></div></div>
+    <lb n="10"/>εῖ̔ς θεός.           ἄρακος Φαῶφι. </ab></div></div>
       </body>
    </text>
 </TEI>

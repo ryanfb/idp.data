@@ -53,7 +53,7 @@
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><div n="1" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <num value="10">ι</num> <num value="1/2">𐅵</num> ἐν <expan>σι<ex>τικοῖς</ex></expan> <app type="editorial"><lem>οὗ τὸ</lem><rdg>οὔτ<unclear>ε</unclear></rdg></app> 
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <num value="10">ι</num> <num value="1/2">𐅵</num> ἐν <expan>σι<ex>τικοῖς</ex></expan> <app type="editorial"><lem>οῦ̔ τὸ</lem><rdg>οὔτ<unclear>ε</unclear></rdg></app> 
 
     <lb n="2"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><gap reason="lost" extent="unknown" unit="character"/>κεχωρισθ<ex>αι</ex></expan> 
 
@@ -61,7 +61,7 @@
 
     <lb n="3"/> <gap reason="lost" extent="unknown" unit="character"/> <abbr><supplied reason="lost">ἐκκε</supplied>κομμε</abbr> <num value="7">ζ</num> <num value="1/2">𐅵</num> <abbr>σ<unclear>υκ</unclear></abbr> <expan>ὑ<ex>πὲρ</ex></expan> 
 
-    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><num value="1">α</num> <num value="1/2">𐅵</num> ὧν τὸ <app type="editorial"><lem resp="bgu 3 p.5"><expan>ἐπαρ<ex cert="low">ούριον</ex></expan></lem><rdg><expan>ἐναρ<ex>ίθμιον</ex></expan></rdg></app> 
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><num value="1">α</num> <num value="1/2">𐅵</num> ῶ̔ν τὸ <app type="editorial"><lem resp="bgu 3 p.5"><expan>ἐπαρ<ex cert="low">ούριον</ex></expan></lem><rdg><expan>ἐναρ<ex>ίθμιον</ex></expan></rdg></app> 
 
     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><abbr><gap reason="illegible" quantity="2" unit="character"/>θ</abbr> σύκων <g type="unintelligible"/> <g type="unintelligible"/> <num value="2">β</num> 
 

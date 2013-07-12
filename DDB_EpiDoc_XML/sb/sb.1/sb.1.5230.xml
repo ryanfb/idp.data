@@ -85,7 +85,7 @@
 
     <lb n="16"/>ἄλλω<supplied reason="lost">ν ὄν</supplied>τ<supplied reason="lost">ων</supplied> ἐν σπόρωι αὐ<supplied reason="lost">τῶν ἐ</supplied>δαφῶν γενήματα ἅπαντα εἰς 
 
-    <lb n="17"/>τὸ δη<supplied reason="lost">μόσιο</supplied>ν προστεθεῖ<supplied reason="lost">σ</supplied>θαι, ἐφʼ ὧν · <space extent="unknown" unit="character"/> 
+    <lb n="17"/>τὸ δη<supplied reason="lost">μόσιο</supplied>ν προστεθεῖ<supplied reason="lost">σ</supplied>θαι, ἐφʼ ῶ̔ν · <space extent="unknown" unit="character"/> 
 
     <lb n="18"/>κατακρισίμων μέν ἐστιν, ὑπολήψεως δὲ ἕνεκα 
 
@@ -93,11 +93,11 @@
 
     <lb n="20"/><expan>ἀρτάβ<ex>αι</ex></expan> <num value="505">φε</num>. ἡμιολίας σπερμάτων τῆς ὑπὸ τοῦ στρατηγοῦ σημανθείσης 
 
-    <lb n="21"/>εἶναι ε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/> τοῖς ἐκ τοῦ νομοῦ, ὧν τὰ συνηγμένα ἅπαντα γενή
+    <lb n="21"/>εῖ̓ναι ε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/> τοῖς ἐκ τοῦ νομοῦ, ῶ̔ν τὰ συνηγμένα ἅπαντα γενή
 
     <lb n="22" break="no"/>ματα εἰς <supplied reason="lost">τὸ</supplied> δημόσιον <expan>μεμέτρη<ex>ται</ex></expan>, καὶ μηδὲν αὐτοῖς <choice><reg>ὑπολελεῖφθαι</reg><orig>ὑπολελῖφθαι</orig></choice>, 
 
-    <lb n="23"/>ἐφʼ ἧς ὁμοίως <space extent="unknown" unit="character"/> 
+    <lb n="23"/>ἐφʼ ῆ̔ς ὁμοίως <space extent="unknown" unit="character"/> 
 
     <lb n="24"/><expan>ἀρτάβ<ex>αι</ex></expan> <num value="1125">Αρκε</num>. 
 </ab></div><div n="3" type="textpart"><!--milestone unit="4"--><ab>
@@ -120,7 +120,7 @@
 
     <lb n="34" break="no"/>λελιμμένα ἐπι<unclear>κ</unclear><supplied reason="lost">ρατ</supplied>εῖσθαι ὑπὸ τῶν κεκληρονομηκότων τοὺ<supplied reason="lost">ς</supplied> 
 
-    <lb n="35"/>δηλουμένους, ἐφʼ <supplied reason="lost">ἧ</supplied>ς <expan>ὑπεγρά<ex>φη</ex></expan>· 
+    <lb n="35"/>δηλουμένους, ἐφʼ <supplied reason="lost">ῆ̔</supplied>ς <expan>ὑπεγρά<ex>φη</ex></expan>· 
 
     <lb n="36"/>ὑπολήψεων ἕνεκα ἀπολύω. 
 
@@ -131,7 +131,7 @@
 
     <lb n="39"/>ἐκ τῶν ἀπολελυμένων              <expan><ex>ἀρτάβαι</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="40"/>ὧν τῶν ἐν <abbr>χερσ<gap reason="lost" quantity="7" unit="character"/>ρα</abbr> <abbr>ἀποσπαρα</abbr> <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="40"/>ῶ̔ν τῶν ἐν <abbr>χερσ<gap reason="lost" quantity="7" unit="character"/>ρα</abbr> <abbr>ἀποσπαρα</abbr> <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="41"/>ἀνὰ χεῖρα μέχρι <num value="31">λα</num> <expan><ex>ἔτους</ex></expan> 
 
@@ -143,7 +143,7 @@
 
     <lb n="45"/>κατεξυσμένης  <num value="2">β</num> 
 
-    <lb n="46"/>ἐξ οὗ <choice><reg>ἀποφορήτου</reg><orig>ἀπωφορήτου</orig></choice> <expan><ex>ἀρτάβαι</ex></expan> <num value="39">λθ</num> <num value="1/3" rend="tick">γ</num> 
+    <lb n="46"/>ἐξ οῦ̔ <choice><reg>ἀποφορήτου</reg><orig>ἀπωφορήτου</orig></choice> <expan><ex>ἀρτάβαι</ex></expan> <num value="39">λθ</num> <num value="1/3" rend="tick">γ</num> 
 
     <lb n="47"/><app type="editorial"><lem resp="BL 2.2.118"><supplied reason="lost">ἀ</supplied>νηγμένων <expan>ἀμπέλ<ex>ῳ</ex></expan></lem><rdg><supplied reason="lost">συ</supplied>νηγμένων <abbr>ἀμπελ</abbr></rdg></app> καὶ 
 τὰ <expan>ἀργυρικ<ex>ὰ</ex></expan> <expan>τελ<ex>έσ</ex>μ<ex>ατα</ex></expan> <expan>ἀπῃτη<ex>θέντα</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="37">λζ</num> <num value="1/6" rend="tick">ϛ</num> 

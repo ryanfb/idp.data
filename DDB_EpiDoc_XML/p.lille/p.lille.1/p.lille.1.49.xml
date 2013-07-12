@@ -52,7 +52,7 @@
 
     <lb n="2"/>Ἀριστάνδρωι τὸ ὑπογεγραμμέν<supplied reason="lost">ο</supplied>ν ὑπό<supplied reason="lost">μ</supplied>νημα ἔγ<supplied reason="lost">ραψεν</supplied> 
 
-    <lb n="3"/>Ἀρίστανδρος παραδείξαντα αὐτῶι τὴν γῆν συγχρημα<supplied reason="lost">τίσαι</supplied> <app type="editorial"><lem resp="BL 2.2.77-8"><add place="above"><supplied reason="lost">τὸ σπ</supplied>έρ<unclear>μ</unclear><supplied reason="lost">α καὶ τὸ κάτεργον.  σύνταξον οὖν</supplied></add></lem><rdg>ερ<unclear>α</unclear><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/></rdg></app> 
+    <lb n="3"/>Ἀρίστανδρος παραδείξαντα αὐτῶι τὴν γῆν συγχρημα<supplied reason="lost">τίσαι</supplied> <app type="editorial"><lem resp="BL 2.2.77-8"><add place="above"><supplied reason="lost">τὸ σπ</supplied>έρ<unclear>μ</unclear><supplied reason="lost">α καὶ τὸ κάτεργον.  σύνταξον οῦ̓ν</supplied></add></lem><rdg>ερ<unclear>α</unclear><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/></rdg></app> 
 
     <lb n="4"/>μετρῆσαι αὐτῶι τὸ <unclear>εἰς</unclear> τὴν ξ<supplied reason="lost">υ</supplied><unclear>λ</unclear><supplied reason="lost">ο</supplied>κοπίαν δάνειον 
 
@@ -72,7 +72,7 @@
 
     <lb n="12"/><supplied reason="lost" cert="low">ἐ</supplied>ν <add place="above"><unclear>κύκλ</unclear>ωι</add> <del rend="erasure"><gap reason="illegible" quantity="3" unit="character"/>σ<unclear>τη</unclear>ς</del> <unclear>κου</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>σι</unclear><gap reason="illegible" quantity="1" unit="character"/>ε<unclear>χ</unclear>υ<unclear>ρ</unclear><gap reason="illegible" quantity="1" unit="character"/>θηι καὶ φυλάχθηι ω<gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="13"/><app type="editorial"><lem><supplied reason="lost" cert="low">κα</supplied><unclear>τάβρ</unclear>οχος<certainty match=".." locus="value"/></lem><rdg><gap reason="illegible" quantity="3" unit="character"/><unclear>ρ</unclear>οχος</rdg></app> <unclear>τω</unclear>ν<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="1" unit="character"/>ων<gap reason="illegible" quantity="1" unit="character"/>αι<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>φορος γενέσθαι ἧς ε<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="13"/><app type="editorial"><lem><supplied reason="lost" cert="low">κα</supplied><unclear>τάβρ</unclear>οχος<certainty match=".." locus="value"/></lem><rdg><gap reason="illegible" quantity="3" unit="character"/><unclear>ρ</unclear>οχος</rdg></app> <unclear>τω</unclear>ν<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="1" unit="character"/>ων<gap reason="illegible" quantity="1" unit="character"/>αι<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>φορος γενέσθαι ῆ̔ς ε<gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="14"/>μαι <unclear>σοι</unclear> εἰς ἔτη <num value="7"><unclear>ζ</unclear></num> <gap reason="illegible" quantity="2" unit="character"/>ω<unclear>ρ</unclear><gap reason="illegible" quantity="1" unit="character"/>ειν σὺν σπέρματι κ<supplied reason="lost">α</supplied>ὶ τ<unclear>ω</unclear>ι<gap reason="lost" extent="unknown" unit="character"/> 
 

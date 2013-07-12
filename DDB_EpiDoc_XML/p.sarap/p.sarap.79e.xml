@@ -92,7 +92,7 @@
 
     <lb n="4"/><expan><ex>γίνονται</ex></expan> <num value="261">σξα</num> <num value="1/4" rend="tick">δ</num> <num value="1/32" rend="tick">λβ</num> 
 
-    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><abbr><gap reason="illegible" quantity="3" unit="character"/></abbr> ἐξ ὧν <expan>παρέλ<ex>αβεν</ex></expan> <num value="7">ζ</num>  <num value="3">γ</num> <num value="1/2">𐅵</num> <num value="1/8" rend="tick">η</num> 
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><abbr><gap reason="illegible" quantity="3" unit="character"/></abbr> ἐξ ῶ̔ν <expan>παρέλ<ex>αβεν</ex></expan> <num value="7">ζ</num>  <num value="3">γ</num> <num value="1/2">𐅵</num> <num value="1/8" rend="tick">η</num> 
 
     <lb n="6"/><gap reason="illegible" quantity="1" unit="character"/> <num value="257">σνζ</num> <num value="2/3">𐅷</num> 
 
@@ -276,7 +276,7 @@
 
     <lb n="12"/><expan>Φαρμοῦθ<ex>ι</ex></expan> <num value="21">κα</num>  <expan><ex>δραχμαὶ</ex></expan> <num value="400">υ</num> 
 
-    <lb n="13"/><gap reason="illegible" quantity="2" unit="character"/> <expan><unclear>π</unclear>ρ<unclear>οσδ</unclear><ex>ιαγραφομεν  </ex></expan> <num value="368">τξη</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num> ὧ<unclear>ν</unclear> 
+    <lb n="13"/><gap reason="illegible" quantity="2" unit="character"/> <expan><unclear>π</unclear>ρ<unclear>οσδ</unclear><ex>ιαγραφομεν  </ex></expan> <num value="368">τξη</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num> ῶ̔<unclear>ν</unclear> 
 
     <lb n="14"/>Περὶ <expan><unclear>π</unclear><ex>όλιν</ex></expan> <expan><unclear>κ</unclear><ex>ά</ex><unclear>τ</unclear><ex>ω</ex></expan> <expan>ν<unclear>α</unclear><ex>υβίου</ex></expan> <num value="12">ιβ</num> <expan><ex>ἔτους</ex></expan> <num value="4">δ</num> 
 
@@ -370,7 +370,7 @@
 
     <lb n="14"/><expan>Παχ<ex>ὼν</ex></expan> <num value="15">ιε</num>  <expan><ex>δραχμαὶ</ex></expan> <num value="44">μδ</num> 
 
-    <lb n="15"/>Περὶ <expan><unclear>π</unclear><ex>όλιν</ex></expan> <expan><unclear>κ</unclear><ex>ά</ex><unclear>τ</unclear><ex>ω</ex></expan> <add place="above">ὧν</add> <expan>ναυβ<ex>ίου</ex></expan> <num value="1">α</num> <expan><ex>ἡμιώβολον</ex></expan> <num value="1/2"/> 
+    <lb n="15"/>Περὶ <expan><unclear>π</unclear><ex>όλιν</ex></expan> <expan><unclear>κ</unclear><ex>ά</ex><unclear>τ</unclear><ex>ω</ex></expan> <add place="above">ῶ̔ν</add> <expan>ναυβ<ex>ίου</ex></expan> <num value="1">α</num> <expan><ex>ἡμιώβολον</ex></expan> <num value="1/2"/> 
 
     <lb n="16"/><expan>πηχ<ex>ισμοῦ</ex></expan> <num value="15">ιε</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num> 
 

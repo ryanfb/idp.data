@@ -90,7 +90,7 @@
 
     <lb n="2"/>σώματα ἐρσενικὰ <num value="2108">Βρη</num>, 
 
-    <lb n="3"/>ἀφʼ ὧν ἐστιν τῶν μὴ τελούν
+    <lb n="3"/>ἀφʼ ῶ̔ν ἐστιν τῶν μὴ τελούν
 
     <lb n="4" break="no"/>των ἱερὰ ἔθνη 
 
@@ -142,7 +142,7 @@
 
     <lb n="19"/>Τετλῶς <expan>γυ<ex>νή</ex></expan> 
 
-    <lb n="20"/>Ὧρος <gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="20"/>Ὧρος <gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 </ab></div><div n="C,Fr1,r,3" type="textpart"><!--milestone unit="4"--><ab>
 
     <lb n="1"/>Τετονταίου <unclear>Π</unclear>ωνε<gap reason="lost" extent="unknown" unit="character"/> 
@@ -194,9 +194,9 @@
 
     <lb n="24"/>Σετῖνις Νεχθώνσιος 
 
-    <lb n="25"/>Ὧρος Τανεχώτιος 
+    <lb n="25"/>Ὧρος Τανεχώτιος 
 
-    <lb n="26"/>Ὧρος Πιύριος 
+    <lb n="26"/>Ὧρος Πιύριος 
 
     <lb n="27"/>Ταμῆφις ἄλλη 
 
@@ -226,7 +226,7 @@
 
     <lb n="40"/>Ταυσῖρις <expan>μή<ex>τηρ</ex></expan> 
 
-    <lb n="41"/><supplied reason="lost">Ὧ</supplied>ρος ἄλλος Νικολάου 
+    <lb n="41"/><supplied reason="lost">Ὧ</supplied>ρος ἄλλος Νικολάου 
 
     <lb n="42"/><gap reason="lost" quantity="4" unit="character"/>ητις <expan>γυ<ex>νή</ex></expan> 
 </ab></div><div n="C,Fr1,v,2" type="textpart"><!--milestone unit="4"--><ab>
@@ -241,7 +241,7 @@
 
     <lb n="2"/>Θαῖβις <expan>μή<ex>τηρ</ex></expan> 
 
-    <lb n="3"/>Ὧρος Ἀ<unclear>μ</unclear>εννήως 
+    <lb n="3"/>Ὧρος Ἀ<unclear>μ</unclear>εννήως 
 
     <lb n="4"/>Τετεαθῦρις <expan>γυ<ex>νή</ex></expan> 
 
@@ -279,7 +279,7 @@
     <lb n="1"/><note xml:lang="en">demotic ? lin</note> 
 </ab></div><div n="C,Fr3,r" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="1"/>Ὧρος ἀδελφός 
+    <lb n="1"/>Ὧρος ἀδελφός 
 
     <lb n="2"/>Θερῶς γυνή 
 
@@ -297,7 +297,7 @@
 
     <lb n="9"/>Κανῶς Φερύσιος 
 
-    <lb n="10"/>Ὧρος υἱός 
+    <lb n="10"/>Ὧρος υἱός 
 
     <lb n="11"/><gap reason="illegible" quantity="2" unit="character"/>ους γυνή 
 
@@ -314,28 +314,28 @@
 
     <lb n="2"/>Ἑριεὺς <expan>γυ<ex>νή</ex></expan> 
 
-    <lb n="3"/>Ταμιεῦσις μήτηρ <expan><ex>γίνονται</ex></expan> <num value="3">γ</num> <expan><ex>ὧν</ex></expan> <num value="1">α</num> 
+    <lb n="3"/>Ταμιεῦσις μήτηρ <expan><ex>γίνονται</ex></expan> <num value="3">γ</num> <expan><ex>ῶ̔ν</ex></expan> <num value="1">α</num> 
 
     <lb n="4"/>ἄλλο οἴκημα 
 
-    <lb n="5"/>Ὧρος Ἁρσιήσιος <app type="editorial"><lem resp="BL cf. 9.210"><expan>γέ<ex cert="low">ρων</ex></expan></lem><rdg><expan>γε<ex>ωργοῦ</ex></expan></rdg></app> 
+    <lb n="5"/>Ὧρος Ἁρσιήσιος <app type="editorial"><lem resp="BL cf. 9.210"><expan>γέ<ex cert="low">ρων</ex></expan></lem><rdg><expan>γε<ex>ωργοῦ</ex></expan></rdg></app> 
 
-    <lb n="6"/><g type="check"/> Θᾶσις <expan>γυ<ex>νή</ex></expan>, <expan><ex>γίνονται</ex></expan> <num value="2">β</num> <expan><ex>ὧν</ex></expan> <num value="1">α</num> 
+    <lb n="6"/><g type="check"/> Θᾶσις <expan>γυ<ex>νή</ex></expan>, <expan><ex>γίνονται</ex></expan> <num value="2">β</num> <expan><ex>ῶ̔ν</ex></expan> <num value="1">α</num> 
 
     <lb n="7"/>οἰκία <app type="editorial"><lem resp="BL 8.280">Ἀχομμνεῦις</lem><rdg>Αχομμ<gap reason="illegible" quantity="3" unit="character"/>ιος</rdg></app> τοῦ Π<unclear>α</unclear><gap reason="illegible" quantity="2" unit="character"/><unclear>θ</unclear>ραιτος 
 
-    <lb n="8"/><unclear>Τα</unclear>μοῦνις <expan>γυ<ex>νή</ex></expan>, <expan><ex>γίνονται</ex></expan> <num value="2">β</num> <expan><ex>ὧν</ex></expan> <num value="1">α</num> 
+    <lb n="8"/><unclear>Τα</unclear>μοῦνις <expan>γυ<ex>νή</ex></expan>, <expan><ex>γίνονται</ex></expan> <num value="2">β</num> <expan><ex>ῶ̔ν</ex></expan> <num value="1">α</num> 
 
     <lb n="9"/>οἰκία Ὥρου <expan>με<ex cert="low">γάλου</ex></expan> Πατῆτος <app type="editorial"><lem resp="BL cf. 9.210"><expan>γέ<ex>ροντος</ex></expan></lem><rdg><expan>γε<ex>ωργοῦ</ex></expan></rdg></app> 
 
-    <lb n="10"/>Ταῦρις <expan>γυ<ex>νή</ex></expan> <expan><ex>γίνονται</ex></expan> <num value="2">β</num> <expan><ex>ὧν</ex></expan> <num value="1">α</num> 
+    <lb n="10"/>Ταῦρις <expan>γυ<ex>νή</ex></expan> <expan><ex>γίνονται</ex></expan> <num value="2">β</num> <expan><ex>ῶ̔ν</ex></expan> <num value="1">α</num> 
 
 
     <lb n="11"/><g type="check"/> οἰκία Ὥρου <expan>μι<ex>κροῦ</ex></expan> Πατῆτος 
 
-    <lb n="12"/><g type="check"/> Χατῦλις <expan>γυ<ex>νή</ex></expan> <expan><ex>γίνονται</ex></expan> <add place="above"><num value="2">β</num></add> <surplus><num value="4">δ</num></surplus> <expan><ex>ὧν</ex></expan> <add place="above"><expan><ex>ὧν</ex></expan> <num value="1">α</num></add> <surplus><num value="2">β</num></surplus> 
+    <lb n="12"/><g type="check"/> Χατῦλις <expan>γυ<ex>νή</ex></expan> <expan><ex>γίνονται</ex></expan> <add place="above"><num value="2">β</num></add> <surplus><num value="4">δ</num></surplus> <expan><ex>ῶ̔ν</ex></expan> <add place="above"><expan><ex>ῶ̔ν</ex></expan> <num value="1">α</num></add> <surplus><num value="2">β</num></surplus> 
 
-    <lb n="13"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <expan><ex>γίνονται</ex></expan> <num value="3">γ</num> <expan><ex>ὧν</ex></expan> <num value="1">α</num> 
+    <lb n="13"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <expan><ex>γίνονται</ex></expan> <num value="3">γ</num> <expan><ex>ῶ̔ν</ex></expan> <num value="1">α</num> 
 
     <lb n="14"/>οἰκία Χομμούιος τοῦ Ἐριέως <expan>γε<ex cert="low">ωργοῦ</ex></expan> 
 
@@ -345,11 +345,11 @@
 
     <lb n="17"/><g type="check"/> Τετοσῖρις <expan>γυ<ex>νή</ex></expan> 
 
-    <lb n="18"/>Τ<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> μήτηρ <expan><ex>γίνονται</ex></expan> <num value="5">ε</num> <expan><ex>ὧν</ex></expan> <num value="2">β</num> 
+    <lb n="18"/>Τ<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> μήτηρ <expan><ex>γίνονται</ex></expan> <num value="5">ε</num> <expan><ex>ῶ̔ν</ex></expan> <num value="2">β</num> 
 
-    <lb n="19"/><g type="check"/> Ὧρος Τεῶτος 
+    <lb n="19"/><g type="check"/> Ὧρος Τεῶτος 
 
-    <lb n="20"/>Θεν<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>αχιριος <expan><ex>γίνονται</ex></expan> <num value="6">ϛ</num> <expan><ex>ὧν</ex></expan> <num value="3">γ</num> 
+    <lb n="20"/>Θεν<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>αχιριος <expan><ex>γίνονται</ex></expan> <num value="6">ϛ</num> <expan><ex>ῶ̔ν</ex></expan> <num value="3">γ</num> 
 </ab></div><div n="D,3" type="textpart"><!--milestone unit="4"--><ab>
 
     <lb n="1"/><gap reason="illegible" extent="unknown" unit="line"/> 

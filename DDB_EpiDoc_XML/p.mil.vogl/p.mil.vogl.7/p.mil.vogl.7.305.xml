@@ -137,7 +137,7 @@
 
     <lb n="40"/>ἐν <expan><ex>δραχμαῖς</ex></expan> <num value="175">ροε</num> <num value="3"><expan><ex>τριώβολον</ex></expan></num> <supplied reason="lost"><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan></supplied> <num value="222">σκβ</num> <num value="3"><expan><ex>τριώβολον</ex></expan></num> 
 
-    <lb n="41"/>ἐξ ὧν τὸ ἥμισυ ἐπιβάλλει 
+    <lb n="41"/>ἐξ ῶ̔ν τὸ ἥμισυ ἐπιβάλλει 
 
     <lb n="42"/><choice><reg>ἡμῖν</reg><orig>ἡμεῖν</orig></choice> 
 
@@ -301,7 +301,7 @@
 
     <lb n="120"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> ἐ</supplied>ν <expan><ex>δραχμαῖς</ex></expan> <num value="223">σ<unclear>κ</unclear>γ</num> <expan><ex>ὀβολοὶ</ex></expan> <num value="5">ε</num> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="247">σμζ</num> <expan><ex>ὀβολοὶ</ex></expan> <num value="5">ε</num> 
 
-    <lb n="121"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> ἐ</supplied>ξ ὧ<supplied reason="lost">ν</supplied> τὸ ἥμισ<supplied reason="lost">υ  ἐπιβ</supplied>άλ<supplied reason="lost">λει</supplied> <choice><reg>ἡμῖ<supplied reason="lost">ν</supplied></reg><orig><unclear>ἡ</unclear>μεῖ<supplied reason="lost">ν</supplied></orig></choice> 
+    <lb n="121"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> ἐ</supplied>ξ ῶ̔<supplied reason="lost">ν</supplied> τὸ ἥμισ<supplied reason="lost">υ  ἐπιβ</supplied>άλ<supplied reason="lost">λει</supplied> <choice><reg>ἡμῖ<supplied reason="lost">ν</supplied></reg><orig><unclear>ἡ</unclear>μεῖ<supplied reason="lost">ν</supplied></orig></choice> 
 
     <lb n="122"/><expan><ex>δραχμαὶ</ex></expan> <num value="123">ρκγ</num> <gap reason="lost" quantity="2" unit="character"/> <gap reason="illegible" quantity="3" unit="character"/> 
 

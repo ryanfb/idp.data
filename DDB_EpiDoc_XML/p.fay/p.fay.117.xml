@@ -56,7 +56,7 @@ I have made the necessary change to the Duke text.  The correct date is already 
 
     <lb n="2"/>Σαβίνωι τῶι <choice><reg>υἱῶι</reg><orig>υεἱῶι</orig></choice> χαίρειν καὶ διὰ παν
 
-    <lb n="3" break="no"/>τὸς <app type="editorial"><lem resp="BL 1.455">εὐ<supplied reason="omitted">τυ</supplied>χεῖν</lem><rdg>εὖ <supplied reason="omitted">ἔ</supplied>χειν</rdg></app>. <choice><reg>γίγνωσκε</reg><orig>γείνοσκαι</orig></choice> <choice><reg>Ἐλο<unclear>υ</unclear>ρᾶν</reg><orig>ελ<gap reason="illegible" quantity="1" unit="character"/>υραν</orig></choice> τὸν 
+    <lb n="3" break="no"/>τὸς <app type="editorial"><lem resp="BL 1.455">εὐ<supplied reason="omitted">τυ</supplied>χεῖν</lem><rdg>εῦ̓ <supplied reason="omitted">ἔ</supplied>χειν</rdg></app>. <choice><reg>γίγνωσκε</reg><orig>γείνοσκαι</orig></choice> <choice><reg>Ἐλο<unclear>υ</unclear>ρᾶν</reg><orig>ελ<gap reason="illegible" quantity="1" unit="character"/>υραν</orig></choice> τὸν 
 
     <lb n="4"/><choice><reg>βασιλικὸν</reg><orig>βασιλεικὸν</orig></choice> διαδέχεσθα<unclear>ι</unclear> τὴν στρατη
 
@@ -68,13 +68,13 @@ I have made the necessary change to the Duke text.  The correct date is already 
 
     <lb n="8"/><choice><reg>χρείαν</reg><orig>χρίαν</orig></choice> αὐτοῦ <choice><reg>ἔχομεν</reg><orig>ἔχωμον</orig></choice>.  <choice><reg>πέμψεις</reg><orig>πέμσις</orig></choice> ἡμῖν 
 
-    <lb n="9"/>εἰς <choice><reg>οἶκον</reg><orig>ὖκον</orig></choice> <app type="editorial"><lem resp="BL 1.131">ἀρτυμάτια<certainty match=".." locus="value"/></lem><rdg><unclear>ατ</unclear>υμα<unclear>ν</unclear>ια</rdg></app> καὶ ἐλᾶν, <choice><reg>ἐπεὶ</reg><orig>ἐπὶ</orig></choice> οὐ 
+    <lb n="9"/>εἰς <choice><reg>οῖ̓κον</reg><orig>ῦ̓κον</orig></choice> <app type="editorial"><lem resp="BL 1.131">ἀρτυμάτια<certainty match=".." locus="value"/></lem><rdg><unclear>ατ</unclear>υμα<unclear>ν</unclear>ια</rdg></app> καὶ ἐλᾶν, <choice><reg>ἐπεὶ</reg><orig>ἐπὶ</orig></choice> οὐ 
 
-    <lb n="10"/>ἔχουσι ἐλᾶν νέαν εἰς <choice><reg>οἶκον</reg><orig>ὖκον</orig></choice>.  τοὺς θιώ
+    <lb n="10"/>ἔχουσι ἐλᾶν νέαν εἰς <choice><reg>οῖ̓κον</reg><orig>ῦ̓κον</orig></choice>.  τοὺς θιώ
 
     <lb n="11" break="no"/>τας <choice><reg>πέμψεις</reg><orig>πέμσις</orig></choice> <choice><reg>ἐπεὶ</reg><orig>ἐπὶ</orig></choice>  Ἔ<unclear>ρασ</unclear>ο<supplied reason="lost">ς</supplied> τὰ Ἁρποχράτια 
 
-    <lb n="12"/>ὧδε τάχα <num value="14">ιδ</num> <choice><reg>ποι<supplied reason="lost">ήσ</supplied>ει</reg><orig>π<unclear>υ</unclear><supplied reason="lost">ήσ</supplied>ι</orig></choice>, καὶ τὰ βάκα
+    <lb n="12"/>ῶ̔δε τάχα <num value="14">ιδ</num> <choice><reg>ποι<supplied reason="lost">ήσ</supplied>ει</reg><orig>π<unclear>υ</unclear><supplied reason="lost">ήσ</supplied>ι</orig></choice>, καὶ τὰ βάκα
 
     <lb n="13" break="no"/>να <choice><reg>πέμ<supplied reason="lost">ψ</supplied>ον</reg><orig>πέμ<supplied reason="lost">σ</supplied>ον</orig></choice> αὐ<supplied reason="lost">τ</supplied><unclear>ῶι</unclear>.  πάντα τὰ κτή
 
@@ -82,7 +82,7 @@ I have made the necessary change to the Duke text.  The correct date is already 
 
     <lb n="15"/>αὐτῶι βάκανο<unclear>υ</unclear> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/><unclear>α</unclear> πέ<unclear>ν</unclear>τε <num value="5"/> καὶ εἰ
 
-    <lb n="16" break="no"/>ς οἶκον <choice><reg>τ<unclear>ὸ</unclear></reg><orig>τ<unclear>ὼ</unclear></orig></choice> <unclear>α</unclear>ὐ<unclear>τόν</unclear>.  <choice><reg>γίγνωσκε</reg><orig>γείνοσκαι</orig></choice> <choice><reg>εἰλη
+    <lb n="16" break="no"/>ς οῖ̓κον <choice><reg>τ<unclear>ὸ</unclear></reg><orig>τ<unclear>ὼ</unclear></orig></choice> <unclear>α</unclear>ὐ<unclear>τόν</unclear>.  <choice><reg>γίγνωσκε</reg><orig>γείνοσκαι</orig></choice> <choice><reg>εἰλη
 
     <lb n="17" break="no"/>φῆναι</reg><orig>εἰλη<lb n="17" break="no"/>φαίναι</orig></choice> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/>σσιον <choice><reg>τὸ</reg><orig>τὼ</orig></choice> τρισελλον Ἐρά
 
@@ -94,7 +94,7 @@ I have made the necessary change to the Duke text.  The correct date is already 
 
     <lb n="21"/>λαμβάνῃ.  <unclear>ἐκ</unclear>τί<unclear>να</unclear>ξ<unclear>ον</unclear> τὸ διειρον <choice><reg>ἵνα</reg><orig>εἵνα</orig></choice> 
 
-    <lb n="22"/>ἀμέριμνος <unclear>ἦς</unclear>.  <choice><reg><unclear>ὃ</unclear></reg><orig><unclear>ὣ</unclear></orig></choice> <choice><reg>ἔγραφές</reg><orig>ἔγραφος</orig></choice> <choice><reg>μοι</reg><orig>μυ</orig></choice> 
+    <lb n="22"/>ἀμέριμνος <unclear>ῆ̓ς</unclear>.  <choice><reg><unclear>ὃ</unclear></reg><orig><unclear>ὣ</unclear></orig></choice> <choice><reg>ἔγραφές</reg><orig>ἔγραφος</orig></choice> <choice><reg>μοι</reg><orig>μυ</orig></choice> 
 
     <lb n="23"/>μὴ ἡσυχάσαι <unclear>τ</unclear>ῷ κτιστῷ <choice><reg>περι
 

@@ -64,7 +64,7 @@
 
     <lb n="6"/>ἀπέχειν αὐτὸν τιμὴν χρυσίου <choice><reg>δοκιμίου</reg><orig>δοκιμεί<supplied reason="lost">ο</supplied>υ</orig></choice> 
 
-    <lb n="7"/>μνα<hi rend="diaeresis">ϊ</hi>αίων <choice><reg>ὀκτὼ</reg><orig>ὀκτὼι</orig></choice> <num value="8"/> ὧν κατεσκεύασε αὐτῷ 
+    <lb n="7"/>μνα<hi rend="diaeresis">ϊ</hi>αίων <choice><reg>ὀκτὼ</reg><orig>ὀκτὼι</orig></choice> <num value="8"/> ῶ̔ν κατεσκεύασε αὐτῷ 
 
     <lb n="8"/><app type="editorial"><lem resp="BL 1.93"><supplied reason="lost">ἐ</supplied>ν</lem><rdg><supplied reason="lost">ἓ</supplied>ν <num value="1"/></rdg></app> ψελίων <app type="editorial"><lem resp="BL 1.93">μαγιανῶν</lem><rdg>μαγκλίων</rdg></app> ζεύγει <expan>δικαμπῶ<ex>ν</ex></expan> 
 
@@ -92,7 +92,7 @@
 
     <lb n="20"/><subst><add place="inline"><supplied reason="lost">τ</supplied>ιμὴν</add><del rend="corrected"><supplied reason="lost">τ</supplied>ιμνν</del></subst> χρυσίου δοκι<supplied reason="lost">μ</supplied>ίου <choice><reg>μν
 
-    <lb n="21" break="no"/>αϊαίων</reg><orig>μν<lb n="21" break="no"/>α̈ήων</orig></choice> <choice><reg>ὀκτὼ</reg><orig>ὀκκτὼ</orig></choice> <num value="8"/>, ὧν <choice><reg>κατεσκεύ
+    <lb n="21" break="no"/>αϊαίων</reg><orig>μν<lb n="21" break="no"/>α̈ήων</orig></choice> <choice><reg>ὀκτὼ</reg><orig>ὀκκτὼ</orig></choice> <num value="8"/>, ῶ̔ν <choice><reg>κατεσκεύ
 
     <lb n="22" break="no"/>ασα</reg><orig>κατασκεύ<lb n="22" break="no"/>ασα</orig></choice> <choice><reg>αὐτῷ</reg><orig>αὐτο</orig></choice> <app type="editorial"><lem resp="BL 1.93">ἐν</lem><rdg>ἓν <num value="1"/></rdg></app> ψελίων <app type="editorial"><lem resp="BL 1.93">μαγιαν
 

@@ -51,15 +51,15 @@
 
     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ε<gap reason="illegible" quantity="1" unit="character"/> <expan>δεσ<ex>μαὶ</ex></expan> <num value="700">ψ</num> 
 
-    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan><unclear>ἦλ</unclear>θ<ex>ον</ex></expan> 
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan><unclear>ῆ̓λ</unclear>θ<ex>ον</ex></expan> 
 
     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <g type="unintelligible"/> 
 
-    <lb n="5"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">ἦλ</supplied><unclear>θ</unclear><ex>ον</ex></expan> 
+    <lb n="5"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">ῆ̓λ</supplied><unclear>θ</unclear><ex>ον</ex></expan> 
 
     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/> 
 
-    <lb n="7"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><gap reason="lost" extent="unknown" unit="character"/>ἦλθ<ex>ον</ex></expan> 
+    <lb n="7"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><gap reason="lost" extent="unknown" unit="character"/>ῆ̓λθ<ex>ον</ex></expan> 
 
     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/> 
 
@@ -84,7 +84,7 @@
 
     <lb n="7"/><num value="28">κη</num> ὄ<supplied reason="lost">ν</supplied>οι <add place="above"><del rend="erasure"><num value="5">ε</num></del></add> <num value="5">ε</num> <expan>Πουάρ<ex>εως</ex></expan> εἰς τὴ<supplied reason="lost">ν πόλιν </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="8"/><num value="29">κθ</num> <supplied reason="lost">ὄν</supplied>οι <num value="3">γ</num> <expan>Πουάρ<ex>εως</ex></expan> <expan>ἦλθ<ex>ον</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="8"/><num value="29">κθ</num> <supplied reason="lost">ὄν</supplied>οι <num value="3">γ</num> <expan>Πουάρ<ex>εως</ex></expan> <expan>ῆ̓λθ<ex>ον</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="9"/><num value="30">λ</num> <supplied reason="lost">ὄνο</supplied>ι <num value="4">δ</num> <expan>Πουάρ<ex>εως</ex></expan> <expan>ἀν<ex>επαύοντο</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
 

@@ -51,7 +51,7 @@
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
 
-    <lb n="1"/>τοῖς χρηματισταῖς ὧν εἰσαγωγεὺς Δ<unclear>ω</unclear><gap reason="lost" quantity="4" unit="character"/> 
+    <lb n="1"/>τοῖς χρηματισταῖς ῶ̔ν εἰσαγωγεὺς Δ<unclear>ω</unclear><gap reason="lost" quantity="4" unit="character"/> 
 
     <lb n="2"/>παρὰ Πολέμωνος τοῦ καὶ Πετεσού<supplied reason="lost">χου</supplied> 
 
@@ -65,13 +65,13 @@
 
     <lb n="7" break="no"/>γραφον ἐντεύξεως <choice><reg>προφερόμεν<supplied reason="omitted">οι</supplied></reg><orig>προφερομεν</orig></choice> <unclear>ὑ</unclear><supplied reason="lost">φελέσ</supplied>
 
-    <lb n="8" break="no"/>θαι με αὐτῶν γῆν, ὑπὲρ ὧν καὶ τυγ<unclear>χ</unclear><supplied reason="lost">άνω ἀπο</supplied>
+    <lb n="8" break="no"/>θαι με αὐτῶν γῆν, ὑπὲρ ῶ̔ν καὶ τυγ<unclear>χ</unclear><supplied reason="lost">άνω ἀπο</supplied>
 
     <lb n="9" break="no"/><unclear>δε</unclear><supplied reason="lost">δωκ</supplied>ὼς <choice><reg>ὑμῖν</reg><orig>ἡμῖν</orig></choice> χ<supplied reason="lost">ρ</supplied>ημ<supplied reason="lost">ατ</supplied>ισμὸν πα<gap reason="lost" quantity="6" unit="character"/> 
 
     <lb n="10"/>τη<unclear>ν</unclear> τῆς τούτων <unclear>σ</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="4" unit="character"/><unclear>λ</unclear>ης.  κα<unclear>θ</unclear><supplied reason="lost">εστη</supplied>
 
-    <lb n="11" break="no"/>κότ<supplied reason="lost">ο</supplied>ς οὖν τοῦ δέοντος και<supplied reason="lost">ρ</supplied>οῦ τῆς <unclear>τ</unclear><supplied reason="lost" cert="low">ρύγης</supplied> 
+    <lb n="11" break="no"/>κότ<supplied reason="lost">ο</supplied>ς οῦ̓ν τοῦ δέοντος και<supplied reason="lost">ρ</supplied>οῦ τῆς <unclear>τ</unclear><supplied reason="lost" cert="low">ρύγης</supplied> 
 
     <lb n="12"/>φρο<supplied reason="lost">ν</supplied>τίδος ἱκανῆς φορολογίας <app type="editorial"><lem resp="BL 1.423">περὶ <supplied reason="lost">ἐμὲ</supplied></lem><rdg>περι<supplied reason="lost">σσῆς</supplied></rdg></app> 
 
@@ -85,7 +85,7 @@
 
     <lb n="17"/>τὰ καθʼ ἡμᾶς μέχρι <supplied reason="lost">το</supplied><unclear>ῦ</unclear> ἀπὸ τῆς προ<supplied reason="lost">κει</supplied>
 
-    <lb n="18" break="no"/>μένης ἀσχ<unclear>ολ</unclear><supplied reason="lost">ί</supplied>α<supplied reason="lost">ς ἀπολυθῆ</supplied>ναι ἵνα <supplied reason="lost">μηδὲν ἦι</supplied> 
+    <lb n="18" break="no"/>μένης ἀσχ<unclear>ολ</unclear><supplied reason="lost">ί</supplied>α<supplied reason="lost">ς ἀπολυθῆ</supplied>ναι ἵνα <supplied reason="lost">μηδὲν ῆ̓ι</supplied> 
 
     <lb n="19"/><subst><add place="inline">ἐμπόδιον</add><del rend="corrected"><del rend="erasure">α</del>μποδιον</del></subst>. 
 <milestone rend="paragraphos" unit="undefined"/>

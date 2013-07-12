@@ -46,7 +46,7 @@
 
     <lb n="1"/><expan><ex>γίνονται</ex></expan> <num value="406">υϛ</num> 
 
-    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><unclear>ν</unclear> <hi rend="supraline">β</hi>ν    <num value="520">φκ</num> <expan><ex>ὧν</ex></expan> 
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><unclear>ν</unclear> <hi rend="supraline">β</hi>ν    <num value="520">φκ</num> <expan><ex>ῶ̔ν</ex></expan> 
 
     <lb n="2a"/><add place="above"><num value="50"><unclear>ν</unclear></num> ἔ<unclear>χ</unclear>ω <expan>χ<hi rend="superscript">α</hi><ex>λκοῦ</ex></expan>  <unclear>φ</unclear>σ<unclear>υ</unclear>κ<gap reason="illegible" quantity="3" unit="character"/><unclear>ος</unclear> <num value="80"><unclear>π</unclear></num></add> 
 
@@ -56,7 +56,7 @@
 
     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>στης         <num value="170">ρο</num> 
 
-    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>λλιας        <num value="90">ϙ</num> <expan><ex>γίνονται</ex></expan> <num value="420">υκ</num> <expan><ex>ὧν</ex></expan> 
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>λλιας        <num value="90">ϙ</num> <expan><ex>γίνονται</ex></expan> <num value="420">υκ</num> <expan><ex>ῶ̔ν</ex></expan> 
 
     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> ἔχω  <expan><ex>δραχμὰς</ex></expan> <num value="220">σκ</num> 
 
@@ -65,7 +65,7 @@
     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>            <num value="520">φκ</num> 
 
 
-    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>τας <num value="2">β</num>   <num value="50">ν</num>      <expan><ex>γίνονται</ex></expan> <num value="570">φο</num> <expan><ex>γίνονται</ex></expan> <num value="509">φ<unclear>θ</unclear></num>  <expan><ex>ὧν</ex></expan> 
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>τας <num value="2">β</num>   <num value="50">ν</num>      <expan><ex>γίνονται</ex></expan> <num value="570">φο</num> <expan><ex>γίνονται</ex></expan> <num value="509">φ<unclear>θ</unclear></num>  <expan><ex>ῶ̔ν</ex></expan> 
 
     <lb n="9a"/><add place="above"><gap reason="illegible" quantity="2" unit="character"/><unclear>α</unclear>ιον ἐπὶ τὴν <app type="editorial"><lem>Δί<unclear>ω</unclear>ν<unclear>ος</unclear></lem><rdg>δι<gap reason="illegible" quantity="2" unit="character"/>ν<gap reason="illegible" quantity="2" unit="character"/></rdg></app> <expan>τρ<hi rend="superscript">ά</hi><ex>πεζαν</ex></expan> <expan>χ<hi rend="superscript">α</hi><ex>λκοῦ</ex></expan> <num value="700">ψ</num> <gap reason="illegible" quantity="3" unit="character"/></add> 
 
@@ -83,9 +83,9 @@
 
     <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>ε 
 
-    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/>            <num value="225">σκε</num>  <expan><ex>γίνονται</ex></expan> <num value="660"><unclear>χ</unclear>ξ</num> <expan><ex>ὧν</ex></expan> 
+    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/>            <num value="225">σκε</num>  <expan><ex>γίνονται</ex></expan> <num value="660"><unclear>χ</unclear>ξ</num> <expan><ex>ῶ̔ν</ex></expan> 
 
-    <lb n="18"/><gap reason="lost" extent="unknown" unit="character"/> ἔχω <num value="360">τξ</num>  στ <expan><ex>ὧν</ex></expan> ἔχω <expan>χ<hi rend="superscript">α</hi><ex>λκοῦ</ex></expan> <num value="1">α</num><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="18"/><gap reason="lost" extent="unknown" unit="character"/> ἔχω <num value="360">τξ</num>  στ <expan><ex>ῶ̔ν</ex></expan> ἔχω <expan>χ<hi rend="superscript">α</hi><ex>λκοῦ</ex></expan> <num value="1">α</num><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="19"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/>της <num value="170">ρο</num> 
 </ab></div><div n="FrB" type="textpart"><!--milestone unit="4"--><ab>

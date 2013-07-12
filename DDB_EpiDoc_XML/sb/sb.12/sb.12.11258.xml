@@ -59,7 +59,7 @@
 
     <lb n="5"/><expan><ex>γίνεται</ex></expan> <expan>γό<ex>μου</ex></expan> <num value="1/6" rend="tick">ϛ</num>. <expan><ex>ἔτους</ex></expan> <num value="18">ιη</num> <expan>Παῦ<ex>νι</ex></expan> <gap reason="lost" quantity="1" unit="character"/> 
 
-    <lb n="6"/><abbr>Πετ</abbr> <expan>σ<ex>εσ</ex>η<ex>μείωμαι</ex></expan>. <expan>Ὧρ<ex>ος</ex></expan> <expan>σ<ex>εσ</ex>η<ex>μείωμαι</ex></expan> </ab></div>
+    <lb n="6"/><abbr>Πετ</abbr> <expan>σ<ex>εσ</ex>η<ex>μείωμαι</ex></expan>. <expan>Ὧρ<ex>ος</ex></expan> <expan>σ<ex>εσ</ex>η<ex>μείωμαι</ex></expan> </ab></div>
       </body>
    </text>
 </TEI>

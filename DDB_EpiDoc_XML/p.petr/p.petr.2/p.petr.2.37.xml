@@ -54,7 +54,7 @@
 
     <lb n="1"/><app type="editorial"><lem><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/>κλύζεται</lem><rdg><gap reason="lost" extent="unknown" unit="character"/>σεται</rdg></app> 
 
-    <lb n="2"/><app type="editorial"><lem>ὑπὸ τοῦ κλύδ<supplied reason="lost">ω</supplied>νος</lem><rdg>τριωτωι καὶ δ<gap reason="lost" extent="unknown" unit="character"/>ς</rdg></app> καλῶς. οὖν 
+    <lb n="2"/><app type="editorial"><lem>ὑπὸ τοῦ κλύδ<supplied reason="lost">ω</supplied>νος</lem><rdg>τριωτωι καὶ δ<gap reason="lost" extent="unknown" unit="character"/>ς</rdg></app> καλῶς. οῦ̓ν 
 
     <lb n="3"/>ποιήσεις συντάξας <app type="editorial"><lem>ἐξαπο
 
@@ -64,9 +64,9 @@
 
     <lb n="6"/>εὐτονώτερον. 
 
-    <lb n="7"/>ἄλλη. ἦσαν <choice><reg>ἀνεωγμέναι</reg><orig>ἀνεωιγμέναι</orig></choice> 
+    <lb n="7"/>ἄλλη. ῆ̓σαν <choice><reg>ἀνεωγμέναι</reg><orig>ἀνεωιγμέναι</orig></choice> 
 
-    <lb n="8"/>ἀπὸ τ<add place="above"><app type="editorial"><lem>ῆς ἐν</lem><rdg>ἦσαν</rdg></app></add> <subst><add place="inline">τ<add place="above">ῆι ἐγβατηρίαι ἀφέσεων θύρα <num value="1">α</num></add></add><del rend="corrected"><app type="editorial"><lem>τ<del rend="erasure">οῦ ποταμοῦ θύραι <num value="2">β</num></del></lem><rdg><gap reason="illegible" quantity="2" unit="character"/>ωι ἐν ποταμῶι θύραι <num value="2">β</num></rdg></app></del></subst> 
+    <lb n="8"/>ἀπὸ τ<add place="above"><app type="editorial"><lem>ῆς ἐν</lem><rdg>ῆ̓σαν</rdg></app></add> <subst><add place="inline">τ<add place="above">ῆι ἐγβατηρίαι ἀφέσεων θύρα <num value="1">α</num></add></add><del rend="corrected"><app type="editorial"><lem>τ<del rend="erasure">οῦ ποταμοῦ θύραι <num value="2">β</num></del></lem><rdg><gap reason="illegible" quantity="2" unit="character"/>ωι ἐν ποταμῶι θύραι <num value="2">β</num></rdg></app></del></subst> 
 
     <lb n="9"/>καὶ ἀπὸ τῶν κατὰ Πτολεμαίδα 
 
@@ -82,15 +82,15 @@
 
     <lb n="15" break="no"/>λὴν τῆι <num value="12">ιβ</num> <app type="editorial"><lem>ἠν<supplied reason="lost">ῴξ</supplied>αμεν</lem><rdg>ἀν<supplied reason="lost">ωιξ</supplied>ατὴν</rdg></app> ἄλλην <num value="1">α</num> 
 
-    <lb n="16"/>ὥστʼ εἶναι τὰς ἐνεργούσας θύρας <num value="4">δ</num>. 
+    <lb n="16"/>ὥστʼ εῖ̓ναι τὰς ἐνεργούσας θύρας <num value="4">δ</num>. 
 
-    <lb n="17"/>καλῶς οὖν ποιήσεις <add place="above">γράψας Ἀριστάρχωι</add> <del rend="erasure">συνταξα</del> 
+    <lb n="17"/>καλῶς οῦ̓ν ποιήσεις <add place="above">γράψας Ἀριστάρχωι</add> <del rend="erasure">συνταξα</del> 
 
     <lb n="18"/>τηρεῖν τὸ χῶμα τὸ ἀπὸ τοῦ κατὰ 
 
     <lb n="19"/><app type="editorial"><lem>Π<unclear>όαν</unclear> θησαυρ<unclear>οῦ</unclear></lem><rdg>Πτολε<supplied reason="lost">μαίδα</supplied></rdg></app> <gap reason="lost" extent="unknown" unit="character"/> τοῦ μεγάλου χώ
 
-    <lb n="20" break="no"/>ματος οὗ <app type="editorial"><lem>ἐξε<supplied reason="lost">ίληφεν</supplied></lem><rdg>ἐζε<supplied reason="lost">υγμένου</supplied></rdg></app> Ποσειδώνιος 
+    <lb n="20" break="no"/>ματος οῦ̔ <app type="editorial"><lem>ἐξε<supplied reason="lost">ίληφεν</supplied></lem><rdg>ἐζε<supplied reason="lost">υγμένου</supplied></rdg></app> Ποσειδώνιος 
 </ab></div><div n="2" type="textpart"><!--milestone unit="4"--><ab>
 
     <lb n="1"/><gap reason="illegible" quantity="9" unit="line"/> 
@@ -121,9 +121,9 @@
 
     <lb n="13"/>διὰ τὸ μὴ ἐπικεχῶσθαι 
 
-    <lb n="14"/>τὰ διακόμματα. καλῶς οὖν 
+    <lb n="14"/>τὰ διακόμματα. καλῶς οῦ̓ν 
 
-    <lb n="15"/>ποιήσεις φρόντισας <app type="editorial"><lem>διʼ ὧν</lem><rdg>δι<supplied reason="lost">ὰ μ</supplied>ὲν</rdg></app> δεῖ 
+    <lb n="15"/>ποιήσεις φρόντισας <app type="editorial"><lem>διʼ ῶ̔ν</lem><rdg>δι<supplied reason="lost">ὰ μ</supplied>ὲν</rdg></app> δεῖ 
 
     <lb n="16"/>ταῦτα ἐργασθῆναι. ὁ γὰρ 
 
@@ -153,7 +153,7 @@
 
     <lb n="10"/>βορρᾶν μέρος <add place="above"><app type="editorial"><lem>ζευγ<supplied reason="lost" cert="low">μάτων</supplied><certainty match=".." locus="value"/></lem><rdg>ζηλ</rdg></app></add> <app type="editorial"><lem><supplied reason="lost">τῶν με</supplied>
 
-    <lb n="11" break="no"/>γάλων <add place="above">ἐν Σοκ<gap reason="illegible" quantity="4" unit="character"/>ιδι</add></lem><rdg><gap reason="illegible" quantity="3" unit="character"/>γαμον</rdg></app>. <add place="above">καλῶς οὖν</add> <del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/>ν<gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap></del> 
+    <lb n="11" break="no"/>γάλων <add place="above">ἐν Σοκ<gap reason="illegible" quantity="4" unit="character"/>ιδι</add></lem><rdg><gap reason="illegible" quantity="3" unit="character"/>γαμον</rdg></app>. <add place="above">καλῶς οῦ̓ν</add> <del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/>ν<gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap></del> 
 
     <lb n="12"/>ποιήσεις ἀποστείλας 
 
@@ -190,9 +190,9 @@
 
     <lb n="12"/>Ψεον<supplied reason="lost">ν</supplied>ῶφριν χῶμα <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="13"/>καλῶς οὖν ποιήσεις 
+    <lb n="13"/>καλῶς οῦ̓ν ποιήσεις 
 
-    <lb n="14"/><gap reason="illegible" quantity="1" unit="character"/>νατ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><unclear>α</unclear>η <unclear>οὖ</unclear>ν συναναγκά<unclear>σ</unclear>αι 
+    <lb n="14"/><gap reason="illegible" quantity="1" unit="character"/>νατ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><unclear>α</unclear>η <unclear>οῦ̓</unclear>ν συναναγκά<unclear>σ</unclear>αι 
 
     <lb n="15"/>τὰ ἔργα <supplied reason="lost">σ</supplied>υντελεῖν ἤδη 
 
@@ -206,9 +206,9 @@
 
     <lb n="20" break="no"/>μαίδα ἀ<supplied reason="lost">φ</supplied>έσεων <choice><reg>ἠνῴξαμεν</reg><orig>ἠνώιξα<lb n="12" break="no"/>μεν</orig></choice> <num value="2">β</num> θύ<supplied reason="lost">ρας</supplied>. 
 
-    <lb n="21"/>μὴ οὖν γράφε ἡμῖν ὅτι <app type="editorial"><lem>οὐθέ<supplied reason="lost">ν</supplied>α λό
+    <lb n="21"/>μὴ οῦ̓ν γράφε ἡμῖν ὅτι <app type="editorial"><lem>οὐθέ<supplied reason="lost">ν</supplied>α λό
 
-    <lb n="22" break="no"/>γον</lem><rdg><gap reason="lost" extent="unknown" unit="character"/>γων</rdg></app> πεποιήμεθα. εἰ οὖν ἔτι <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+    <lb n="22" break="no"/>γον</lem><rdg><gap reason="lost" extent="unknown" unit="character"/>γων</rdg></app> πεποιήμεθα. εἰ οῦ̓ν ἔτι <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
 
     <lb n="23"/>ἀνοῖξαι δεῖ γράψον. 
 <milestone rend="paragraphos" unit="undefined"/>
@@ -231,7 +231,7 @@
 
     <lb n="2"/>ἕκτης α<gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="3"/>καλῶς οὖν ποιήσεις ε<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="3"/>καλῶς οῦ̓ν ποιήσεις ε<gap reason="lost" extent="unknown" unit="character"/> 
 
 
     <lb n="4"/>ἐπισκεψάμενος ἵνα ἀ<supplied reason="lost">πο</supplied>κα
@@ -260,7 +260,7 @@
 
     <lb n="16"/>ἐπιμελῶς καθʼ ἡμέραν 
 
-    <lb n="17"/>Διονυσίωι οὐδι ἔτι καὶ νῦν ἐπὶ τὴν <app type="editorial"><lem>ἄφεσιν</lem><rdg>εφεσ<supplied reason="lost">ιν</supplied></rdg></app> 
+    <lb n="17"/>Διονυσίωι οὐδι ἔτι καὶ νῦν ἐπὶ τὴν <app type="editorial"><lem>ἄφεσιν</lem><rdg>εφεσ<supplied reason="lost">ιν</supplied></rdg></app> 
 
     <lb n="18"/><add place="above"><app type="editorial"><lem>τὴν</lem><rdg>τῶν</rdg></app> ἐπὶ τῶν</add> <subst><add place="inline">Μοντιλαι</add><del rend="corrected">Μοντιλαι<del rend="erasure">ν</del></del></subst> ὁ παρὰ <app type="editorial"><lem>Νικ<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> π</supplied>επορεύται</lem><rdg>νικ<gap reason="lost" extent="unknown" unit="character"/>εθορω ται</rdg></app> </ab></div></div>
       </body>

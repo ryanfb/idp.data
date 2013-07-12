@@ -69,19 +69,19 @@
 
     <lb n="6"/><expan>ἄρ<ex>ουραι</ex></expan> <num value="717">ψιζ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/16" rend="tick">ιϛ</num> <num value="1/32" rend="tick">λβ</num>, 
 
-    <lb n="7"/>ἀφʼ ὧν ἀπολείπουσιν πρὸς τὴν πυρο
+    <lb n="7"/>ἀφʼ ῶ̔ν ἀπολείπουσιν πρὸς τὴν πυρο
 
     <lb n="8" break="no"/>φόρον <num value="407">υζ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/16" rend="tick">ιϛ</num> <num value="1/32" rend="tick">λβ</num>, <choice><reg>κνήκωι</reg><orig>κνηκου</orig></choice> <num value="300">τ</num>, 
 
     <lb n="9"/>ὀρόβωι <num value="10">ι</num>, ἀράκωι <num value="100">ρ</num>, <expan>γ<ex>ίνονται</ex></expan> <num value="817">ωιζ</num> <app type="editorial"><lem resp="BL 8.308"><num value="1/2">𐅵</num></lem><rdg/></app>  <num value="1/4" rend="tick">δ</num> <num value="1/16" rend="tick">ιϛ</num> <num value="1/32" rend="tick">λβ</num>. 
 
-    <lb n="10"/>ἀνταναιρουμένων δὲ ὧι πλείω 
+    <lb n="10"/>ἀνταναιρουμένων δὲ ῶ̔ι πλείω 
 
     <lb n="11"/>κατέσπαρκεν κριθῆι <supplied reason="lost"><num value="100">ρ</num></supplied> 
 
     <lb n="12"/>καταλείπονται <num value="717">ψιζ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <num value="1/16" rend="tick">ιϛ</num> <num value="1/32" rend="tick">λβ</num>, 
 
-    <lb n="13"/>ἀφʼ ὧν δεῖ κατασπαρῆναι 
+    <lb n="13"/>ἀφʼ ῶ̔ν δεῖ κατασπαρῆναι 
 
     <lb n="14"/>κνήκωι <num value="300">τ</num>, <choice><reg>ἀράκωι</reg><orig>ὀρόβωι</orig></choice>  <num value="100">ρ</num>, 
 
@@ -94,13 +94,13 @@
 
     <lb n="18"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> κριθῆς <num value="76">οϛ</num> <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="19"/>ἀνταναιρουμ<supplied reason="lost">ένω</supplied>ν δὲ ὧι π<supplied reason="lost">λείω κατέσ</supplied>
+    <lb n="19"/>ἀνταναιρουμ<supplied reason="lost">ένω</supplied>ν δὲ ῶ̔ι π<supplied reason="lost">λείω κατέσ</supplied>
 
     <lb n="20" break="no"/>παρκεν ἀράκ<supplied reason="lost">ωι</supplied> <num value="105"><unclear>ρε</unclear></num> 
 
     <lb n="21"/>καταλείποντ<supplied reason="lost">αι </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="22"/><supplied reason="lost">ὧν</supplied> δεῖ κατασπαρῆναι <gap reason="illegible" quantity="2" unit="character"/> 
+    <lb n="22"/><supplied reason="lost">ῶ̔ν</supplied> δεῖ κατασπαρῆναι <gap reason="illegible" quantity="2" unit="character"/> 
 
     <lb n="23"/><gap reason="lost" extent="unknown" unit="character"/>,νοι η<unclear>κ</unclear>αμν<gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -108,13 +108,13 @@
 
     <lb n="24"/>Εὐημερίας διὰ <supplied reason="lost">Ἁρ</supplied>μάιος <num value="882">ωπβ</num>, 
 
-    <lb n="25"/>ἀφʼ ὧν <app type="editorial"><lem resp="BL 7.183">ἀ<unclear>π</unclear><supplied reason="lost">ο</supplied><unclear>λ</unclear><supplied reason="lost">είπουσιν </supplied><gap reason="lost" quantity="8" unit="character"/></lem><rdg>δεῖ <supplied reason="lost">κατασπαρῆναι </supplied><gap reason="lost" quantity="4" unit="character"/></rdg></app> <num value="718"><unclear>ψιη</unclear></num> 
+    <lb n="25"/>ἀφʼ ῶ̔ν <app type="editorial"><lem resp="BL 7.183">ἀ<unclear>π</unclear><supplied reason="lost">ο</supplied><unclear>λ</unclear><supplied reason="lost">είπουσιν </supplied><gap reason="lost" quantity="8" unit="character"/></lem><rdg>δεῖ <supplied reason="lost">κατασπαρῆναι </supplied><gap reason="lost" quantity="4" unit="character"/></rdg></app> <num value="718"><unclear>ψιη</unclear></num> 
 
     <lb n="26"/>κνήκωι <gap reason="illegible" quantity="3" unit="character"/>, λίνωι <gap reason="lost" quantity="2" unit="character"/>, 
 
     <lb n="27"/>ὀρόβωι <gap reason="lost" quantity="2" unit="character"/>, <expan>γ<ex>ίνονται</ex></expan> <app type="editorial"><lem resp="BL 7.183"><num value="915">ϡιε</num></lem><rdg><num value="315">τιε</num></rdg></app>, 
 
-    <lb n="28"/><supplied reason="lost">ἀφʼ ὧν ἀνταναιρουμέν</supplied>ων ὧι π<supplied reason="lost">λείω</supplied> 
+    <lb n="28"/><supplied reason="lost">ἀφʼ ῶ̔ν ἀνταναιρουμέν</supplied>ων ῶ̔ι π<supplied reason="lost">λείω</supplied> 
 
     <lb n="29"/>κατέσπαρκεν <gap reason="illegible" quantity="1" unit="character"/><unclear>η</unclear>ιι<gap reason="illegible" quantity="4" unit="character"/> 
 
@@ -123,13 +123,13 @@
     <lb n="31"/>καταλείπονται <num value="882"><supplied reason="lost">ω</supplied><unclear>π</unclear>β</num> 
 </ab></div><div n="C" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="32"/><supplied reason="lost">Φιλα</supplied>γ<unclear>ρ</unclear>ίδος διὰ <app type="editorial"><lem resp="BL 8.309"><unclear>Ῥ</unclear><gap reason="illegible" quantity="4" unit="character"/><unclear>ιος</unclear></lem><rdg>Ι<gap reason="illegible" quantity="4" unit="character"/><unclear>ιος</unclear></rdg></app> <num value="194">ρϙδ</num> <app type="editorial"><lem resp="BL 8.309"><num value="1/2">𐅵</num></lem><rdg/></app> <expan><ex>ὧν</ex></expan> 
+    <lb n="32"/><supplied reason="lost">Φιλα</supplied>γ<unclear>ρ</unclear>ίδος διὰ <app type="editorial"><lem resp="BL 8.309"><unclear>Ῥ</unclear><gap reason="illegible" quantity="4" unit="character"/><unclear>ιος</unclear></lem><rdg>Ι<gap reason="illegible" quantity="4" unit="character"/><unclear>ιος</unclear></rdg></app> <num value="194">ρϙδ</num> <app type="editorial"><lem resp="BL 8.309"><num value="1/2">𐅵</num></lem><rdg/></app> <expan><ex>ῶ̔ν</ex></expan> 
 
     <lb n="33"/><supplied reason="lost">πρ</supplied>ὸς τὴν πυροφόρον <num value="156">ρνϛ</num>, μήκωνι <num value="40">μ</num>, 
 
     <lb n="34"/><supplied reason="lost">λί</supplied>νωι <num value="8">η</num>, κνήκωι <num value="120">ρκ</num>, ὀρόβωι <num value="30">λ</num>, <expan>γ<ex>ίνονται</ex></expan> <num value="354">τνδ</num>, 
 
-    <lb n="35"/>ἀνταναιρουμένων δὲ ὧι πλείω κατέ
+    <lb n="35"/>ἀνταναιρουμένων δὲ ῶ̔ι πλείω κατέ
 
     <lb n="36" break="no"/><supplied reason="lost">σπ</supplied>αρκεν τῶν καθόλου μὴ δι<supplied reason="lost">αγεγρ</supplied>αμμένων 
 
@@ -137,7 +137,7 @@
 
     <lb n="38"/>καταλείπονται <num value="194">ρϙδ</num>, 
 
-    <lb n="39"/><supplied reason="lost">ἀφʼ ὧν</supplied> δεῖ κατασπαρῆναι μήκωνι <num value="40">μ</num>, 
+    <lb n="39"/><supplied reason="lost">ἀφʼ ῶ̔ν</supplied> δεῖ κατασπαρῆναι μήκωνι <num value="40">μ</num>, 
 
     <lb n="40"/><supplied reason="lost">ὀρό</supplied>βωι <num value="30">λ</num>, λίνωι <num value="8">η</num>, κνήκωι <num value="116">ριϛ</num>, <expan>γ<ex>ίνονται</ex></expan> <num value="194">ρϙδ</num>. 
 </ab></div><div n="FrB" type="textpart"><!--milestone unit="3"--><ab>
@@ -155,7 +155,7 @@
 
     <lb n="6"/><space extent="unknown" unit="character"/> 
 
-    <lb n="6"/><handShift new="m2"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Εὐη</supplied>μέριαν <app type="editorial"><lem resp="BL 7.183">ὧι συνεγγύησα</lem><rdg>δισυνεγγύησα</rdg></app> 
+    <lb n="6"/><handShift new="m2"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Εὐη</supplied>μέριαν <app type="editorial"><lem resp="BL 7.183">ῶ̔ι συνεγγύησα</lem><rdg>δισυνεγγύησα</rdg></app> 
 
     <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>ν καὶ Εὔβιον καὶ <unclear>π</unclear>ερι<gap reason="illegible" quantity="2" unit="character"/> 
 
@@ -194,7 +194,7 @@
 
     <lb n="21"/><supplied reason="lost" cert="low">μετὰ δὲ ταῦτα ἐκτινάξεις τὸν ἐν Φιλαγρίδι. 
 
-    <lb n="22"/>μὴ οὖν ἄλλως ποιήσῃς, ὑπομένω γάρ <app type="editorial"><lem resp="BL 7.183"><del rend="erasure">ς</del> ἕως τοῦ</lem><rdg>σε ὥστε</rdg></app> 
+    <lb n="22"/>μὴ οῦ̓ν ἄλλως ποιήσῃς, ὑπομένω γάρ <app type="editorial"><lem resp="BL 7.183"><del rend="erasure">ς</del> ἕως τοῦ</lem><rdg>σε ὥστε</rdg></app> 
 
     <lb n="23"/>ἐνάρξασθαί σε. 
 <milestone rend="paragraphos" unit="undefined"/>
@@ -204,7 +204,7 @@
 
     <lb n="25" break="no"/>ναι ἡμῖν τὸ σιτάριον, ὃ προσοφείλεις, εἰ δέ <app type="editorial"><lem resp="BL 7.183">τι σοι</lem><rdg>τισι</rdg></app> 
 
-    <lb n="26"/>χαλκὸν προσοφείλομεν, κόμισαι ἤδη. μὴ οὖν 
+    <lb n="26"/>χαλκὸν προσοφείλομεν, κόμισαι ἤδη. μὴ οῦ̓ν 
 
     <lb n="27"/>ἄλλως <expan>πο<ex>ιήσῃς</ex></expan>. 
 <milestone rend="paragraphos" unit="undefined"/>
@@ -214,7 +214,7 @@
 
     <lb n="29"/>Μηνοδώρου βούλεσθαι λαβεῖν σ<unclear>οι</unclear> Δεινίαν τὸν 
 
-    <lb n="30"/>ἐκ Κερκεσούχων. καλῶς οὖν <expan>πο<ex>ιήσεις</ex></expan> ἀναβὰς <add place="above">απεγευκαιρης</add> εἰς Κροκο
+    <lb n="30"/>ἐκ Κερκεσούχων. καλῶς οῦ̓ν <expan>πο<ex>ιήσεις</ex></expan> ἀναβὰς <add place="above">απεγευκαιρης</add> εἰς Κροκο
 
     <lb n="31" break="no"/>δίλων <expan>πό<ex>λιν</ex></expan> καὶ ἰδὼν αὐτόν, παράλαβε δὲ καὶ 
 
@@ -241,7 +241,7 @@
 
     <lb n="41"/>Σφίνει. τὰ Ἀντιόχου πρόβατα τ<supplied reason="lost">ὰ</supplied> ἐν <app type="editorial"><lem resp="BL 6.131">Ἑρμ<supplied reason="lost">οῦ πόλει </supplied><gap reason="lost" quantity="8" unit="character"/></lem><rdg>Ἑρμ<gap reason="lost" quantity="15" unit="character"/></rdg></app> 
 
-    <lb n="42"/>μὴ ἀπέλθωσιν, οὗ δόντες μοι τὰ ς<gap reason="lost" quantity="15" unit="character"/> 
+    <lb n="42"/>μὴ ἀπέλθωσιν, οῦ̔ δόντες μοι τὰ ς<gap reason="lost" quantity="15" unit="character"/> 
 <milestone rend="paragraphos" unit="undefined"/>
     <lb n="43"/>ἄλλη τῶι <supplied reason="lost">αὐ</supplied>τῶι. <del rend="erasure"><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/></del> προσπέπτωκ<supplied reason="lost">έ μοι τὴν διαγεγραμ</supplied>
 
@@ -249,7 +249,7 @@
 
     <lb n="45"/>καὶ ἐν Φιλαγρίδι κατεσπαρκέναι σί<supplied reason="lost" cert="low">τωι</supplied><gap reason="lost" quantity="5" unit="character"/><supplied reason="lost">, ἔδει</supplied> 
 
-    <lb n="46"/>μὲν οὖν σε, εἰ ἐφρόντιζες σαυτοῦ κ<supplied reason="lost" cert="low">αὶ τοῦ δέοντος</supplied> 
+    <lb n="46"/>μὲν οῦ̓ν σε, εἰ ἐφρόντιζες σαυτοῦ κ<supplied reason="lost" cert="low">αὶ τοῦ δέοντος</supplied> 
 
     <lb n="47"/><app type="editorial"><lem resp="BL 7.184">πεποιῆσθαι</lem><rdg>πεπτῆσθαι</rdg></app> κατὰ κώμην <add place="above"><surplus>κ</surplus></add> καὶ <add place="above">κατʼ ἄνδρ<supplied reason="lost">α </supplied><gap reason="lost" extent="unknown" unit="character"/></add> <unclear>προλαβ</unclear><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -259,7 +259,7 @@
 
     <lb n="50"/><app type="editorial"><lem resp="BL 6.131">ἡ</lem><rdg>ἢ</rdg></app> ὀροβοφόρος καὶ κνηκοφόρος καὶ μηκωνοφόρ<supplied reason="lost">ος </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="51"/>φρόντισον <app type="editorial"><lem resp="BL 6.131">οὖν</lem><rdg>οὖν πρὸ</rdg></app> τοῦ παραγενέσθαι ἕως τ<supplied reason="lost">ῆς</supplied> κώμ<supplied reason="lost">ης </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="51"/>φρόντισον <app type="editorial"><lem resp="BL 6.131">οῦ̓ν</lem><rdg>οῦ̓ν πρὸ</rdg></app> τοῦ παραγενέσθαι ἕως τ<supplied reason="lost">ῆς</supplied> κώμ<supplied reason="lost">ης </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 <milestone rend="paragraphos" unit="undefined"/>
     <lb n="52"/><app type="editorial"><lem resp="BL 7.184">Ἀθέμμεῖ</lem><rdg>Θέ<unclear>μ</unclear>μει</rdg></app>. ἀπέσταλκα <unclear>Φαίην</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
 

@@ -67,9 +67,9 @@
 
     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> ἔχοντά σου ὅλον τὸν 
 
-    <lb n="6"/>λόγον, οὗ καὶ <supplied reason="lost">ἀντί</supplied>γραφον ἔχεις. διάβηθι 
+    <lb n="6"/>λόγον, οῦ̔ καὶ <supplied reason="lost">ἀντί</supplied>γραφον ἔχεις. διάβηθι 
 
-    <lb n="7"/>οὖν εἰς Ἑπτα<supplied reason="lost">κωμί</supplied>αν μετʼ αὐτοῦ, μετὰ καὶ 
+    <lb n="7"/>οῦ̓ν εἰς Ἑπτα<supplied reason="lost">κωμί</supplied>αν μετʼ αὐτοῦ, μετὰ καὶ 
 
     <lb n="8"/>τοῦ Εὐτύχου, ὃ<unclear>ν</unclear> <supplied reason="lost">ἐ</supplied>ποίησας κύριον τῶν 
 
@@ -85,11 +85,11 @@
 
     <lb n="14"/>φακὸν <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="5" unit="character"/><unclear>α</unclear>ι κα<supplied reason="lost">ὶ τ</supplied>ὰ ἄλλα <gap reason="lost" quantity="6" unit="character"/><supplied reason="lost"> ἐ</supplied>
 
-    <lb n="15" break="no"/>γὼ γὰρ οὔτ<supplied reason="lost">ε τὸν ἄ</supplied>ροτρον ἔσχ<supplied reason="lost">ο</supplied>ν οὔτε εἶ
+    <lb n="15" break="no"/>γὼ γὰρ οὔτ<supplied reason="lost">ε τὸν ἄ</supplied>ροτρον ἔσχ<supplied reason="lost">ο</supplied>ν οὔτε εῖ̓
 
     <lb n="16" break="no"/>πό<supplied reason="lost">ν</supplied> σοι αὐτῶ<supplied reason="lost">ι δοῦ</supplied>ναί τι. καὶ εἰ καθεστά
 
-    <lb n="17" break="no"/>κειν δέ, οὐκ ἂ<supplied reason="lost">ν</supplied> <unclear>εἶχ</unclear>ες αὐτῷ δοῦναι 
+    <lb n="17" break="no"/>κειν δέ, οὐκ ἂ<supplied reason="lost">ν</supplied> <unclear>εῖ̓χ</unclear>ες αὐτῷ δοῦναι 
 
     <lb n="18"/>χωρὶς ἐμοῦ ἢ ἐξουσίας, εἰ εὐνοεῖς μοι, 
 
@@ -97,7 +97,7 @@
 
     <lb n="20" break="no"/>θήσαντ<supplied reason="lost">ί</supplied> μοι <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>υχεως, ἀλλὰ διέτρι
 
-    <lb n="21" break="no"/>ψας ἤδη ἐ<supplied reason="lost" cert="low">πιδη</supplied>μήσας ἐξ οὗ κατέπλευσα, 
+    <lb n="21" break="no"/>ψας ἤδη ἐ<supplied reason="lost" cert="low">πιδη</supplied>μήσας ἐξ οῦ̔ κατέπλευσα, 
 
     <lb n="22"/>ἵνα σὺ λά<supplied reason="lost">βῃς τὴν</supplied> τιμὴν τοῦ οἴνου ἀνὰ 
 
@@ -114,7 +114,7 @@
 
     <lb n="28"/>ὁ Εὔτυχος <choice><reg>καὶ ἐκεῖνος</reg><orig>κἀκεῖνος</orig></choice> ὅτι οὐ δίδωμι χωρὶς σοῦ. 
 
-    <lb n="29"/>ἴσθι οὖν ὅτι παραγράψω σε τὴν τιμὴν τοῦ οἴνου 
+    <lb n="29"/>ἴσθι οῦ̓ν ὅτι παραγράψω σε τὴν τιμὴν τοῦ οἴνου 
 
     <lb n="30"/>εἰς <expan>δραχ<ex>μὰς</ex></expan> πέντε <num value="5"/>. <choice><reg>καὶ ἐὰν</reg><orig>κἂν</orig></choice> νῦν μὴ λάβωι, ἔγραψα 
 
@@ -148,7 +148,7 @@
 
     <lb n="45"/><handShift new="m3"/> ἔρρωσο. 
 
-    <lb n="46"/><handShift new="m3" cert="low"/> <expan><ex>ἔτους</ex></expan> <num value="17">ιζ</num> Αὐτοκράτορος Καίσαρος τοῦ κυρίου Πα<hi rend="diaeresis">ῧ</hi>νι <num value="18">ιη</num>. 
+    <lb n="46"/><handShift new="m3" cert="low"/> <expan><ex>ἔτους</ex></expan> <num value="17">ιζ</num> Αὐτοκράτορος Καίσαρος τοῦ κυρίου Πα<hi rend="diaeresis">ῦ̈</hi>νι <num value="18">ιη</num>. 
 </ab></div><div n="v" type="textpart"><ab>
 
     <lb n="47"/><handShift new="m4"/> <supplied reason="lost">Διοσ</supplied>κόρωι <g type="x"/> <supplied reason="lost">τῶι φ</supplied>ίλωι </ab></div></div>

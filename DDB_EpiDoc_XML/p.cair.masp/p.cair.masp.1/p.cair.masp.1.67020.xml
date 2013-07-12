@@ -49,7 +49,7 @@
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><div n="r" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="1"/><g type="stauros"/> τὸ γονικὸν <subst><add place="inline"><add place="above"><hi rend="diaeresis">ὑ</hi></add>μῶν</add><del rend="corrected">ημων</del></subst> καὶ ἐνδιάθετον καὶ μεγαλοπρεπὲς αἷμα δικαιοσύ<add place="above">νη<supplied reason="lost" cert="low">ν</supplied></add> 
+    <lb n="1"/><g type="stauros"/> τὸ γονικὸν <subst><add place="inline"><add place="above"><hi rend="diaeresis">ὑ</hi></add>μῶν</add><del rend="corrected">ημων</del></subst> καὶ ἐνδιάθετον καὶ μεγαλοπρεπὲς αῖ̔μα δικαιοσύ<add place="above">νη<supplied reason="lost" cert="low">ν</supplied></add> 
 
     <lb n="2"/>ἔμφυτον ἐ<add place="above">δί</add>κτων <subst><add place="inline"><unclear>ἀεὶ</unclear></add><del rend="corrected"><unclear>α</unclear><gap reason="illegible" quantity="2" unit="character"/></del></subst> φυλάττει περὶ πάντας· μάλιστα δὲ ὀφείλει ἐπὶ πλεῖ<add place="above">ον</add>, 
 
@@ -57,7 +57,7 @@
 
     <lb n="4"/><subst><add place="inline"><supplied reason="lost">β</supplied>ουλομέν<add place="above">οι</add>ς</add><del rend="corrected"><supplied reason="lost">β</supplied>ουλομεν<del rend="erasure">η</del>ς</del></subst> τυχεῖν π<add place="above">α</add>ρηγορίας τῶν ἑαυτῶν ἀδικημάτων, τὴν <choice><reg>ἀτυχῆ</reg><orig>ἀσυχῆ</orig></choice> 
 
-    <lb n="5"/><choice><reg>θλῖψιν</reg><orig>θλεῖψιν</orig></choice> <unclear>ὑπ</unclear>οφέρουσιν. ἐπ<unclear>εὶ</unclear> οὖν, δέσποτα, μετὰ τὸν <expan>δεσ<supplied reason="lost">π</supplied>ότ<ex>ην</ex></expan> Θεόν, εὐεργέτα, <expan>κ<ex>αὶ</ex></expan> τὸν <unclear>ι</unclear><add place="above"><gap reason="illegible" quantity="3" unit="character"/><unclear>εν</unclear></add> 
+    <lb n="5"/><choice><reg>θλῖψιν</reg><orig>θλεῖψιν</orig></choice> <unclear>ὑπ</unclear>οφέρουσιν. ἐπ<unclear>εὶ</unclear> οῦ̓ν, δέσποτα, μετὰ τὸν <expan>δεσ<supplied reason="lost">π</supplied>ότ<ex>ην</ex></expan> Θεόν, εὐεργέτα, <expan>κ<ex>αὶ</ex></expan> τὸν <unclear>ι</unclear><add place="above"><gap reason="illegible" quantity="3" unit="character"/><unclear>εν</unclear></add> 
 
     <lb n="6"/>πρόστατα πάσης τῆς ἐπαρχ<add place="above">ε</add>ίας, ὡς ἀπὸ Δίος <subst><add place="inline">γένους</add><del rend="corrected">γενος</del></subst> λελάχατε αἵμα τῷ ἀληθεῖ, 
 
@@ -67,7 +67,7 @@
 
     <lb n="9"/>καὶ <expan>μεγαλοπρ<ex>επεστάτην</ex></expan> <choice><reg>δεσποτεία<supplied reason="omitted">ν</supplied></reg><orig>δ<unclear>εσπο</unclear>τεια</orig></choice>, κατελεῆσαι <unclear>το</unclear><supplied reason="lost">ὺ</supplied><unclear>ς</unclear> β<unclear>ε</unclear>βλ<unclear>η</unclear>μένους <add place="above">ἀπὸ Ἀ<unclear>φροδίτ</unclear>ης</add> ἐπὶ δημοσίᾳ φ<unclear>υλ</unclear>α<unclear>κῇ</unclear>. 
 
-    <lb n="10"/>οἷον γὰρ <add place="above">φιλότεκνοι</add> πατέρες <subst><add place="inline"><choice><reg>ὑμῶν</reg><orig>ἡμῶν</orig></choice></add><del rend="corrected">υμων</del></subst>, πάντων τῶν <choice><reg>ἀπεριστάτων</reg><orig>ἀπερ<unclear>ε</unclear>στάτων</orig></choice> ἐστε <choice><reg>πανοίκτιστοι</reg><orig>πανοίκτισται</orig></choice>, <choice><reg>κειμήλιοι</reg><orig>κιμήλιοι</orig></choice> 
+    <lb n="10"/>οῖ̔ον γὰρ <add place="above">φιλότεκνοι</add> πατέρες <subst><add place="inline"><choice><reg>ὑμῶν</reg><orig>ἡμῶν</orig></choice></add><del rend="corrected">υμων</del></subst>, πάντων τῶν <choice><reg>ἀπεριστάτων</reg><orig>ἀπερ<unclear>ε</unclear>στάτων</orig></choice> ἐστε <choice><reg>πανοίκτιστοι</reg><orig>πανοίκτισται</orig></choice>, <choice><reg>κειμήλιοι</reg><orig>κιμήλιοι</orig></choice> 
 
     <lb n="11"/>πάσης τῆς ἐπαρχ<add place="above">ε</add>ίας, καὶ πενήτων <choice><reg>θρεπτῆρες</reg><orig>θρεπτητο<unclear>ρες</unclear></orig></choice> καὶ τυφλῶν καὶ <choice><reg>εὔσπλαγχνοι</reg><orig>εὔσφλ<unclear>αγ</unclear>χν<unclear>οι</unclear></orig></choice> 
 
@@ -83,7 +83,7 @@
 
     <lb n="17"/><subst><add place="inline"><add place="above">γ</add>ναφεῖς</add><del rend="corrected"><del rend="erasure">κ</del>ναφεις</del></subst> καὶ χαλκ<add place="above">ε</add>ῖς καὶ τέκτονες <add place="above"><expan>κ<ex>αὶ</ex></expan> <choice><reg>πακτωνοποιοί</reg><orig>πακτοποιοί</orig></choice>,</add> καὶ οὐδὲν ἄλλο αὐτοῖς ἐστιν <unclear>ἐρ</unclear>γόχειρον ἀπὸ γονέ<unclear>ω</unclear>ν 
 
-    <lb n="18"/>καὶ <unclear>πρ</unclear>ογόνων, <unclear>εἰ</unclear> μὴ τ<unclear>ὸ</unclear> τῆς τοιαύτης τέχνης τὸ ἐπίκτημα· ἅπαξ οὖν, <expan>δέσπο<ex>τα</ex></expan>, τὸν δέοντα 
+    <lb n="18"/>καὶ <unclear>πρ</unclear>ογόνων, <unclear>εἰ</unclear> μὴ τ<unclear>ὸ</unclear> τῆς τοιαύτης τέχνης τὸ ἐπίκτημα· ἅπαξ οῦ̓ν, <expan>δέσπο<ex>τα</ex></expan>, τὸν δέοντα 
 
     <lb n="19"/><supplied reason="lost">σ</supplied><unclear>ω</unclear>φρονισμὸν ἐ<unclear>π</unclear>είχασιν, πολλῶν ἤδ<unclear>η</unclear> <unclear>γεν</unclear>αμένων ἡμερῶν <unclear>ἐ</unclear>ν κατ<add place="above">ε</add>ιργασμένῃ. 
 </ab></div><div n="v" type="textpart"><!--milestone unit="4"--><ab>
@@ -106,11 +106,11 @@
 
     <lb n="8"/><unclear>ει</unclear> <unclear>καὶ</unclear> <unclear>ανεν</unclear><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>πο<unclear>θε</unclear>ν αὐτῶν τὸν <unclear>σ</unclear>πό<unclear>ρ</unclear>ον φιλοκαλ<unclear>ε</unclear><supplied reason="lost">ῖσ</supplied><unclear>θα</unclear><supplied reason="lost">ι</supplied>. 
 
-    <lb n="9"/><unclear>μὴ</unclear> <unclear>οὖν</unclear> <unclear>ἀποτύχω</unclear> τῆ<unclear>ς</unclear> <supplied reason="lost">π</supplied><unclear>α</unclear><supplied reason="lost">ρ</supplied><unclear>ακλήσεως</unclear> <unclear>καὶ</unclear> τῆς αἰτήσε<unclear>ω</unclear>ς, τὴν σωτη<unclear>ρί</unclear><supplied reason="lost">αν</supplied> 
+    <lb n="9"/><unclear>μὴ</unclear> <unclear>οῦ̓ν</unclear> <unclear>ἀποτύχω</unclear> τῆ<unclear>ς</unclear> <supplied reason="lost">π</supplied><unclear>α</unclear><supplied reason="lost">ρ</supplied><unclear>ακλήσεως</unclear> <unclear>καὶ</unclear> τῆς αἰτήσε<unclear>ω</unclear>ς, τὴν σωτη<unclear>ρί</unclear><supplied reason="lost">αν</supplied> 
 
     <lb n="10"/>τῶν φιλτάτ<supplied reason="lost">ων</supplied> <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <unclear>καὶ</unclear> <unclear>αει</unclear><gap reason="illegible" quantity="2" unit="character"/> 
 
-    <lb n="11"/>π<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>τοι περὶ πᾶν ὅ τι οὖν <unclear>π</unclear><supplied reason="lost">ερισ</supplied><unclear>πούδα</unclear><supplied reason="lost">στον τῷ Θεῷ</supplied> <unclear>ἔρ</unclear>γον τολμη<unclear>ρὸ</unclear><supplied reason="lost">ν</supplied> 
+    <lb n="11"/>π<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>τοι περὶ πᾶν ὅ τι οῦ̓ν <unclear>π</unclear><supplied reason="lost">ερισ</supplied><unclear>πούδα</unclear><supplied reason="lost">στον τῷ Θεῷ</supplied> <unclear>ἔρ</unclear>γον τολμη<unclear>ρὸ</unclear><supplied reason="lost">ν</supplied> 
 
     <lb n="12"/>τολμώτατα <del rend="erasure">τὴν</del> <unclear>ἐ</unclear>νετόλ<unclear>μ</unclear>η<unclear>σα</unclear> <unclear>μὲν</unclear> <unclear>γράψ</unclear>αι οὐκ ελειων μή<unclear>τε</unclear> <unclear>νει</unclear><gap reason="illegible" quantity="3" unit="character"/> 
 

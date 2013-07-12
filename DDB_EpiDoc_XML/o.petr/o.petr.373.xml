@@ -50,7 +50,7 @@
 
     <lb n="3"/>Παμώνθης <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="4"/>Ὧρος Ὀννώφρι<supplied reason="lost">ος </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="4"/>Ὧρος Ὀννώφρι<supplied reason="lost">ος </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="5"/>Πατώτης Ἁρ<unclear>πα</unclear><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -71,7 +71,7 @@
 
     <lb n="00" rend="inverse"/> <expan>Πασῆ<unclear>μ</unclear><ex>ις</ex></expan> 
 
-    <lb n="00" rend="inverse"/> Ὧρος Ἁρπο<unclear>κρ</unclear><gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>
+    <lb n="00" rend="inverse"/> Ὧρος Ἁρπο<unclear>κρ</unclear><gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>
       </body>
    </text>
 </TEI>

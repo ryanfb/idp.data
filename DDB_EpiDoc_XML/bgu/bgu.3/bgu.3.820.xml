@@ -55,7 +55,7 @@
 
     <lb n="3"/><gap reason="lost" quantity="10" unit="character"/><supplied reason="lost"> παραγρα</supplied>φὴ ἤχθη τῷ αὐτῷ <num value="28">κη</num> <expan><ex>ἔτει</ex></expan> εἰς βασιλικὸν 
 
-    <lb n="4"/><gap reason="lost" quantity="16" unit="character"/>νον ὑπὲρ οὗ δεῖ <supplied reason="lost">χ</supplied>ρόνου, λογισθήτω δὲ <num value="31">λα</num> <expan><ex cert="low">ἔτους</ex></expan> 
+    <lb n="4"/><gap reason="lost" quantity="16" unit="character"/>νον ὑπὲρ οῦ̔ δεῖ <supplied reason="lost">χ</supplied>ρόνου, λογισθήτω δὲ <num value="31">λα</num> <expan><ex cert="low">ἔτους</ex></expan> 
 
     <lb n="5"/><gap reason="lost" quantity="16" unit="character"/>όμενον ὑπὲρ ἐτῶν ἓξ <num value="6"/> ἀναλαβὼν <num value="1">α</num> <expan><ex cert="low">ἐτ</ex></expan> 
 
@@ -99,7 +99,7 @@
 
     <lb n="25"/><gap reason="lost" quantity="15" unit="character"/> ὁ βασιλικὸς γρα<supplied reason="lost">μ</supplied>μ<supplied reason="lost">α</supplied>τεὺς τὰς 
 
-    <lb n="26"/><gap reason="lost" quantity="14" unit="character"/><supplied reason="lost"> ὑ</supplied>πὲρ οὗ δεῖ χρόν<supplied reason="lost">ου ἀν</supplied>αλαβὼν <num value="1">α</num> <expan><ex cert="low">ἐτ</ex></expan> 
+    <lb n="26"/><gap reason="lost" quantity="14" unit="character"/><supplied reason="lost"> ὑ</supplied>πὲρ οῦ̔ δεῖ χρόν<supplied reason="lost">ου ἀν</supplied>αλαβὼν <num value="1">α</num> <expan><ex cert="low">ἐτ</ex></expan> 
 
     <lb n="27"/><app type="editorial"><lem resp="BL 1.69"><gap reason="lost" quantity="15" unit="character"/>το.  διὸ τοῖς <choice><reg>συνεμπίπτουσιν</reg><orig>συ<unclear>ν</unclear>εν<unclear>π</unclear>ει<unclear>πτου</unclear><supplied reason="lost">σ</supplied>ι</orig></choice></lem><rdg><gap reason="lost" quantity="15" unit="character"/>τοδιοτοις <choice><reg><expan>συ<unclear>ν</unclear>εν<unclear>π</unclear>ί<unclear>πτου</unclear><ex>σιν</ex></expan></reg><orig>συ<unclear>ν</unclear>εν<unclear>π</unclear>ει<unclear>πτου</unclear></orig></choice></rdg></app> εἰς τὸν 
 

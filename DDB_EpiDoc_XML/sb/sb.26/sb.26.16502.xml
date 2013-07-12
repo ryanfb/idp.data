@@ -80,7 +80,7 @@
 
     <lb n="15" break="no"/>ράτορ<unclear>ο</unclear>ς <expan>Αὐρ<ex>ηλίου</ex></expan> Σιλουαν<unclear>οῦ</unclear> τοῦ καὶ Σερηνισιδ<unclear>ώ</unclear>ρου καὶ αὐτ<supplied reason="lost">οῦ ἀπὸ τῆς αὺτῆς πόλεως,</supplied> <gap reason="lost" extent="unknown" unit="character"/>
 
-    <lb n="16"/>καὶ <choice><reg>προσενηνοχέναι</reg><orig>προσενηναχέναι</orig></choice> αὐτῇ τῇ <subst><add place="inline">θυγατρὶ</add><del rend="corrected">τησατρι</del></subst> τὴν οὖσαν αὐ<supplied reason="lost">τῇ φερνὴν ἐν κόσμῳ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="16"/>καὶ <choice><reg>προσενηνοχέναι</reg><orig>προσενηναχέναι</orig></choice> αὐτῇ τῇ <subst><add place="inline">θυγατρὶ</add><del rend="corrected">τησατρι</del></subst> τὴν οῦ̓σαν αὐ<supplied reason="lost">τῇ φερνὴν ἐν κόσμῳ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
 
     <lb n="17"/>καὶ <hi rend="diaeresis">ἱ</hi>ματισμῷ καὶ <unclear>ὀ</unclear>θόνῃ καὶ ἐν <unclear>ἄ</unclear>λλοις γυναι<unclear>κείοι</unclear>ς <unclear>πρ</unclear><supplied reason="lost">άγμασι</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">καὶ</supplied>
 
@@ -94,7 +94,7 @@
 
     <lb n="22"/><unclear>μ</unclear>ων ὑπὲρ ἕδνων χρυσοῦ λίτρα<unclear>ν</unclear> <supplied reason="lost">μίαν<num value="1"/></supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">καὶ παιδί</supplied>
 
-    <lb n="23" break="no"/>σκας δύο Εὖ<unclear>ν</unclear> παρθέν<unclear>ον</unclear> <unclear>ὡ</unclear>ς <expan><ex cert="low">ἐτῶν</ex></expan> <num value="17">ιζ</num> <supplied reason="lost">καὶ <note xml:lang="en">name</note> ὡς <expan><ex>ἐτῶν</ex></expan> <num><gap reason="illegible" atLeast="1" atMost="2" unit="character"/></num>,</supplied> <supplied reason="lost" cert="low">ἀνθ’</supplied> <supplied reason="lost" cert="low">ὧν</supplied> <supplied reason="lost">ὁμολογεῖ</supplied> 
+    <lb n="23" break="no"/>σκας δύο Εῦ̓<unclear>ν</unclear> παρθέν<unclear>ον</unclear> <unclear>ὡ</unclear>ς <expan><ex cert="low">ἐτῶν</ex></expan> <num value="17">ιζ</num> <supplied reason="lost">καὶ <note xml:lang="en">name</note> ὡς <expan><ex>ἐτῶν</ex></expan> <num><gap reason="illegible" atLeast="1" atMost="2" unit="character"/></num>,</supplied> <supplied reason="lost" cert="low">ἀνθ’</supplied> <supplied reason="lost" cert="low">ῶ̔ν</supplied> <supplied reason="lost">ὁμολογεῖ</supplied> 
 
     <lb n="24"/>Θεσπέσιος παρειληφ<unclear>έ</unclear><supplied reason="lost">ναι</supplied> <app type="alternative"><lem><supplied reason="lost">τ</supplied><gap reason="lost" atLeast="1" atMost="2" unit="character"/> <unclear>π</unclear>ρο<unclear>κε</unclear><supplied reason="lost">ιμεν</supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><supplied reason="lost">τὴν</supplied> <unclear>π</unclear>ρο<unclear>κε</unclear><supplied reason="lost">ιμένην φερνὴν</supplied> <gap reason="lost" extent="unknown" unit="character"/></rdg></app>
 

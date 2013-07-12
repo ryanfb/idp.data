@@ -85,7 +85,7 @@
 <lb n="21"/>πλοίων φερόμενα εἰς <unclear>Μ</unclear>ύ<unclear>σ</unclear><supplied reason="lost">ορ</supplied>
 <lb n="22" break="no"/>μον εἰώθ<unclear>α</unclear>σιν <unclear>ο</unclear>ἱ ἁμαξηλάτ<unclear>α</unclear><supplied reason="lost">ι</supplied>
 <lb n="23"/>ἐν τῆι ὁδῶι <app type="editorial"><lem resp="PN H. Cuvigny (J. Rea per litt.; from photo)"><choice><reg>καταλιμπάνε<supplied reason="lost">ι</supplied>ν</reg><orig>καταλεινπάνε<supplied reason="lost">ι</supplied>ν</orig></choice></lem><rdg>κα<gap reason="illegible" quantity="2" unit="character"/>λειν πανε<gap reason="lost" quantity="1" unit="character"/><unclear>ω</unclear></rdg></app>
-<lb n="24"/><choice><reg>παραγγέλλω</reg><orig>παρανγέλλωι</orig></choice> οὖν μὴ <gap reason="illegible" quantity="6" unit="character"/>
+<lb n="24"/><choice><reg>παραγγέλλω</reg><orig>παρανγέλλωι</orig></choice> οῦ̓ν μὴ <gap reason="illegible" quantity="6" unit="character"/>
 <lb n="25"/>ἀφῆτε γενέσθ<unclear>α</unclear>ι ε<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> περὶ
 <lb n="26"/><supplied reason="lost">τ</supplied>ού<unclear>τ</unclear>ων ἀποδ<unclear>ώ</unclear><supplied reason="lost">σ</supplied><unclear>ετέ</unclear> <unclear>μ</unclear>οι λόγο<supplied reason="lost">ν </supplied><gap reason="lost" extent="unknown" unit="character"/>
 <lb n="27"/><gap reason="illegible" quantity="6" unit="line"><desc>vestiges</desc></gap>
@@ -127,8 +127,8 @@
 <milestone rend="horizontal-rule" unit="undefined"/>
 <lb n="66"/>Ἀρτώρις <expan>Πρίσκιλλο<ex>ς</ex></expan> <expan>ἔπαρχο<ex>ς</ex></expan> ὄρους κουράτορσι πρα<supplied reason="omitted">ι</supplied>σιδίων
 <lb n="67"/><supplied reason="lost">ὁδ</supplied>οῦ Μυσόρμου. λόγον πυροῦ <del rend="erasure">καὶ</del> <subst><add place="inline">κριθῆς</add><del rend="corrected">κριθην</del></subst> καὶ ἀχύρων
-<lb n="68"/><supplied reason="lost">ὧ</supplied><unclear>ν</unclear> παρειλήφατε ἀπὸ τῶν προτέρων κουρατόρων
-<lb n="69"/><supplied reason="lost">καὶ ὧ</supplied><unclear>ν</unclear> νῦν παραλαμβά<supplied reason="omitted">νε</supplied>τε εὐθέως πέμψατε ‧ <unclear>ὃ</unclear>ν ἔδει
+<lb n="68"/><supplied reason="lost">ῶ̔</supplied><unclear>ν</unclear> παρειλήφατε ἀπὸ τῶν προτέρων κουρατόρων
+<lb n="69"/><supplied reason="lost">καὶ ῶ̔</supplied><unclear>ν</unclear> νῦν παραλαμβά<supplied reason="omitted">νε</supplied>τε εὐθέως πέμψατε ‧ <unclear>ὃ</unclear>ν ἔδει
 <lb n="70"/><gap reason="lost" atLeast="4" atMost="5" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> γραφῆναι <choice><reg>ὑμῖν</reg><orig>ὑμεῖν</orig></choice> πεπομφέναι. ἐρρῶσθαι
 <lb n="71"/><supplied reason="lost"><space extent="unknown" unit="character"/></supplied> ὑμᾶς <choice><reg>θέλω</reg><orig>θέλωι</orig></choice>, <choice><reg>Ἐπειφ</reg><orig>Ἐπὶφ</orig></choice> <num value="18"><hi rend="supraline">ιη</hi></num>.
 <lb n="72"/><supplied reason="lost">Ἀρτώρις Πρί</supplied>σκιλλος <expan>ἔπαρχ<ex>ος</ex></expan> ὄρους κουράτορσι πρα<supplied reason="omitted">ι</supplied>σιδίων

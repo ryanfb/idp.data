@@ -51,7 +51,7 @@
 
     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
 
-    <lb n="1"/>ἀποστεῖλαι. ἴσως μ<unclear>ὲν</unclear> <unclear>οὖ</unclear><supplied reason="lost">ν</supplied> 
+    <lb n="1"/>ἀποστεῖλαι. ἴσως μ<unclear>ὲν</unclear> <unclear>οῦ̓</unclear><supplied reason="lost">ν</supplied> 
 
     <lb n="2"/>ἐνοχλοῦμεν <del rend="erasure">σε</del> ἀσχολούμε
 
@@ -61,7 +61,7 @@
 
     <lb n="5" break="no"/>ληλύθαμεν καὶ ἔστιν ἀ<supplied reason="lost">ξι</supplied>
 
-    <lb n="6" break="no"/>όλογον. φρόντιζε οὖν πρὸ π<unclear>ολ</unclear>
+    <lb n="6" break="no"/>όλογον. φρόντιζε οῦ̓ν πρὸ π<unclear>ολ</unclear>
 
     <lb n="7" break="no"/>λοῦ περὶ τῶν <choice><reg>σκανδάλων</reg><orig>σκανδάνων</orig></choice>. 
 
@@ -80,7 +80,7 @@
 
     <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/>ον <num value="1"><expan><ex>ὀβολὸς</ex></expan></num> 
 
-    <lb n="15"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> οἶν</supplied>ος <num value="1"><expan><ex>ὀβολὸς</ex></expan></num> 
+    <lb n="15"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> οῖ̓ν</supplied>ος <num value="1"><expan><ex>ὀβολὸς</ex></expan></num> 
 
     <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ὄρ</supplied>νιξ <num value="1">α</num> <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> 
 
@@ -119,7 +119,7 @@
 
     <lb n="33"/><num value="4">δ</num> ὄψον <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="34"/>οἶν<supplied reason="lost">ο</supplied>ς <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="34"/>οῖ̓ν<supplied reason="lost">ο</supplied>ς <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="35"/><expan><ex>γίνονται</ex></expan> <num value="2">β</num> <num value="5"><expan><ex>πεντώβολον</ex></expan></num> </ab></div></div>
       </body>

@@ -54,11 +54,11 @@
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><div n="1" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="1"/>καὶ <choice><reg>ο<supplied reason="omitted">ἷ</supplied>ς</reg><orig>ὁ͂ς</orig></choice> μεμέρικεν ὁ ἐπιμελητὴς 
+    <lb n="1"/>καὶ <choice><reg>ο<supplied reason="omitted">ῖ̔</supplied>ς</reg><orig>ὁ͂ς</orig></choice> μεμέρικεν ὁ ἐπιμελητὴς 
 
     <lb n="2"/>διὰ τὸ τὴν γῆν παχάνοπ<unclear>α</unclear> <unclear>γε</unclear>γονέναι 
 <milestone rend="paragraphos" unit="undefined"/>
-    <lb n="3"/>Ὧρος Τιμοθείου <expan><ex>ἄρουραι</ex></expan> <num value="4">δ</num> <expan><ex>ἀρτάβαι</ex></expan> <num value="4">δ</num> 
+    <lb n="3"/>Ὧρος Τιμοθείου <expan><ex>ἄρουραι</ex></expan> <num value="4">δ</num> <expan><ex>ἀρτάβαι</ex></expan> <num value="4">δ</num> 
 
     <lb n="4"/>Πετεσοῦχος <expan>Πετεσού<ex>χου</ex></expan> <num value="11">ια</num> <expan><ex>ἀρτάβαι</ex></expan> <num value="11">ια</num> 
 
@@ -68,7 +68,7 @@
 
     <lb n="7"/><expan><ex>γίνονται</ex></expan> <num value="27">κζ</num> <num value="1/2">𐅵</num>, <expan><ex>γίνονται</ex></expan> φακῶι <num value="382">τπβ</num> <num value="1/2">𐅵</num> 
 
-    <lb n="8"/>καὶ οἷς μεμέρικεν ἀπ<supplied reason="lost">ὸ</supplied> <unclear>τ</unclear>ῶν <expan>πρεσβυ<ex>τέρων</ex></expan> 
+    <lb n="8"/>καὶ οῖ̔ς μεμέρικεν ἀπ<supplied reason="lost">ὸ</supplied> <unclear>τ</unclear>ῶν <expan>πρεσβυ<ex>τέρων</ex></expan> 
 
     <lb n="9"/>Ὥρου κωμάρχου <num value="6">ϛ</num> <num value="2/3">𐅷</num> 
 
@@ -80,7 +80,7 @@
 
     <lb n="13"/>Τήρους <num value="6">ϛ</num> <num value="2/3">𐅷</num> 
 
-    <lb n="14"/>Ὧρος Κεντείσιος <num value="3">γ</num> <num value="1/3" rend="tick">γ</num> 
+    <lb n="14"/>Ὧρος Κεντείσιος <num value="3">γ</num> <num value="1/3" rend="tick">γ</num> 
 
     <lb n="15"/>Πολέμωνος <num value="5">ε</num> 
 
@@ -97,13 +97,13 @@
 
     <lb n="21"/><g type="check"/> Ἁρφαῆσις Πετεχῶντος <num value="3">γ</num> 
 
-    <lb n="22"/><g type="check"/> Ὧρος Μικίωνος <num value="4">δ</num> <num value="2/3">𐅷</num> 
+    <lb n="22"/><g type="check"/> Ὧρος Μικίωνος <num value="4">δ</num> <num value="2/3">𐅷</num> 
 
     <lb n="23"/>Τεῶς Πετεχῶντος καὶ οἱ <expan><unclear>ἀ</unclear>δε<unclear>λ</unclear><ex>φοὶ</ex></expan> <num value="17">ιζ</num> 
 
     <lb n="24"/>Ἁρβῆχις Ἑργέως <num value="5">ε</num> 
 
-    <lb n="25"/>Ὧρος Πετώυτος <num value="9">θ</num> 
+    <lb n="25"/>Ὧρος Πετώυτος <num value="9">θ</num> 
 
     <lb n="26"/>Ἁρμιύσιος Σενθέως <num value="7">ζ</num> 
 
@@ -143,7 +143,7 @@
     <lb n="43"/><expan><ex>γίνονται</ex></expan> <num value="10">ι</num>, <expan><ex>γίνονται</ex></expan> <num value="68">ξη</num> <num value="1/6" rend="tick">ϛ</num> 
 </ab></div><div n="3" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="44"/>καὶ ὧν δεῖ παρ<unclear>αδε</unclear>χ<unclear>θ</unclear>ῆναι <expan>φα<ex>κόν</ex></expan> 
+    <lb n="44"/>καὶ ῶ̔ν δεῖ παρ<unclear>αδε</unclear>χ<unclear>θ</unclear>ῆναι <expan>φα<ex>κόν</ex></expan> 
 
     <lb n="45"/><g type="check"/> Ἁρμιῦσις <unclear>Πετο</unclear>σίριος <num value="5">ε</num> <num value="1/2">𐅵</num> 
 
@@ -169,7 +169,7 @@
 
     <lb n="56"/><g type="check"/> Πετῶυς <expan>Μαρρή<ex>ους</ex></expan> <num value="10">ι</num> 
 
-    <lb n="57"/><g type="check"/> Ὧρος <choice><reg>Πετενεφιήους</reg><orig>Πετενεφιῆς</orig></choice> <num value="3">γ</num> 
+    <lb n="57"/><g type="check"/> Ὧρος <choice><reg>Πετενεφιήους</reg><orig>Πετενεφιῆς</orig></choice> <num value="3">γ</num> 
 
     <lb n="58"/><g type="check"/> Μεγχῆς <expan>Δημη<ex>τρίου</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> 
 
@@ -192,7 +192,7 @@
     <lb n="67"/><expan><ex>γίνονται</ex></expan> <num value="62">ξβ</num> <num value="1/2">𐅵</num> 
 </ab></div><div n="4" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="68"/><expan><ex cert="low">ὧν</ex></expan> <expan>με<ex>τρηθεῖσαι</ex></expan> Τοθοῆς <expan>Ἀγοννού<ex>φιος</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="68"/><expan><ex cert="low">ῶ̔ν</ex></expan> <expan>με<ex>τρηθεῖσαι</ex></expan> Τοθοῆς <expan>Ἀγοννού<ex>φιος</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="69"/>Κατῦτις <expan>Κατύ<ex>τιος</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -230,7 +230,7 @@
     <lb n="85"/><expan>λο<ex>ιπαὶ</ex></expan> <num value="2">β</num><gap reason="lost" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 </ab></div><div n="6" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="86"/><expan><ex>ὧν</ex></expan> <num value="58">νη</num> <num value="1/6" rend="tick">ϛ</num>, <expan>λο<ex>ιπαὶ</ex></expan> <num value="162">ρξβ</num> <num value="1/6" rend="tick">ϛ</num> 
+    <lb n="86"/><expan><ex>ῶ̔ν</ex></expan> <num value="58">νη</num> <num value="1/6" rend="tick">ϛ</num>, <expan>λο<ex>ιπαὶ</ex></expan> <num value="162">ρξβ</num> <num value="1/6" rend="tick">ϛ</num> 
 </ab></div><div n="7" type="textpart"><!--milestone unit="4"--><ab>
 
     <lb n="87"/>καὶ <abbr>ἐλ</abbr> <expan>στεφά<ex>νου</ex></expan> <num value="10">ι</num> 
@@ -242,7 +242,7 @@
     <lb n="90"/><expan><ex>γίνονται</ex></expan> <num value="35">λε</num>, <expan><ex>γίνονται</ex></expan> <num value="197"><supplied reason="lost">ρ</supplied>ϙζ</num> <num value="1/6" rend="tick">ϛ</num> 
 </ab></div><div n="8" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="91"/>ἀνθʼ <expan>ὧ<ex>ν</ex></expan> <expan>παραγρ<ex>αφῆς</ex></expan> <num value="181">ρπα</num> <num value="1/3" rend="tick">γ</num>, <expan><unclear>λο</unclear><ex>ιπαὶ</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="15">ιε</num> <num value="1/2">𐅵</num> <num value="1/3" rend="tick">γ</num> </ab></div></div>
+    <lb n="91"/>ἀνθʼ <expan>ῶ̔<ex>ν</ex></expan> <expan>παραγρ<ex>αφῆς</ex></expan> <num value="181">ρπα</num> <num value="1/3" rend="tick">γ</num>, <expan><unclear>λο</unclear><ex>ιπαὶ</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="15">ιε</num> <num value="1/2">𐅵</num> <num value="1/3" rend="tick">γ</num> </ab></div></div>
       </body>
    </text>
 </TEI>

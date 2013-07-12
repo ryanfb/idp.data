@@ -53,7 +53,7 @@
 
     <lb n="2"/>παρὰ Πτολεμαίου Ἡρώδ<supplied reason="lost">ου μητρὸς </supplied><gap reason="lost" quantity="7" unit="character"/> 
 
-    <lb n="3"/>ἀπʼ Ὀξυρύγχων πόλεως. <supplied reason="lost">οὗ ἐπόρισα ἐκ</supplied> 
+    <lb n="3"/>ἀπʼ Ὀξυρύγχων πόλεως. <supplied reason="lost">οῦ̔ ἐπόρισα ἐκ</supplied> 
 
     <lb n="4"/>τοῦ καταλογείου χρηματι<supplied reason="lost">σμοῦ ἐστιν ἀντίγρα</supplied>
 
@@ -102,13 +102,13 @@
 
     <lb n="26" break="no"/>ρίμου ἐξ ὀρθογωνίου ἀρ<supplied reason="lost">ούρης ἕκτον <num value="1/6"/> ἢ ὅσον ἐ</supplied>
 
-    <lb n="27" break="no"/>ὰν ᾖ ἐπὶ τὸ πλεῖον ἢ ἔλατ<supplied reason="lost">τον κοινῆς οὔσης τῆς</supplied> 
+    <lb n="27" break="no"/>ὰν ῇ̓ ἐπὶ τὸ πλεῖον ἢ ἔλατ<supplied reason="lost">τον κοινῆς οὔσης τῆς</supplied> 
 
     <lb n="28"/>ὅλης ἀρούρης μιᾶς <num value="1"/> πρὸς ε<gap reason="lost" quantity="16" unit="character"/> 
 
     <lb n="29"/>καὶ <subst><add place="inline">Πεμπὲμ</add><del rend="corrected">πεμ<del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/><num value="4">δ</num></del>πεμ</del></subst> ἀπο<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="15" unit="character"/><foreign xml:lang="la">-</foreign>
 
-    <lb n="30"/>ήσιος καὶ ἄλλου, ἧς ὅλης γεί<supplied reason="lost">τονες νότου καὶ βορ</supplied>
+    <lb n="30"/>ήσιος καὶ ἄλλου, ῆ̔ς ὅλης γεί<supplied reason="lost">τονες νότου καὶ βορ</supplied>
 
     <lb n="31" break="no"/>ρᾶ καὶ ἀπηλιώτου καὶ λιβὸς <gap reason="lost" quantity="16" unit="character"/>, 
 
@@ -138,7 +138,7 @@
 
     <lb n="44"/>καὶ εἰκοστοῦ ἔτους Ἀντ<supplied reason="lost">ωνίνου Καίσαρος</supplied> 
 
-    <lb n="45"/>τοῦ κυρίου διὰ τὸ τὰ <unclear>ἀ</unclear><supplied reason="lost">πὸ τοῦ νῦν εἶναι ἐ</supplied>
+    <lb n="45"/>τοῦ κυρίου διὰ τὸ τὰ <unclear>ἀ</unclear><supplied reason="lost">πὸ τοῦ νῦν εῖ̓ναι ἐ</supplied>
 
     <lb n="46" break="no"/>μοῦ τοῦ Πτολεμαίου, <supplied reason="lost">καὶ ἐπὶ τοῖς ἄλλοις</supplied> 
 
@@ -150,11 +150,11 @@
 
     <lb n="50"/>περιῆι, εἰ δὲ μή, κληρον<supplied reason="lost">όμοις αὐτῆς τελείοις</supplied> 
 
-    <lb n="51"/><unclear>ὧν</unclear> τὰ ὀνόματα ἐπὶ τ<unclear>ῶ</unclear><supplied reason="lost">ν τόπων δηλωθή</supplied>
+    <lb n="51"/><unclear>ῶ̔ν</unclear> τὰ ὀνόματα ἐπὶ τ<unclear>ῶ</unclear><supplied reason="lost">ν τόπων δηλωθή</supplied>
 
     <lb n="52" break="no"/>σεται ὡς καθήκει, <hi rend="diaeresis">ἵ</hi>ν<supplied reason="lost">α εἰδῶσι μένουσαν</supplied> 
 
-    <lb n="53"/>κυρίαν τὴν ὁμολογί<supplied reason="lost">αν ἐφʼ οἷς περιέχει.</supplied> 
+    <lb n="53"/>κυρίαν τὴν ὁμολογί<supplied reason="lost">αν ἐφʼ οῖ̔ς περιέχει.</supplied> 
 
     <lb n="54"/>ὡς καθήκει. <expan><ex>ἔτους</ex></expan> <num value="22">κβ</num> Αὐ<supplied reason="lost">τοκράτορος Καίσαρος</supplied> 
 

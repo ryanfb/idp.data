@@ -50,7 +50,7 @@
             <ref type="reprint-from">P.Lond. 2,425</ref>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
-    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τα</supplied><unclear>ῦτ</unclear>α· εἶπαν δὲ ὅτι ἂν καὶ σὲ εὕρο
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τα</supplied><unclear>ῦτ</unclear>α· εῖ̓παν δὲ ὅτι ἂν καὶ σὲ εὕρο
 
     <lb n="2" break="no"/><supplied reason="lost">μεν </supplied><gap reason="lost" extent="unknown" unit="character"/><unclear>α</unclear>ραν εἰς τὸ μέσον τοῦ πυρὸς
 
@@ -70,11 +70,11 @@
 
     <lb n="10" break="no"/><supplied reason="lost">νείῳ </supplied><gap reason="lost" extent="unknown" unit="character"/><unclear>ου</unclear> καὶ ἐφώνησεν αὐτὸν ὁ <choice><reg>ἐπί
 
-    <lb n="11" break="no"/><supplied reason="lost">τροπος</supplied></reg><orig>ἐπεί<lb n="11" break="no"/><supplied reason="lost">τροπος</supplied></orig></choice><gap reason="lost" extent="unknown" unit="character"/> <unclear>ὅπ</unclear>ερ καὶ εἶπεν <choice><reg><app type="alternative"><lem>αὐτὸς</lem><rdg>αὐτῷ</rdg></app></reg><orig>αὐτο</orig></choice> ὅτι ἔστι σοι
+    <lb n="11" break="no"/><supplied reason="lost">τροπος</supplied></reg><orig>ἐπεί<lb n="11" break="no"/><supplied reason="lost">τροπος</supplied></orig></choice><gap reason="lost" extent="unknown" unit="character"/> <unclear>ὅπ</unclear>ερ καὶ εῖ̓πεν <choice><reg><app type="alternative"><lem>αὐτὸς</lem><rdg>αὐτῷ</rdg></app></reg><orig>αὐτο</orig></choice> ὅτι ἔστι σοι
 
-    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><unclear>λ</unclear>ατα καὶ εἶπεν αὐτὸς <choice><reg>τῷ</reg><orig>το</orig></choice> ἐπιτρό
+    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><unclear>λ</unclear>ατα καὶ εῖ̓πεν αὐτὸς <choice><reg>τῷ</reg><orig>το</orig></choice> ἐπιτρό
 
-    <lb n="13" break="no"/><supplied reason="lost">πῳ </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> οὐκ</supplied> <choice><reg>ἐγὼ</reg><orig>ἐγὸ</orig></choice> μόνος εἶπον ταῦτα ἀλλὰ ὅλη</ab></div>
+    <lb n="13" break="no"/><supplied reason="lost">πῳ </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> οὐκ</supplied> <choice><reg>ἐγὼ</reg><orig>ἐγὸ</orig></choice> μόνος εῖ̓πον ταῦτα ἀλλὰ ὅλη</ab></div>
       </body>
    </text>
 </TEI>

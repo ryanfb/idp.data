@@ -57,7 +57,7 @@
 
     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
 
-    <lb n="1"/><handShift new="m4"/> ἀφʼ ὧν <choice><reg>τὰ</reg><orig>των</orig></choice> <choice><reg>ἐπεσταλμένα</reg><orig>ἐπεσταλμενων</orig></choice> τῆι <num value="6">ϛ</num> 
+    <lb n="1"/><handShift new="m4"/> ἀφʼ ῶ̔ν <choice><reg>τὰ</reg><orig>των</orig></choice> <choice><reg>ἐπεσταλμένα</reg><orig>ἐπεσταλμενων</orig></choice> τῆι <num value="6">ϛ</num> 
 
     <lb n="2"/>τοῦ Ἐπεὶφ τοῖς ἐκ τοῦ Κλεονίκου τοῦ Ζηνίωνος 
 
@@ -82,7 +82,7 @@
 
     <lb n="11"/>λειτουργῶν τῶν <unclear>τ</unclear><supplied reason="lost">εταγμένων μοι ἐκ τοῦ θαλασσίου στόλου πληρω</supplied>
 
-    <lb n="12" break="no"/>μάτων ὧν τὸ κατὰ <supplied reason="lost">πλοῖον ὑπόκειται, τὴν </supplied><gap reason="lost" quantity="25" unit="character"/> 
+    <lb n="12" break="no"/>μάτων ῶ̔ν τὸ κατὰ <supplied reason="lost">πλοῖον ὑπόκειται, τὴν </supplied><gap reason="lost" quantity="25" unit="character"/> 
 
     <lb n="13"/>καθήκειν αὐτοῖ<supplied reason="lost" cert="low">ς τροφὴν ἀπὸ </supplied><gap reason="lost" quantity="5" unit="character"/><supplied reason="lost" cert="low"> τοῦ <num value="18">ιη</num> <expan><ex>ἔτους</ex></expan> ἕως </supplied><gap reason="lost" quantity="5" unit="character"/><supplied reason="lost"> τοῦ <num value="19">ιθ</num> <expan><ex>ἔτους</ex></expan> ἑνδεκα</supplied>
 

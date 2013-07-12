@@ -51,7 +51,7 @@
 
     <lb n="2"/><choice><reg><app type="alternative"><lem>Γερμανῷ</lem><rdg>Γερμανοῦ</rdg></app></reg><orig>Γερμανό</orig></choice>
 
-    <lb n="3"/><choice><reg><app type="alternative"><lem><expan>σάκκο<ex>ν</ex></expan> ἑνά</lem><rdg><expan>σάκκο<ex>ς</ex></expan> εἷς</rdg></app></reg><orig>σακο  εν</orig></choice> <num value="1"/></ab></div>
+    <lb n="3"/><choice><reg><app type="alternative"><lem><expan>σάκκο<ex>ν</ex></expan> ἑνά</lem><rdg><expan>σάκκο<ex>ς</ex></expan> εῖ̔ς</rdg></app></reg><orig>σακο  εν</orig></choice> <num value="1"/></ab></div>
       </body>
    </text>
 </TEI>

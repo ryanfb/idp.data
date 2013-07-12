@@ -92,15 +92,15 @@
 
     <lb n="23"/>νάρκης καὶ ἄλλων <unclear>κ</unclear><gap extent="unknown" reason="lost" unit="character"/>
 
-    <lb n="24"/><gap quantity="1" reason="lost" unit="character"/><supplied reason="lost">ω</supplied><unclear>ν</unclear> ὧν ἐκόμισε Ἀπο<supplied reason="lost">λλ- </supplied><gap extent="unknown" reason="lost" unit="character"/>
+    <lb n="24"/><gap quantity="1" reason="lost" unit="character"/><supplied reason="lost">ω</supplied><unclear>ν</unclear> ῶ̔ν ἐκόμισε Ἀπο<supplied reason="lost">λλ- </supplied><gap extent="unknown" reason="lost" unit="character"/>
 
     <lb n="25"/>καὶ <expan>τούτ<ex cert="low">ου</ex></expan><add place="above">ων</add> <expan><ex>δραχμ- </ex></expan> <num value="797">ψϙζ</num> <expan><ex>ὀβολ- 4</ex></expan><num value="4"/> <expan><ex>δραχμ- </ex></expan> <num value="938">ϡλη</num> <expan><ex>ὀβολ- 4</ex></expan><num value="4"/>
 
     <lb n="26"/><expan>λοιπ<ex>αὶ</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="849">ωμθ</num>
 
-    <lb n="27"/>αὗταί εἰσιν χωρὶς τῶν ἀναλωθέντω<supplied reason="lost">ν </supplied><gap extent="unknown" reason="lost" unit="character"/><supplied reason="lost"> Σε</supplied>
+    <lb n="27"/>αῦ̔ταί εἰσιν χωρὶς τῶν ἀναλωθέντω<supplied reason="lost">ν </supplied><gap extent="unknown" reason="lost" unit="character"/><supplied reason="lost"> Σε</supplied>
 
-    <lb n="28" break="no"/>ρήνου ὧν ὁ λόγος σοι ἐπέμφθη</ab></div></div>
+    <lb n="28" break="no"/>ρήνου ῶ̔ν ὁ λόγος σοι ἐπέμφθη</ab></div></div>
       </body>
    </text>
 </TEI>

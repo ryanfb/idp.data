@@ -52,7 +52,7 @@
             <placeName>Hermoupolis Magna</placeName>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
-    <lb n="1"/><gap reason="lost" quantity="25" unit="character"/><supplied reason="lost"> Ἑ</supplied>ρ<unclear>μ</unclear><supplied reason="lost">οπολ</supplied>ε<supplied reason="lost">ί</supplied><unclear>τ</unclear>ου. οὗ <choice><reg>παρεκόμισα</reg><orig><supplied reason="lost">παρακ</supplied><unclear>όμε</unclear>ισα</orig></choice> ἐκ τ<unclear>ο</unclear><add place="above">υ</add> 
+    <lb n="1"/><gap reason="lost" quantity="25" unit="character"/><supplied reason="lost"> Ἑ</supplied>ρ<unclear>μ</unclear><supplied reason="lost">οπολ</supplied>ε<supplied reason="lost">ί</supplied><unclear>τ</unclear>ου. οῦ̔ <choice><reg>παρεκόμισα</reg><orig><supplied reason="lost">παρακ</supplied><unclear>όμε</unclear>ισα</orig></choice> ἐκ τ<unclear>ο</unclear><add place="above">υ</add> 
 
     <lb n="2"/><supplied reason="lost">καταλογείου χρηματισμοῦ ἐμβα</supplied>δ<supplied reason="lost">ε</supplied>ία<supplied reason="lost">ς ἀ</supplied><unclear>ν</unclear>τί<unclear>γρα</unclear><supplied reason="lost">φο</supplied><unclear>ν</unclear> <unclear>ὑπ</unclear><supplied reason="lost">ό</supplied><unclear>κ</unclear>ε<supplied reason="lost">ι</supplied>ται. 
 
@@ -62,7 +62,7 @@
 
     <lb n="5"/><app type="editorial"><lem resp="BL 2.2.57"><supplied reason="lost">ἐντεύξεων <expan>ἀντίγρα<ex>φον</ex></expan></supplied></lem><rdg><gap reason="illegible" extent="unknown" unit="character"/></rdg></app><supplied reason="lost"> ὑποτέτακτ</supplied>αι προσυποτέ<unclear>τακτ</unclear>αι δὲ κ<unclear>α</unclear>ὶ <supplied reason="lost">ἡ</supplied> <app type="editorial"><lem resp="BL 2.2.57">δ<unclear>ι</unclear>ʼ <supplied reason="lost">αὐτῆς</supplied> 
 
-    <lb n="6"/><supplied reason="lost">σημαινομένη ἔντευξις. γέγρα</supplied>φα <unclear>ο</unclear>ὖν </lem><rdg>δ<unclear>ι</unclear><supplied reason="lost" cert="low">αστολὴ</supplied><supplied reason="lost"> καὶ τὰ τῆς ἐντεύξεως ἀντίγρα</supplied>φα <unclear>ν</unclear>ῦν<certainty match=".." locus="value"/></rdg></app> <hi rend="diaeresis">ἱ</hi>νʼ εἰδῇς· ἔρρωσο. <expan>ἐ<unclear>σ</unclear>η<ex>μειωσάμην</ex></expan>. 
+    <lb n="6"/><supplied reason="lost">σημαινομένη ἔντευξις. γέγρα</supplied>φα <unclear>ο</unclear>ῦ̓ν </lem><rdg>δ<unclear>ι</unclear><supplied reason="lost" cert="low">αστολὴ</supplied><supplied reason="lost"> καὶ τὰ τῆς ἐντεύξεως ἀντίγρα</supplied>φα <unclear>ν</unclear>ῦν<certainty match=".." locus="value"/></rdg></app> <hi rend="diaeresis">ἱ</hi>νʼ εἰδῇς· ἔρρωσο. <expan>ἐ<unclear>σ</unclear>η<ex>μειωσάμην</ex></expan>. 
 
     <lb n="7"/><supplied reason="lost"><expan><ex>ἔτους</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Αὐτοκράτορος Καίσαρος</supplied> Δομ<supplied reason="lost">ιτ</supplied>ίανοῦ Σεβαστοῦ Γερμα<unclear>νικοῦ</unclear> 
 
@@ -86,7 +86,7 @@
 
     <lb n="17"/><app type="editorial"><lem resp="BL 8.124"><supplied reason="lost">ἐπʼ αὐτὸν ὁ Ἑξακὼν</supplied></lem><rdg>ὑπακούσῃ ὁ Ἐξάκων καὶ</rdg></app><supplied reason="lost"> εὐδοκῇ τούτ</supplied><unclear>οις</unclear> <unclear>κ</unclear>αὶ προῆτ<unclear>αι</unclear> τὴν ἁρμόζουσαν <choice><reg>χειρογρα
 
-    <lb n="18" break="no"/>φίαν</reg><orig>χιρογρ<unclear>α</unclear><lb n="18" break="no"/><supplied reason="lost">φίαν</supplied></orig></choice> <supplied reason="lost">περὶ τοῦ ἀληθῆ εἶνα</supplied><unclear>ι</unclear> <unclear>τὰ</unclear> <unclear>δ</unclear>ιὰ τῆς ἐντεύξεως δεδηλωμ<unclear>έν</unclear>α 
+    <lb n="18" break="no"/>φίαν</reg><orig>χιρογρ<unclear>α</unclear><lb n="18" break="no"/><supplied reason="lost">φίαν</supplied></orig></choice> <supplied reason="lost">περὶ τοῦ ἀληθῆ εῖ̓να</supplied><unclear>ι</unclear> <unclear>τὰ</unclear> <unclear>δ</unclear>ιὰ τῆς ἐντεύξεως δεδηλωμ<unclear>έν</unclear>α 
 
     <lb n="19"/><supplied reason="lost">καὶ μηδὲν ὑπεναντίον</supplied> <unclear>ᾠ</unclear>κο<unclear>νομ</unclear>ῆσθαι τὸ τηνικα<unclear>ῦ</unclear>τα προδιαστ<unclear>ει</unclear>
 
@@ -116,11 +116,11 @@
 
     <lb n="32"/><gap reason="lost" quantity="6" unit="character"/><supplied reason="lost">μενα καὶ </supplied><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">νεπι</supplied><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">ειν μοι ἐν τῇ το</supplied>ύτων κρατήσει κα<supplied reason="lost">ὶ</supplied> κ<unclear>υ</unclear>
 
-    <lb n="33" break="no"/><supplied reason="lost">ρείᾳ καὶ ἀποφορᾷ τῶν ἐξ αὐτῶν περιεσο</supplied>μένων καὶ ἐν οἷς ἐὰν ἄλ
+    <lb n="33" break="no"/><supplied reason="lost">ρείᾳ καὶ ἀποφορᾷ τῶν ἐξ αὐτῶν περιεσο</supplied>μένων καὶ ἐν οῖ̔ς ἐὰν ἄλ
 
     <lb n="34" break="no"/><supplied reason="lost">λοις </supplied><gap reason="lost" quantity="5" unit="character"/><supplied reason="lost"> προσδέωμαι περὶ τούτων τῶ</supplied>ν δʼἄλλων τῶν κατʼ ἐ
 
-    <lb n="35" break="no"/><supplied reason="lost" cert="low">μαυτὸν </supplied><gap reason="lost" extent="unknown" unit="character"/> <unclear>κ</unclear>αὶ ὧν <supplied reason="lost">ἄ</supplied>λλων ἔχω 
+    <lb n="35" break="no"/><supplied reason="lost" cert="low">μαυτὸν </supplied><gap reason="lost" extent="unknown" unit="character"/> <unclear>κ</unclear>αὶ ῶ̔ν <supplied reason="lost">ἄ</supplied>λλων ἔχω 
 
     <lb n="36"/><supplied reason="lost">δικαίων ἀντέχομαι καὶ ἀνθέξομαι ἐ</supplied>ν μηδενὶ ἁπλῶς ἐ
 

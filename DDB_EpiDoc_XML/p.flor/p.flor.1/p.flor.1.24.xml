@@ -79,7 +79,7 @@
 
     <lb n="12"/>Ἁρποκρατίων <hi rend="diaeresis">Ἰ</hi>σχυρίωνος Εὐδαίμον<supplied reason="lost" cert="low">ι </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="13"/>ἀφʼ ἧς <choice><reg>ὀφείλει</reg><orig>ὀφείλι</orig></choice> φερνὴς ἐπὶ τῇ θυγα<unclear>τ</unclear><supplied reason="lost">ρὶ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="13"/>ἀφʼ ῆ̔ς <choice><reg>ὀφείλει</reg><orig>ὀφείλι</orig></choice> φερνὴς ἐπὶ τῇ θυγα<unclear>τ</unclear><supplied reason="lost">ρὶ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="14"/>Ἀγαθὸς Δαίμων ὁ καὶ Εὐδαίμων Ευ<gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -139,7 +139,7 @@
     <lb n="1"/><note xml:lang="en">PFlor 1,24,v reprinted in PFlor 2,262 </note>
 </ab></div><div n="Fr,pg49,n3" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> φερ</supplied>νὴν καὶ παράφρενα οἷα ἐὰν <app type="editorial"><lem resp="BL 6.38">ἐ<unclear>γ</unclear>β<supplied reason="lost">ῇ ἐκτῆς τρίψεως</supplied></lem><rdg><app type="editorial"><lem resp="BL 1.455">ἐ<unclear>γ</unclear>β<supplied reason="lost">ῇ ἐκτῆς τρίψεως </supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ἐ<unclear>γ</unclear>β<supplied reason="lost">ῇ </supplied><gap reason="lost" extent="unknown" unit="character"/></rdg></app></rdg></app> 
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> φερ</supplied>νὴν καὶ παράφρενα οῖ̔α ἐὰν <app type="editorial"><lem resp="BL 6.38">ἐ<unclear>γ</unclear>β<supplied reason="lost">ῇ ἐκτῆς τρίψεως</supplied></lem><rdg><app type="editorial"><lem resp="BL 1.455">ἐ<unclear>γ</unclear>β<supplied reason="lost">ῇ ἐκτῆς τρίψεως </supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ἐ<unclear>γ</unclear>β<supplied reason="lost">ῇ </supplied><gap reason="lost" extent="unknown" unit="character"/></rdg></app></rdg></app> 
 
     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ω Διονυσίῳ ὡς <expan><ex>ἐτῶν</ex></expan> <num value="42">μβ</num> οὐλαὶ προσώπῳ <gap reason="lost" extent="unknown" unit="character"/> 
 

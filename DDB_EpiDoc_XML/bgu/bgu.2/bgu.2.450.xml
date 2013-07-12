@@ -62,7 +62,7 @@
 
     <lb n="7"/><gap reason="lost" quantity="3" unit="character"/> <choice><reg>ἐπεὶ</reg><orig>ἐπὶ</orig></choice> χρείαν αὐτοῦ ἔχω 
 
-    <lb n="8"/><gap reason="lost" quantity="4" unit="character"/> <app type="editorial"><lem resp="BGU 2 p.356">ὅτε γ<supplied reason="lost">ὰ</supplied><unclear>ρ</unclear> ἦν</lem><rdg>οτε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><unclear>ρ</unclear>ην</rdg></app> <add place="above">ω</add><del rend="erasure"><gap reason="illegible" quantity="3" unit="character"/></del> 
+    <lb n="8"/><gap reason="lost" quantity="4" unit="character"/> <app type="editorial"><lem resp="BGU 2 p.356">ὅτε γ<supplied reason="lost">ὰ</supplied><unclear>ρ</unclear> ῆ̓ν</lem><rdg>οτε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><unclear>ρ</unclear>ην</rdg></app> <add place="above">ω</add><del rend="erasure"><gap reason="illegible" quantity="3" unit="character"/></del> 
 
     <lb n="9"/>εμ<gap reason="lost" quantity="2" unit="character"/> ο<add place="above">ὔ</add>πω εἰς τὸν κ<gap reason="lost" quantity="3" unit="character"/>ν 
 
@@ -70,7 +70,7 @@
 
     <lb n="11"/>χρ<supplied reason="lost">ε</supplied>ία αὐτοῦ ἐστιν. ἀνά
 
-    <lb n="12" break="no"/>γνωθι οὖν Θάυτι τὴν 
+    <lb n="12" break="no"/>γνωθι οῦ̓ν Θάυτι τὴν 
 
     <lb n="13"/>ἐπιστολὴν, ἵνα εἰδῇ, ὅτι 
 
@@ -82,7 +82,7 @@
 
     <lb n="17"/>περὶ τῶν λίνων, 
 
-    <lb n="18"/>ὧν χρείαν ἔλεγες 
+    <lb n="18"/>ῶ̔ν χρείαν ἔλεγες 
 
     <lb n="19"/>ἔχειν, δήλωσόν μοι, ἵνα, 
 
@@ -96,7 +96,7 @@
 
     <lb n="24" break="no"/>σχω αὐτῷ ἢ ἄλλον σκέψωμαι. 
 
-    <lb n="25"/>ὡς νομ<supplied reason="lost">ί</supplied>ζω, οἶδεν ἡ γυνή 
+    <lb n="25"/>ὡς νομ<supplied reason="lost">ί</supplied>ζω, οῖ̓δεν ἡ γυνή 
 
     <lb n="26"/><app type="editorial"><lem resp="BGU 2 p.356"><subst><add place="inline">σου</add><del rend="corrected">μου</del></subst></lem><rdg><gap reason="illegible" quantity="1" unit="character"/>σου</rdg></app> ποῦ ἐστιν Θᾶυς, ἵνα εὕ
 

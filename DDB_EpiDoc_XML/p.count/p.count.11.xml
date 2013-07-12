@@ -49,20 +49,20 @@
 <div n="1" subtype="fragment" type="textpart">
 <div n="r" type="textpart">
 <div n="i" subtype="column" type="textpart"><ab>
-<lb n="1"/><gap reason="lost" quantity="7" unit="character"/> <num value="145">ρμε</num> <expan><ex>ὧν</ex></expan> ἀρσενικὰ <num value="79">ο<unclear>θ</unclear></num>
+<lb n="1"/><gap reason="lost" quantity="7" unit="character"/> <num value="145">ρμε</num> <expan><ex>ῶ̔ν</ex></expan> ἀρσενικὰ <num value="79">ο<unclear>θ</unclear></num>
 <lb n="2"/><supplied reason="lost">θηλυκὰ</supplied> <num value="66">ξϛ</num>
-<lb n="3"/><supplied reason="lost">Ἑ</supplied><unclear>ρ</unclear><supplied reason="lost">μ</supplied><unclear>α</unclear>φίλου κώμης <num value="230">σλ</num> <expan><ex>ὧν</ex></expan> ἀρσενικὰ <num value="120">ρκ</num>
+<lb n="3"/><supplied reason="lost">Ἑ</supplied><unclear>ρ</unclear><supplied reason="lost">μ</supplied><unclear>α</unclear>φίλου κώμης <num value="230">σλ</num> <expan><ex>ῶ̔ν</ex></expan> ἀρσενικὰ <num value="120">ρκ</num>
 <lb n="4"/>θηλυκὰ <num value="110">ρι</num>
-<lb n="5"/>Ἰσιείου τοῦ Αἰγιαλοῦ <num value="38">λη</num> <expan><ex>ὧν</ex></expan> ἀρσενικὰ <num value="20">κ</num>
+<lb n="5"/>Ἰσιείου τοῦ Αἰγιαλοῦ <num value="38">λη</num> <expan><ex>ῶ̔ν</ex></expan> ἀρσενικὰ <num value="20">κ</num>
 <lb n="6"/>θηλυκὰ <num value="18">ιη</num>
 <lb n="7"/><gap reason="illegible" quantity="4" unit="line"><desc>vestiges</desc></gap>
 </ab></div>
 <div n="ii" subtype="column" type="textpart"><ab>
-<lb n="11"/>Φιλωτερίδος <app type="editorial"><lem resp="Clarysse (1973) p.136"><num value="719">ψιθ</num></lem><rdg><num value="519">φιθ</num></rdg></app> <supplied reason="lost"><expan><ex>ὧν</ex></expan> ἀρσενικὰ <num atLeast="371" atMost="379">το<gap reason="illegible" quantity="1" unit="character"/></num></supplied>
+<lb n="11"/>Φιλωτερίδος <app type="editorial"><lem resp="Clarysse (1973) p.136"><num value="719">ψιθ</num></lem><rdg><num value="519">φιθ</num></rdg></app> <supplied reason="lost"><expan><ex>ῶ̔ν</ex></expan> ἀρσενικὰ <num atLeast="371" atMost="379">το<gap reason="illegible" quantity="1" unit="character"/></num></supplied>
 <lb n="12"/>θηλυκὰ <num atLeast="341" atMost="349">τμ<gap reason="lost" quantity="1" unit="character"/></num>
-<lb n="13"/>Διονυσιάδ<supplied reason="lost">ος</supplied> <app type="editorial"><lem><num value="732">ψ<unclear>λ</unclear>β</num></lem><rdg><num value="712">ψιβ</num></rdg></app> <expan><ex>ὧν</ex></expan> ἀρσενικὰ <app type="editorial"><lem><num value="391"><unclear>τ</unclear><supplied reason="lost">ϙ</supplied><unclear>α</unclear></num></lem><rdg><num value="371"><unclear>τ</unclear><supplied reason="lost">ο</supplied><unclear>α</unclear></num></rdg></app>
+<lb n="13"/>Διονυσιάδ<supplied reason="lost">ος</supplied> <app type="editorial"><lem><num value="732">ψ<unclear>λ</unclear>β</num></lem><rdg><num value="712">ψιβ</num></rdg></app> <expan><ex>ῶ̔ν</ex></expan> ἀρσενικὰ <app type="editorial"><lem><num value="391"><unclear>τ</unclear><supplied reason="lost">ϙ</supplied><unclear>α</unclear></num></lem><rdg><num value="371"><unclear>τ</unclear><supplied reason="lost">ο</supplied><unclear>α</unclear></num></rdg></app>
 <lb n="14"/>θηλυκὰ <num value="341">τμα</num>
-<lb n="15"/><expan><ex>γίνεται</ex></expan> τῶν τόπων σώματα <num value="2619">'Βχιθ</num> <expan><ex>ὧν</ex></expan> 
+<lb n="15"/><expan><ex>γίνεται</ex></expan> τῶν τόπων σώματα <num value="2619">'Βχιθ</num> <expan><ex>ῶ̔ν</ex></expan> 
 <lb n="16"/>ἀρσενικὰ <num value="1377">Α<supplied reason="lost">τ</supplied>οζ</num> <expan><ex>ἀνὰ</ex></expan> <num value="4"><expan><ex>τετρώβολον</ex></expan></num> <expan><ex>δραχμαὶ</ex></expan> <num value="918">ϡιη</num>
 <lb n="17"/>θηλυκὰ <num value="1242">Ασμβ</num> <expan><ex>ἀνὰ</ex></expan> <num value="1"><expan><ex>ὀβολὸς</ex></expan></num><num value="1/2"><expan><ex>ἡμιωβέλιον</ex></expan></num> <expan><ex>δραχμαὶ</ex></expan> <num value="310">τι</num><num value="3"><expan><ex>τριώβολον</ex></expan></num> <expan><ex>γίνεται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="1228">Aσκη</num><num value="3"><expan><ex>τριώβολον</ex></expan></num>
 </ab></div>
@@ -88,8 +88,8 @@
 </ab></div>
 </div>
 <div n="2" subtype="fragment" type="textpart"><ab>
-<lb n="33"/><supplied reason="lost">Πολ</supplied>υδευ<supplied reason="lost">κείας σώμα</supplied><unclear>τ</unclear>α <num value="89">πθ</num> <supplied reason="lost"><expan><ex>ὧν</ex></expan> ἀρσενικὰ <num><gap reason="illegible" quantity="2" unit="character"/></num> θηλυκὰ <num><gap reason="illegible" quantity="2" unit="character"/></num></supplied>
-<lb n="34"/><supplied reason="lost">Ἀρχ</supplied>ελαίδος σώματα <num value="105"><unclear>ρ</unclear>ε</num> <expan><ex>ὧν</ex></expan> ἀρ<unclear>σ</unclear><supplied reason="lost">ενικὰ <num><gap reason="illegible" extent="unknown" unit="character"/></num> θηλυκὰ <num><gap reason="illegible" extent="unknown" unit="character"/></num></supplied>
+<lb n="33"/><supplied reason="lost">Πολ</supplied>υδευ<supplied reason="lost">κείας σώμα</supplied><unclear>τ</unclear>α <num value="89">πθ</num> <supplied reason="lost"><expan><ex>ῶ̔ν</ex></expan> ἀρσενικὰ <num><gap reason="illegible" quantity="2" unit="character"/></num> θηλυκὰ <num><gap reason="illegible" quantity="2" unit="character"/></num></supplied>
+<lb n="34"/><supplied reason="lost">Ἀρχ</supplied>ελαίδος σώματα <num value="105"><unclear>ρ</unclear>ε</num> <expan><ex>ῶ̔ν</ex></expan> ἀρ<unclear>σ</unclear><supplied reason="lost">ενικὰ <num><gap reason="illegible" extent="unknown" unit="character"/></num> θηλυκὰ <num><gap reason="illegible" extent="unknown" unit="character"/></num></supplied>
 </ab></div>
 
       </div>

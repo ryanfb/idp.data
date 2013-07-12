@@ -100,7 +100,7 @@
 
     <lb n="24"/>καὶ τὰς ἐπικειμένας θύρας δύο <num value="2"/> 
 
-    <lb n="25"/>κλεῖν μίαν <num value="1"/> <app type="editorial"><lem resp="BL 1.333"><subst><add place="inline">ἧς</add><del rend="corrected">ηδ</del></subst></lem><rdg>ἢ <choice><reg>οὗ</reg><orig><subst><add place="inline"><unclear>ο</unclear></add><del rend="corrected"><gap reason="illegible" quantity="1" unit="character"/></del></subst></orig></choice></rdg></app>
+    <lb n="25"/>κλεῖν μίαν <num value="1"/> <app type="editorial"><lem resp="BL 1.333"><subst><add place="inline">ῆ̔ς</add><del rend="corrected">ηδ</del></subst></lem><rdg>ἢ <choice><reg>οῦ̔</reg><orig><subst><add place="inline"><unclear>ο</unclear></add><del rend="corrected"><gap reason="illegible" quantity="1" unit="character"/></del></subst></orig></choice></rdg></app>
  δʼ ἂν μὴ παραδῷ 
 
     <lb n="26"/>τὴν ἀξίαν, ὃ δʼ ἂν προσοφειλέ

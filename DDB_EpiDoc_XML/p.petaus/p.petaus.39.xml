@@ -65,7 +65,7 @@
 
     <lb n="10"/><expan><ex>γίνονται</ex></expan> <num value="216">σιϛ</num> 
 
-    <lb n="11"/><expan><ex>ὧν</ex></expan> <expan>δαπ<ex>άνης</ex></expan> Κόμωνι <expan><ex>δραχμαὶ</ex></expan> <num value="28">κη</num>, <expan>λο<ex>ιπαὶ</ex></expan> <num value="188">ρπη</num> 
+    <lb n="11"/><expan><ex>ῶ̔ν</ex></expan> <expan>δαπ<ex>άνης</ex></expan> Κόμωνι <expan><ex>δραχμαὶ</ex></expan> <num value="28">κη</num>, <expan>λο<ex>ιπαὶ</ex></expan> <num value="188">ρπη</num> 
 
     <lb n="12"/><g type="large-parens"/> <num value="27">κζ</num>  <num value="236">σλϛ</num> 
 
@@ -73,7 +73,7 @@
 
     <lb n="14"/><milestone rend="box" unit="undefined"/> <expan>ἄλ<ex>λαι</ex></expan> ἕως <num value="30">λ</num> <num value="644">χμδ</num>, <expan><ex>γίνονται</ex></expan> <num value="844">ωμδ</num> 
 
-    <lb n="15"/><milestone rend="box" unit="undefined"/> <expan><ex>ὧν</ex></expan> Κόμωνι <expan>ἀ<unclear>ναβ</unclear><ex>αίνοντι</ex></expan> <unclear>ε</unclear>ἰς <expan>τ<ex>ὴν</ex></expan> <expan>πόλ<ex>ιν</ex></expan> <num value="440">υμ</num> 
+    <lb n="15"/><milestone rend="box" unit="undefined"/> <expan><ex>ῶ̔ν</ex></expan> Κόμωνι <expan>ἀ<unclear>ναβ</unclear><ex>αίνοντι</ex></expan> <unclear>ε</unclear>ἰς <expan>τ<ex>ὴν</ex></expan> <expan>πόλ<ex>ιν</ex></expan> <num value="440">υμ</num> 
 
     <lb n="16"/><milestone rend="box" unit="undefined"/> <expan>λο<ex>ιπαὶ</ex></expan> <num value="404">υδ</num>    <unclear>α</unclear><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/> 
 
@@ -85,7 +85,7 @@
 
     <lb n="20"/>ἑτέρων <expan>ἀρχ<ex>εφόδων</ex></expan> ἐν <expan>Πτολ<ex>εμαίδι</ex></expan> <num value="60">ξ</num> 
 
-    <lb n="21"/><expan><ex>ὧν</ex></expan> <expan>Διοδώ<ex>ρῳ</ex></expan> ἐν <expan>Πτολε<ex>μαίδι</ex></expan> <num value="1"><unclear>α</unclear></num> 
+    <lb n="21"/><expan><ex>ῶ̔ν</ex></expan> <expan>Διοδώ<ex>ρῳ</ex></expan> ἐν <expan>Πτολε<ex>μαίδι</ex></expan> <num value="1"><unclear>α</unclear></num> 
 
     <lb n="22"/>καὶ ἐν <expan>Σύρω<ex>ν</ex></expan>                 <num value="1"><unclear>α</unclear></num> 
 
@@ -95,7 +95,7 @@
 
     <lb n="25"/>ἀπὸ <expan>ἀρχεφ<ex>όδου</ex></expan> <abbr>Παλ</abbr> <del rend="erasure"><num value="24">κδ</num></del> <num value="6">ϛ</num> 
 
-    <lb n="26"/><expan><ex cert="low">ὧν</ex></expan> ἐν <expan>Σύρω<ex>ν</ex></expan> <expan><unclear>ν</unclear><ex>έου</ex></expan> <expan>οἰ<unclear>ν</unclear><ex>ου</ex></expan> <expan>κερ<ex>αμίων</ex></expan> <num value="2">β</num> <expan><ex>δραχμαὶ</ex></expan> <num value="6">ϛ</num> 
+    <lb n="26"/><expan><ex cert="low">ῶ̔ν</ex></expan> ἐν <expan>Σύρω<ex>ν</ex></expan> <expan><unclear>ν</unclear><ex>έου</ex></expan> <expan>οἰ<unclear>ν</unclear><ex>ου</ex></expan> <expan>κερ<ex>αμίων</ex></expan> <num value="2">β</num> <expan><ex>δραχμαὶ</ex></expan> <num value="6">ϛ</num> 
 
     <lb n="27"/>Διοδώρῳ ἐν <unclear>Σ</unclear><supplied reason="lost">ύ</supplied><unclear>ρ</unclear>ων <num value="3">γ</num> </ab></div>
       </body>

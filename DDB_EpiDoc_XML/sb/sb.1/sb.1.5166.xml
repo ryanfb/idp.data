@@ -52,7 +52,7 @@
 
     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>α δὲ ἡ Αὐρηλία Τρυφωνὶς <choice><reg>εὐδοκεῖ</reg><orig>εὐδοκῖ</orig></choice> τῇδε τῇ συσ<supplied reason="lost">τατικῇ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> δρα</supplied>χμὰς ὀκτακοσίας <num value="800"/> <hi rend="diaeresis">ἴ</hi>σας, ὧν <choice><reg>ὤφειλεν</reg><orig>ὤφιλεν</orig></choice> ὁ Πρωτᾶς τῷ <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> δρα</supplied>χμὰς ὀκτακοσίας <num value="800"/> <hi rend="diaeresis">ἴ</hi>σας, ῶ̔ν <choice><reg>ὤφειλεν</reg><orig>ὤφιλεν</orig></choice> ὁ Πρωτᾶς τῷ <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <choice><reg>παρέδειξε</reg><orig>παρέδιξε</orig></choice> δὲ ὁ Σαραπίων τοὺς ἀφήλικας αὐτ<gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -78,7 +78,7 @@
 
     <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἀργυρίο</supplied>υ δραχμὰς ἑκατὸν πεντήκοντα <num value="150"/> χρῆσιν ἔν<supplied reason="lost">τοκον </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/> διὰ παντὸς ἀπὸ τοῦ <choice><reg>εἰσιόντος</reg><orig>ἰσιόντος</orig></choice> <num value="2">β</num> <expan><ex>ἔτους</ex></expan> γεωργίαν ἧς <gap reason="lost" extent="unknown" unit="character"/> </ab></div>
+    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/> διὰ παντὸς ἀπὸ τοῦ <choice><reg>εἰσιόντος</reg><orig>ἰσιόντος</orig></choice> <num value="2">β</num> <expan><ex>ἔτους</ex></expan> γεωργίαν ῆ̔ς <gap reason="lost" extent="unknown" unit="character"/> </ab></div>
       </body>
    </text>
 </TEI>

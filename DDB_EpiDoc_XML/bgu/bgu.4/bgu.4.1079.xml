@@ -67,7 +67,7 @@
 
     <lb n="5"/>Κρονίου μαχαιροφόρου 
 
-    <lb n="6"/>μίαν <num value="1"/>· λοιπὸν οὖν <subst><add place="inline">ἔλα
+    <lb n="6"/>μίαν <num value="1"/>· λοιπὸν οῦ̓ν <subst><add place="inline">ἔλα
 
     <lb n="7" break="no"/>βον</add><del rend="corrected">ελαβος</del></subst> παρὰ <expan>το<ex>ῦ</ex></expan> Ἄραβος τὴν 
 
@@ -87,7 +87,7 @@
 
     <lb n="15"/>ἐγὼ παιδάριν εἰμί. παρὰ 
 
-    <lb n="16"/>τὰ φο<supplied reason="lost">ρτ</supplied>ία μου· οὐκ οἶδα 
+    <lb n="16"/>τὰ φο<supplied reason="lost">ρτ</supplied>ία μου· οὐκ οῖ̓δα 
 
     <lb n="17"/><app type="editorial"><lem resp="BL 2.23">τί μ<supplied reason="lost">ε ὁ</supplied> πάτρων <choice><reg>ποιήσει</reg><orig>ποι<unclear>σει</unclear></orig></choice></lem><rdg>τιν<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>τρων<gap reason="illegible" quantity="1" unit="character"/>ο<gap reason="illegible" quantity="4" unit="character"/></rdg></app>, 
 
@@ -117,7 +117,7 @@
 
     <lb n="30" break="no"/>όνος</lem><rdg>ἡγεμόνος</rdg></app> · ἐὰν τὰ <expan>παρ<ex>ὰ</ex></expan> <choice><reg>σεαυτοῦ</reg><orig>σατοῦ</orig></choice> <choice><reg>ποιή
 
-    <lb n="31" break="no"/>σῃς</reg><orig>ποί<lb n="31" break="no"/>σῃς</orig></choice>, οὐκ εἶ μεμπτός. 
+    <lb n="31" break="no"/>σῃς</reg><orig>ποί<lb n="31" break="no"/>σῃς</orig></choice>, οὐκ εῖ̓ μεμπτός. 
 
     <lb n="32"/>ἀσπάζου Διόδωρον <app type="editorial"><lem resp="BL 1.95"><expan>μεγάλω<ex>ς</ex></expan></lem><rdg>μ<gap reason="illegible" quantity="2" unit="character"/>αλων</rdg></app>. 
 
