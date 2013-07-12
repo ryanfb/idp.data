@@ -57,7 +57,7 @@
 
     <lb n="4"/><expan>Παβοῦ<ex>ς</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="5"/>Ὧρος <abbr>Τα<unclear>σ</unclear>το</abbr>          <expan><ex>δραχμαὶ</ex></expan> <num value="8">η</num> 
+    <lb n="5"/>Ὧρος <abbr>Τα<unclear>σ</unclear>το</abbr>          <expan><ex>δραχμαὶ</ex></expan> <num value="8">η</num> 
 
     <lb n="6"/>Μέλας Ὁ<unclear>ρ</unclear>πκᾶ             <expan><ex>δραχμαὶ</ex></expan> <num value="8">η</num> 
 
@@ -155,7 +155,7 @@
 
     <lb n="21"/>Πα<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="22"/>Ὧ<unclear>ρο</unclear><supplied reason="lost">ς </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="22"/>Ὧ<unclear>ρο</unclear><supplied reason="lost">ς </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="23"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div></div>
       </body>

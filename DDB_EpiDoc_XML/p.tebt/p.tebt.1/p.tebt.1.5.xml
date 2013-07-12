@@ -422,7 +422,7 @@
 
     <lb n="174"/>τοὺς τελοῦντας τὰ <expan>καθή<ex>κοντα</ex></expan> εἰς τὸ <expan>βασ<ex>ιλικὸν</ex></expan> <choice><reg>ἕκαστον</reg><orig>ἕκαστων</orig></choice> <expan>αὐ<ex>τῶν</ex></expan> 
 
-    <lb n="175"/>οἰκίας μιᾶς <num value="1"/> ἐν ῇ̔ αὐτὸς <app type="editorial"><lem resp="BL 5.146">καταγίνε<unclear>τα</unclear>ι</lem><rdg>καταγείνεται</rdg></app>, 
+    <lb n="175"/>οἰκίας μιᾶς <num value="1"/> ἐν ῇ̔ αὐτὸς <app type="editorial"><lem resp="BL 5.146">καταγίνε<unclear>τα</unclear>ι</lem><rdg>καταγείνεται</rdg></app>, 
 
     <lb n="176"/>τῶν δʼ ἄλλων τῶν δοσίμων μὴ πλεῖον ἐπι
 
@@ -541,7 +541,7 @@
 <milestone rend="paragraphos" unit="undefined"/>
     <lb n="231"/>προστετάχα<add place="above">σι</add> δὲ καὶ τῶν <expan>βα<ex>σιλικῶν</ex></expan> <expan>γεω<ex>ργῶν</ex></expan> μὴ πωλεῖν 
 
-    <lb n="232"/>ἕως οἰκίας μιᾶς <num value="1"/> ἐν <subst><add place="inline">ῇ̔</add><del rend="corrected"><del rend="erasure">τ</del></del></subst> <subst><add place="inline">τὴν</add><del rend="corrected"><del rend="erasure">τα</del></del></subst> γεωρ
+    <lb n="232"/>ἕως οἰκίας μιᾶς <num value="1"/> ἐν <subst><add place="inline">ῇ̔</add><del rend="corrected"><del rend="erasure">τ</del></del></subst> <subst><add place="inline">τὴν</add><del rend="corrected"><del rend="erasure">τα</del></del></subst> γεωρ
 
     <lb n="233" break="no"/><subst><add place="inline">γικὴν</add><del rend="corrected">γεωρ<del rend="erasure">γικα</del>γικην</del></subst> κατασκευὴν <unclear>α</unclear>περιδε<unclear>υσ</unclear>αι <del rend="erasure">τὰ</del> 
 

@@ -63,7 +63,7 @@
 
     <lb n="8"/><num value="6">ϛ</num> <expan>ἀν<ex>ὰ</ex></expan> <num value="1/2">𐅵</num>  <num value="3">γ</num>, <expan><ex>γίνονται</ex></expan> <num value="14"><unclear>ιδ</unclear></num> <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> 
 
-    <lb n="9"/>Ὧρος Πετενεβθῶτος <num value="16">ιϛ</num> <expan>ἀν<ex>ὰ</ex></expan> <num value="1/2">𐅵</num>  <num value="8"><unclear>η</unclear></num> <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="9"/>Ὧρος Πετενεβθῶτος <num value="16">ιϛ</num> <expan>ἀν<ex>ὰ</ex></expan> <num value="1/2">𐅵</num>  <num value="8"><unclear>η</unclear></num> <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="10"/><num value="3">γ</num> <num value="1/4" rend="tick">δ</num> <num value="1/8" rend="tick">η</num> <num value="1/16" rend="tick">ιϛ</num>, <expan><ex>ῶ̔ν</ex></expan> <expan>ἐρή<ex>μου</ex></expan> <num value="1/2">𐅵</num> <num value="1/8" rend="tick">η</num> <num value="1/16" rend="tick">ιϛ</num>, <abbr>κα</abbr> <num value="2">β</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick"><unclear>δ</unclear></num> <expan>ἀν<ex>ὰ</ex></expan> <num value="1">α</num>  <num value="2">β</num> <supplied reason="lost"><num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num></supplied> 
 
@@ -77,7 +77,7 @@
 
     <lb n="15"/><supplied reason="lost">Θο</supplied>ῶνις Ὥρου <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="16"/><supplied reason="lost">Ὧ</supplied>ρος Πάσιτος <num value="3">γ</num> <gap reason="lost" extent="unknown" unit="character"/> </ab></div>
+    <lb n="16"/><supplied reason="lost">Ὧ</supplied>ρος Πάσιτος <num value="3">γ</num> <gap reason="lost" extent="unknown" unit="character"/> </ab></div>
       </body>
    </text>
 </TEI>

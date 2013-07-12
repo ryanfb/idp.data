@@ -82,7 +82,7 @@
 
     <lb n="13"/><num value="31">λα</num> <g type="check"/> Ὀρσεῦς Πεθέως τοῦ <expan>Ἕ<unclear>ρ</unclear>μω<unclear>νο</unclear><ex>ς</ex></expan> <expan>μη<ex>τρὸς</ex></expan> <expan>Τεφορσάι<ex>τος</ex></expan> <expan><ex>ὁμοίως</ex></expan> <num value="4">δ</num> 
 
-    <lb n="14"/><num value="61">ξα</num> <g type="check"/> Ὧρος Τανεσνέως τ<unclear>οῦ</unclear> <abbr>Πνεφ</abbr> <expan>μητ<ex>ρὸς</ex></expan> <gap reason="illegible" quantity="1" unit="character"/><abbr><unclear>σ</unclear>ηρωτ</abbr> <num value="4">δ</num> 
+    <lb n="14"/><num value="61">ξα</num> <g type="check"/> Ὧρος Τανεσνέως τ<unclear>οῦ</unclear> <abbr>Πνεφ</abbr> <expan>μητ<ex>ρὸς</ex></expan> <gap reason="illegible" quantity="1" unit="character"/><abbr><unclear>σ</unclear>ηρωτ</abbr> <num value="4">δ</num> 
 
     <lb n="15"/><num value="52">νβ</num> <g type="check"/> Τεῶς <unclear>Ὥ</unclear>ρου τοῦ <expan>Πνεφερῶτ<ex>ος</ex></expan> <expan>μη<ex>τρὸς</ex></expan> <expan>Ταουεῖτ<ex>ος</ex></expan> διὰ <gap reason="illegible" quantity="3" unit="character"/> <num value="4">δ</num> 
 
@@ -143,7 +143,7 @@
 
     <lb n="11"/><num value="19">ιθ</num> <g type="check"/> Ἡρακλ<unclear>ῆ</unclear>ς <expan>Ἡρακλήο<ex>υ</ex></expan> <unclear>τ</unclear>οῦ <expan>Ἡ<unclear>ρ</unclear>ακ<ex>λήου</ex></expan> <expan>μη<ex>τρὸς</ex></expan> <expan>Ἡρῶτ<unclear>ο</unclear><ex>ς</ex></expan> διὰ <abbr>Ευδ</abbr> <num value="4">δ</num> 
 
-    <lb n="12"/><num value="58">νη</num> <g type="check"/> Ὧρος <unclear>ἀπ</unclear>άτωρ <expan>μ<supplied reason="lost">η</supplied>τ<ex>ρὸς</ex></expan> Ἀύ<unclear>γ</unclear>χεως διὰ <abbr><unclear>Π</unclear>τολ</abbr> <num value="4">δ</num> 
+    <lb n="12"/><num value="58">νη</num> <g type="check"/> Ὧρος <unclear>ἀπ</unclear>άτωρ <expan>μ<supplied reason="lost">η</supplied>τ<ex>ρὸς</ex></expan> Ἀύ<unclear>γ</unclear>χεως διὰ <abbr><unclear>Π</unclear>τολ</abbr> <num value="4">δ</num> 
 
     <lb n="13"/><num value="9">θ</num> <g type="check"/> <expan>Ἀφροδ<supplied reason="lost">ί</supplied>σιο<ex>ς</ex></expan> <expan>Ὡρίωνο<ex>ς</ex></expan> τοῦ <expan>Πνεφε<ex>ρῶτος</ex></expan> <expan>μητ<ex>ρὸς</ex></expan> Δι<unclear>δ</unclear>ύμης <expan><ex>ὁμοίως</ex></expan> <num value="4">δ</num> 
 
@@ -208,7 +208,7 @@
 
     <lb n="16"/><expan>δεσ<ex>μοφυλακίας</ex></expan> <num value="1"><unclear>α</unclear></num> <expan><unclear>πο</unclear>τ<ex>αμοφυλακίας</ex></expan> <num value="1">α</num> <expan>φυλ<ex>ακίας</ex></expan> <num value="1">α</num> 
 
-    <lb n="17"/><num value="14">ιδ</num> <hi rend="subscript"><num value="58">νη</num></hi> <g type="check"/> Ὧρος Ἁρφ<unclear>α</unclear>ήσ<unclear>ε</unclear>ως <unclear>το</unclear>ῦ <expan><unclear>Ὀ</unclear>ρσε<unclear>ν</unclear><ex>ούφεως</ex></expan> <expan>μη<ex>τρὸς</ex></expan> Ταμενῶ<unclear>τ</unclear>ος <num value="4">δ</num>  <num value="4">δ</num> 
+    <lb n="17"/><num value="14">ιδ</num> <hi rend="subscript"><num value="58">νη</num></hi> <g type="check"/> Ὧρος Ἁρφ<unclear>α</unclear>ήσ<unclear>ε</unclear>ως <unclear>το</unclear>ῦ <expan><unclear>Ὀ</unclear>ρσε<unclear>ν</unclear><ex>ούφεως</ex></expan> <expan>μη<ex>τρὸς</ex></expan> Ταμενῶ<unclear>τ</unclear>ος <num value="4">δ</num>  <num value="4">δ</num> 
 
     <lb n="18"/><num value="60">ξ</num> <g type="check"/> Ὡρεῦς Μεγχείους <supplied reason="lost">τοῦ</supplied> <unclear>Δ</unclear>ημᾶ <expan><unclear>μη</unclear><ex>τρὸς</ex></expan> <expan>Πετοῦτ<ex>ος</ex></expan> διὰ <abbr>Πτολ</abbr> <num value="4">δ</num> 
 
@@ -286,7 +286,7 @@
 
     <lb n="23"/><num value="1">α</num> <g type="check"/> Ἀγχορ<supplied reason="lost">ίμ</supplied>φις <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>ὁμοίως</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="24"/><num value="5">ε</num><gap reason="illegible" quantity="1" unit="character"/> <g type="check"/> Ὧρος <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="24"/><num value="5">ε</num><gap reason="illegible" quantity="1" unit="character"/> <g type="check"/> Ὧρος <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="25"/><del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/></del> <num value="7"><unclear>ζ</unclear></num> <g type="check"/> Αφ<unclear>ρ</unclear><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 

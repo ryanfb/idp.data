@@ -49,7 +49,7 @@ l. 1: .1[.?] ---&gt; &lt;:.1[.?]|alt|α.[.?]:&gt; </change>
          <div xml:lang="grc" type="edition" xml:space="preserve">
 <ab>
 <lb n="1"/><expan>ὕδ<ex>ρευμα</ex></expan> <expan>Πμο<ex>υν</ex></expan> <app type="alternative"><lem><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>α<gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
-<lb n="2"/>Ὧρος Π<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/>Ὧρος Π<gap reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/> <num value="25">κε</num> <expan><ex>ἔτους</ex></expan> 
  
 </ab> 

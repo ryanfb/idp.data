@@ -50,9 +50,9 @@
 
     <lb n="1"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="2"/>Ὧρος <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="2"/>Ὧρος <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="3"/>Ὧρος        Σα<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="3"/>Ὧρος        Σα<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 <milestone rend="paragraphos" unit="undefined"/>
     <lb n="4"/><expan>Ἐπ<ex>εὶφ</ex></expan> <num value="15">ιε</num> Ψ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 

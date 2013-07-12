@@ -64,7 +64,7 @@
 
     <lb n="6"/><handShift new="m2"/> Ἐπιχάρης Χαιρήμονι χαίρειν. 
 
-    <lb n="7"/>ἐξάγε<supplied reason="lost">ι</supplied> Ὧρος Τεῶτος ἐκ Θμ<supplied reason="lost">οι</supplied>
+    <lb n="7"/>ἐξάγε<supplied reason="lost">ι</supplied> Ὧρος Τεῶτος ἐκ Θμ<supplied reason="lost">οι</supplied>
 
     <lb n="8" break="no"/>νεθύμεως το<supplied reason="lost">ῦ Ἡ</supplied>ρα<supplied reason="lost">κλεο</supplied>
 
@@ -79,7 +79,7 @@
     <lb n="13"/><gap reason="ellipsis" quantity="2" unit="line"><desc>Demotic</desc></gap> 
 </ab></div><div n="v" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="15"/>Ὧρος Τεῶτος. </ab></div></div>
+    <lb n="15"/>Ὧρος Τεῶτος. </ab></div></div>
       </body>
    </text>
 </TEI>

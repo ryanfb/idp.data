@@ -69,7 +69,7 @@
 <lb n="17"/><app type="editorial"><lem>Σεντοτγῆς</lem><rdg resp="Original Edition">Σεντουγῆς</rdg></app> <expan>θυ<ex>γάτηρ</ex></expan>
 <lb n="18"/>Νέχθμινις ἄλλος 
 <lb n="19"/>Τέτλως <expan>γυ<ex>νή</ex></expan>
-<lb n="20"/>Ὧρος <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="20"/>Ὧρος <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
 <lb n="21"/><gap reason="lost" extent="unknown" unit="character"/>
 <lb n="22"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>ιριος
 <lb n="22"/><gap reason="lost" extent="unknown" unit="line"/></ab></div>
@@ -102,8 +102,8 @@
 <div n="1" subtype="column" type="textpart"><ab>
 <lb n="45"/>Ἀβάβικις Τάσιτος 
 <lb n="46"/>Σέτινις Νεχθώνσιος 
-<lb n="47"/>Ὧρος Τανεχώτιος 
-<lb n="48"/>Ὧρος Πιύριος 
+<lb n="47"/>Ὧρος Τανεχώτιος 
+<lb n="48"/>Ὧρος Πιύριος 
 <lb n="49"/>Τάμηφις ἄλλη 
 <lb n="50"/>Πέτησις ἄλλος 
 <lb n="51"/>Τάσις <expan>γυ<ex>νή</ex></expan>
@@ -118,7 +118,7 @@
 <lb n="60"/>Ταγομβῆς <expan>γυ<ex>νή</ex></expan>
 <lb n="61"/>Πάαπις Ἀχορίνιος 
 <lb n="62"/>Ταύσιρις <expan>μή<ex>τηρ</ex></expan>
-<lb n="63"/><supplied reason="lost">Ὧ</supplied>ρος ἄλλος Νικολάου 
+<lb n="63"/><supplied reason="lost">Ὧ</supplied>ρος ἄλλος Νικολάου 
 <lb n="64"/><gap reason="lost" quantity="4" unit="character"/>ητις <expan>γυ<ex>νή</ex></expan>
 <lb n="64"/><gap reason="lost" extent="unknown" unit="line"/>
 </ab></div>
@@ -128,7 +128,7 @@
 <div n="1" subtype="column" type="textpart"><ab>
 <lb n="65"/>Θάησις <expan>γυ<ex>νή</ex></expan>
 <lb n="66"/>Θάιβις <expan>μή<ex>τηρ</ex></expan>
-<lb n="67"/>Ὧρος Ἀμεννήως 
+<lb n="67"/>Ὧρος Ἀμεννήως 
 <lb n="68"/>Τετεάθυρις <expan>γυ<ex>νή</ex></expan>
 <lb n="69"/>Νεχοῦς Ὥρου 
 <lb n="70"/><supplied reason="lost">Σε</supplied>νάμουνις <expan>θυ<ex>γάτηρ</ex></expan>
@@ -190,7 +190,7 @@
 <lb n="115"/>Ψάμ<unclear>τ</unclear>ιχ<unclear>ος</unclear> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
 <lb n="116"/>Πετόσιρις Ἰμ<supplied reason="lost">ούθου</supplied>
 <lb n="117"/><unclear>Τ</unclear>άθωυ<unclear>τ</unclear><supplied reason="lost">ις <expan>γυ<ex>νή</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/>
-<lb n="118"/>Ὧρος <choice><reg>υἱ<supplied reason="lost">ός</supplied></reg><orig>ὑγ<supplied reason="lost">ός</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="118"/>Ὧρος <choice><reg>υἱ<supplied reason="lost">ός</supplied></reg><orig>ὑγ<supplied reason="lost">ός</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="119"/>Λίβανος <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
 <lb n="120"/>Στότοητις <expan>γ<unclear>υ</unclear><ex>νή</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="121"/>Σενόσιρις  <expan><unclear>γ</unclear><supplied reason="lost">υ<ex>νή</ex></supplied></expan>

@@ -54,7 +54,7 @@
 
     <lb n="1"/><supplied reason="lost">ἔτους <num value="15">ιε</num> </supplied><gap reason="lost" quantity="7" unit="character"/><supplied reason="lost"> ἐν Παθύρει ἐφʼ Ἑρμίου τοῦ</supplied> 
 
-    <lb n="2"/><supplied reason="lost">πα</supplied><unclear>ρ</unclear><supplied reason="lost">ὰ Πανίσκου ἀγο</supplied><unclear>ρ</unclear><supplied reason="lost">ανόμου. ἐδάνεισεν Ὧρος</supplied> 
+    <lb n="2"/><supplied reason="lost">πα</supplied><unclear>ρ</unclear><supplied reason="lost">ὰ Πανίσκου ἀγο</supplied><unclear>ρ</unclear><supplied reason="lost">ανόμου. ἐδάνεισεν Ὧρος</supplied> 
 
     <lb n="3"/><unclear>Ὥ</unclear>ρου Ὥρωι <choice><reg>Νεχούτου</reg><orig>Νεχουτωι</orig></choice> ὡς <expan><ex>ἐτῶν</ex></expan> <num value="50"><unclear>ν</unclear></num> <supplied reason="lost">μέσος μελίχρως</supplied> 
 
@@ -80,7 +80,7 @@
 
     <lb n="14"/>ἀποκαθεσταμένον εἰς οῖ̓κον <supplied reason="omitted">ἐν</supplied> τοῖς πεδίο<unclear>ι</unclear><supplied reason="lost">ς</supplied> <supplied reason="omitted">ἰδίοις</supplied> 
 
-    <lb n="15"/>ἀνηλώμασι μέτρῳ ῷ̔ καὶ παρείληφ<unclear>εν</unclear>· 
+    <lb n="15"/>ἀνηλώμασι μέτρῳ ῷ̔ καὶ παρείληφ<unclear>εν</unclear>· 
 
     <lb n="16"/>ἐὰν δὲ μὴ <choice><reg>ἀποδῷ</reg><orig>ἀποδωσιν</orig></choice> <unclear>ἐ</unclear>ν τῷ ὡρισμένῳ 
 
@@ -103,7 +103,7 @@
     <lb n="25"/>Ἑρμίας ὁ παρὰ Πανίσκου <expan>κεχρη<ex>μάτικα</ex></expan>. 
 </ab></div><div n="v" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="1"/>ἐδάνεισεν Ὧρος <unclear>Ὥρ</unclear>ου Ὥρωι Ν<unclear>εχ</unclear>ούτου. </ab></div></div>
+    <lb n="1"/>ἐδάνεισεν Ὧρος <unclear>Ὥρ</unclear>ου Ὥρωι Ν<unclear>εχ</unclear>ούτου. </ab></div></div>
       </body>
    </text>
 </TEI>

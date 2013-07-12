@@ -109,7 +109,7 @@
 
     <lb n="1"/><app type="editorial"><lem resp="BL cf. 1.408"><abbr><gap reason="lost" quantity="2" unit="character"/><unclear>χοισ</unclear>υε</abbr> <gap reason="illegible" quantity="1" unit="character"/> <expan>μη<supplied reason="lost">τρὸ<ex>ς</ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/> </lem><rdg><gap reason="lost" extent="unknown" unit="character"/>χ<gap reason="illegible" quantity="3" unit="character"/>νη</rdg></app> 
 
-    <lb n="2/3"/><g type="check"/> <app type="editorial"><lem resp="BL cf. 1.408">Ὧ<supplied reason="lost">ρο</supplied>ς</lem><rdg>ω<gap reason="lost" extent="unknown" unit="character"/>σ</rdg></app> ἀδελφὸς μ<supplied reason="lost">ητρὸς </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="2/3"/><g type="check"/> <app type="editorial"><lem resp="BL cf. 1.408">Ὧ<supplied reason="lost">ρο</supplied>ς</lem><rdg>ω<gap reason="lost" extent="unknown" unit="character"/>σ</rdg></app> ἀδελφὸς μ<supplied reason="lost">ητρὸς </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="4"/><app type="editorial"><lem resp="BL cf. 1.408"><supplied reason="lost"><expan><ex>δραχμαὶ</ex></expan></supplied></lem><rdg><gap reason="lost" extent="unknown" unit="character"/></rdg></app>  <num value="12">ιβ</num> <expan>Γερμ<ex>ανικείου</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="24">κδ</num> <gap reason="lost" extent="unknown" unit="character"/> 
 

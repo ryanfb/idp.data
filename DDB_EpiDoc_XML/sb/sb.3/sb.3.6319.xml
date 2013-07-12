@@ -79,9 +79,9 @@
 
     <lb n="9"/><supplied reason="lost">Ἁρ</supplied>μιώσιος Ἁρμιώσιος   <expan><ex>δραχμαὶ</ex></expan> <num value="2100">Βρ</num>, 
 
-    <lb n="10"/><supplied reason="lost">Ὧρος</supplied> Ψενήσιος          <expan><ex>δραχμαὶ</ex></expan> <num value="1800">Αω</num>, 
+    <lb n="10"/><supplied reason="lost">Ὧρος</supplied> Ψενήσιος          <expan><ex>δραχμαὶ</ex></expan> <num value="1800">Αω</num>, 
 
-    <lb n="11"/><supplied reason="lost">Ὧρος Ὀ</supplied>ρσεν<supplied reason="lost">ο</supplied>ῦφις, 
+    <lb n="11"/><supplied reason="lost">Ὧρος Ὀ</supplied>ρσεν<supplied reason="lost">ο</supplied>ῦφις, 
 
     <lb n="12"/><supplied reason="lost">Καλα</supplied><unclear>χ</unclear>ύε<supplied reason="lost">ις Χεῶς</supplied>, 
 
@@ -122,15 +122,15 @@
 
     <lb n="30"/>Ἁρμιῶσι Ἁρμιῶσι        <expan><ex>δραχμαὶ</ex></expan> <choice><reg><num value="2100">Βρ</num></reg><orig><num value="2">Β</num><del rend="erasure"><gap reason="illegible" quantity="2" unit="character"/></del><num value="100">ρ</num></orig></choice> 
 
-    <lb n="31"/>Ὧρος Φενῆσι             <expan><ex>δραχμαὶ</ex></expan> <num value="2100">Βρ</num>, 
+    <lb n="31"/>Ὧρος Φενῆσι             <expan><ex>δραχμαὶ</ex></expan> <num value="2100">Βρ</num>, 
 
-    <lb n="32"/>Ὧρος Ὀρσενῦις          <expan><ex>δραχμαὶ</ex></expan> <num value="1800">Αω</num>, 
+    <lb n="32"/>Ὧρος Ὀρσενῦις          <expan><ex>δραχμαὶ</ex></expan> <num value="1800">Αω</num>, 
 
     <lb n="33"/>Καλαχύεις Χεῶς, 
 
     <lb n="34"/>Ὀρσενῦις Τουτνῆς, 
 
-    <lb n="35"/>Ὧρος Ἁτρῆς, <expan><ex>γίνονται</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="5">ε</num> <expan><ex>δραχμαὶ</ex></expan> <num value="3600">Γχ</num>. 
+    <lb n="35"/>Ὧρος Ἁτρῆς, <expan><ex>γίνονται</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="5">ε</num> <expan><ex>δραχμαὶ</ex></expan> <num value="3600">Γχ</num>. 
 
     <lb n="36"/>Βελλῆς, 
 
@@ -218,7 +218,7 @@
 
     <lb n="75"/>Πανῆσι <choice><reg>ἡμίσειαν</reg><orig>ἡμυσον</orig></choice> <subst><add place="inline"><add place="above"><choice><reg>ἀρτάβην</reg><orig>ἀρτάβης</orig></choice></add></add><del rend="corrected">αρτα</del></subst>, 
 
-    <lb n="76"/>Ὧρος παῖς κεράμιον, <expan>ἀρτά<ex>βην</ex></expan>. 
+    <lb n="76"/>Ὧρος παῖς κεράμιον, <expan>ἀρτά<ex>βην</ex></expan>. 
 </ab></div><div n="4" type="textpart"><!--milestone unit="4"--><ab>
 
     <lb n="77"/>Πετεσού<supplied reason="lost">χ</supplied>ου, 
@@ -255,7 +255,7 @@
 
     <lb n="93"/>Καλῆς <expan><ex>δραχμαὶ</ex></expan> <num value="400">υ</num>, 
 
-    <lb n="94"/>Ὧρος Ψενῆσι <expan><ex>δραχμαὶ</ex></expan> <num value="500">φ</num>, 
+    <lb n="94"/>Ὧρος Ψενῆσι <expan><ex>δραχμαὶ</ex></expan> <num value="500">φ</num>, 
 
     <lb n="95"/>Καλ<unclear>α</unclear>χῶις <expan><ex>δραχμαὶ</ex></expan> <num value="200">σ</num>, 
 
@@ -271,7 +271,7 @@
 
     <lb n="101"/>Πανῆσι, 
 
-    <lb n="102"/>Ὧρος Παη<gap reason="lost" quantity="7" unit="character"/>α<gap reason="illegible" quantity="3" unit="character"/> ἀρτά<supplied reason="lost">βην</supplied> 
+    <lb n="102"/>Ὧρος Παη<gap reason="lost" quantity="7" unit="character"/>α<gap reason="illegible" quantity="3" unit="character"/> ἀρτά<supplied reason="lost">βην</supplied> 
 
     <lb n="103"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div></div>
       </body>

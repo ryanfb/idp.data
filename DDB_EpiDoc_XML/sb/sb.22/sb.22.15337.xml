@@ -43,7 +43,7 @@
           <change when="2011-08-03T12:23:23.339-04:00"
                  who="http://papyri.info/editor/users/joshuad.sosin">Vote - AcceptText - Accept. Typos clearly fixed.</change>
           <change when="2010-12-16T10:48:11.707-05:00"
-                 who="http://papyri.info/editor/users/iandorlini">Typos to be corrected: lin6 ῷ̔ (with iota subscr.), lin7 ((ἔτους)) [not ((ἄτους));&#xD;
+                 who="http://papyri.info/editor/users/iandorlini">Typos to be corrected: lin6 ῷ̔ (with iota subscr.), lin7 ((ἔτους)) [not ((ἄτους));&#xD;
  lin2 App. [λε]γεῶ(νος) pap.: accent included according to new rules.</change>
           <change when="2010-05-05" who="http://papyri.info/editor/users/gabrielbodard">changed schema; added xml:space=preserve; indented; moved title/@n to idno</change>
           <change when="2009-11-12" who="http://papyri.info/editor/users/gabrielbodard">Added language la-Grek</change>
@@ -69,7 +69,7 @@
 
     <lb n="5"/><gap reason="lost" quantity="10" unit="character"/><supplied reason="lost"> ἐπʼ ἀμφόδ</supplied><unclear>ο</unclear>υ Θεσμοφορίου <unclear>ἥμ</unclear>ισυ τετρακαιεικοστ<supplied reason="lost">ὸν μέρος</supplied>
 
-    <lb n="6"/><supplied reason="lost">οἰκίας καὶ αὐλῆς ἐ</supplied>ν ῷ̔ <expan>ἀπογρά<ex>φομαι</ex></expan> ἐμαυ<supplied reason="lost">τόν τε κ</supplied>αὶ τοὺς ἐμοὺ<supplied reason="lost">ς εἰς τὴν τοῦ</supplied>
+    <lb n="6"/><supplied reason="lost">οἰκίας καὶ αὐλῆς ἐ</supplied>ν ῷ̔ <expan>ἀπογρά<ex>φομαι</ex></expan> ἐμαυ<supplied reason="lost">τόν τε κ</supplied>αὶ τοὺς ἐμοὺ<supplied reason="lost">ς εἰς τὴν τοῦ</supplied>
 
     <lb n="7"/><supplied reason="lost">διεληλυθό</supplied><unclear>τ</unclear><supplied reason="lost">ος</supplied> <num value="23"><unclear>κγ</unclear></num> <expan><ex>ἔτους</ex></expan> <unclear>θ</unclear>εοῦ Ἀντ<supplied reason="lost">ω</supplied>νίνου κατʼ <expan>οἰκ<ex>ίαν</ex></expan> <expan>ἀπογρα<ex>φήν</ex></expan>· <unclear>κ</unclear>αί ε<supplied reason="lost">ἰ</supplied><unclear>μι</unclear> <supplied reason="lost">Γάιος</supplied>
 

@@ -49,7 +49,7 @@
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>π<unclear>λ</unclear>εί<unclear>ω</unclear> 
 
-    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><del rend="erasure"><unclear>ις</unclear> <unclear>Ὧρος</unclear></del> 
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><del rend="erasure"><unclear>ις</unclear> <unclear>Ὧρος</unclear></del> 
 
     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ιως</unclear> <unclear>Πε</unclear>βό    <num value="2">β</num> 
 
@@ -65,11 +65,11 @@
 
     <lb n="9"/>Ἡρά<unclear>κλε</unclear><supplied reason="lost">ι</supplied>ος     <del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/></del><num value="3">γ</num> 
 
-    <lb n="10"/>Ὧρο<unclear>ς</unclear> <gap reason="illegible" quantity="2" unit="character"/><unclear>βετ</unclear>      <num value="1">α</num> 
+    <lb n="10"/>Ὧρο<unclear>ς</unclear> <gap reason="illegible" quantity="2" unit="character"/><unclear>βετ</unclear>      <num value="1">α</num> 
 
     <lb n="11"/>Κε<unclear>λ</unclear>οῦρις         <num value="1">α</num> 
 
-    <lb n="12"/><supplied reason="lost">Ὧ</supplied><unclear>ρος</unclear> <del rend="erasure">Π<unclear>α</unclear>ερ</del>  <num value="1">α</num> </ab></div>
+    <lb n="12"/><supplied reason="lost">Ὧ</supplied><unclear>ρος</unclear> <del rend="erasure">Π<unclear>α</unclear>ερ</del>  <num value="1">α</num> </ab></div>
       </body>
    </text>
 </TEI>

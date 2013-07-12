@@ -288,7 +288,7 @@
 
     <lb n="1"/><handShift new="m4"/> <gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>π<unclear>ο</unclear>δε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἐφʼ ῷ̔ κυρωθέν</supplied>
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>π<unclear>ο</unclear>δε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἐφʼ ῷ̔ κυρωθέν</supplied>
 
     <lb n="3" break="no"/><supplied reason="lost" cert="low">τα</supplied><supplied reason="lost"> με διαγράψ</supplied><unclear>αι</unclear> τὴ<unclear>ν</unclear> <unclear>τιμὴ</unclear><supplied reason="lost">ν ἐπὶ τὴν τοῦ νομοῦ</supplied> 
 
@@ -442,7 +442,7 @@
 
     <lb n="9"/>Σεβαστοῦ <supplied reason="lost">τύ</supplied>χην ἀ<supplied reason="lost">ποκαθεσ</supplied>τηκέναι τὸν π<unclear>ρ</unclear>οκ<supplied reason="lost">είμε</supplied>
 
-    <lb n="10" break="no"/>νο<unclear>ν</unclear> Αὐρήλιον Ὧρ<supplied reason="lost">ον ἀπὸ τῆ</supplied>ς αὐτῆς ὥρας ὀνομ<supplied reason="lost">ασ</supplied>
+    <lb n="10" break="no"/>νο<unclear>ν</unclear> Αὐρήλιον Ὧρ<supplied reason="lost">ον ἀπὸ τῆ</supplied>ς αὐτῆς ὥρας ὀνομ<supplied reason="lost">ασ</supplied>
 
     <lb n="11" break="no"/>θέντα <unclear>ἐν</unclear> <unclear>δ</unclear>ια<unclear>σ</unclear>τ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> π</supplied>όλεως τόποις κα<supplied reason="lost">τὰ</supplied> 
 
@@ -1513,7 +1513,7 @@
 
     <lb n="6"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> ἀντὶ τῶ<unclear>ν</unclear> τῆς συντιμ<supplied reason="lost">ή</supplied><choice><reg><lb n="7" break="no"/><supplied reason="lost">σεω</supplied>ς</reg><orig>συν<unclear>τ</unclear>ειμ<supplied reason="lost">ησεω</supplied>ς</orig></choice> <expan><ex>δραχμῶν</ex></expan> <num value="300">τ</num> ὅλων <expan><ex>δραχμῶν</ex></expan> <num value="304">τδ</num> 
 
-    <lb n="8"/><supplied reason="lost">ἐφʼ</supplied> ῷ̔ κυρ<unclear>ω</unclear>θ<unclear>εὶς</unclear> διαγρ<supplied reason="lost">ά</supplied>ψ<supplied reason="lost">ω</supplied> 
+    <lb n="8"/><supplied reason="lost">ἐφʼ</supplied> ῷ̔ κυρ<unclear>ω</unclear>θ<unclear>εὶς</unclear> διαγρ<supplied reason="lost">ά</supplied>ψ<supplied reason="lost">ω</supplied> 
 
     <lb n="9"/><supplied reason="lost">τὴν τ</supplied>ιμὴν ἐ<unclear>π</unclear><supplied reason="lost">ὶ τ</supplied>ὴ<unclear>ν</unclear> τοῦ ν<unclear>ο</unclear><supplied reason="lost">μοῦ</supplied> 
 

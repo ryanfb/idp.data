@@ -42,7 +42,7 @@
           <change when="2012-03-09T12:03:03.057-05:00"
                  who="http://papyri.info/editor/users/james.cowey">Vote - AcceptText - lin19 requires no brackets at all (checked on the photo); lin28 Νεῖλου -&gt; Νείλου; lin29 yes agree remove alts. See Sosin's comments.</change>
           <change when="2012-03-09T12:03:03.05-05:00"
-                 who="http://papyri.info/editor/users/joshuad.sosin">Vote - AcceptText - Accept. NOTE finalizer must hand-convert SB 1 4484 into a dummy record with reprint in info. Lin8 --&gt;  &lt;:Ὅ[λ]||alt||Ὧ[λ]|Ὧ[ρ]:&gt; (would prefer to dot first letter in all 3); lin15 captures the explanation in the note, but this is difficult. lin28--&gt; [.?].1ουτου; lin28--&gt;δια̣κό̣[νου] [.?]; lin29 remove the alts</change>
+                 who="http://papyri.info/editor/users/joshuad.sosin">Vote - AcceptText - Accept. NOTE finalizer must hand-convert SB 1 4484 into a dummy record with reprint in info. Lin8 --&gt;  &lt;:Ὅ[λ]||alt||Ὧ[λ]|Ὧ[ρ]:&gt; (would prefer to dot first letter in all 3); lin15 captures the explanation in the note, but this is difficult. lin28--&gt; [.?].1ουτου; lin28--&gt;δια̣κό̣[νου] [.?]; lin29 remove the alts</change>
           <change when="2011-10-22T06:39:22.332-04:00"
                  who="http://papyri.info/editor/users/PaulvdLaan">Entered Greek text from CPR 19.33 (=reedition of SB 1.4484, SB 1.4738, SB 18.13959. lin29 added [.?] before δωρον based on commentary.						</change>
           <change when="2010-05-05" who="http://papyri.info/editor/users/gabrielbodard">changed schema; added xml:space=preserve; indented; moved title/@n to idno</change>
@@ -69,7 +69,7 @@
 <lb n="5"/><expan>Αὐγούστ<ex>ου</ex></expan> ἔτους <num value="10">ι</num> Φαῶφι <num value="23">κγ</num> <expan><supplied reason="lost">ἀ</supplied><unclear>ρ</unclear><ex>χῇ</ex></expan>
 <lb n="6"/><num value="10">δεκάτης</num> <expan><hi rend="diaeresis">ἰ</hi><supplied reason="lost">ν<ex>δικτίωνος</ex></supplied></expan> ἐν <expan>Ἀρ<ex>σινοιτῶν πόλει</ex></expan>.
 <lb n="7"/><handShift new="m2"/>Νεῖλος διάκονος ἁγίας <supplied reason="lost">κ</supplied>αθολικῆς
-<lb n="8"/>ἐκκλησίας υἱὸς ἄπα <app type="alternative"><lem><unclear>Ὅ</unclear><supplied reason="lost">λ</supplied></lem><rdg><unclear>Ὧ</unclear><supplied reason="lost">λ</supplied></rdg><rdg>῟<unclear>Ω</unclear><supplied reason="lost">ρ</supplied></rdg></app> ἀπὸ <unclear>τ</unclear>ῆς
+<lb n="8"/>ἐκκλησίας υἱὸς ἄπα <app type="alternative"><lem><unclear>Ὅ</unclear><supplied reason="lost">λ</supplied></lem><rdg><unclear>Ὧ</unclear><supplied reason="lost">λ</supplied></rdg><rdg>῟<unclear>Ω</unclear><supplied reason="lost">ρ</supplied></rdg></app> ἀπὸ <unclear>τ</unclear>ῆς
 <lb n="9"/><supplied reason="lost">Ἀρσινοιτῶν</supplied> πόλεω<supplied reason="lost">ς ἀ</supplied>πὸ ἀ<supplied reason="lost">μφόδου</supplied>
 <lb n="9"/><gap reason="lost" extent="unknown" unit="line"/>
 <lb n="10"/>νομιτεύεται <expan>χρ<ex>υσίου</ex></expan> <expan><unclear>ν</unclear><supplied reason="lost">ό<ex>μισμα</ex></supplied></expan> <num value="1">α</num> <num value="2/3"><expan><ex>δίμοιρον</ex></expan></num> ὡς <expan><unclear>ν</unclear><ex>ομιτεύεται</ex></expan>
@@ -84,7 +84,7 @@
 <lb n="19"/>ἐξ ὑπαρχόντων μου πάντων
 <lb n="20"/><supplied reason="lost">καὶ</supplied> <expan><supplied reason="lost">ἐπε</supplied>ρ<ex>ωτηθεὶς</ex></expan> <expan>ὡμολ<ex>όγησα</ex></expan> <g type="stauros"/>. Ν<supplied reason="lost">εῖ</supplied>λος διάκονος
 <lb n="21"/><supplied reason="lost">ἁγίας κα</supplied>θολικῆς ἐκκλησίας υἱὸς 
-<lb n="22"/><supplied reason="lost">ἄπα</supplied> <app type="alternative"><lem><supplied reason="lost">Ὅλ</supplied></lem><rdg><supplied reason="lost">Ὧλ</supplied></rdg><rdg><supplied reason="lost">῟Ωρ</supplied></rdg></app> <supplied reason="lost">ὁ</supplied> <choice><reg><supplied reason="lost">πρ</supplied>οκείμενος</reg><orig><supplied reason="lost">πρ</supplied>οκίμενος</orig></choice> <choice><reg>στοιχεῖ</reg><orig>στιχῖ</orig></choice> <choice><reg>μοι</reg><orig>μη</orig></choice> ἡ <expan>μίσθω<ex>σις</ex></expan>
+<lb n="22"/><supplied reason="lost">ἄπα</supplied> <app type="alternative"><lem><supplied reason="lost">Ὅλ</supplied></lem><rdg><supplied reason="lost">Ὧλ</supplied></rdg><rdg><supplied reason="lost">῟Ωρ</supplied></rdg></app> <supplied reason="lost">ὁ</supplied> <choice><reg><supplied reason="lost">πρ</supplied>οκείμενος</reg><orig><supplied reason="lost">πρ</supplied>οκίμενος</orig></choice> <choice><reg>στοιχεῖ</reg><orig>στιχῖ</orig></choice> <choice><reg>μοι</reg><orig>μη</orig></choice> ἡ <expan>μίσθω<ex>σις</ex></expan>
 <lb n="23"/><supplied reason="lost">ὡς</supplied> <choice><reg><supplied reason="lost">πρό</supplied>κειται</reg><orig><supplied reason="lost">πρό</supplied>κιτε</orig></choice>. <handShift new="m4"/>Αὐρήλιος Ἠλίας Παύ
 <lb n="24" break="no"/><supplied reason="lost">λου</supplied> <expan><supplied reason="lost">ἔγρ</supplied>α<ex>ψα</ex></expan> <expan>ὑ<ex>πὲρ</ex></expan> αὐτοῦ παρόντος ἀγραμ
 <lb n="25" break="no"/><supplied reason="lost">μάτου ὄν</supplied><unclear>τ</unclear>ος. Αὐρήλιος Ἠλίας Παύλου <expan>ἔγρα<ex>ψα</ex></expan>

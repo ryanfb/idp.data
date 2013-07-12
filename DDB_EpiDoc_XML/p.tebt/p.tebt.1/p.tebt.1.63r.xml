@@ -72,7 +72,7 @@
 
     <lb n="7"/>Πετενεφιγῆς Πετενεφιείους <num value="25">κε</num>, 
 
-    <lb n="8"/>Ὧρος Ἁρσιγήσιος καὶ οἱ <expan>μέ<ex>τοχοι</ex></expan> <num value="15">ιε</num>, 
+    <lb n="8"/>Ὧρος Ἁρσιγήσιος καὶ οἱ <expan>μέ<ex>τοχοι</ex></expan> <num value="15">ιε</num>, 
 
     <lb n="9"/>Ἀπολλώνιος Ποσειδωνίου <num value="50">ν</num>, 
 
@@ -140,7 +140,7 @@
 
     <lb n="40"/><expan><ex>ὀγδοηκονταρούρων</ex></expan>, Καλλικράτου τοῦ Φιλοξένου <num value="80">π</num>, <expan><ex>ῶ̔ν</ex></expan> <expan>σπό<ex>ρος</ex></expan> <expan><ex>πυρῶι</ex></expan> <num value="20">κ</num> <expan>ἀρά<ex>κωι</ex></expan> <num value="5">ε</num> <expan>φασή<ex>λωι</ex></expan> <num value="15">ιε</num> <expan>κρι<ex>θῆι</ex></expan> <num value="5">ε</num>, 
 
-    <lb n="41"/><expan><ex>γίνονται</ex></expan> <num value="45">με</num>, <expan>ὑπολό<ex>γου</ex></expan> <expan>ἐμβρό<ex>χου</ex></expan> <num value="35">λε</num>, <expan>γεω<ex>ργοὶ</ex></expan> Ὧρος καὶ Πετερμοῦθις. 
+    <lb n="41"/><expan><ex>γίνονται</ex></expan> <num value="45">με</num>, <expan>ὑπολό<ex>γου</ex></expan> <expan>ἐμβρό<ex>χου</ex></expan> <num value="35">λε</num>, <expan>γεω<ex>ργοὶ</ex></expan> Ὧρος καὶ Πετερμοῦθις. 
 
     <lb n="42"/>καὶ τῶν ἀναζευξάντων εἰς τὴν Θηβαί<supplied reason="lost">δα</supplied> ἀπὸ τῶν <num value="4000">Δ</num> ἀνδρῶν, 
 
@@ -183,7 +183,7 @@
 
     <lb n="61"/><supplied reason="lost">Διο</supplied>δότου τοῦ Ἀπολλωνίου <num value="40">μ</num>, <expan><ex>ῶ̔ν</ex></expan> <expan>σπό<ex>ρος</ex></expan> <expan><ex>πυρῶι</ex></expan> <num value="15">ιε</num> <expan>φακ<ex>ῶι</ex></expan> <num value="5">ε</num>, <expan><ex>γίνονται</ex></expan> <supplied reason="lost"><num value="20">κ</num>,</supplied> <expan>ἐμ<supplied reason="lost">β</supplied>ρό<ex>χου</ex></expan> <supplied reason="lost"><num value="20">κ</num>,</supplied> 
 
-    <lb n="62"/><expan>γεω<ex>ργὸς</ex></expan> Ὧρος Ὥρου. 
+    <lb n="62"/><expan>γεω<ex>ργὸς</ex></expan> Ὧρος Ὥρου. 
 
     <lb n="63"/><supplied reason="lost">Λέο</supplied>ντος τοῦ Λεοντίσκου <num value="40">μ</num>, <expan><ex>ῶ̔ν</ex></expan> <expan>σπό<ex>ρος</ex></expan> <supplied reason="lost"><expan><ex>πυρῶι</ex></expan></supplied> <num value="15">ιε</num> <expan>ἀρά<ex>κωι</ex></expan> <num value="10">ι</num>, <expan><ex>γίνονται</ex></expan> <num value="25">κε</num>, <expan>ἐμβρό<ex>χου</ex></expan> <num value="15">ιε</num>, 
 
@@ -365,9 +365,9 @@
 
     <lb n="150"/>Πορεγέβθις Ἀπύγχι<supplied reason="lost">ο</supplied>ς <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῶι</ex></expan> <num value="4">δ</num> <num value="1/2">𐅵</num> <supplied reason="lost"><expan>φα<ex>κῶι</ex></expan></supplied> <supplied reason="lost"><num value="2">β</num>,<expan>γεω<ex>ργὸς</ex></expan>αὐτός.</supplied> 
 
-    <lb n="151"/>Ὧρος Ὥρου <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῶι</ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> <expan>φα<ex>κῶι</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> <expan>φ<supplied reason="lost">ασή<ex>κωι</ex></supplied></expan><supplied reason="lost"> <num value="1">α</num> <num value="1/2">𐅵</num>, <expan>γεω<ex>ργὸς</ex></expan> αὐτός.</supplied> 
+    <lb n="151"/>Ὧρος Ὥρου <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῶι</ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> <expan>φα<ex>κῶι</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> <expan>φ<supplied reason="lost">ασή<ex>κωι</ex></supplied></expan><supplied reason="lost"> <num value="1">α</num> <num value="1/2">𐅵</num>, <expan>γεω<ex>ργὸς</ex></expan> αὐτός.</supplied> 
 
-    <lb n="152"/>Ὧρος Θοτορταίου <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῶι</ex></expan> <num value="4">δ</num> <num value="1/2">𐅵</num> <expan>φα<ex>κῶι</ex></expan> <num value="2">β</num>, <expan>γεω<ex>ργὸς</ex></expan> <supplied reason="lost">αὐτός.</supplied> 
+    <lb n="152"/>Ὧρος Θοτορταίου <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῶι</ex></expan> <num value="4">δ</num> <num value="1/2">𐅵</num> <expan>φα<ex>κῶι</ex></expan> <num value="2">β</num>, <expan>γεω<ex>ργὸς</ex></expan> <supplied reason="lost">αὐτός.</supplied> 
 
     <lb n="153"/>Ἁρχῦψις Πετοσίριος <num value="6">ϛ</num> <supplied reason="lost"><num value="1/2">𐅵</num></supplied> <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῶι</ex></expan> <num value="4">δ</num> <num value="1/2">𐅵</num> <expan>ἀρά<ex>κωι</ex></expan> <num value="2">β</num>, <supplied reason="lost"><expan>γεω<ex>ργὸς</ex></expan> αὐτός.</supplied> 
 
@@ -377,13 +377,13 @@
 
     <lb n="156"/><supplied reason="lost">Ἁρσῦτμις Πετοσ</supplied><unclear>ί</unclear>ρ<unclear>ι</unclear><supplied reason="lost">ος</supplied> ἀσπ<supplied reason="lost">ό</supplied>ρ<supplied reason="lost">ου<num value="6">ϛ</num><num value="1/2">𐅵</num>.</supplied> 
 
-    <lb n="157"/>Ὧρος <expan>μι<ex>κρὸς</ex></expan> Κολλούθου ἀσπόρου <num value="6">ϛ</num> <num value="1/2">𐅵</num>. 
+    <lb n="157"/>Ὧρος <expan>μι<ex>κρὸς</ex></expan> Κολλούθου ἀσπόρου <num value="6">ϛ</num> <num value="1/2">𐅵</num>. 
 
     <lb n="158"/>Ἁρψῆθις Κολλούθου <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῶι</ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> <expan>ἀρά<ex>κωι</ex></expan> <num value="2">β</num> <expan>φα<ex>κῶι</ex></expan> <num value="1">α</num>, <expan>γ<supplied reason="lost">ε</supplied>ω<ex>ργὸς</ex></expan> αὐτός. 
 
     <lb n="159"/>Πετεσοῦχος Τοθοείους <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan>σπό<ex>ρος</ex></expan> <expan><ex>πυρῶι</ex></expan>, <expan>γεω<ex>ργὸς</ex></expan> αὐτός. 
 
-    <lb n="160"/>Ὧρος Φαγώμιος <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῶι</ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> <expan>φασή<ex>λωι</ex></expan> <num value="3">γ</num>, <expan>γεω<ex>ργὸς</ex></expan> αὐτός. 
+    <lb n="160"/>Ὧρος Φαγώμιος <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῶι</ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> <expan>φασή<ex>λωι</ex></expan> <num value="3">γ</num>, <expan>γεω<ex>ργὸς</ex></expan> αὐτός. 
 
     <lb n="161"/>Φατρῆς Ὥρου <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῶι</ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> <expan>φασή<ex>λωι</ex></expan> <num value="3">γ</num>, <expan>γεω<ex>ργὸς</ex></expan> αὐτός. 
 
@@ -394,7 +394,7 @@
     <lb n="164"/>Θοτεὺς Φολήμιος <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῶι</ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> <expan>φασή<ex>λωι</ex></expan> <num value="3">γ</num>, <expan>γεω<ex>ργὸς</ex></expan> αὐτός. 
 </ab></div><div n="7" type="textpart"><!--milestone unit="4"--><ab>
 
-    <lb n="164"/><handShift new="m2" cert="low"/> Ὧ<supplied reason="lost">ρος</supplied> Ἁρφαήσιος <num value="6">ϛ</num> <num value="1/2">𐅵</num> ἀσπόρου. 
+    <lb n="164"/><handShift new="m2" cert="low"/> Ὧ<supplied reason="lost">ρος</supplied> Ἁρφαήσιος <num value="6">ϛ</num> <num value="1/2">𐅵</num> ἀσπόρου. 
 
     <lb n="165"/>Ἁρμιῦσις Σοκονώπιος <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῶι</ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> <expan>τή<ex>λει</ex></expan> <num value="3">γ</num>, <expan>γεω<ex>ργὸς</ex></expan> <expan>αὐ<ex>τός</ex></expan>. 
 
@@ -434,7 +434,7 @@
 
     <lb n="183"/>Χεῦρις Σοχώτου <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan><ex>ῶ̔ν</ex></expan> <abbr><gap reason="lost" quantity="2" unit="character"/></abbr><supplied reason="lost"> <num value="4">δ</num> <num value="1/2">𐅵</num></supplied> <expan>φα<ex>κῶι</ex></expan> <num value="2">β</num>, <expan>γεω<ex>ργὸς</ex></expan> <expan>αὐ<ex>τός</ex></expan>. 
 
-    <lb n="184"/>Ὧρος Ὀρσενούφιος <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <supplied reason="lost"><expan><ex>ῶ̔ν</ex></expan> </supplied><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"><expan><ex>  </ex></expan> </supplied><gap reason="lost" quantity="1" unit="character"/> <expan>ἀρ<supplied reason="lost">ά<ex>κωι</ex></supplied></expan> <gap reason="lost" quantity="1" unit="character"/><supplied reason="lost"> <num value="1/2">𐅵</num>, <expan>γεω<ex>ργὸς</ex></expan> <expan>αὐ<ex>τός</ex></expan>.</supplied> 
+    <lb n="184"/>Ὧρος Ὀρσενούφιος <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <supplied reason="lost"><expan><ex>ῶ̔ν</ex></expan> </supplied><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"><expan><ex>  </ex></expan> </supplied><gap reason="lost" quantity="1" unit="character"/> <expan>ἀρ<supplied reason="lost">ά<ex>κωι</ex></supplied></expan> <gap reason="lost" quantity="1" unit="character"/><supplied reason="lost"> <num value="1/2">𐅵</num>, <expan>γεω<ex>ργὸς</ex></expan> <expan>αὐ<ex>τός</ex></expan>.</supplied> 
 
     <lb n="185"/>Πᾶσις Σοκονώπιος <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <supplied reason="lost"><expan><ex>ῶ̔ν</ex></expan> </supplied><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"><expan><ex>  </ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> </supplied><gap reason="lost" quantity="2" unit="character"/><abbr><unclear>α</unclear></abbr> <num value="3">γ</num>, <expan>γεω<ex>ργὸς</ex></expan> <expan>αὐ<ex>τός</ex></expan>. 
 
@@ -463,7 +463,7 @@
 
     <lb n="197"/>Ἄρεως <expan>κώ<ex>μην</ex></expan> <num value="3">γ</num>, <expan>σπό<ex>ρος</ex></expan> <expan><ex>πυρῶι</ex></expan>, <expan>γεω<ex>ργὸς</ex></expan> <expan>αὐ<ex>τός</ex></expan>. 
 
-    <lb n="198"/>Ὧρος Παώπιος <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan>σπό<ex>ρος</ex></expan> <expan><ex>πυρῶι</ex></expan>, <expan>γεω<ex>ργὸς</ex></expan> <expan>αὐ<ex>τός</ex></expan>. 
+    <lb n="198"/>Ὧρος Παώπιος <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan>σπό<ex>ρος</ex></expan> <expan><ex>πυρῶι</ex></expan>, <expan>γεω<ex>ργὸς</ex></expan> <expan>αὐ<ex>τός</ex></expan>. 
 
     <lb n="199"/>Πεσύθης Παχῶτος <num value="6">ϛ</num> <num value="1/2">𐅵</num>, <expan><ex>ῶ̔ν</ex></expan> <expan><ex>πυρῶι</ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> <expan>φασή<ex>λωι</ex></expan> <num value="3">γ</num>, <expan>γεω<ex>ργὸς</ex></expan> <expan>αὐ<ex>τός</ex></expan>. 
 
