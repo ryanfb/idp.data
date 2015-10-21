@@ -7,11 +7,15 @@
             <title>Petitions Addressed to the Epimeletes</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">7433</idno>
             <idno type="TM">7433</idno>
             <idno type="ddb-perseus-style">0007;;5</idno>
             <idno type="ddb-filename">chr.mitt.5</idno>
             <idno type="ddb-hybrid">chr.mitt;;5</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,6 +76,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Petr.&amp;vVol=3&amp;vNum=36&amp;vSide=verso"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -81,10 +88,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Petr.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">36</biblScope>
-                  <biblScope type="side">V</biblScope>
-                  <biblScope type="generic">(a)</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">36</biblScope>
+                  <biblScope unit="side">V</biblScope>
+                  <biblScope unit="generic">(a)</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -92,8 +99,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">279</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">279</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -106,14 +113,7 @@
                <bibl type="publication" subtype="other">M.Chr. 5</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Petr.&amp;vVol=3&amp;vNum=36&amp;vSide=verso"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

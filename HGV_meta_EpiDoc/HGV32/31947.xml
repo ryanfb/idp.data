@@ -7,11 +7,15 @@
             <title>Frammento di registro / Notizia di una decisione prefettizia</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">31947</idno>
             <idno type="TM">31947</idno>
             <idno type="ddb-perseus-style">0236;;16</idno>
             <idno type="ddb-filename">psi.congr.xxi.16</idno>
             <idno type="ddb-hybrid">psi.congr.xxi;;16</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -82,9 +86,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PSI Congr.</title>
-                  <biblScope type="volume">21</biblScope>
-                  <biblScope type="numbers">16</biblScope>
-                  <biblScope type="generic">b</biblScope>
+                  <biblScope unit="volume">21</biblScope>
+                  <biblScope unit="numbers">16</biblScope>
+                  <biblScope unit="generic">b</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -92,8 +96,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">253</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">253</biblScope>
                </bibl>
             </listBibl>
          </div>

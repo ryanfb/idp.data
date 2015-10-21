@@ -7,11 +7,15 @@
             <title>Brief</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">4015</idno>
             <idno type="TM">4015</idno>
             <idno type="ddb-perseus-style">0001;14;2419</idno>
             <idno type="ddb-filename">bgu.14.2419</idno>
             <idno type="ddb-hybrid">bgu;14;2419</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,6 +76,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://smb.museum/berlpap/index.php/record/?TM=4015"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -81,8 +88,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">14</biblScope>
-                  <biblScope type="numbers">2419</biblScope>
+                  <biblScope unit="volume">14</biblScope>
+                  <biblScope unit="numbers">2419</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,8 +97,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">34</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">34</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -106,14 +113,7 @@
                <bibl type="publication" subtype="other">C.Ptol.Sklav. II 152</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://smb.museum/berlpap/index.php/record/?TM=4015"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>Kauf eines Weingartens (Bankdiagraphe)</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">7871</idno>
             <idno type="TM">7871</idno>
             <idno type="ddb-perseus-style">0239;20;14069</idno>
             <idno type="ddb-filename">sb.20.14069</idno>
             <idno type="ddb-hybrid">sb;20;14069</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -96,8 +100,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">20</biblScope>
-                  <biblScope type="numbers">14069</biblScope>
+                  <biblScope unit="volume">20</biblScope>
+                  <biblScope unit="numbers">14069</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -105,12 +109,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">225</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">225</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">223</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">223</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -7,11 +7,15 @@
             <title>Petition to the Oeconomus</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">7699</idno>
             <idno type="TM">7699</idno>
             <idno type="ddb-perseus-style">0187;3;32</idno>
             <idno type="ddb-filename">p.petr.3.32</idno>
             <idno type="ddb-hybrid">p.petr;3;32</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -85,11 +89,11 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Petr.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">32</biblScope>
-                  <biblScope type="generic">R</biblScope>
-                  <biblScope type="generic">(g)</biblScope>
-                  <biblScope type="generic">(b)</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">32</biblScope>
+                  <biblScope unit="generic">R</biblScope>
+                  <biblScope unit="generic">(g)</biblScope>
+                  <biblScope unit="generic">(b)</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -97,20 +101,20 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">279</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">279</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">210</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">210</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">161</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">161</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">159</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">159</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -7,11 +7,15 @@
             <title>Fragmente eines λόγος λημμάτων καὶ ἀναλωμάτων</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">19324</idno>
             <idno type="TM">19324</idno>
             <idno type="ddb-perseus-style">0068;2;26</idno>
             <idno type="ddb-filename">p.bad.2.26</idno>
             <idno type="ddb-hybrid">p.bad;2;26</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,16 +76,19 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/VBP_II/026/VBP_II_26.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">VBP</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">26</biblScope>
-                  <biblScope type="side">V</biblScope>
-                  <biblScope type="inventory">inv. 213</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">26</biblScope>
+                  <biblScope unit="side">V</biblScope>
+                  <biblScope unit="inventory">inv. 213</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -89,30 +96,23 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">14</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">14</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">10</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">10</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">9</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">9</biblScope>
                </bibl>
             </listBibl>
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/VBP_II/026/VBP_II_26.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

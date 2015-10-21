@@ -7,11 +7,15 @@
             <title>Quittung über Kranzsteuer</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">91679</idno>
             <idno type="TM">91679</idno>
             <idno type="ddb-perseus-style">0001;19;2769</idno>
             <idno type="ddb-filename">bgu.19.2769</idno>
             <idno type="ddb-hybrid">bgu;19;2769</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -81,8 +85,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">19</biblScope>
-                  <biblScope type="numbers">2769</biblScope>
+                  <biblScope unit="volume">19</biblScope>
+                  <biblScope unit="numbers">2769</biblScope>
                </bibl>
             </listBibl>
          </div>

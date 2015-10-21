@@ -7,11 +7,15 @@
             <title>Exécution d’un bail en commun</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">3333</idno>
             <idno type="TM">3333</idno>
             <idno type="ddb-perseus-style">0106;;58</idno>
             <idno type="ddb-filename">p.enteux.58</idno>
             <idno type="ddb-hybrid">p.enteux;;58</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -82,7 +86,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Enteux.</title>
-                  <biblScope type="numbers">58</biblScope>
+                  <biblScope unit="numbers">58</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,8 +94,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">67</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">67</biblScope>
                </bibl>
             </listBibl>
          </div>

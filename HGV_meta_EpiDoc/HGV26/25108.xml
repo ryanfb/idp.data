@@ -7,11 +7,15 @@
             <title>Bill of Lading</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">25108</idno>
             <idno type="TM">25108</idno>
             <idno type="ddb-perseus-style">0202;;6</idno>
             <idno type="ddb-filename">p.select.6</idno>
             <idno type="ddb-hybrid">p.select;;6</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,7 +77,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Select</title>
-                  <biblScope type="numbers">6</biblScope>
+                  <biblScope unit="numbers">6</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -81,8 +85,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">153</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">153</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -7,11 +7,15 @@
             <title>Hire of Scribes</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">12281</idno>
             <idno type="TM">12281</idno>
             <idno type="ddb-perseus-style">0163;11;603</idno>
             <idno type="ddb-filename">p.mich.11.603</idno>
             <idno type="ddb-hybrid">p.mich;11;603</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -76,6 +80,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.1422"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -96,8 +103,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Mich.</title>
-                  <biblScope type="volume">11</biblScope>
-                  <biblScope type="numbers">603</biblScope>
+                  <biblScope unit="volume">11</biblScope>
+                  <biblScope unit="numbers">603</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -105,12 +112,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">216</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">216</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">132</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">132</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -126,14 +133,7 @@
                <bibl type="translations">Migliardi, Vita privata e vita pubblica (1992), 14</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.1422"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

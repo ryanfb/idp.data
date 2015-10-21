@@ -7,11 +7,15 @@
             <title>Fragment</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">381976</idno>
             <idno type="TM">381976</idno>
             <idno type="ddb-perseus-style">;;51</idno>
             <idno type="ddb-filename">p.turku.51</idno>
             <idno type="ddb-hybrid">p.turku;;51</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -81,8 +85,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Turku</title>
-                  <biblScope type="numbers">51</biblScope>
-                  <biblScope type="generic">+ 52</biblScope>
+                  <biblScope unit="numbers">51</biblScope>
+                  <biblScope unit="generic">+ 52</biblScope>
                </bibl>
             </listBibl>
          </div>

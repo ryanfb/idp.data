@@ -7,11 +7,15 @@
             <title>Reçu de loyer</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">11213</idno>
             <idno type="TM">11213</idno>
             <idno type="ddb-perseus-style">0266;1;13</idno>
             <idno type="ddb-filename">p.gen.2.1.13</idno>
             <idno type="ddb-hybrid">p.gen.2;1;13</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.ville-ge.ch/fcgi-bin/fcgi-axn?launchpad&amp;/home/minfo/bge/papyrus/pgen56-ri.axs&amp;550&amp;550"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -94,9 +101,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Gen.</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="fascicle"> (2e éd.)</biblScope>
-                  <biblScope type="numbers">13</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="fascicle"> (2e éd.)</biblScope>
+                  <biblScope unit="numbers">13</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -104,12 +111,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">83</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">83</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">74</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">74</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -118,14 +125,7 @@
                <bibl type="illustration">pl. XIII</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.ville-ge.ch/fcgi-bin/fcgi-axn?launchpad&amp;/home/minfo/bge/papyrus/pgen56-ri.axs&amp;550&amp;550"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>Zum Problem der Zweisprachigkeit</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">554</idno>
             <idno type="TM">554</idno>
             <idno type="ddb-perseus-style">0008;;50</idno>
             <idno type="ddb-filename">chr.wilck.50</idno>
             <idno type="ddb-hybrid">chr.wilck;;50</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -85,7 +89,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">W.Chr.</title>
-                  <biblScope type="numbers">50</biblScope>
+                  <biblScope unit="numbers">50</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>
@@ -97,8 +101,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">289f.</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">289f.</biblScope>
                </bibl>
             </listBibl>
          </div>

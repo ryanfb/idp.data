@@ -7,11 +7,15 @@
             <title>Darlehensvertrag</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">17302</idno>
             <idno type="TM">17302</idno>
             <idno type="ddb-perseus-style">0218;;12</idno>
             <idno type="ddb-filename">p.vind.bosw.12</idno>
             <idno type="ddb-hybrid">p.vind.bosw;;12</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,13 +77,16 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00004244&amp;local_base=ONB08"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Vindob. Bosw.</title>
-                  <biblScope type="numbers">12</biblScope>
+                  <biblScope unit="numbers">12</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -87,22 +94,15 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">111</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">111</biblScope>
                </bibl>
             </listBibl>
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00004244&amp;local_base=ONB08"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

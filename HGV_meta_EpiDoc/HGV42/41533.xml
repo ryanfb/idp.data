@@ -7,11 +7,15 @@
             <title>Korrespondenz wegen Arbeiten am Bewässerungssystem</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">41533</idno>
             <idno type="TM">41533</idno>
             <idno type="ddb-perseus-style">0144;8;341r</idno>
             <idno type="ddb-filename">p.koeln.8.341r</idno>
             <idno type="ddb-hybrid">p.koeln;8;341r</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.uni-koeln.de/phil-fak/ifa/NRWakademie/papyrologie/Karte/VIII_341.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -83,9 +90,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Köln</title>
-                  <biblScope type="volume">8</biblScope>
-                  <biblScope type="numbers">341</biblScope>
-                  <biblScope type="side">R</biblScope>
+                  <biblScope unit="volume">8</biblScope>
+                  <biblScope unit="numbers">341</biblScope>
+                  <biblScope unit="side">R</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -93,8 +100,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">96</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">96</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -103,14 +110,7 @@
                <bibl type="illustration">Tafel VIII</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.uni-koeln.de/phil-fak/ifa/NRWakademie/papyrologie/Karte/VIII_341.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

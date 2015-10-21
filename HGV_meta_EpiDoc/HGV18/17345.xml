@@ -7,11 +7,15 @@
             <title>Verzeichnis von Grundstücken</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">17345</idno>
             <idno type="TM">17345</idno>
             <idno type="ddb-perseus-style">0138;7;142</idno>
             <idno type="ddb-filename">p.iand.7.142</idno>
             <idno type="ddb-hybrid">p.iand;7;142</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,6 +77,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://digibib.ub.uni-giessen.de/cgi-bin/populo/pap.pl?t_allegro=x&amp;f_SIG=P.+Iand.+142"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -109,8 +116,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Iand.</title>
-                  <biblScope type="volume">7</biblScope>
-                  <biblScope type="numbers">142</biblScope>
+                  <biblScope unit="volume">7</biblScope>
+                  <biblScope unit="numbers">142</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -118,26 +125,19 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">112</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">112</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">92</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">92</biblScope>
                </bibl>
             </listBibl>
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://digibib.ub.uni-giessen.de/cgi-bin/populo/pap.pl?t_allegro=x&amp;f_SIG=P.+Iand.+142"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

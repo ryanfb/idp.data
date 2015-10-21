@@ -7,11 +7,15 @@
             <title>Steuerliste</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">79301</idno>
             <idno type="TM">79301</idno>
             <idno type="ddb-perseus-style">0239;24;16085</idno>
             <idno type="ddb-filename">sb.24.16085</idno>
             <idno type="ddb-hybrid">sb;24;16085</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=yale.apis.0004464100"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -98,8 +105,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">24</biblScope>
-                  <biblScope type="numbers">16085</biblScope>
+                  <biblScope unit="volume">24</biblScope>
+                  <biblScope unit="numbers">16085</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -108,14 +115,7 @@
                <bibl type="illustration">Gedenkschrift Quaegebeur, S. 458</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=yale.apis.0004464100"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

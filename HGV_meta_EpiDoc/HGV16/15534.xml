@@ -7,11 +7,15 @@
             <title>Mutuo di denaro con garanzia ipotecaria</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">15534</idno>
             <idno type="TM">15534</idno>
             <idno type="ddb-perseus-style">0118;2;62</idno>
             <idno type="ddb-filename">p.genova.2.62</idno>
             <idno type="ddb-hybrid">p.genova;2;62</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -78,6 +82,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.archaeogate.org/print/photo.php?src=1_article_1229_10.jpg"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -87,8 +94,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PUG</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">62</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">62</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -96,12 +103,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">499</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">499</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">286</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">286</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -118,14 +125,7 @@
                <bibl type="translations">Migliardi, Vita privata e vita pubblica (1992), 34</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.archaeogate.org/print/photo.php?src=1_article_1229_10.jpg"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

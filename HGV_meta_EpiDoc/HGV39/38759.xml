@@ -7,11 +7,15 @@
             <title>Fragment aus der Getreidebuchhaltung</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">38759</idno>
             <idno type="TM">38759</idno>
             <idno type="ddb-perseus-style">0239;18;13758</idno>
             <idno type="ddb-filename">sb.18.13758</idno>
             <idno type="ddb-hybrid">sb;18;13758</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -80,8 +84,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">18</biblScope>
-                  <biblScope type="numbers">13758</biblScope>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="numbers">13758</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -89,8 +93,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">221/222</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">221/222</biblScope>
                </bibl>
             </listBibl>
          </div>

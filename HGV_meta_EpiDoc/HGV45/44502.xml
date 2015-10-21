@@ -7,11 +7,15 @@
             <title>Private Letter (?)</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">44502</idno>
             <idno type="TM">44502</idno>
             <idno type="ddb-perseus-style">0254;;32</idno>
             <idno type="ddb-filename">p.bingen.32</idno>
             <idno type="ddb-hybrid">p.bingen;;32</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -66,13 +70,17 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ccat.sas.upenn.edu/rs/rak/pcjsr1ars2.jpg"/>
+      <graphic url="http://ccat.sas.upenn.edu/rs/rak/pcjsr1ar.jpg"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Bingen</title>
-                  <biblScope type="numbers">32</biblScope>
+                  <biblScope unit="numbers">32</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -80,8 +88,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">33</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">33</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,18 +98,7 @@
                <bibl type="illustration">Pl. 19</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ccat.sas.upenn.edu/rs/rak/pcjsr1ars2.jpg"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://ccat.sas.upenn.edu/rs/rak/pcjsr1ar.jpg"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

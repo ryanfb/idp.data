@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">52179</idno>
             <idno type="TM">52179</idno>
             <idno type="ddb-perseus-style">;2;855</idno>
             <idno type="ddb-filename">short.texts.2.855</idno>
             <idno type="ddb-hybrid">short.texts;2;855</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -69,6 +73,9 @@
          <change when="2015-06-18" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00000613&amp;local_base=ONB08"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -81,8 +88,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">Short Texts</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">855</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">855</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>
@@ -95,14 +102,7 @@
                <bibl type="illustration">WZKM 81, 1991, Tafelanhang, Nr. 45</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00000613&amp;local_base=ONB08"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

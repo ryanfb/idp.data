@@ -7,11 +7,15 @@
             <title>Pyrrhos a Zenon ed Epharmostos</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">2430</idno>
             <idno type="TM">2430</idno>
             <idno type="ddb-perseus-style">0238;4;417</idno>
             <idno type="ddb-filename">psi.4.417</idno>
             <idno type="ddb-hybrid">psi;4;417</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -76,6 +80,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;4;417"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -85,9 +92,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PSI</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="numbers">417</biblScope>
-                  <biblScope type="lines">Z. 17 - 39</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="numbers">417</biblScope>
+                  <biblScope unit="lines">Z. 17 - 39</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -96,14 +103,7 @@
                <bibl type="illustration">Aegyptus 57, 1977, Tav. II nach S. 104</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;4;417"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

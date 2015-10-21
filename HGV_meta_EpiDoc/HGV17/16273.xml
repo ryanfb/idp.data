@@ -7,11 +7,15 @@
             <title>Schuldurkunde</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">16273</idno>
             <idno type="TM">16273</idno>
             <idno type="ddb-perseus-style">0002;;13</idno>
             <idno type="ddb-filename">c.ep.lat.13</idno>
             <idno type="ddb-hybrid">c.ep.lat;;13</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -76,6 +80,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00006058&amp;local_base=ONB08"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -85,8 +92,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">16</biblScope>
-                  <biblScope type="numbers">12609</biblScope>
+                  <biblScope unit="volume">16</biblScope>
+                  <biblScope unit="numbers">12609</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -94,24 +101,24 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">384</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">384</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">287</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">287</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">215</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">215</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">220</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">220</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">215</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">215</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -138,14 +145,7 @@
                <bibl type="translations">H. Harrauer - R. Seider, ZPE 36, 1979, S. 111</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00006058&amp;local_base=ONB08"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

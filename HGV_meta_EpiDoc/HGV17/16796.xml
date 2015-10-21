@@ -7,11 +7,15 @@
             <title>Contrat de location</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">16796</idno>
             <idno type="TM">16796</idno>
             <idno type="ddb-perseus-style">0205;6;569</idno>
             <idno type="ddb-filename">p.stras.6.569</idno>
             <idno type="ddb-hybrid">p.stras;6;569</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,8 +77,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Strasb.</title>
-                  <biblScope type="volume">6</biblScope>
-                  <biblScope type="numbers">569</biblScope>
+                  <biblScope unit="volume">6</biblScope>
+                  <biblScope unit="numbers">569</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -82,12 +86,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">328</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">328</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">262</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">262</biblScope>
                </bibl>
             </listBibl>
          </div>

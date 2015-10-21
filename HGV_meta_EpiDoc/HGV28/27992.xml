@@ -7,11 +7,15 @@
             <title>Pétition</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">27992</idno>
             <idno type="TM">27992</idno>
             <idno type="ddb-perseus-style">0056;;inv49</idno>
             <idno type="ddb-filename">p.alex.inv49</idno>
             <idno type="ddb-hybrid">p.alex;;inv49</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -75,7 +79,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Alex.</title>
-                  <biblScope type="inventory">Inv.Nr. 49</biblScope>
+                  <biblScope unit="inventory">Inv.Nr. 49</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -83,8 +87,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">4</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">4</biblScope>
                </bibl>
             </listBibl>
          </div>

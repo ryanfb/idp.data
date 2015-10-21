@@ -7,11 +7,15 @@
             <title>Petition to the Royal Scribe Herakleides</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">17894</idno>
             <idno type="TM">17894</idno>
             <idno type="ddb-perseus-style">0225;2;77</idno>
             <idno type="ddb-filename">p.wash.univ.2.77</idno>
             <idno type="ddb-hybrid">p.wash.univ;2;77</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -76,6 +80,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00004389&amp;local_base=ONB08"/>
+      <graphic url="http://library.wustl.edu/units/spec/manuscripts/papyri/wtu.inventory.445.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -85,8 +93,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Wash. Univ.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">77</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">77</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -94,8 +102,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">289</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">289</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -110,18 +118,7 @@
                <bibl type="publication" subtype="other">P.Vindob. Worp 2 (Z. 1 - 16)</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00004389&amp;local_base=ONB08"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://library.wustl.edu/units/spec/manuscripts/papyri/wtu.inventory.445.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>Liste für den Ersatz verstorbener Staatspächter</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">12600</idno>
             <idno type="TM">12600</idno>
             <idno type="ddb-perseus-style">0239;26;16675</idno>
             <idno type="ddb-filename">sb.26.16675</idno>
             <idno type="ddb-hybrid">sb;26;16675</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -78,6 +82,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://adore.ugent.be/view?q=001484524&amp;submit=zoek&amp;confirm_search=1&amp;language=en"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -101,8 +108,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">26</biblScope>
-                  <biblScope type="numbers">16675</biblScope>
+                  <biblScope unit="volume">26</biblScope>
+                  <biblScope unit="numbers">16675</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -110,8 +117,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">246</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">246</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -124,14 +131,7 @@
                <bibl type="publication" subtype="other">Kol. I-II: P.Oxy. XII 1446</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://adore.ugent.be/view?q=001484524&amp;submit=zoek&amp;confirm_search=1&amp;language=en"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

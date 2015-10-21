@@ -7,11 +7,15 @@
             <title>Conti di spese dell’ amministrazione degli Apioni</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">17603</idno>
             <idno type="TM">17603</idno>
             <idno type="ddb-perseus-style">0238;8;953</idno>
             <idno type="ddb-filename">psi.8.953</idno>
             <idno type="ddb-hybrid">psi;8;953</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -76,6 +80,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;8;953"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -85,8 +92,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PSI</title>
-                  <biblScope type="volume">8</biblScope>
-                  <biblScope type="numbers">953</biblScope>
+                  <biblScope unit="volume">8</biblScope>
+                  <biblScope unit="numbers">953</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -94,30 +101,23 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">318</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">318</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">245</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">245</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">248</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">248</biblScope>
                </bibl>
             </listBibl>
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;8;953"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

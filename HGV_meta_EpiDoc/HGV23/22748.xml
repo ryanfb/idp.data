@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">22748</idno>
             <idno type="TM">22748</idno>
             <idno type="ddb-perseus-style">0008;;425</idno>
             <idno type="ddb-filename">chr.wilck.425</idno>
             <idno type="ddb-hybrid">chr.wilck;;425</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -80,9 +84,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lond.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">955</biblScope>
-                  <biblScope type="pages">(S. 127)</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">955</biblScope>
+                  <biblScope unit="pages">(S. 127)</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,12 +94,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">182</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">182</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">112</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">112</biblScope>
                </bibl>
             </listBibl>
          </div>

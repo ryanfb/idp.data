@@ -7,11 +7,15 @@
             <title>Legal Documents</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">2992</idno>
             <idno type="TM">2992</idno>
             <idno type="ddb-perseus-style">0187;3;21</idno>
             <idno type="ddb-filename">p.petr.3.21</idno>
             <idno type="ddb-hybrid">p.petr;3;21</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -104,9 +108,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Petr.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">21</biblScope>
-                  <biblScope type="generic">(g)</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">21</biblScope>
+                  <biblScope unit="generic">(g)</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -114,8 +118,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">278/279</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">278/279</biblScope>
                </bibl>
             </listBibl>
          </div>

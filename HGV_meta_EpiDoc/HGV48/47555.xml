@@ -7,11 +7,15 @@
             <title>Brief des Kastor an den Bruder Apollonios</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">47555</idno>
             <idno type="TM">47555</idno>
             <idno type="ddb-perseus-style">0153;2;138</idno>
             <idno type="ddb-filename">p.lips.2.138</idno>
             <idno type="ddb-hybrid">p.lips;2;138</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri-leipzig.dl.uni-leipzig.de/receive/UBLPapyri_schrift_00001380"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -83,8 +90,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lips.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">138</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">138</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -93,14 +100,7 @@
                <bibl type="illustration">Tafel XVII a) und b)</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri-leipzig.dl.uni-leipzig.de/receive/UBLPapyri_schrift_00001380"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

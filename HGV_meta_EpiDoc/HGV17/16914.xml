@@ -7,11 +7,15 @@
             <title>Brief des Dioiketen</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">16914</idno>
             <idno type="TM">16914</idno>
             <idno type="ddb-perseus-style">0001;11;2060</idno>
             <idno type="ddb-filename">bgu.11.2060</idno>
             <idno type="ddb-hybrid">bgu;11;2060</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -93,8 +97,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">11</biblScope>
-                  <biblScope type="numbers">2060</biblScope>
+                  <biblScope unit="volume">11</biblScope>
+                  <biblScope unit="numbers">2060</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -102,8 +106,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">22/23</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">22/23</biblScope>
                </bibl>
             </listBibl>
          </div>

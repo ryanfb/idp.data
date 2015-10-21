@@ -7,11 +7,15 @@
             <title>Edict of Avidius Heliodorus</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">30376</idno>
             <idno type="TM">30376</idno>
             <idno type="ddb-perseus-style">0181;41;2954</idno>
             <idno type="ddb-filename">p.oxy.41.2954</idno>
             <idno type="ddb-hybrid">p.oxy;41;2954</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://163.1.169.40/cgi-bin/library?a=q&amp;r=1&amp;hs=1&amp;e=p-000-00---0POxy--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&amp;h=ded&amp;t=1&amp;q=2954"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -95,8 +102,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Oxy.</title>
-                  <biblScope type="volume">41</biblScope>
-                  <biblScope type="numbers">2954</biblScope>
+                  <biblScope unit="volume">41</biblScope>
+                  <biblScope unit="numbers">2954</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -104,8 +111,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">263</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">263</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -114,14 +121,7 @@
                <bibl type="illustration">Plate VI</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://163.1.169.40/cgi-bin/library?a=q&amp;r=1&amp;hs=1&amp;e=p-000-00---0POxy--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&amp;h=ded&amp;t=1&amp;q=2954"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

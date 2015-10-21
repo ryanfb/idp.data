@@ -7,11 +7,15 @@
             <title>Lettera di Qorra ben Šarîk a Basileios </title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">21277</idno>
             <idno type="TM">21277</idno>
             <idno type="ddb-perseus-style">0147;4;192</idno>
             <idno type="ddb-filename">p.laur.4.192</idno>
             <idno type="ddb-hybrid">p.laur;4;192</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -94,8 +98,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Laur.</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="numbers">192</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="numbers">192</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -103,12 +107,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">107</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">107</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">98</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">98</biblScope>
                </bibl>
             </listBibl>
          </div>

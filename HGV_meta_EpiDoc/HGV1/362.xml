@@ -7,11 +7,15 @@
             <title>Krieg zwischen Hermonthis und Krokodilopolis</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">362</idno>
             <idno type="TM">362</idno>
             <idno type="ddb-perseus-style">0008;;11</idno>
             <idno type="ddb-filename">chr.wilck.11</idno>
             <idno type="ddb-hybrid">chr.wilck;;11</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -97,8 +101,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">W.Chr.</title>
-                  <biblScope type="numbers">11</biblScope>
-                  <biblScope type="generic">A</biblScope>
+                  <biblScope unit="numbers">11</biblScope>
+                  <biblScope unit="generic">A</biblScope>
                </bibl>
             </listBibl>
          </div>

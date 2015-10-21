@@ -7,11 +7,15 @@
             <title>Greek village salt-tax record (kat’ andra and kat’ ethnos)</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">5435</idno>
             <idno type="TM">5435</idno>
             <idno type="ddb-perseus-style">0288;;51</idno>
             <idno type="ddb-filename">p.count.51</idno>
             <idno type="ddb-hybrid">p.count;;51</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -79,6 +83,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=berkeley.apis.100"/>
+      <graphic url="http://pcount.arts.kuleuven.ac.be/plates.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -91,8 +99,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Count</title>
-                  <biblScope type="numbers">51</biblScope>
-                  <biblScope type="side">V</biblScope>
+                  <biblScope unit="numbers">51</biblScope>
+                  <biblScope unit="side">V</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>
@@ -111,18 +119,7 @@
                <bibl type="publication" subtype="other">P.Tebt. III.2 880</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=berkeley.apis.100"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://pcount.arts.kuleuven.ac.be/plates.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

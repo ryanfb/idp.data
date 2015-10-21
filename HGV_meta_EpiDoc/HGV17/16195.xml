@@ -7,11 +7,15 @@
             <title>Eingabe an einen Praeses</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">16195</idno>
             <idno type="TM">16195</idno>
             <idno type="ddb-perseus-style">0183;;24</idno>
             <idno type="ddb-filename">p.panop.24</idno>
             <idno type="ddb-hybrid">p.panop;;24</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -78,6 +82,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.uni-koeln.de/phil-fak/ifa/NRWakademie/papyrologie/Panopolis/PPan_24.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="mentionedDates">
@@ -95,7 +102,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Panop.</title>
-                  <biblScope type="numbers">24</biblScope>
+                  <biblScope unit="numbers">24</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -108,14 +115,7 @@
                <bibl type="publication" subtype="other">SB XII 11217</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.uni-koeln.de/phil-fak/ifa/NRWakademie/papyrologie/Panopolis/PPan_24.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

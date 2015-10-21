@@ -7,11 +7,15 @@
             <title>Abschrift der Anmeldung einer οἰκογένεια nebst Beurkundung der Bezahlung der ἀπαρχή - Steuer</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">18856</idno>
             <idno type="TM">18856</idno>
             <idno type="ddb-perseus-style">0239;3;6996</idno>
             <idno type="ddb-filename">sb.3.6996</idno>
             <idno type="ddb-hybrid">sb;3;6996</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -96,8 +100,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">6996</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">6996</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -105,8 +109,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">187</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">187</biblScope>
                </bibl>
             </listBibl>
          </div>

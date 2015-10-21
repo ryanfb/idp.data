@@ -7,11 +7,15 @@
             <title>Compte privé</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">36524</idno>
             <idno type="TM">36524</idno>
             <idno type="ddb-perseus-style">0089;3;67289</idno>
             <idno type="ddb-filename">p.cair.masp.3.67289</idno>
             <idno type="ddb-hybrid">p.cair.masp;3;67289</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -66,6 +70,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Masp.&amp;vVo3=1&amp;vNum=67289"/>
+      <graphic url="http://www.misha.fr/papyrus_bipab/pages_html/P_Cair_Masp_III_67289.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -75,26 +83,15 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Cair. Masp.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">67289</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">67289</biblScope>
                </bibl>
             </listBibl>
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Masp.&amp;vVo3=1&amp;vNum=67289"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://www.misha.fr/papyrus_bipab/pages_html/P_Cair_Masp_III_67289.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

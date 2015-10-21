@@ -7,11 +7,15 @@
             <title>Kaufvertrag</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">35373</idno>
             <idno type="TM">35373</idno>
             <idno type="ddb-perseus-style">0108;;77</idno>
             <idno type="ddb-filename">p.erl.77</idno>
             <idno type="ddb-hybrid">p.erl;;77</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,6 +76,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri-erlangen.dl.uni-leipzig.de/receive/ErlPapyri_schrift_00004850"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -81,21 +88,14 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Erl.</title>
-                  <biblScope type="numbers">77</biblScope>
+                  <biblScope unit="numbers">77</biblScope>
                </bibl>
             </listBibl>
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri-erlangen.dl.uni-leipzig.de/receive/ErlPapyri_schrift_00004850"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

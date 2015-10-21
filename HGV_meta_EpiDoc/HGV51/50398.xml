@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">50398</idno>
             <idno type="TM">50398</idno>
             <idno type="ddb-perseus-style">0034;;A6</idno>
             <idno type="ddb-filename">o.minor.A6</idno>
             <idno type="ddb-hybrid">o.minor;;A6</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -82,7 +86,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Minor A.</title>
-                  <biblScope type="numbers">6</biblScope>
+                  <biblScope unit="numbers">6</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>
@@ -94,8 +98,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">301</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">301</biblScope>
                </bibl>
             </listBibl>
          </div>

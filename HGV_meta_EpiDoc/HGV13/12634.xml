@@ -7,11 +7,15 @@
             <title>Notizen: Unterschriftsübung des Petaus</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">12634</idno>
             <idno type="TM">12634</idno>
             <idno type="ddb-perseus-style">0185;;122d</idno>
             <idno type="ddb-filename">p.petaus.122d</idno>
             <idno type="ddb-hybrid">p.petaus;;122d</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,6 +77,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.3381"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -82,22 +89,15 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Petaus</title>
-                  <biblScope type="numbers">122</biblScope>
-                  <biblScope type="generic">d</biblScope>
+                  <biblScope unit="numbers">122</biblScope>
+                  <biblScope unit="generic">d</biblScope>
                </bibl>
             </listBibl>
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.3381"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

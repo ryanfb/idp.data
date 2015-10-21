@@ -7,11 +7,15 @@
             <title>Korrespondenz des Asklas: Brief des Asklas an seinen Freund Sarapias</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">25207</idno>
             <idno type="TM">25207</idno>
             <idno type="ddb-perseus-style">0239;10;10529</idno>
             <idno type="ddb-filename">sb.10.10529</idno>
             <idno type="ddb-hybrid">sb;10;10529</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -76,9 +80,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">10</biblScope>
-                  <biblScope type="numbers">10529</biblScope>
-                  <biblScope type="generic">b</biblScope>
+                  <biblScope unit="volume">10</biblScope>
+                  <biblScope unit="numbers">10529</biblScope>
+                  <biblScope unit="generic">b</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -86,12 +90,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">359</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">359</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">268</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">268</biblScope>
                </bibl>
             </listBibl>
          </div>

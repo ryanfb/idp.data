@@ -7,11 +7,15 @@
             <title>Notiz zur Abfassung einer Abfassung einer Rechtsurkunde,, wohl in einer Erbauseinandersetzung</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">40829</idno>
             <idno type="TM">40829</idno>
             <idno type="ddb-perseus-style">0239;26;16385</idno>
             <idno type="ddb-filename">sb.26.16385</idno>
             <idno type="ddb-hybrid">sb;26;16385</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -103,8 +107,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">26</biblScope>
-                  <biblScope type="numbers">16385</biblScope>
+                  <biblScope unit="volume">26</biblScope>
+                  <biblScope unit="numbers">16385</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -112,8 +116,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">299</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">299</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -7,11 +7,15 @@
             <title>Fragment eines Inventars</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">29474</idno>
             <idno type="TM">29474</idno>
             <idno type="ddb-perseus-style">0239;20;14178</idno>
             <idno type="ddb-filename">sb.20.14178</idno>
             <idno type="ddb-hybrid">sb;20;14178</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,6 +76,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://digibib.ub.uni-giessen.de/cgi-bin/populo/pap.pl?db=pap&amp;t_regsrch=x&amp;wertreg=SIG&amp;wert=P.B.U.G.%20inv.%20141&amp;reccheck=404"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -81,8 +88,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">20</biblScope>
-                  <biblScope type="numbers">14178</biblScope>
+                  <biblScope unit="volume">20</biblScope>
+                  <biblScope unit="numbers">14178</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -91,14 +98,7 @@
                <bibl type="illustration">Festschrift Karl Christ, S. 227</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://digibib.ub.uni-giessen.de/cgi-bin/populo/pap.pl?db=pap&amp;t_regsrch=x&amp;wertreg=SIG&amp;wert=P.B.U.G.%20inv.%20141&amp;reccheck=404"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

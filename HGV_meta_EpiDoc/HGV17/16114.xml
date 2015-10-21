@@ -7,11 +7,15 @@
             <title>Pachtvertrag</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">16114</idno>
             <idno type="TM">16114</idno>
             <idno type="ddb-perseus-style">0001;12;2159</idno>
             <idno type="ddb-filename">bgu.12.2159</idno>
             <idno type="ddb-hybrid">bgu;12;2159</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -82,8 +86,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">12</biblScope>
-                  <biblScope type="numbers">2159</biblScope>
+                  <biblScope unit="volume">12</biblScope>
+                  <biblScope unit="numbers">2159</biblScope>
                </bibl>
             </listBibl>
          </div>

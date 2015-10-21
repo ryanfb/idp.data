@@ -7,11 +7,15 @@
             <title>Déclaration de décès</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">11266</idno>
             <idno type="TM">11266</idno>
             <idno type="ddb-perseus-style">0117;3;137</idno>
             <idno type="ddb-filename">p.gen.3.137</idno>
             <idno type="ddb-hybrid">p.gen;3;137</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.ville-ge.ch/fcgi-bin/fcgi-axn?launchpad&amp;/home/minfo/bge/papyrus/pgen213-vi.axs&amp;550&amp;550"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="mentionedDates">
@@ -91,8 +98,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Gen.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">137</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">137</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -102,14 +109,7 @@
                <bibl type="illustration">JRA, Suppl.3, 1991, S. 198</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.ville-ge.ch/fcgi-bin/fcgi-axn?launchpad&amp;/home/minfo/bge/papyrus/pgen213-vi.axs&amp;550&amp;550"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

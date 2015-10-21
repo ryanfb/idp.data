@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">28975</idno>
             <idno type="TM">28975</idno>
             <idno type="ddb-perseus-style">0008;;499</idno>
             <idno type="ddb-filename">chr.wilck.499</idno>
             <idno type="ddb-hybrid">chr.wilck;;499</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -66,6 +70,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.photo.rmn.fr/cf/htm/CSearchZ.aspx?o=&amp;Total=251&amp;FP=43482635&amp;E=22S39UWBEVE@6&amp;SID=22S39UWBEVE@6&amp;New=T&amp;Pic=133&amp;SubE=2C6NU0SAT3L0"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -75,8 +82,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lugd. Bat.</title>
-                  <biblScope type="volume">19</biblScope>
-                  <biblScope type="pages">S. 230-231</biblScope>
+                  <biblScope unit="volume">19</biblScope>
+                  <biblScope unit="pages">S. 230-231</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -84,8 +91,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">126</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">126</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -122,14 +129,7 @@
                <bibl type="translations">Bagnall - Cribiore, Women's Letters (2008), B1.26, Nr. 163</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.photo.rmn.fr/cf/htm/CSearchZ.aspx?o=&amp;Total=251&amp;FP=43482635&amp;E=22S39UWBEVE@6&amp;SID=22S39UWBEVE@6&amp;New=T&amp;Pic=133&amp;SubE=2C6NU0SAT3L0"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

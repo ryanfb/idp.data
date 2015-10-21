@@ -7,11 +7,15 @@
             <title>Urkunde über Pacht einer Mühle</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">9449</idno>
             <idno type="TM">9449</idno>
             <idno type="ddb-perseus-style">0001;4;1067</idno>
             <idno type="ddb-filename">bgu.4.1067</idno>
             <idno type="ddb-hybrid">bgu;4;1067</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -77,6 +81,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=BGU&amp;vVol=4&amp;vNum=1067"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -86,8 +93,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="numbers">1067</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="numbers">1067</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -101,14 +108,7 @@
                <bibl type="translations">Johnson, Roman Egypt (1936), S. 370, Nr. 214</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=BGU&amp;vVol=4&amp;vNum=1067"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

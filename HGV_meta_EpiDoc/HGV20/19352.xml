@@ -7,11 +7,15 @@
             <title>Registro di ricossioni di tasse</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">19352</idno>
             <idno type="TM">19352</idno>
             <idno type="ddb-perseus-style">0111;3;297</idno>
             <idno type="ddb-filename">p.flor.3.297</idno>
             <idno type="ddb-hybrid">p.flor;3;297</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -78,6 +82,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.misha.fr/papyrus_bipab/pages_html/P_Flor_III_297.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -139,8 +146,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Flor.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">297</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">297</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -148,12 +155,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">128</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">128</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">86</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">86</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -162,14 +169,7 @@
                <bibl type="illustration">Zuckerman, Du village à l'empire, Planches</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.misha.fr/papyrus_bipab/pages_html/P_Flor_III_297.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

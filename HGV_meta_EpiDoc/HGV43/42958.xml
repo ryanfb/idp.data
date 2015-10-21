@@ -7,11 +7,15 @@
             <title>Échange de terres</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">42958</idno>
             <idno type="TM">42958</idno>
             <idno type="ddb-perseus-style">0279;5;289</idno>
             <idno type="ddb-filename">chla.5.289</idno>
             <idno type="ddb-hybrid">chla;5;289</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -71,6 +75,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.1966"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -80,8 +87,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">ChLA</title>
-                  <biblScope type="volume">5</biblScope>
-                  <biblScope type="numbers">289</biblScope>
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="numbers">289</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -98,14 +105,7 @@
                <bibl type="publication" subtype="other">CPL 227</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.1966"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

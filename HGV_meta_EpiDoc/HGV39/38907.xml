@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">38907</idno>
             <idno type="TM">38907</idno>
             <idno type="ddb-perseus-style">0240;10;22</idno>
             <idno type="ddb-filename">stud.pal.10.22</idno>
             <idno type="ddb-hybrid">stud.pal;10;22</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,6 +76,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00004430&amp;local_base=ONB08"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -81,8 +88,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SPP</title>
-                  <biblScope type="volume">10</biblScope>
-                  <biblScope type="numbers">22</biblScope>
+                  <biblScope unit="volume">10</biblScope>
+                  <biblScope unit="numbers">22</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,16 +97,16 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">267</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">267</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">263</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">263</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">270</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">270</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -108,14 +115,7 @@
                <bibl type="illustration">S. 12</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00004430&amp;local_base=ONB08"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

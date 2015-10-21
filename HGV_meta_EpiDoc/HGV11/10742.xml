@@ -7,11 +7,15 @@
             <title>Report of Trial with Annexed Documents</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">10742</idno>
             <idno type="TM">10742</idno>
             <idno type="ddb-perseus-style">0109;;24dupl</idno>
             <idno type="ddb-filename">p.fam.tebt.24dupl</idno>
             <idno type="ddb-hybrid">p.fam.tebt;;24dupl</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -137,7 +141,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Fam. Tebt.</title>
-                  <biblScope type="numbers">24</biblScope>
+                  <biblScope unit="numbers">24</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -145,12 +149,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">198</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">198</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">125</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">125</biblScope>
                </bibl>
             </listBibl>
          </div>

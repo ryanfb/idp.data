@@ -7,11 +7,15 @@
             <title>Vendita di casa e mutuo di denaro</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">13871</idno>
             <idno type="TM">13871</idno>
             <idno type="ddb-perseus-style">0238;13;1319</idno>
             <idno type="ddb-filename">psi.13.1319</idno>
             <idno type="ddb-hybrid">psi;13;1319</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -85,14 +89,17 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
   </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;13;1319"/>
+   </facsimile>
   <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PSI</title>
-                  <biblScope n="1" type="volume">13</biblScope>
-                  <biblScope n="2" type="numbers">1319</biblScope>
+                  <biblScope unit="volume">13</biblScope>
+                  <biblScope unit="numbers">1319</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -100,12 +107,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL" n="1">
-                  <biblScope type="volume">VIII</biblScope>
-                  <biblScope type="pages">410</biblScope>
+                  <biblScope unit="volume">VIII</biblScope>
+                  <biblScope unit="pages">410</biblScope>
                </bibl>
                <bibl type="BL" n="2">
-                  <biblScope type="volume">X</biblScope>
-                  <biblScope type="pages">248</biblScope>
+                  <biblScope unit="volume">X</biblScope>
+                  <biblScope unit="pages">248</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -120,14 +127,7 @@
                <bibl type="publication" subtype="other">SB V 8952</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;13;1319"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
   </text>
 </TEI>

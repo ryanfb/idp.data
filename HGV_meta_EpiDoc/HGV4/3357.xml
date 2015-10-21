@@ -7,11 +7,15 @@
             <title>Brûlures volontaires dans un bain public</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">3357</idno>
             <idno type="TM">3357</idno>
             <idno type="ddb-perseus-style">0106;;82</idno>
             <idno type="ddb-filename">p.enteux.82</idno>
             <idno type="ddb-hybrid">p.enteux;;82</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -92,7 +96,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Enteux.</title>
-                  <biblScope type="numbers">82</biblScope>
+                  <biblScope unit="numbers">82</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -100,20 +104,20 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">120</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">120</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">79</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">79</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">65</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">65</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">67</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">67</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">24460</idno>
             <idno type="TM">24460</idno>
             <idno type="ddb-perseus-style">0013;;63</idno>
             <idno type="ddb-filename">o.berl.63</idno>
             <idno type="ddb-hybrid">o.berl;;63</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -80,7 +84,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Berl.</title>
-                  <biblScope type="numbers">63</biblScope>
+                  <biblScope unit="numbers">63</biblScope>
                </bibl>
             </listBibl>
          </div>

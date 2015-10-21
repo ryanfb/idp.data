@@ -7,11 +7,15 @@
             <title>Fragment eines Gesetzes</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">2698</idno>
             <idno type="TM">2698</idno>
             <idno type="ddb-perseus-style">0001;14;2367</idno>
             <idno type="ddb-filename">bgu.14.2367</idno>
             <idno type="ddb-hybrid">bgu;14;2367</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -76,6 +80,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://smb.museum/berlpap/index.php/record/?TM=2698"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -85,8 +92,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">14</biblScope>
-                  <biblScope type="numbers">2367</biblScope>
+                  <biblScope unit="volume">14</biblScope>
+                  <biblScope unit="numbers">2367</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -94,16 +101,16 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">59</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">59</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">33</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">33</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">25</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">25</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -119,14 +126,7 @@
                <bibl type="translations">Bagnall &amp; Derow, The Hellenistic Period (2004), Nr. 125</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://smb.museum/berlpap/index.php/record/?TM=2698"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

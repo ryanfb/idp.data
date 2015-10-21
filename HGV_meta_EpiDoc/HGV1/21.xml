@@ -7,11 +7,15 @@
             <title>Sale of Land, at the Office of the Agoranomus</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">21</idno>
             <idno type="TM">21</idno>
             <idno type="ddb-perseus-style">0054;;G21</idno>
             <idno type="ddb-filename">p.adl.G21</idno>
             <idno type="ddb-hybrid">p.adl;;G21</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -87,7 +91,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Adler</title>
-                  <biblScope type="numbers">21</biblScope>
+                  <biblScope unit="numbers">21</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -95,8 +99,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">4</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">4</biblScope>
                </bibl>
             </listBibl>
          </div>

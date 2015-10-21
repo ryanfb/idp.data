@@ -7,11 +7,15 @@
             <title>Ricevuta di tasse</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">36867</idno>
             <idno type="TM">36867</idno>
             <idno type="ddb-perseus-style">0111;3;351</idno>
             <idno type="ddb-filename">p.flor.3.351</idno>
             <idno type="ddb-hybrid">p.flor;3;351</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -86,8 +90,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Flor.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">351</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">351</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -95,8 +99,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">74/75</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">74/75</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -7,11 +7,15 @@
             <title>Ordine del dux e del praeses della Tebaide relativamente all’annona</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">37308</idno>
             <idno type="TM">37308</idno>
             <idno type="ddb-perseus-style">0147;3;111</idno>
             <idno type="ddb-filename">p.laur.3.111</idno>
             <idno type="ddb-hybrid">p.laur;3;111</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -76,6 +80,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.misha.fr/papyrus_bipab/pages_html/P_Laur_I_111.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -85,8 +92,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Laur.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">111</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">111</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -94,16 +101,16 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">167</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">167</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">94</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">94</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">106</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">106</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -113,14 +120,7 @@
                <bibl type="illustration">Bastianini - Casanova, 100 anni di istituzioni fiorentine, Tavola XVIII</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.misha.fr/papyrus_bipab/pages_html/P_Laur_I_111.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

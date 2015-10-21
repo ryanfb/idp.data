@@ -7,11 +7,15 @@
             <title>Letter of Sulpicius Similis the Prefect</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">11873</idno>
             <idno type="TM">11873</idno>
             <idno type="ddb-perseus-style">0149;;32</idno>
             <idno type="ddb-filename">p.leid.inst.32</idno>
             <idno type="ddb-hybrid">p.leid.inst;;32</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -90,8 +94,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lugd. Bat.</title>
-                  <biblScope type="volume">25</biblScope>
-                  <biblScope type="numbers">32</biblScope>
+                  <biblScope unit="volume">25</biblScope>
+                  <biblScope unit="numbers">32</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -99,8 +103,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">127</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">127</biblScope>
                </bibl>
             </listBibl>
          </div>

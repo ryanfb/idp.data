@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">28515</idno>
             <idno type="TM">28515</idno>
             <idno type="ddb-perseus-style">;2;925</idno>
             <idno type="ddb-filename">short.texts.2.925</idno>
             <idno type="ddb-hybrid">short.texts;2;925</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -70,6 +74,10 @@
          <change when="2015-06-18" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://quod.lib.umich.edu/a/apis/x-9/4534_6V.TIF"/>
+      <graphic url="http://quod.lib.umich.edu/a/apis/x-9/4534_6R.TIF"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -82,8 +90,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">Short Texts</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">925</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">925</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>
@@ -100,18 +108,7 @@
                <bibl type="publication" subtype="other">P.Coll. Youtie II 115</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://quod.lib.umich.edu/a/apis/x-9/4534_6V.TIF"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://quod.lib.umich.edu/a/apis/x-9/4534_6R.TIF"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

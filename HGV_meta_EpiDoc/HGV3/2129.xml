@@ -7,11 +7,15 @@
             <title>Philemon a Zenon</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">2129</idno>
             <idno type="TM">2129</idno>
             <idno type="ddb-perseus-style">0238;5;503</idno>
             <idno type="ddb-filename">psi.5.503</idno>
             <idno type="ddb-hybrid">psi;5;503</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -79,6 +83,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;5;503"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -94,8 +101,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PSI</title>
-                  <biblScope type="volume">5</biblScope>
-                  <biblScope type="numbers">503</biblScope>
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="numbers">503</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -103,12 +110,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">315</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">315</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">240</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">240</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -118,14 +125,7 @@
                <bibl type="illustration">Seider, Griechische Paläographie III, 1, II Abb. 42 (Z. 9-16) und II Abb. 42 a (Z. 17-19), S. 221</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;5;503"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">8888</idno>
             <idno type="TM">8888</idno>
             <idno type="ddb-perseus-style">0008;;203</idno>
             <idno type="ddb-filename">chr.wilck.203</idno>
             <idno type="ddb-hybrid">chr.wilck;;203</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -98,9 +102,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">115</biblScope>
-                  <biblScope type="columns">Kol. II</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">115</biblScope>
+                  <biblScope unit="columns">Kol. II</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -108,8 +112,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">11</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">11</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -7,11 +7,15 @@
             <title>Reply to a Strategus</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">21737</idno>
             <idno type="TM">21737</idno>
             <idno type="ddb-perseus-style">0181;8;1115</idno>
             <idno type="ddb-filename">p.oxy.8.1115</idno>
             <idno type="ddb-hybrid">p.oxy;8;1115</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,6 +76,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.globalegyptianmuseum.org/detail.aspx?id=937"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="mentionedDates">
@@ -90,8 +97,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Oxy.</title>
-                  <biblScope type="volume">8</biblScope>
-                  <biblScope type="numbers">1115</biblScope>
+                  <biblScope unit="volume">8</biblScope>
+                  <biblScope unit="numbers">1115</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -113,14 +120,7 @@
                <bibl type="translations">Johnson, Roman Egypt (1936), S. 633-634, Nr. 388</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.globalegyptianmuseum.org/detail.aspx?id=937"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>Aufhebung eines Sicherungskaufes</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">57</idno>
             <idno type="TM">57</idno>
             <idno type="ddb-perseus-style">0001;6;1260</idno>
             <idno type="ddb-filename">bgu.6.1260</idno>
             <idno type="ddb-hybrid">bgu;6;1260</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -83,8 +87,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">6</biblScope>
-                  <biblScope type="numbers">1260</biblScope>
+                  <biblScope unit="volume">6</biblScope>
+                  <biblScope unit="numbers">1260</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -92,8 +96,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">19</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">19</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -7,11 +7,15 @@
             <title>Petition to a Beneficiarius</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">10393</idno>
             <idno type="TM">10393</idno>
             <idno type="ddb-perseus-style">0088;;63</idno>
             <idno type="ddb-filename">p.cair.isid.63</idno>
             <idno type="ddb-hybrid">p.cair.isid;;63</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -86,7 +90,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Cair. Isid.</title>
-                  <biblScope type="numbers">63</biblScope>
+                  <biblScope unit="numbers">63</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -94,8 +98,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">32</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">32</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -7,11 +7,15 @@
             <title>Arbeitsvertrag</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">38525</idno>
             <idno type="TM">38525</idno>
             <idno type="ddb-perseus-style">0239;20;14969</idno>
             <idno type="ddb-filename">sb.20.14969</idno>
             <idno type="ddb-hybrid">sb;20;14969</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,14 +76,17 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00005704&amp;local_base=ONB08"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">20</biblScope>
-                  <biblScope type="numbers">14969</biblScope>
+                  <biblScope unit="volume">20</biblScope>
+                  <biblScope unit="numbers">14969</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -87,8 +94,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">233f.</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">233f.</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -110,14 +117,7 @@
                <bibl type="translations">A. Jördens, ZPE 72, 1988, S. 268</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00005704&amp;local_base=ONB08"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

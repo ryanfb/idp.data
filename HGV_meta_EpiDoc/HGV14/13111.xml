@@ -7,11 +7,15 @@
             <title>Receipts for the Annona Militaris</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">13111</idno>
             <idno type="TM">13111</idno>
             <idno type="ddb-perseus-style">0199;;92</idno>
             <idno type="ddb-filename">p.sakaon.92</idno>
             <idno type="ddb-hybrid">p.sakaon;;92</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -97,7 +101,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Sakaon</title>
-                  <biblScope type="numbers">92</biblScope>
+                  <biblScope unit="numbers">92</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -105,8 +109,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">303</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">303</biblScope>
                </bibl>
             </listBibl>
          </div>

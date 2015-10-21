@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">11666</idno>
             <idno type="TM">11666</idno>
             <idno type="ddb-perseus-style">0006;2.1;10</idno>
             <idno type="ddb-filename">c.pap.gr.2.1.10</idno>
             <idno type="ddb-hybrid">c.pap.gr;2.1;10</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -91,9 +95,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lond.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">281</biblScope>
-                  <biblScope type="pages">(S. 65)</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">281</biblScope>
+                  <biblScope unit="pages">(S. 65)</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -101,12 +105,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">175/176</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">175/176</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">100f.</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">100f.</biblScope>
                </bibl>
             </listBibl>
          </div>

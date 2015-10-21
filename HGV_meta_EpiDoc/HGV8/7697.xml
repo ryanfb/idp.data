@@ -7,11 +7,15 @@
             <title>Private Accounts</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">7697</idno>
             <idno type="TM">7697</idno>
             <idno type="ddb-perseus-style">0187;3;139</idno>
             <idno type="ddb-filename">p.petr.3.139</idno>
             <idno type="ddb-hybrid">p.petr;3;139</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -83,10 +87,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Petr.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">139</biblScope>
-                  <biblScope type="generic">(a) +</biblScope>
-                  <biblScope type="generic">(b)</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">139</biblScope>
+                  <biblScope unit="generic">(a) +</biblScope>
+                  <biblScope unit="generic">(b)</biblScope>
                </bibl>
             </listBibl>
          </div>

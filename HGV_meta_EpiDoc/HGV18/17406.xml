@@ -7,11 +7,15 @@
             <title>Notificazione per un procedimento di ἐμβαδεία</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">17406</idno>
             <idno type="TM">17406</idno>
             <idno type="ddb-perseus-style">0238;12;1237</idno>
             <idno type="ddb-filename">psi.12.1237</idno>
             <idno type="ddb-hybrid">psi;12;1237</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -67,29 +71,25 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;12;1237"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PSI</title>
-                  <biblScope type="volume">12</biblScope>
-                  <biblScope type="numbers">1237</biblScope>
-                  <biblScope type="side">V</biblScope>
+                  <biblScope unit="volume">12</biblScope>
+                  <biblScope unit="numbers">1237</biblScope>
+                  <biblScope unit="side">V</biblScope>
                </bibl>
             </listBibl>
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;12;1237"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

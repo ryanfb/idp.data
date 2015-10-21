@@ -7,11 +7,15 @@
             <title>Bilingual Sale of House</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">12983</idno>
             <idno type="TM">12983</idno>
             <idno type="ddb-perseus-style">0198;2;305</idno>
             <idno type="ddb-filename">p.ryl.2.305</idno>
             <idno type="ddb-hybrid">p.ryl;2;305</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://enriqueta.man.ac.uk:8081/BrowserInsight/BrowserInsight?cmd=start&amp;un=uman&amp;pw=est1824=&amp;cid=ManchesterDev-93-NA&amp;iia=0&amp;ig=Rylands%20Papyri&amp;isl=0&amp;gwisp=0%7CReference_number%7CReference%20number%7C1%7CGreek%20Papyrus%20305%7C1&amp;gwia=3&amp;gc=0"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -83,8 +90,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Ryl.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">305</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">305</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>
@@ -95,14 +102,7 @@
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://enriqueta.man.ac.uk:8081/BrowserInsight/BrowserInsight?cmd=start&amp;un=uman&amp;pw=est1824=&amp;cid=ManchesterDev-93-NA&amp;iia=0&amp;ig=Rylands%20Papyri&amp;isl=0&amp;gwisp=0%7CReference_number%7CReference%20number%7C1%7CGreek%20Papyrus%20305%7C1&amp;gwia=3&amp;gc=0"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

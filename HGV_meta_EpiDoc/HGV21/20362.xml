@@ -7,11 +7,15 @@
             <title>Petition of Apollonarion</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">20362</idno>
             <idno type="TM">20362</idno>
             <idno type="ddb-perseus-style">0181;6;899</idno>
             <idno type="ddb-filename">p.oxy.6.899</idno>
             <idno type="ddb-hybrid">p.oxy;6;899</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -121,9 +125,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Oxy.</title>
-                  <biblScope type="volume">6</biblScope>
-                  <biblScope type="numbers">899</biblScope>
-                  <biblScope type="side">R</biblScope>
+                  <biblScope unit="volume">6</biblScope>
+                  <biblScope unit="numbers">899</biblScope>
+                  <biblScope unit="side">R</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -131,12 +135,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">238</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">238</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">181</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">181</biblScope>
                </bibl>
             </listBibl>
          </div>

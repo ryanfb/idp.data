@@ -7,11 +7,15 @@
             <title>Brief an Zenon wegen einer Streitigkeit um eine Getreideschuld</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">2100</idno>
             <idno type="TM">2100</idno>
             <idno type="ddb-perseus-style">0239;14;11639</idno>
             <idno type="ddb-filename">sb.14.11639</idno>
             <idno type="ddb-hybrid">sb;14;11639</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -76,6 +80,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Zen.&amp;vVol=5&amp;vNum=59831"/>
+      <graphic url="http://www.psi-online.it/documents/psi;4;417"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -85,8 +93,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">14</biblScope>
-                  <biblScope type="numbers">11639</biblScope>
+                  <biblScope unit="volume">14</biblScope>
+                  <biblScope unit="numbers">11639</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -108,18 +116,7 @@
                <bibl type="translations">P. Pruneti, Aegyptus 57, 1977, S. 104-105</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Zen.&amp;vVol=5&amp;vNum=59831"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;4;417"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

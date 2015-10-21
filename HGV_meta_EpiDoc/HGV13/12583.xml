@@ -7,11 +7,15 @@
             <title>Antichretic loan</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">12583</idno>
             <idno type="TM">12583</idno>
             <idno type="ddb-perseus-style">0178;;11</idno>
             <idno type="ddb-filename">p.oxf.11</idno>
             <idno type="ddb-hybrid">p.oxf;;11</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -82,7 +86,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Oxf.</title>
-                  <biblScope type="numbers">11</biblScope>
+                  <biblScope unit="numbers">11</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,8 +94,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">198</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">198</biblScope>
                </bibl>
             </listBibl>
          </div>

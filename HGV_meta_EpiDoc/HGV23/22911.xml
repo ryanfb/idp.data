@@ -7,11 +7,15 @@
             <title>Aus dem Geschäftsbuch eines Pfandleihers</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">22911</idno>
             <idno type="TM">22911</idno>
             <idno type="ddb-perseus-style">0239;8;9834</idno>
             <idno type="ddb-filename">sb.8.9834</idno>
             <idno type="ddb-hybrid">sb;8;9834</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.1554"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -159,9 +166,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">8</biblScope>
-                  <biblScope type="numbers">9834</biblScope>
-                  <biblScope type="generic">a</biblScope>
+                  <biblScope unit="volume">8</biblScope>
+                  <biblScope unit="numbers">9834</biblScope>
+                  <biblScope unit="generic">a</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -169,16 +176,16 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">355</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">355</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">266</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">266</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">201</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">201</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -192,14 +199,7 @@
                <bibl type="translations">E.M. Husselman, TAPhA 92, 1961, S. 256</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.1554"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

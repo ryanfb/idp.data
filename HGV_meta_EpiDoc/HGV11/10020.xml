@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">10020</idno>
             <idno type="TM">10020</idno>
             <idno type="ddb-perseus-style">0052;;18</idno>
             <idno type="ddb-filename">p.abinn.18</idno>
             <idno type="ddb-hybrid">p.abinn;;18</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -86,7 +90,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Abinn.</title>
-                  <biblScope type="numbers">18</biblScope>
+                  <biblScope unit="numbers">18</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -94,8 +98,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">2</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">2</biblScope>
                </bibl>
             </listBibl>
          </div>

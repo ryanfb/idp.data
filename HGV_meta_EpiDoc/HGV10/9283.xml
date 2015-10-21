@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">9283</idno>
             <idno type="TM">9283</idno>
             <idno type="ddb-perseus-style">0001;2;644</idno>
             <idno type="ddb-filename">bgu.2.644</idno>
             <idno type="ddb-hybrid">bgu;2;644</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -84,8 +88,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">644</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">644</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -93,8 +97,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">31</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">31</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -7,11 +7,15 @@
             <title>Ehevertrag</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">18385</idno>
             <idno type="TM">18385</idno>
             <idno type="ddb-perseus-style">0239;18;13886</idno>
             <idno type="ddb-filename">sb.18.13886</idno>
             <idno type="ddb-hybrid">sb;18;13886</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -71,6 +75,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://digibib.ub.uni-giessen.de/cgi-bin/populo/pap.pl?t_allegro=x&amp;f_SIG=SB+13886"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -80,8 +87,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">18</biblScope>
-                  <biblScope type="numbers">13886</biblScope>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="numbers">13886</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -89,8 +96,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">307</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">307</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -99,14 +106,7 @@
                <bibl type="illustration">ZPE 60, 1985, Tafel X a</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://digibib.ub.uni-giessen.de/cgi-bin/populo/pap.pl?t_allegro=x&amp;f_SIG=SB+13886"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

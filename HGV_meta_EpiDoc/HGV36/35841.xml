@@ -7,11 +7,15 @@
             <title>Byzantinischer Brief (II)</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">35841</idno>
             <idno type="TM">35841</idno>
             <idno type="ddb-perseus-style">0128;3;229</idno>
             <idno type="ddb-filename">p.hamb.3.229</idno>
             <idno type="ddb-hybrid">p.hamb;3;229</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -84,8 +88,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Hamb.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">229</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">229</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -93,12 +97,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">146</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">146</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">100</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">100</biblScope>
                </bibl>
             </listBibl>
          </div>

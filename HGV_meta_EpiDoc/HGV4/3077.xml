@@ -7,11 +7,15 @@
             <title>Fragmentarische Eingabe eines Priesters</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">3077</idno>
             <idno type="TM">3077</idno>
             <idno type="ddb-perseus-style">0239;24;15938</idno>
             <idno type="ddb-filename">sb.24.15938</idno>
             <idno type="ddb-hybrid">sb;24;15938</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -79,6 +83,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/P.Heid._VI/380/P.Heid._VI_380.html"/>
+      <graphic url="http://digipap.uni-trier.de/s108/publ/29.jpg"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -106,8 +114,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">24</biblScope>
-                  <biblScope type="numbers">15938</biblScope>
+                  <biblScope unit="volume">24</biblScope>
+                  <biblScope unit="numbers">15938</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -123,18 +131,7 @@
                <bibl type="publication" subtype="other">P.Heid. VI 380</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/P.Heid._VI/380/P.Heid._VI_380.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://digipap.uni-trier.de/s108/publ/29.jpg"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

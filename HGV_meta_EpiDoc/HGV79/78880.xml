@@ -7,11 +7,15 @@
             <title>Edikt Hadrians</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">78880</idno>
             <idno type="TM">78880</idno>
             <idno type="ddb-perseus-style">0177;3;78</idno>
             <idno type="ddb-filename">p.oslo.3.78</idno>
             <idno type="ddb-hybrid">p.oslo;3;78</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -87,9 +91,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">6944</biblScope>
-                  <biblScope type="generic">B</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">6944</biblScope>
+                  <biblScope unit="generic">B</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -97,12 +101,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">175</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">175</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">141 (zu P.Oslo III, S. 58)</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">141 (zu P.Oslo III, S. 58)</biblScope>
                </bibl>
             </listBibl>
          </div>

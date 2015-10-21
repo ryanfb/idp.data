@@ -7,11 +7,15 @@
             <title>Anordnung des Emir Jezit, Lebensmittel zu liefern</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">14283</idno>
             <idno type="TM">14283</idno>
             <idno type="ddb-perseus-style">0239;8;9752</idno>
             <idno type="ddb-filename">sb.8.9752</idno>
             <idno type="ddb-hybrid">sb;8;9752</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,14 +78,17 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00004952&amp;local_base=ONB08"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">8</biblScope>
-                  <biblScope type="numbers">9752</biblScope>
+                  <biblScope unit="volume">8</biblScope>
+                  <biblScope unit="numbers">9752</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -89,8 +96,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">264</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">264</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -104,14 +111,7 @@
                <bibl type="translations">A. Grohmann, EPap 8, 1957, S. 21</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00004952&amp;local_base=ONB08"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

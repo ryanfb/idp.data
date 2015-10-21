@@ -7,11 +7,15 @@
             <title>Greek salt-tax district record</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">44106</idno>
             <idno type="TM">44106</idno>
             <idno type="ddb-perseus-style">0288;;3</idno>
             <idno type="ddb-filename">p.count.3</idno>
             <idno type="ddb-hybrid">p.count;;3</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.papyrologie.paris-sorbonne.fr/menu1/collections/pgrec/pcount.htm#pcount03"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -97,7 +104,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Count</title>
-                  <biblScope type="numbers">3</biblScope>
+                  <biblScope unit="numbers">3</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -107,14 +114,7 @@
                <bibl type="illustration">Nachzeichnung (Überblick): S. 18</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.papyrologie.paris-sorbonne.fr/menu1/collections/pgrec/pcount.htm#pcount03"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

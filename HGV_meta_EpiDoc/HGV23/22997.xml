@@ -7,11 +7,15 @@
             <title>Antrag auf die Pachtung einer städtischen Realität</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">22997</idno>
             <idno type="TM">22997</idno>
             <idno type="ddb-perseus-style">0240;5;119</idno>
             <idno type="ddb-filename">stud.pal.5.119</idno>
             <idno type="ddb-hybrid">stud.pal;5;119</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -93,10 +97,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SPP</title>
-                  <biblScope type="volume">5</biblScope>
-                  <biblScope type="numbers">119</biblScope>
-                  <biblScope type="side">R</biblScope>
-                  <biblScope type="generic">II</biblScope>
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="numbers">119</biblScope>
+                  <biblScope unit="side">R</biblScope>
+                  <biblScope unit="generic">II</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -104,12 +108,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">445</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">445</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">264</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">264</biblScope>
                </bibl>
             </listBibl>
          </div>

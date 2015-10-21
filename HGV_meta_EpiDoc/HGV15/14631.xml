@@ -7,11 +7,15 @@
             <title>Auflistung von Steuerzahlungen</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">14631</idno>
             <idno type="TM">14631</idno>
             <idno type="ddb-perseus-style">0239;16;12632</idno>
             <idno type="ddb-filename">sb.16.12632</idno>
             <idno type="ddb-hybrid">sb;16;12632</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -80,6 +84,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=princeton.apis.p700"/>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.3469"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -108,8 +116,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">16</biblScope>
-                  <biblScope type="numbers">12632</biblScope>
+                  <biblScope unit="volume">16</biblScope>
+                  <biblScope unit="numbers">12632</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -122,18 +130,7 @@
                <bibl type="publication" subtype="other">P.Princ. I 11 (Z. 1 - 30)</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=princeton.apis.p700"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.3469"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

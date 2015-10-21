@@ -7,11 +7,15 @@
             <title>Aufhebung eines Sicherungskaufs</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">77</idno>
             <idno type="TM">77</idno>
             <idno type="ddb-perseus-style">0007;;233</idno>
             <idno type="ddb-filename">chr.mitt.233</idno>
             <idno type="ddb-hybrid">chr.mitt;;233</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -75,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/Verstreutes/1278_GerGra/1278_GerGra.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="mentionedDates">
@@ -92,7 +99,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">M.Chr.</title>
-                  <biblScope type="numbers">233</biblScope>
+                  <biblScope unit="numbers">233</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -101,14 +108,7 @@
                <bibl type="illustration">Seider, Paläographie I, Tafel 7, 12, nach S. 46</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/Verstreutes/1278_GerGra/1278_GerGra.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

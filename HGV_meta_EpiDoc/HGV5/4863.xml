@@ -7,11 +7,15 @@
             <title>Amtlicher Brief an das Büro des Strategen</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">4863</idno>
             <idno type="TM">4863</idno>
             <idno type="ddb-perseus-style">0001;8;1782</idno>
             <idno type="ddb-filename">bgu.8.1782</idno>
             <idno type="ddb-hybrid">bgu;8;1782</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -88,8 +92,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">8</biblScope>
-                  <biblScope type="numbers">1782</biblScope>
+                  <biblScope unit="volume">8</biblScope>
+                  <biblScope unit="numbers">1782</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -97,12 +101,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">49</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">49</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">21</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">21</biblScope>
                </bibl>
             </listBibl>
          </div>

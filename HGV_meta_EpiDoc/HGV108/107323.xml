@@ -7,11 +7,15 @@
             <title>Greek household record (kat’ ethnos)</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">107323</idno>
             <idno type="TM">107323</idno>
             <idno type="ddb-perseus-style">0288;;6</idno>
             <idno type="ddb-filename">p.count.6Fr1v</idno>
             <idno type="ddb-hybrid">p.count;;6Fr1v</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -79,6 +83,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.papyrologie.paris-sorbonne.fr/menu1/collections/pgrec/pcount.htm#pcount06"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -102,22 +109,15 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Count</title>
-                  <biblScope type="numbers">6</biblScope>
-                  <biblScope type="fragments">Fr. 1 V</biblScope>
+                  <biblScope unit="numbers">6</biblScope>
+                  <biblScope unit="fragments">Fr. 1 V</biblScope>
                </bibl>
             </listBibl>
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.papyrologie.paris-sorbonne.fr/menu1/collections/pgrec/pcount.htm#pcount06"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

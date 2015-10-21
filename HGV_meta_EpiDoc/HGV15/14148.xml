@@ -7,11 +7,15 @@
             <title>Protestschreiben von Priestern</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">14148</idno>
             <idno type="TM">14148</idno>
             <idno type="ddb-perseus-style">0067;;25r</idno>
             <idno type="ddb-filename">p.bacch.25r</idno>
             <idno type="ddb-hybrid">p.bacch;;25r</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -75,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=yale.apis.0003244100"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -84,9 +91,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">6</biblScope>
-                  <biblScope type="numbers">9331</biblScope>
-                  <biblScope type="side">R</biblScope>
+                  <biblScope unit="volume">6</biblScope>
+                  <biblScope unit="numbers">9331</biblScope>
+                  <biblScope unit="side">R</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -94,12 +101,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">256</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">256</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">206</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">206</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -114,14 +121,7 @@
                <bibl type="publication" subtype="other">P.Bacch. 25</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=yale.apis.0003244100"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

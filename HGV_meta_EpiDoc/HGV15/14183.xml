@@ -7,11 +7,15 @@
             <title>Abrechnung über die Ausgabe von Wein</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">14183</idno>
             <idno type="TM">14183</idno>
             <idno type="ddb-perseus-style">0190;NS;21</idno>
             <idno type="ddb-filename">p.prag.varcl.NS.21</idno>
             <idno type="ddb-hybrid">p.prag.varcl;NS;21</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -129,8 +133,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">6</biblScope>
-                  <biblScope type="numbers">9414</biblScope>
+                  <biblScope unit="volume">6</biblScope>
+                  <biblScope unit="numbers">9414</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -138,16 +142,16 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">258</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">258</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">199</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">199</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">206</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">206</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -7,11 +7,15 @@
             <title>Contrat d’emprunt</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">18873</idno>
             <idno type="TM">18873</idno>
             <idno type="ddb-perseus-style">0089;2;67126</idno>
             <idno type="ddb-filename">p.cair.masp.2.67126</idno>
             <idno type="ddb-hybrid">p.cair.masp;2;67126</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -71,6 +75,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Masp.&amp;vVol=2&amp;vNum=67126"/>
+      <graphic url="http://www.misha.fr/papyrus_bipab/pages_html/P_Cair_Masp_II_67126.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -80,8 +88,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Cair. Masp.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">67126</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">67126</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -89,16 +97,16 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">72</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">72</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">34</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">34</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">53</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">53</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -109,18 +117,7 @@
                <bibl type="illustration">Crisci, Scrivere greco, Tav. XCI</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Masp.&amp;vVol=2&amp;vNum=67126"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://www.misha.fr/papyrus_bipab/pages_html/P_Cair_Masp_II_67126.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

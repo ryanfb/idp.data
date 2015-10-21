@@ -7,11 +7,15 @@
             <title>Zwei Listen von Naturalleistungen</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">29479</idno>
             <idno type="TM">29479</idno>
             <idno type="ddb-perseus-style">0239;20;14222</idno>
             <idno type="ddb-filename">sb.20.14222</idno>
             <idno type="ddb-hybrid">sb;20;14222</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -83,8 +87,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">20</biblScope>
-                  <biblScope type="numbers">14222</biblScope>
+                  <biblScope unit="volume">20</biblScope>
+                  <biblScope unit="numbers">14222</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -92,8 +96,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">226</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">226</biblScope>
                </bibl>
             </listBibl>
          </div>

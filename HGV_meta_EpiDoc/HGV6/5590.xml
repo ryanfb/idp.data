@@ -7,11 +7,15 @@
             <title>Prostagma reale: περὶ τῆς γεωργίας ?</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">5590</idno>
             <idno type="TM">5590</idno>
             <idno type="ddb-perseus-style">0118;3;92</idno>
             <idno type="ddb-filename">p.genova.3.92</idno>
             <idno type="ddb-hybrid">p.genova;3;92</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,6 +77,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.archaeogate.org/print/photo.php?src=1_article_1229_9.jpg"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -82,8 +89,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PUG</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">92</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">92</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -91,12 +98,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">279</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">279</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">285</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">285</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -111,14 +118,7 @@
                <bibl type="publication" subtype="other">SB XVI 12821</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.archaeogate.org/print/photo.php?src=1_article_1229_9.jpg"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

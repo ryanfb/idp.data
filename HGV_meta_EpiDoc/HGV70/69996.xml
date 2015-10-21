@@ -7,11 +7,15 @@
             <title>Fragment de lettre missive</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">69996</idno>
             <idno type="TM">69996</idno>
             <idno type="ddb-perseus-style">0002;;229</idno>
             <idno type="ddb-filename">c.ep.lat.229</idno>
             <idno type="ddb-hybrid">c.ep.lat;;229</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -68,6 +72,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri-leipzig.dl.uni-leipzig.de/receive/UBLPapyri_schrift_00001580"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -77,8 +84,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">ChLA</title>
-                  <biblScope type="volume">12</biblScope>
-                  <biblScope type="numbers">528</biblScope>
+                  <biblScope unit="volume">12</biblScope>
+                  <biblScope unit="numbers">528</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -93,14 +100,7 @@
                <bibl type="publication" subtype="other">CEL I 229</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri-leipzig.dl.uni-leipzig.de/receive/UBLPapyri_schrift_00001580"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

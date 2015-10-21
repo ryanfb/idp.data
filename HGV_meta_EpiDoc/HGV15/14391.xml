@@ -7,11 +7,15 @@
             <title>Quittung über die Rückzahlung eines Darlehens</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">14391</idno>
             <idno type="TM">14391</idno>
             <idno type="ddb-perseus-style">0239;12;11006a</idno>
             <idno type="ddb-filename">sb.12.11006a</idno>
             <idno type="ddb-hybrid">sb;12;11006a</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -76,6 +80,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=berkeley.apis.665"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="mentionedDates">
@@ -93,9 +100,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">12</biblScope>
-                  <biblScope type="numbers">11006</biblScope>
-                  <biblScope type="generic">a</biblScope>
+                  <biblScope unit="volume">12</biblScope>
+                  <biblScope unit="numbers">11006</biblScope>
+                  <biblScope unit="generic">a</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -117,14 +124,7 @@
                <bibl type="translations">J.G. Keenan, ZPE 9, 1972, S. 89-90</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=berkeley.apis.665"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

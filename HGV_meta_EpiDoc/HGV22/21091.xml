@@ -7,11 +7,15 @@
             <title>Abrochia-Deklaration</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">21091</idno>
             <idno type="TM">21091</idno>
             <idno type="ddb-perseus-style">;;6</idno>
             <idno type="ddb-filename">p.vet.aelii.6</idno>
             <idno type="ddb-hybrid">p.vet.aelii;;6</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -81,6 +85,9 @@
          <change when="2012-02-09" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/P.Heid._III/244/P.Heid._III_244.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -90,7 +97,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Vet. Aelii</title>
-                  <biblScope type="numbers">6</biblScope>
+                  <biblScope unit="numbers">6</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -106,14 +113,7 @@
                <bibl type="publication" subtype="other">P.Heid. III 244</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/P.Heid._III/244/P.Heid._III_244.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

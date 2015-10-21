@@ -7,11 +7,15 @@
             <title>A Letter from Athanasios the Scholastikos Mentioning Constantinople</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">36154</idno>
             <idno type="TM">36154</idno>
             <idno type="ddb-perseus-style">0121;;54</idno>
             <idno type="ddb-filename">p.got.54dgtl</idno>
             <idno type="ddb-hybrid">p.got;;54dgtl</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -85,27 +89,24 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
   </teiHeader>
+   <facsimile>
+      <graphic url="http://www.papyri.info/apis/gothenburg.apis.45/images"/>
+   </facsimile>
   <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Got.</title>
-                  <biblScope n="1" type="numbers">54</biblScope>
-                  <biblScope n="2" type="generic">(dig. ed.)</biblScope>
+                  <biblScope unit="numbers">54</biblScope>
+                  <biblScope unit="generic">(dig. ed.)</biblScope>
                </bibl>
             </listBibl>
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.papyri.info/apis/gothenburg.apis.45/images"/>
-               </figure>
-            </p>
-         </div>
+         
          <div type="bibliography" subtype="otherPublications">
             <listBibl>
                <bibl type="publication" subtype="other">P.Got. 54</bibl>

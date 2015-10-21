@@ -7,11 +7,15 @@
             <title>Registre de pêche</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">110164</idno>
             <idno type="TM">110164</idno>
             <idno type="ddb-perseus-style">0291;;30</idno>
             <idno type="ddb-filename">p.sijp.30</idno>
             <idno type="ddb-hybrid">p.sijp;;30</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,6 +76,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.ville-ge.ch/fcgi-bin/fcgi-axn?launchpad&amp;/home/minfo/bge/papyrus/pgen181a-1ri.axs&amp;550&amp;550"/>
+      <graphic url="http://www.ville-ge.ch/fcgi-bin/fcgi-axn?launchpad&amp;/home/minfo/bge/papyrus/pgen181a-3ri.axs&amp;550&amp;550"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -84,7 +92,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Sijp.</title>
-                  <biblScope type="numbers">30</biblScope>
+                  <biblScope unit="numbers">30</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -93,18 +101,7 @@
                <bibl type="illustration">Plates 33-34</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.ville-ge.ch/fcgi-bin/fcgi-axn?launchpad&amp;/home/minfo/bge/papyrus/pgen181a-1ri.axs&amp;550&amp;550"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://www.ville-ge.ch/fcgi-bin/fcgi-axn?launchpad&amp;/home/minfo/bge/papyrus/pgen181a-3ri.axs&amp;550&amp;550"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

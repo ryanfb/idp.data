@@ -7,11 +7,15 @@
             <title>Fragment eines Verwaltungsschreibens</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">4072</idno>
             <idno type="TM">4072</idno>
             <idno type="ddb-perseus-style">0059;;pg88b</idno>
             <idno type="ddb-filename">p.anag.pg88b</idno>
             <idno type="ddb-hybrid">p.anag;;pg88b</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -78,6 +82,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.globalegyptianmuseum.org/detail.aspx?id=7343"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -87,8 +94,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">16</biblScope>
-                  <biblScope type="numbers">12275</biblScope>
+                  <biblScope unit="volume">16</biblScope>
+                  <biblScope unit="numbers">12275</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -97,14 +104,7 @@
                <bibl type="illustration">Anagennesis 2, 1982, Tafel VII (nach S. 152)</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.globalegyptianmuseum.org/detail.aspx?id=7343"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

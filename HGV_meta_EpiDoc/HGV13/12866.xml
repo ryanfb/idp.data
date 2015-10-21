@@ -7,11 +7,15 @@
             <title>Certificati di servizio militare</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">12866</idno>
             <idno type="TM">12866</idno>
             <idno type="ddb-perseus-style">0279;43;1248</idno>
             <idno type="ddb-filename">chla.43.1248</idno>
             <idno type="ddb-hybrid">chla;43;1248</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -68,6 +72,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00002441&amp;local_base=ONB08"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -94,8 +101,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">ChLA</title>
-                  <biblScope type="volume">43</biblScope>
-                  <biblScope type="numbers">1248</biblScope>
+                  <biblScope unit="volume">43</biblScope>
+                  <biblScope unit="numbers">1248</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -103,8 +110,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">57 (zu CPR V 13)</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">57 (zu CPR V 13)</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -125,14 +132,7 @@
                <bibl type="publication" subtype="other">CEL I 231-233</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00002441&amp;local_base=ONB08"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

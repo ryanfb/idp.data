@@ -7,11 +7,15 @@
             <title>Receipt for the Cost of Transportation of Statues</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">20291</idno>
             <idno type="TM">20291</idno>
             <idno type="ddb-perseus-style">0143;1;29</idno>
             <idno type="ddb-filename">p.kell.1.29</idno>
             <idno type="ddb-hybrid">p.kell;1;29</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -84,8 +88,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Kell.</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">29</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">29</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -93,8 +97,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">94</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">94</biblScope>
                </bibl>
             </listBibl>
          </div>

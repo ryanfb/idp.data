@@ -7,11 +7,15 @@
             <title>Inventarliste</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">64217</idno>
             <idno type="TM">64217</idno>
             <idno type="ddb-perseus-style">0214;;39</idno>
             <idno type="ddb-filename">p.turner.39</idno>
             <idno type="ddb-hybrid">p.turner;;39</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -67,6 +71,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri-leipzig.dl.uni-leipzig.de/receive/IAwJPapyri_schrift_00000310"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -76,7 +83,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Turner</title>
-                  <biblScope type="numbers">39</biblScope>
+                  <biblScope unit="numbers">39</biblScope>
                </bibl>
                <bibl>
                   <title>LDAB</title>
@@ -88,12 +95,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">278</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">278</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">284</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">284</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -103,14 +110,7 @@
                <bibl type="illustration">Otranto, Libri su papiro, XI</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri-leipzig.dl.uni-leipzig.de/receive/IAwJPapyri_schrift_00000310"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

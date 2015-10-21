@@ -7,11 +7,15 @@
             <title>To the Royal Scribe Apellas</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">24970</idno>
             <idno type="TM">24970</idno>
             <idno type="ddb-perseus-style">0180;;13</idno>
             <idno type="ddb-filename">p.oxy.hels.13</idno>
             <idno type="ddb-hybrid">p.oxy.hels;;13</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -87,7 +91,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Oxy. Hels.</title>
-                  <biblScope type="numbers">13</biblScope>
+                  <biblScope unit="numbers">13</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -95,12 +99,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">273</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">273</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">205</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">205</biblScope>
                </bibl>
             </listBibl>
          </div>

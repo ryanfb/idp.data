@@ -7,11 +7,15 @@
             <title>Brief des Andron an Milon</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">5847</idno>
             <idno type="TM">5847</idno>
             <idno type="ddb-perseus-style">0105;;13</idno>
             <idno type="ddb-filename">p.eleph.13</idno>
             <idno type="ddb-hybrid">p.eleph;;13</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -75,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Eleph.&amp;vVol=&amp;vNum=13"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -84,7 +91,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Eleph.</title>
-                  <biblScope type="numbers">13</biblScope>
+                  <biblScope unit="numbers">13</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -92,8 +99,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">78</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">78</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -116,14 +123,7 @@
                <bibl type="translations">Schubart, Ein Jahrtausend am Nil (1912) 27</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Eleph.&amp;vVol=&amp;vNum=13"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

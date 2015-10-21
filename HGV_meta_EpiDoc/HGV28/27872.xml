@@ -7,11 +7,15 @@
             <title>Frammenti di documento</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">27872</idno>
             <idno type="TM">27872</idno>
             <idno type="ddb-perseus-style">0111;3;385</idno>
             <idno type="ddb-filename">p.flor.3.385</idno>
             <idno type="ddb-hybrid">p.flor;3;385</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -78,8 +82,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Flor.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">385</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">385</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -87,16 +91,16 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">132</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">132</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">75</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">75</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">73</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">73</biblScope>
                </bibl>
             </listBibl>
          </div>

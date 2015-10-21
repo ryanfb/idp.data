@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">39665</idno>
             <idno type="TM">39665</idno>
             <idno type="ddb-perseus-style">0283;;29</idno>
             <idno type="ddb-filename">p.haw.29</idno>
             <idno type="ddb-hybrid">p.haw;;29</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -85,8 +89,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Haw.</title>
-                  <biblScope type="numbers">29</biblScope>
-                  <biblScope type="pages">S. 36</biblScope>
+                  <biblScope unit="numbers">29</biblScope>
+                  <biblScope unit="pages">S. 36</biblScope>
                </bibl>
             </listBibl>
          </div>

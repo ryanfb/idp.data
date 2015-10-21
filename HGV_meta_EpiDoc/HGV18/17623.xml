@@ -7,11 +7,15 @@
             <title>Ἀπόδειξις εἰσπράξεως</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">17623</idno>
             <idno type="TM">17623</idno>
             <idno type="ddb-perseus-style">0063;;56</idno>
             <idno type="ddb-filename">p.athen.56</idno>
             <idno type="ddb-hybrid">p.athen;;56</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -78,7 +82,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Athen.</title>
-                  <biblScope type="numbers">56</biblScope>
+                  <biblScope unit="numbers">56</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -86,16 +90,16 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">390</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">390</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">234</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">234</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">242</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">242</biblScope>
                </bibl>
             </listBibl>
          </div>

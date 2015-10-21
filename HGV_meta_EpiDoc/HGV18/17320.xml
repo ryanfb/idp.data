@@ -7,11 +7,15 @@
             <title>Minutes of Judicial Proceedings</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">17320</idno>
             <idno type="TM">17320</idno>
             <idno type="ddb-perseus-style">0198;4;654</idno>
             <idno type="ddb-filename">p.ryl.4.654</idno>
             <idno type="ddb-hybrid">p.ryl;4;654</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://enriqueta.man.ac.uk:8081/BrowserInsight/BrowserInsight?cmd=start&amp;un=uman&amp;pw=est1824=&amp;cid=ManchesterDev-93-NA&amp;iia=0&amp;ig=Rylands%20Papyri&amp;isl=0&amp;gwisp=0%7CReference_number%7CReference%20number%7C1%7CGreek%20Papyrus%20654%7C1&amp;gwia=3&amp;gc=0"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -83,8 +90,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Ryl.</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="numbers">654</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="numbers">654</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -92,12 +99,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">171</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">171</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">191</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">191</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -120,14 +127,7 @@
                <bibl type="translations">Mees, Organisationsformen römischer Töpfer-Manufakturen (2002), S. 406-407</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://enriqueta.man.ac.uk:8081/BrowserInsight/BrowserInsight?cmd=start&amp;un=uman&amp;pw=est1824=&amp;cid=ManchesterDev-93-NA&amp;iia=0&amp;ig=Rylands%20Papyri&amp;isl=0&amp;gwisp=0%7CReference_number%7CReference%20number%7C1%7CGreek%20Papyrus%20654%7C1&amp;gwia=3&amp;gc=0"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

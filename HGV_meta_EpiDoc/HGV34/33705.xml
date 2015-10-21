@@ -7,11 +7,15 @@
             <title>Brief an Isidoros</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">33705</idno>
             <idno type="TM">33705</idno>
             <idno type="ddb-perseus-style">0153;1;111</idno>
             <idno type="ddb-filename">p.lips.1.111</idno>
             <idno type="ddb-hybrid">p.lips;1;111</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -70,6 +74,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri-leipzig.dl.uni-leipzig.de/receive/UBLPapyri_schrift_00001110"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -79,8 +86,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lips.</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">111</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">111</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -88,8 +95,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">125</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">125</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -109,14 +116,7 @@
                <bibl type="translations">Ghedini, Lettere cristiane (1923), S. 212, Nr. 30</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri-leipzig.dl.uni-leipzig.de/receive/UBLPapyri_schrift_00001110"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

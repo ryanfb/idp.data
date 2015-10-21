@@ -7,11 +7,15 @@
             <title>Brief des Pserakos an seinen Bruder Paphnutios</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">32908</idno>
             <idno type="TM">32908</idno>
             <idno type="ddb-perseus-style">0197;3;10</idno>
             <idno type="ddb-filename">p.ross.georg.3.10</idno>
             <idno type="ddb-hybrid">p.ross.georg;3;10</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -76,8 +80,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Ross. Georg.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">10</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">10</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -85,8 +89,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">226</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">226</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -7,11 +7,15 @@
             <title>Mummy Labels</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">20904</idno>
             <idno type="TM">20904</idno>
             <idno type="ddb-perseus-style">0096;2;108v</idno>
             <idno type="ddb-filename">p.coll.youtie.2.108v</idno>
             <idno type="ddb-hybrid">p.coll.youtie;2;108v</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -80,9 +84,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Coll. Youtie</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">108</biblScope>
-                  <biblScope type="side">V</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">108</biblScope>
+                  <biblScope unit="side">V</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,8 +94,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">86</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">86</biblScope>
                </bibl>
             </listBibl>
          </div>

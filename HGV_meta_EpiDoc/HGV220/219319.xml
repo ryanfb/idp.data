@@ -7,11 +7,15 @@
             <title>Order for Delivery of Wheat and Lentils</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">219319</idno>
             <idno type="TM">219319</idno>
             <idno type="ddb-perseus-style">;;52</idno>
             <idno type="ddb-filename">p.bagnall.52</idno>
             <idno type="ddb-hybrid">p.bagnall;;52</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -65,6 +69,9 @@
          <change when="2013-08-30" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.6338"/>
+   </facsimile>
    <text>
       <body>
          <div type="edition">
@@ -74,7 +81,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Bagnall</title>
-                  <biblScope type="numbers">52</biblScope>
+                  <biblScope unit="numbers">52</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -83,14 +90,7 @@
                <bibl type="illustration">S. 300</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.6338"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

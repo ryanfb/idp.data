@@ -7,11 +7,15 @@
             <title>Judicial Decisions Granting Permission to Change the Use of Land</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">10434</idno>
             <idno type="TM">10434</idno>
             <idno type="ddb-perseus-style">;;12</idno>
             <idno type="ddb-filename">p.cair.preis.2.12</idno>
             <idno type="ddb-hybrid">p.cair.preis.2;;12</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -77,6 +81,9 @@
          <change when="2015-02-12" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Preis.&amp;vVol=&amp;vNum=12"/>
+   </facsimile>
    <text>
       <body>
          <div type="edition">
@@ -86,8 +93,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Cair. Preis.</title>
-                  <biblScope type="fascicle">(2. ed.)</biblScope>
-                  <biblScope type="numbers">12</biblScope>
+                  <biblScope unit="fascicle">(2. ed.)</biblScope>
+                  <biblScope unit="numbers">12</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -102,14 +109,7 @@
                <bibl type="publication" subtype="other">P.Cair. Preis. 12</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Preis.&amp;vVol=&amp;vNum=12"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

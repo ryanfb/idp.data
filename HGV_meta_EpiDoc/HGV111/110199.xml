@@ -7,11 +7,15 @@
             <title>Quittungen für Steuern auf Gartenland für die Jahre 182-216</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">110199</idno>
             <idno type="TM">110199</idno>
             <idno type="ddb-perseus-style">0291;;39</idno>
             <idno type="ddb-filename">p.sijp.39</idno>
             <idno type="ddb-hybrid">p.sijp;;39</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -157,7 +161,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Sijp.</title>
-                  <biblScope type="numbers">39</biblScope>
+                  <biblScope unit="numbers">39</biblScope>
                </bibl>
             </listBibl>
          </div>

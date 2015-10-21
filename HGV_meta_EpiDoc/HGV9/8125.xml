@@ -7,11 +7,15 @@
             <title>Ordre de mise à disposition d’un bateau</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">8125</idno>
             <idno type="TM">8125</idno>
             <idno type="ddb-perseus-style">0117;3;131</idno>
             <idno type="ddb-filename">p.gen.3.131</idno>
             <idno type="ddb-hybrid">p.gen;3;131</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,14 +77,18 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.ville-ge.ch/fcgi-bin/fcgi-axn?launchpad&amp;/home/minfo/bge/papyrus/pgen438-ri.axs&amp;550&amp;550"/>
+      <graphic url="http://www.ville-ge.ch/fcgi-bin/fcgi-axn?launchpad&amp;/home/minfo/bge/papyrus/pgen438-vi.axs&amp;550&amp;"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Gen.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">131</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">131</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -103,18 +111,7 @@
                <bibl type="translations">Schubert, Vivre en Égypte (2000), S. 167-168, Nr. 57</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.ville-ge.ch/fcgi-bin/fcgi-axn?launchpad&amp;/home/minfo/bge/papyrus/pgen438-ri.axs&amp;550&amp;550"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://www.ville-ge.ch/fcgi-bin/fcgi-axn?launchpad&amp;/home/minfo/bge/papyrus/pgen438-vi.axs&amp;550&amp;"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

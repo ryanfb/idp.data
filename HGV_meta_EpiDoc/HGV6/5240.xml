@@ -7,11 +7,15 @@
             <title>Action Before the Chrematistae</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">5240</idno>
             <idno type="TM">5240</idno>
             <idno type="ddb-perseus-style">0159;2;59</idno>
             <idno type="ddb-filename">p.mert.2.59</idno>
             <idno type="ddb-hybrid">p.mert;2;59</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -117,8 +121,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Merton</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">59</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">59</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -126,12 +130,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">157</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">157</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">117</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">117</biblScope>
                </bibl>
             </listBibl>
          </div>

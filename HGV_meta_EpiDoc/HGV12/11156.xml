@@ -7,11 +7,15 @@
             <title>Corrispondenza heroniniana - Maximos</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">11156</idno>
             <idno type="TM">11156</idno>
             <idno type="ddb-perseus-style">0154;3;1210</idno>
             <idno type="ddb-filename">p.flor.3.1210</idno>
             <idno type="ddb-hybrid">p.flor;3;1210</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -102,9 +106,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Flor.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">271</biblScope>
-                  <biblScope type="generic">**</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">271</biblScope>
+                  <biblScope unit="generic">**</biblScope>
                </bibl>
             </listBibl>
          </div>

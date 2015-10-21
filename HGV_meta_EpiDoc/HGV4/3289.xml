@@ -7,11 +7,15 @@
             <title>Empiétement sur le logement d’un clérouque</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">3289</idno>
             <idno type="TM">3289</idno>
             <idno type="ddb-perseus-style">0106;;12</idno>
             <idno type="ddb-filename">p.enteux.12</idno>
             <idno type="ddb-hybrid">p.enteux;;12</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -92,7 +96,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Enteux.</title>
-                  <biblScope type="numbers">12</biblScope>
+                  <biblScope unit="numbers">12</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -100,12 +104,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">119</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">119</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">65</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">65</biblScope>
                </bibl>
             </listBibl>
          </div>

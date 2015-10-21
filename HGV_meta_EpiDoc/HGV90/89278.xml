@@ -7,11 +7,15 @@
             <title>Anzeige wegen Einbruchdiebstahls</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">89278</idno>
             <idno type="TM">89278</idno>
             <idno type="ddb-perseus-style">0131;9;423</idno>
             <idno type="ddb-filename">p.heid.9.423</idno>
             <idno type="ddb-hybrid">p.heid;9;423</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -77,6 +81,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/P.Heid._IX/423/P.Heid._IX_423.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -105,8 +112,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Heid.</title>
-                  <biblScope type="volume">9</biblScope>
-                  <biblScope type="numbers">423</biblScope>
+                  <biblScope unit="volume">9</biblScope>
+                  <biblScope unit="numbers">423</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -115,14 +122,7 @@
                <bibl type="illustration">Tafel II und III</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/P.Heid._IX/423/P.Heid._IX_423.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

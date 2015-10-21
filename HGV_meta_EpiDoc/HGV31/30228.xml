@@ -7,11 +7,15 @@
             <title>Mumientäfelchen</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">30228</idno>
             <idno type="TM">30228</idno>
             <idno type="ddb-perseus-style">0239;12;10813</idno>
             <idno type="ddb-filename">sb.12.10813</idno>
             <idno type="ddb-hybrid">sb;12;10813</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -71,8 +75,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">12</biblScope>
-                  <biblScope type="numbers">10813</biblScope>
+                  <biblScope unit="volume">12</biblScope>
+                  <biblScope unit="numbers">10813</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -80,12 +84,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">362</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">362</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">270</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">270</biblScope>
                </bibl>
             </listBibl>
          </div>

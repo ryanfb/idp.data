@@ -7,11 +7,15 @@
             <title>Instruction for Payment</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">15900</idno>
             <idno type="TM">15900</idno>
             <idno type="ddb-perseus-style">0226;2;64</idno>
             <idno type="ddb-filename">p.wisc.2.64</idno>
             <idno type="ddb-hybrid">p.wisc;2;64</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,6 +77,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=wisconsin.apis.5424"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -82,8 +89,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Wisc.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">64</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">64</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -91,12 +98,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">512</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">512</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">291</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">291</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -113,14 +120,7 @@
                <bibl type="translations">Rowlandson, Women and Society (1998), 63</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=wisconsin.apis.5424"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

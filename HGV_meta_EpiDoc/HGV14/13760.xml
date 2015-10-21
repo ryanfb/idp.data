@@ -7,11 +7,15 @@
             <title>Subaffitto o dilazione di subaffitto di αἰγιαλός</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">13760</idno>
             <idno type="TM">13760</idno>
             <idno type="ddb-perseus-style">0238;9;1043</idno>
             <idno type="ddb-filename">psi.9.1043</idno>
             <idno type="ddb-hybrid">psi;9;1043</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -76,6 +80,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;9;1043"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -85,8 +92,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PSI</title>
-                  <biblScope type="volume">9</biblScope>
-                  <biblScope type="numbers">1043</biblScope>
+                  <biblScope unit="volume">9</biblScope>
+                  <biblScope unit="numbers">1043</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -100,14 +107,7 @@
                <bibl type="translations">Johnson, Roman Egypt (1936), S. 107-108, Nr. 33</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;9;1043"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

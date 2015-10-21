@@ -7,11 +7,15 @@
             <title>Todesanzeige</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">8794</idno>
             <idno type="TM">8794</idno>
             <idno type="ddb-perseus-style">0006;2.1;59a</idno>
             <idno type="ddb-filename">c.pap.gr.2.1.59a</idno>
             <idno type="ddb-hybrid">c.pap.gr;2.1;59a</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -76,6 +80,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.uni-koeln.de/phil-fak/ifa/NRWakademie/papyrologie/PPetaus/petaus_003.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -85,7 +92,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Petaus</title>
-                  <biblScope type="numbers">3</biblScope>
+                  <biblScope unit="numbers">3</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -93,12 +100,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">277</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">277</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">176</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">176</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -120,14 +127,7 @@
                <bibl type="translations">Migliardi, Vita privata e vita pubblica (1992), 108</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.uni-koeln.de/phil-fak/ifa/NRWakademie/papyrologie/PPetaus/petaus_003.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

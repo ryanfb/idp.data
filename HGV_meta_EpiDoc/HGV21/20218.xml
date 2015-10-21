@@ -7,11 +7,15 @@
             <title>Repayment of a Fictitious Loan</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">20218</idno>
             <idno type="TM">20218</idno>
             <idno type="ddb-perseus-style">;;43</idno>
             <idno type="ddb-filename">p.cair.preis.2.43</idno>
             <idno type="ddb-hybrid">p.cair.preis.2;;43</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -79,6 +83,9 @@
          <change when="2015-02-12" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Oxy.&amp;vVol=2&amp;vNum=306"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -104,8 +111,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Cair. Preis.</title>
-                  <biblScope type="fascicle">(2. ed.)</biblScope>
-                  <biblScope type="numbers">43</biblScope>
+                  <biblScope unit="fascicle">(2. ed.)</biblScope>
+                  <biblScope unit="numbers">43</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -122,14 +129,7 @@
                <bibl type="publication" subtype="other">P.Cair. Preis. 43</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Oxy.&amp;vVol=2&amp;vNum=306"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

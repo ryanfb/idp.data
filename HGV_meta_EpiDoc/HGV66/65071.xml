@@ -7,11 +7,15 @@
             <title>Prontuario di esercizi scolastici: divisioni per sillabe e tavole di moltiplicazione</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">65071</idno>
             <idno type="TM">65071</idno>
             <idno type="ddb-perseus-style">0243;;22</idno>
             <idno type="ddb-filename">.22</idno>
             <idno type="ddb-hybrid">;;22</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -79,7 +83,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">T.Varie</title>
-                  <biblScope type="numbers">22</biblScope>
+                  <biblScope unit="numbers">22</biblScope>
                </bibl>
                <bibl>
                   <title>LDAB</title>
@@ -91,8 +95,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">305</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">305</biblScope>
                </bibl>
             </listBibl>
          </div>

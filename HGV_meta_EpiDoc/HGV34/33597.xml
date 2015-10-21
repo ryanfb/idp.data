@@ -7,11 +7,15 @@
             <title>Letter to Demetrius</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">33597</idno>
             <idno type="TM">33597</idno>
             <idno type="ddb-perseus-style">0181;9;1222</idno>
             <idno type="ddb-filename">p.oxy.9.1222</idno>
             <idno type="ddb-hybrid">p.oxy;9;1222</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -78,8 +82,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Oxy.</title>
-                  <biblScope type="volume">9</biblScope>
-                  <biblScope type="numbers">1222</biblScope>
+                  <biblScope unit="volume">9</biblScope>
+                  <biblScope unit="numbers">1222</biblScope>
                </bibl>
             </listBibl>
          </div>

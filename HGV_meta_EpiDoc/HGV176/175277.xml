@@ -7,11 +7,15 @@
             <title>Report under Oath to Apollonios the Strategos: P.CtYBR inv. 4079</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">175277</idno>
             <idno type="TM">175277</idno>
             <idno type="ddb-perseus-style">;;32</idno>
             <idno type="ddb-filename">p.bagnall.32</idno>
             <idno type="ddb-hybrid">p.bagnall;;32</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,6 +77,9 @@
          <change when="2013-08-30" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://beinecke.library.yale.edu/papyrus/oneSET.asp?pid=4079"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -85,7 +92,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Bagnall</title>
-                  <biblScope type="numbers">32</biblScope>
+                  <biblScope unit="numbers">32</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -94,14 +101,7 @@
                <bibl type="illustration">S. 139</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://beinecke.library.yale.edu/papyrus/oneSET.asp?pid=4079"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>Garde d’un contrat</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">3327</idno>
             <idno type="TM">3327</idno>
             <idno type="ddb-perseus-style">0106;;52</idno>
             <idno type="ddb-filename">p.enteux.52</idno>
             <idno type="ddb-hybrid">p.enteux;;52</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -75,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Enteux.&amp;vVol=&amp;vNum=52"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="mentionedDates">
@@ -92,7 +99,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Enteux.</title>
-                  <biblScope type="numbers">52</biblScope>
+                  <biblScope unit="numbers">52</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -107,14 +114,7 @@
                <bibl type="publication" subtype="other">P.Lille II 30</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Enteux.&amp;vVol=&amp;vNum=52"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

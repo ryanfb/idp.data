@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">27071</idno>
             <idno type="TM">27071</idno>
             <idno type="ddb-perseus-style">0081;;50b</idno>
             <idno type="ddb-filename">p.bon.50b</idno>
             <idno type="ddb-hybrid">p.bon;;50b</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -71,8 +75,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Bon.</title>
-                  <biblScope type="numbers">50</biblScope>
-                  <biblScope type="generic">b</biblScope>
+                  <biblScope unit="numbers">50</biblScope>
+                  <biblScope unit="generic">b</biblScope>
                </bibl>
             </listBibl>
          </div>

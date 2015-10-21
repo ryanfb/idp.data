@@ -7,11 +7,15 @@
             <title>Vendita di grano con antecipazione di prezzo</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">17414</idno>
             <idno type="TM">17414</idno>
             <idno type="ddb-perseus-style">0238;12;1251</idno>
             <idno type="ddb-filename">psi.12.1251</idno>
             <idno type="ddb-hybrid">psi;12;1251</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,14 +78,17 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;12;1251"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PSI</title>
-                  <biblScope type="volume">12</biblScope>
-                  <biblScope type="numbers">1251</biblScope>
+                  <biblScope unit="volume">12</biblScope>
+                  <biblScope unit="numbers">1251</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -89,8 +96,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">409</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">409</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -103,14 +110,7 @@
                <bibl type="publication" subtype="other">C.Pap. Hengstl 147</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;12;1251"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

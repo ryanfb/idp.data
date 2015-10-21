@@ -7,11 +7,15 @@
             <title>Speicherabrechnung</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">20215</idno>
             <idno type="TM">20215</idno>
             <idno type="ddb-perseus-style">0091;;29</idno>
             <idno type="ddb-filename">p.cair.preis.29</idno>
             <idno type="ddb-hybrid">p.cair.preis;;29</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -75,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Preis.&amp;vVol=&amp;vNum=29"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -84,7 +91,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Cair. Preis.</title>
-                  <biblScope type="numbers">29</biblScope>
+                  <biblScope unit="numbers">29</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -92,8 +99,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">46.48</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">46.48</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -102,14 +109,7 @@
                <bibl type="illustration">Plate 24 (col. I), Plate 25 (col. II - III)</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Preis.&amp;vVol=&amp;vNum=29"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

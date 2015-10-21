@@ -7,11 +7,15 @@
             <title>Bericht über Naturalzahlungen an κτηνοτρόφοι</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">10205</idno>
             <idno type="TM">10205</idno>
             <idno type="ddb-perseus-style">0076;1;2</idno>
             <idno type="ddb-filename">p.berl.leihg.1.2</idno>
             <idno type="ddb-hybrid">p.berl.leihg;1;2</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -121,9 +125,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Berl. Leihg.</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">2</biblScope>
-                  <biblScope type="side">R</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">2</biblScope>
+                  <biblScope unit="side">R</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -131,8 +135,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">40</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">40</biblScope>
                </bibl>
             </listBibl>
          </div>

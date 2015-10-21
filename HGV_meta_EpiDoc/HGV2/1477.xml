@@ -7,11 +7,15 @@
             <title>Lettre de Deinon à Zénon</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">1477</idno>
             <idno type="TM">1477</idno>
             <idno type="ddb-perseus-style">0092;5;59853</idno>
             <idno type="ddb-filename">p.cair.zen.5.59853</idno>
             <idno type="ddb-hybrid">p.cair.zen;5;59853</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -68,14 +72,18 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Zen.&amp;vVol=3&amp;vNum=59415"/>
+      <graphic url="http://www.psi-online.it/documents/psi;4;376"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Cair. Zen.</title>
-                  <biblScope type="volume">5</biblScope>
-                  <biblScope type="numbers">59853</biblScope>
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="numbers">59853</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -83,8 +91,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">38</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">38</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -100,18 +108,7 @@
                <bibl type="publication" subtype="other">PSI IV 376 (Z. 1 - 5 teilweise)</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Zen.&amp;vVol=3&amp;vNum=59415"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;4;376"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

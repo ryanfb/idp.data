@@ -7,11 +7,15 @@
             <title>Contract with Flageolet - Players</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">10761</idno>
             <idno type="TM">10761</idno>
             <idno type="ddb-perseus-style">0109;;54</idno>
             <idno type="ddb-filename">p.fam.tebt.54</idno>
             <idno type="ddb-hybrid">p.fam.tebt;;54</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -110,7 +114,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Fam. Tebt.</title>
-                  <biblScope type="numbers">54</biblScope>
+                  <biblScope unit="numbers">54</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -118,12 +122,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">112</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">112</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">113</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">113</biblScope>
                </bibl>
             </listBibl>
          </div>

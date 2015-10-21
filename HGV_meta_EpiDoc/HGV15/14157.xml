@@ -7,11 +7,15 @@
             <title>Schriftliche Unterlagen für die Befreiung von liturgischen Dienstleistungen an Dammarbeiten</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">14157</idno>
             <idno type="TM">14157</idno>
             <idno type="ddb-perseus-style">0067;;21</idno>
             <idno type="ddb-filename">p.bacch.21</idno>
             <idno type="ddb-hybrid">p.bacch;;21</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -80,6 +84,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=yale.apis.0003480000"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -89,8 +96,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">6</biblScope>
-                  <biblScope type="numbers">9339</biblScope>
+                  <biblScope unit="volume">6</biblScope>
+                  <biblScope unit="numbers">9339</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -108,14 +115,7 @@
                <bibl type="publication" subtype="other">P.Bacch. 21</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=yale.apis.0003480000"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

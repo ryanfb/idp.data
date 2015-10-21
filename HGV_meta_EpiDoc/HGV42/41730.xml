@@ -7,11 +7,15 @@
             <title>Orders for Payment of Wheat</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">41730</idno>
             <idno type="TM">41730</idno>
             <idno type="ddb-perseus-style">0110;;18A</idno>
             <idno type="ddb-filename">p.fay.18A</idno>
             <idno type="ddb-hybrid">p.fay;;18A</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -105,8 +109,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Fay.</title>
-                  <biblScope type="numbers">18</biblScope>
-                  <biblScope type="generic">a</biblScope>
+                  <biblScope unit="numbers">18</biblScope>
+                  <biblScope unit="generic">a</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -114,12 +118,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">121</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">121</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">78</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">78</biblScope>
                </bibl>
             </listBibl>
          </div>

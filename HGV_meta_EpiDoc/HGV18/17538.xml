@@ -7,11 +7,15 @@
             <title>Mutuo di prezzo indeterminato di artabe di grano</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">17538</idno>
             <idno type="TM">17538</idno>
             <idno type="ddb-perseus-style">0238;10;1099</idno>
             <idno type="ddb-filename">psi.10.1099</idno>
             <idno type="ddb-hybrid">psi;10;1099</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,14 +78,17 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;10;1099"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PSI</title>
-                  <biblScope type="volume">10</biblScope>
-                  <biblScope type="numbers">1099</biblScope>
+                  <biblScope unit="volume">10</biblScope>
+                  <biblScope unit="numbers">1099</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -89,8 +96,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">249</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">249</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -100,14 +107,7 @@
                <bibl type="illustration">Pap.Flor. XXX, Tav. CIII</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;10;1099"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

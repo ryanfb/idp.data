@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">64268</idno>
             <idno type="TM">64268</idno>
             <idno type="ddb-perseus-style">0077;;13</idno>
             <idno type="ddb-filename">p.berl.moeller.13</idno>
             <idno type="ddb-hybrid">p.berl.moeller;;13</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -82,9 +86,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Berl. Möller</title>
-                  <biblScope type="numbers">13</biblScope>
-                  <biblScope type="side">R</biblScope>
-                  <biblScope type="columns">Kol. I</biblScope>
+                  <biblScope unit="numbers">13</biblScope>
+                  <biblScope unit="side">R</biblScope>
+                  <biblScope unit="columns">Kol. I</biblScope>
                </bibl>
                <bibl>
                   <title>LDAB</title>

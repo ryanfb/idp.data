@@ -7,11 +7,15 @@
             <title>Ostraca figurés</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">145029</idno>
             <idno type="TM">145029</idno>
             <idno type="ddb-perseus-style">;;477</idno>
             <idno type="ddb-filename">o.did.477</idno>
             <idno type="ddb-hybrid">o.did;;477</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,6 +76,9 @@
          <change when="2013-04-05" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.ifao.egnet.net/bases/publications/fifao67/?os=507"/>
+   </facsimile>
    <text>
       <body>
          <div type="edition">
@@ -81,7 +88,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Did.</title>
-                  <biblScope type="numbers">477</biblScope>
+                  <biblScope unit="numbers">477</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,14 +97,7 @@
                <bibl type="illustration">S. 409</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.ifao.egnet.net/bases/publications/fifao67/?os=507"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>Proclamation</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">69891</idno>
             <idno type="TM">69891</idno>
             <idno type="ddb-perseus-style">0279;5;285</idno>
             <idno type="ddb-filename">chla.5.285</idno>
             <idno type="ddb-hybrid">chla;5;285</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -75,8 +79,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">ChLA</title>
-                  <biblScope type="volume">5</biblScope>
-                  <biblScope type="numbers">285</biblScope>
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="numbers">285</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -84,8 +88,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">83</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">83</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -7,11 +7,15 @@
             <title>Order for Payment of Corn</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">43265</idno>
             <idno type="TM">43265</idno>
             <idno type="ddb-perseus-style">0057;2;61</idno>
             <idno type="ddb-filename">p.amh.2.61</idno>
             <idno type="ddb-hybrid">p.amh;2;61</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -100,8 +104,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Amh.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">61</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">61</biblScope>
                </bibl>
             </listBibl>
          </div>

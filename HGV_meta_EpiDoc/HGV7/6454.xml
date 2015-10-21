@@ -7,11 +7,15 @@
             <title>Privatbrief</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">6454</idno>
             <idno type="TM">6454</idno>
             <idno type="ddb-perseus-style">0239;4;7402</idno>
             <idno type="ddb-filename">sb.4.7402</idno>
             <idno type="ddb-hybrid">sb;4;7402</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -82,8 +86,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="numbers">7402</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="numbers">7402</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -91,12 +95,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">328</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">328</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">188</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">188</biblScope>
                </bibl>
             </listBibl>
          </div>

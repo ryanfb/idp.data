@@ -7,11 +7,15 @@
             <title>Eingabe des Aurel. Serenus</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">22962</idno>
             <idno type="TM">22962</idno>
             <idno type="ddb-perseus-style">0240;5;73iii</idno>
             <idno type="ddb-filename">stud.pal.5.73iii</idno>
             <idno type="ddb-hybrid">stud.pal;5;73iii</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -80,9 +84,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SPP</title>
-                  <biblScope type="volume">5</biblScope>
-                  <biblScope type="numbers">73</biblScope>
-                  <biblScope type="generic">III</biblScope>
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="numbers">73</biblScope>
+                  <biblScope unit="generic">III</biblScope>
                </bibl>
             </listBibl>
          </div>

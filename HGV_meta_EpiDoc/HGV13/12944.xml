@@ -7,11 +7,15 @@
             <title>Verkaufsurkunde über ein Haus</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">12944</idno>
             <idno type="TM">12944</idno>
             <idno type="ddb-perseus-style">;3;18</idno>
             <idno type="ddb-filename">p.ryl.2.160B</idno>
             <idno type="ddb-hybrid">p.ryl;2;160B</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,6 +77,9 @@
          <change when="2012-02-09" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://enriqueta.man.ac.uk:8081/BrowserInsight/BrowserInsight?cmd=start&amp;cid=30&amp;ig=1050&amp;ir=100546&amp;id=30277&amp;iwc=1&amp;iwas=2&amp;iwo=true&amp;d=0&amp;iia=1&amp;gwl=1&amp;gws=1&amp;ss=0"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -82,8 +89,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Dime</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">18</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">18</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>
@@ -103,14 +110,7 @@
                <bibl type="publication" subtype="other">P.Ryl. II 160 b</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://enriqueta.man.ac.uk:8081/BrowserInsight/BrowserInsight?cmd=start&amp;cid=30&amp;ig=1050&amp;ir=100546&amp;id=30277&amp;iwc=1&amp;iwas=2&amp;iwo=true&amp;d=0&amp;iia=1&amp;gwl=1&amp;gws=1&amp;ss=0"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>Verkaufsurkunde über ein Haus</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">45593</idno>
             <idno type="TM">45593</idno>
             <idno type="ddb-perseus-style">;3;20</idno>
             <idno type="ddb-filename">p.dime.3.20</idno>
             <idno type="ddb-hybrid">p.dime;3;20</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,6 +77,9 @@
          <change when="2012-02-09" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://smb.museum/berlpap/index.php/record/?TM=45593"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -82,8 +89,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Dime</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">20</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">20</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>
@@ -106,14 +113,7 @@
                <bibl type="publication" subtype="other">SB XIV 11895</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://smb.museum/berlpap/index.php/record/?TM=45593"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

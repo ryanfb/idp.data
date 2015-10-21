@@ -7,11 +7,15 @@
             <title>Quietanza di deposito</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">17657</idno>
             <idno type="TM">17657</idno>
             <idno type="ddb-perseus-style">0238;7;775</idno>
             <idno type="ddb-filename">psi.7.775</idno>
             <idno type="ddb-hybrid">psi;7;775</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -90,8 +94,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PSI</title>
-                  <biblScope type="volume">7</biblScope>
-                  <biblScope type="numbers">775</biblScope>
+                  <biblScope unit="volume">7</biblScope>
+                  <biblScope unit="numbers">775</biblScope>
                </bibl>
             </listBibl>
          </div>

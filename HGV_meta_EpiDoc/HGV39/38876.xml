@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">38876</idno>
             <idno type="TM">38876</idno>
             <idno type="ddb-perseus-style">0154;2;449</idno>
             <idno type="ddb-filename">p.lond.2.449</idno>
             <idno type="ddb-hybrid">p.lond;2;449</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -82,9 +86,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lond.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">449</biblScope>
-                  <biblScope type="pages">(S. XL)</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">449</biblScope>
+                  <biblScope unit="pages">(S. XL)</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -7,11 +7,15 @@
             <title>Loans of Money. B. Secured on Land</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">21518</idno>
             <idno type="TM">21518</idno>
             <idno type="ddb-perseus-style">0177;2;40</idno>
             <idno type="ddb-filename">p.oslo.2.40</idno>
             <idno type="ddb-hybrid">p.oslo;2;40</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -80,9 +84,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Oslo</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">40</biblScope>
-                  <biblScope type="generic">B</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">40</biblScope>
+                  <biblScope unit="generic">B</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,8 +94,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">228</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">228</biblScope>
                </bibl>
             </listBibl>
          </div>

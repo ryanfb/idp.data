@@ -7,11 +7,15 @@
             <title>Vendita di ἡμέραι ἁγνευτικαί</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">5569</idno>
             <idno type="TM">5569</idno>
             <idno type="ddb-perseus-style">0238;9;1016</idno>
             <idno type="ddb-filename">psi.9.1016</idno>
             <idno type="ddb-hybrid">psi;9;1016</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -77,14 +81,17 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;9;1016"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PSI</title>
-                  <biblScope type="volume">9</biblScope>
-                  <biblScope type="numbers">1016</biblScope>
+                  <biblScope unit="volume">9</biblScope>
+                  <biblScope unit="numbers">1016</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -92,8 +99,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">404</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">404</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -113,14 +120,7 @@
                <bibl type="translations">Burnet, L'Égypte ancienne (2003), Nr. 101</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;9;1016"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>Granary Receipt</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">110181</idno>
             <idno type="TM">110181</idno>
             <idno type="ddb-perseus-style">0291;;38</idno>
             <idno type="ddb-filename">p.sijp.38h</idno>
             <idno type="ddb-hybrid">p.sijp;;38h</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -90,8 +94,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Sijp.</title>
-                  <biblScope type="numbers">38</biblScope>
-                  <biblScope type="generic">h</biblScope>
+                  <biblScope unit="numbers">38</biblScope>
+                  <biblScope unit="generic">h</biblScope>
                </bibl>
             </listBibl>
          </div>

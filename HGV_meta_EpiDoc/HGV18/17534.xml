@@ -7,11 +7,15 @@
             <title>Pachtung eines Landstücks</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">17534</idno>
             <idno type="TM">17534</idno>
             <idno type="ddb-perseus-style">0197;5;42</idno>
             <idno type="ddb-filename">p.ross.georg.5.42</idno>
             <idno type="ddb-hybrid">p.ross.georg;5;42</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -81,8 +85,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Ross. Georg.</title>
-                  <biblScope type="volume">5</biblScope>
-                  <biblScope type="numbers">42</biblScope>
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="numbers">42</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,16 +94,16 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">292</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">292</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">168</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">168</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">167</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">167</biblScope>
                </bibl>
             </listBibl>
          </div>

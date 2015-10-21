@@ -7,11 +7,15 @@
             <title>Certificate of Work on the Embankments</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">9989</idno>
             <idno type="TM">9989</idno>
             <idno type="ddb-perseus-style">0051;;36b</idno>
             <idno type="ddb-filename">p.aberd.36b</idno>
             <idno type="ddb-hybrid">p.aberd;;36b</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -81,8 +85,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Aberd.</title>
-                  <biblScope type="numbers">36 </biblScope>
-                  <biblScope type="generic">b</biblScope>
+                  <biblScope unit="numbers">36 </biblScope>
+                  <biblScope unit="generic">b</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,8 +94,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">2</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">2</biblScope>
                </bibl>
             </listBibl>
          </div>

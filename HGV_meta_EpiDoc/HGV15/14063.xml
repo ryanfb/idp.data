@@ -7,11 +7,15 @@
             <title>Steuerquittungen über λαογραφία und andere Abgaben</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">14063</idno>
             <idno type="TM">14063</idno>
             <idno type="ddb-perseus-style">0239;6;8983</idno>
             <idno type="ddb-filename">sb.6.8983</idno>
             <idno type="ddb-hybrid">sb;6;8983</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -75,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.globalegyptianmuseum.org/detail.aspx?id=1224"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -99,8 +106,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">6</biblScope>
-                  <biblScope type="numbers">8983</biblScope>
+                  <biblScope unit="volume">6</biblScope>
+                  <biblScope unit="numbers">8983</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -108,8 +115,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">252</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">252</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -126,14 +133,7 @@
                <bibl type="translations">M. Hombert - C. Préaux, CE 15, 1940, S. 290</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.globalegyptianmuseum.org/detail.aspx?id=1224"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

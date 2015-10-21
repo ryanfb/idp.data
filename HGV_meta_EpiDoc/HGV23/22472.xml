@@ -7,11 +7,15 @@
             <title>Beginn eines Protokolls des kaiserlichen Gerichts</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">22472</idno>
             <idno type="TM">22472</idno>
             <idno type="ddb-perseus-style">0239;26;16670</idno>
             <idno type="ddb-filename">sb.26.16670</idno>
             <idno type="ddb-hybrid">sb;26;16670</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -84,8 +88,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">26</biblScope>
-                  <biblScope type="numbers">16670</biblScope>
+                  <biblScope unit="volume">26</biblScope>
+                  <biblScope unit="numbers">16670</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -93,16 +97,16 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">270</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">270</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">202</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">202</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">246</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">246</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -7,11 +7,15 @@
             <title>Un document administratif du nome de Mendès</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">28060</idno>
             <idno type="TM">28060</idno>
             <idno type="ddb-perseus-style">0240;17;pg13</idno>
             <idno type="ddb-filename">stud.pal.17.pg13</idno>
             <idno type="ddb-hybrid">stud.pal;17;pg13</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -89,8 +93,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SPP</title>
-                  <biblScope type="volume">17</biblScope>
-                  <biblScope type="pages">S. 13 - 29</biblScope>
+                  <biblScope unit="volume">17</biblScope>
+                  <biblScope unit="pages">S. 13 - 29</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -98,8 +102,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">460</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">460</biblScope>
                </bibl>
             </listBibl>
          </div>

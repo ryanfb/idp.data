@@ -7,11 +7,15 @@
             <title>Quittungshomologie über den Empfang eines Verpflichtungsvermächtnisses</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">17886</idno>
             <idno type="TM">17886</idno>
             <idno type="ddb-perseus-style">0239;6;9296</idno>
             <idno type="ddb-filename">sb.6.9296</idno>
             <idno type="ddb-hybrid">sb;6;9296</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,6 +77,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://digibib.ub.uni-giessen.de/cgi-bin/populo/pap.pl?t_allegro=x&amp;f_SIG=SB+9296"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="mentionedDates">
@@ -90,8 +97,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">6</biblScope>
-                  <biblScope type="numbers">9296</biblScope>
+                  <biblScope unit="volume">6</biblScope>
+                  <biblScope unit="numbers">9296</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -107,14 +114,7 @@
                <bibl type="translations">E. Kießling, ZRG 74, 1957, S. 351-352</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://digibib.ub.uni-giessen.de/cgi-bin/populo/pap.pl?t_allegro=x&amp;f_SIG=SB+9296"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

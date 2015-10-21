@@ -7,11 +7,15 @@
             <title>Κατ᾿ ἄνδρα - Bericht der πράκτορες ἀργυρικῶν von Theadelphia über die täglichen Eingänge: λαογραφίας καὶ ἄλλων μερισμῶν</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">9461</idno>
             <idno type="TM">9461</idno>
             <idno type="ddb-perseus-style">0001;9;1891</idno>
             <idno type="ddb-filename">bgu.9.1891</idno>
             <idno type="ddb-hybrid">bgu;9;1891</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -152,8 +156,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">9</biblScope>
-                  <biblScope type="numbers">1891</biblScope>
+                  <biblScope unit="volume">9</biblScope>
+                  <biblScope unit="numbers">1891</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -161,24 +165,24 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">49</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">49</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">28</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">28</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">22</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">22</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">29</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">29</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">21</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">21</biblScope>
                </bibl>
             </listBibl>
          </div>

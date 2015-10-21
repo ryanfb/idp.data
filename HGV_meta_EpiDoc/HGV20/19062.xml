@@ -7,11 +7,15 @@
             <title>Liturgische Vorschlagsliste</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">19062</idno>
             <idno type="TM">19062</idno>
             <idno type="ddb-perseus-style">0131;2;224</idno>
             <idno type="ddb-filename">p.heid.2.224</idno>
             <idno type="ddb-hybrid">p.heid;2;224</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -81,6 +85,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/P.Heid._II/224/P.Heid._II_224.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -90,8 +97,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">6</biblScope>
-                  <biblScope type="numbers">9544</biblScope>
+                  <biblScope unit="volume">6</biblScope>
+                  <biblScope unit="numbers">9544</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -99,8 +106,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">350</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">350</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -122,14 +129,7 @@
                <bibl type="translations">J. Seyfarth, APF 16, 1958, S. 168</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/P.Heid._II/224/P.Heid._II_224.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

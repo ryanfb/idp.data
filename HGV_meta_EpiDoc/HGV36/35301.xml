@@ -7,11 +7,15 @@
             <title>Apocha</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">35301</idno>
             <idno type="TM">35301</idno>
             <idno type="ddb-perseus-style">0138;3;38r</idno>
             <idno type="ddb-filename">p.iand.3.38r</idno>
             <idno type="ddb-hybrid">p.iand;3;38r</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -75,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://digibib.ub.uni-giessen.de/cgi-bin/populo/pap.pl?t_allegro=x&amp;f_SIG=P.+Iand.+38"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -84,9 +91,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Iand.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">38</biblScope>
-                  <biblScope type="side">R</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">38</biblScope>
+                  <biblScope unit="side">R</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -95,14 +102,7 @@
                <bibl type="illustration">Tab. VIII</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://digibib.ub.uni-giessen.de/cgi-bin/populo/pap.pl?t_allegro=x&amp;f_SIG=P.+Iand.+38"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

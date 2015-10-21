@@ -7,11 +7,15 @@
             <title>Steuerliste (bzgl. συντάξιμον, ὑική nebst Zuschlägen)</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">14655</idno>
             <idno type="TM">14655</idno>
             <idno type="ddb-perseus-style">0167;;pg68/78</idno>
             <idno type="ddb-filename">p.mil.congr.xvii.pg68/78</idno>
             <idno type="ddb-hybrid">p.mil.congr.xvii;;pg68/78</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -95,8 +99,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">16</biblScope>
-                  <biblScope type="numbers">12738</biblScope>
+                  <biblScope unit="volume">16</biblScope>
+                  <biblScope unit="numbers">12738</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -104,8 +108,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">291</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">291</biblScope>
                </bibl>
             </listBibl>
          </div>

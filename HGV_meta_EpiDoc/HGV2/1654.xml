@@ -7,11 +7,15 @@
             <title>Eingabe an Zenon</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">1654</idno>
             <idno type="TM">1654</idno>
             <idno type="ddb-perseus-style">0239;22;15462</idno>
             <idno type="ddb-filename">sb.22.15462</idno>
             <idno type="ddb-hybrid">sb;22;15462</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -75,6 +79,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Zen.&amp;vVol=4&amp;vNum=59625"/>
+      <graphic url="http://www.psi-online.it/documents/psi;6;563"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -84,8 +92,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">22</biblScope>
-                  <biblScope type="numbers">15462</biblScope>
+                  <biblScope unit="volume">22</biblScope>
+                  <biblScope unit="numbers">15462</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -93,8 +101,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">237</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">237</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -111,18 +119,7 @@
                <bibl type="publication" subtype="other">C.Ptol.Sklav. I 45</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Zen.&amp;vVol=4&amp;vNum=59625"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;6;563"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

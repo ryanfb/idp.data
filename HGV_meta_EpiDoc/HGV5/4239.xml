@@ -7,11 +7,15 @@
             <title>Griechischer Vermerk zu einem demotischen Kaufvertrag von Grabrechten</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">4239</idno>
             <idno type="TM">4239</idno>
             <idno type="ddb-perseus-style">0062;1;10</idno>
             <idno type="ddb-filename">p.ashm.1.10</idno>
             <idno type="ddb-hybrid">p.ashm;1;10</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -85,8 +89,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">14</biblScope>
-                  <biblScope type="numbers">11407</biblScope>
+                  <biblScope unit="volume">14</biblScope>
+                  <biblScope unit="numbers">11407</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>
@@ -98,8 +102,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">13</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">13</biblScope>
                </bibl>
             </listBibl>
          </div>

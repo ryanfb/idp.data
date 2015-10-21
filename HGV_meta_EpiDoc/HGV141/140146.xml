@@ -7,11 +7,15 @@
             <title>Account of Barley and Wheat</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">140146</idno>
             <idno type="TM">140146</idno>
             <idno type="ddb-perseus-style">0097;;34v</idno>
             <idno type="ddb-filename">p.corn.34v</idno>
             <idno type="ddb-hybrid">p.corn;;34v</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -65,6 +69,9 @@
          <change when="2012-03-28" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.3438"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -74,22 +81,15 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Corn.</title>
-                  <biblScope type="numbers">34</biblScope>
-                  <biblScope type="side">V</biblScope>
+                  <biblScope unit="numbers">34</biblScope>
+                  <biblScope unit="side">V</biblScope>
                </bibl>
             </listBibl>
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.3438"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

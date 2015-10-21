@@ -7,11 +7,15 @@
             <title>Bruchstücke einer Landdeklaration</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">100087</idno>
             <idno type="TM">100087</idno>
             <idno type="ddb-perseus-style">0251;2;56</idno>
             <idno type="ddb-filename">p.ammon.2.56</idno>
             <idno type="ddb-hybrid">p.ammon;2;56</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,6 +77,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=duke.apis.33853143"/>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=duke.apis.33853146"/>
+   </facsimile>
    <text>
       <body>
          <div type="edition">
@@ -82,8 +90,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Ammon</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">56</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">56</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -92,18 +100,7 @@
                <bibl type="illustration">Tafel XXV</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=duke.apis.33853143"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=duke.apis.33853146"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

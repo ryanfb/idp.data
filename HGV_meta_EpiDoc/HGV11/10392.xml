@@ -7,11 +7,15 @@
             <title>Petition to a Beneficiarius</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">10392</idno>
             <idno type="TM">10392</idno>
             <idno type="ddb-perseus-style">0088;;62</idno>
             <idno type="ddb-filename">p.cair.isid.62</idno>
             <idno type="ddb-hybrid">p.cair.isid;;62</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -78,6 +82,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Isid.&amp;vVol=&amp;vNum=62"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -87,7 +94,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Cair. Isid.</title>
-                  <biblScope type="numbers">62</biblScope>
+                  <biblScope unit="numbers">62</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -95,12 +102,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">70</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">70</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">32</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">32</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -113,14 +120,7 @@
                <bibl type="publication" subtype="other">SB VI 9167</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Isid.&amp;vVol=&amp;vNum=62"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

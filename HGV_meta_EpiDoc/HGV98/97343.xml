@@ -7,11 +7,15 @@
             <title>Bestellung eines tutor ad actum</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">97343</idno>
             <idno type="TM">97343</idno>
             <idno type="ddb-perseus-style">0239;26;16428</idno>
             <idno type="ddb-filename">sb.26.16428</idno>
             <idno type="ddb-hybrid">sb;26;16428</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,6 +76,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00004773&amp;local_base=ONB08"/>
+   </facsimile>
    <text>
       <body>
          <div type="edition">
@@ -81,8 +88,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">26</biblScope>
-                  <biblScope type="numbers">16428</biblScope>
+                  <biblScope unit="volume">26</biblScope>
+                  <biblScope unit="numbers">16428</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -91,14 +98,7 @@
                <bibl type="illustration">AnalPap 10-11, 1998-1999, S. 63</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00004773&amp;local_base=ONB08"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

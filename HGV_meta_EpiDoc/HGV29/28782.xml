@@ -7,11 +7,15 @@
             <title>Letter from Achillas to Apollonius</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">28782</idno>
             <idno type="TM">28782</idno>
             <idno type="ddb-perseus-style">0159;2;80</idno>
             <idno type="ddb-filename">p.mert.2.80</idno>
             <idno type="ddb-hybrid">p.mert;2;80</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -86,8 +90,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Merton</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">80</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">80</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -95,8 +99,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">129</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">129</biblScope>
                </bibl>
             </listBibl>
          </div>

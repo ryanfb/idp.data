@@ -7,11 +7,15 @@
             <title>Serment relatif à un cautionnement, peut - être d’une liturgie</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">20976</idno>
             <idno type="TM">20976</idno>
             <idno type="ddb-perseus-style">0112;;20</idno>
             <idno type="ddb-filename">p.fouad.20</idno>
             <idno type="ddb-hybrid">p.fouad;;20</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Fouad&amp;vVol=&amp;vNum=20"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -83,8 +90,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Fouad</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">20</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">20</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -92,12 +99,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">132</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">132</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">76</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">76</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -106,14 +113,7 @@
                <bibl type="illustration">ZPE 18, 1975, Tafel VII (vor S. 229)</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Fouad&amp;vVol=&amp;vNum=20"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>Bestätigung eines Rundschreibens des Präses der Thebais</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">18376</idno>
             <idno type="TM">18376</idno>
             <idno type="ddb-perseus-style">0239;18;13251</idno>
             <idno type="ddb-filename">sb.18.13251</idno>
             <idno type="ddb-hybrid">sb;18;13251</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -82,14 +86,17 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri-leipzig.dl.uni-leipzig.de/receive/UBLPapyri_schrift_00002280"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">18</biblScope>
-                  <biblScope type="numbers">13251</biblScope>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="numbers">13251</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -104,14 +111,7 @@
                <bibl type="publication" subtype="other">Z. 1 - 2: SB III 6004</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri-leipzig.dl.uni-leipzig.de/receive/UBLPapyri_schrift_00002280"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

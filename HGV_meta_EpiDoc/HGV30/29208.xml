@@ -7,11 +7,15 @@
             <title>Angabe über Zahlungen, vielleicht für Steuern</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">29208</idno>
             <idno type="TM">29208</idno>
             <idno type="ddb-perseus-style">0125;;7</idno>
             <idno type="ddb-filename">p.gron.7</idno>
             <idno type="ddb-hybrid">p.gron;;7</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -67,13 +71,16 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://facsimile.ub.rug.nl/cdm/compoundobject/collection/Papyri/id/5"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Gron.</title>
-                  <biblScope type="numbers">7</biblScope>
+                  <biblScope unit="numbers">7</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -82,14 +89,7 @@
                <bibl type="illustration">Tafel II</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://facsimile.ub.rug.nl/cdm/compoundobject/collection/Papyri/id/5"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

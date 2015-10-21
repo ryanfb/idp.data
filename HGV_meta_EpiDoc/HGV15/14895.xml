@@ -7,11 +7,15 @@
             <title>Fünf Abgabenquittungen (für συντάξιμον und anderes )</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">14895</idno>
             <idno type="TM">14895</idno>
             <idno type="ddb-perseus-style">0239;20;14633</idno>
             <idno type="ddb-filename">sb.20.14633</idno>
             <idno type="ddb-hybrid">sb;20;14633</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -146,8 +150,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">20</biblScope>
-                  <biblScope type="numbers">14633</biblScope>
+                  <biblScope unit="volume">20</biblScope>
+                  <biblScope unit="numbers">14633</biblScope>
                </bibl>
             </listBibl>
          </div>

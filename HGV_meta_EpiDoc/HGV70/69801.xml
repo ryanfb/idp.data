@@ -7,11 +7,15 @@
             <title>Brief an Viktor und Personenliste</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">69801</idno>
             <idno type="TM">69801</idno>
             <idno type="ddb-perseus-style">0001;17;2728</idno>
             <idno type="ddb-filename">bgu.17.2728</idno>
             <idno type="ddb-hybrid">bgu;17;2728</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -80,9 +84,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">17</biblScope>
-                  <biblScope type="numbers">2728</biblScope>
-                  <biblScope type="lines">Z. 11-21</biblScope>
+                  <biblScope unit="volume">17</biblScope>
+                  <biblScope unit="numbers">2728</biblScope>
+                  <biblScope unit="lines">Z. 11-21</biblScope>
                </bibl>
             </listBibl>
          </div>

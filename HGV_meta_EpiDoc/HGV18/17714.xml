@@ -7,11 +7,15 @@
             <title>Landverkauf</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">17714</idno>
             <idno type="TM">17714</idno>
             <idno type="ddb-perseus-style">0009;17A;17adupl</idno>
             <idno type="ddb-filename">cpr.17A.17adupl</idno>
             <idno type="ddb-hybrid">cpr;17A;17adupl</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,6 +77,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00001355&amp;local_base=ONB08"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -82,10 +89,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">CPR</title>
-                  <biblScope type="volume">17</biblScope>
-                  <biblScope type="fascicle">A</biblScope>
-                  <biblScope type="numbers">17</biblScope>
-                  <biblScope type="generic">a</biblScope>
+                  <biblScope unit="volume">17</biblScope>
+                  <biblScope unit="fascicle">A</biblScope>
+                  <biblScope unit="numbers">17</biblScope>
+                  <biblScope unit="generic">a</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -103,14 +110,7 @@
                <bibl type="publication" subtype="other">SPP XX 80</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00001355&amp;local_base=ONB08"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>Δάνειον ἠσφαλισμένον δι᾿ ὑπαλλάγματος</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">10127</idno>
             <idno type="TM">10127</idno>
             <idno type="ddb-perseus-style">0063;;21</idno>
             <idno type="ddb-filename">p.athen.21</idno>
             <idno type="ddb-hybrid">p.athen;;21</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -86,7 +90,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Athen.</title>
-                  <biblScope type="numbers">21</biblScope>
+                  <biblScope unit="numbers">21</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -94,12 +98,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">389/390</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">389/390</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">311</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">311</biblScope>
                </bibl>
             </listBibl>
          </div>

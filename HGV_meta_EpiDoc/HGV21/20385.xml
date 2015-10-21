@@ -7,11 +7,15 @@
             <title>Titles or σίλλυβοι</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">20385</idno>
             <idno type="TM">20385</idno>
             <idno type="ddb-perseus-style">0181;6;958</idno>
             <idno type="ddb-filename">p.oxy.6.958</idno>
             <idno type="ddb-hybrid">p.oxy;6;958</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -71,6 +75,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.spurlock.uiuc.edu/search/details.php?a=1914.21.0012"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -80,8 +87,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Oxy.</title>
-                  <biblScope type="volume">6</biblScope>
-                  <biblScope type="numbers">958</biblScope>
+                  <biblScope unit="volume">6</biblScope>
+                  <biblScope unit="numbers">958</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -89,8 +96,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">239</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">239</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -99,14 +106,7 @@
                <bibl type="illustration">S &amp; C 8, 1984, Tav. VII (nach S. 200)</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.spurlock.uiuc.edu/search/details.php?a=1914.21.0012"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

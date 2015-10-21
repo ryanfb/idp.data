@@ -7,11 +7,15 @@
             <title>Kaufvertrag</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">32912</idno>
             <idno type="TM">32912</idno>
             <idno type="ddb-perseus-style">0239;5;8007</idno>
             <idno type="ddb-filename">sb.5.8007</idno>
             <idno type="ddb-hybrid">sb;5;8007</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -83,8 +87,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">5</biblScope>
-                  <biblScope type="numbers">8007</biblScope>
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="numbers">8007</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -92,12 +96,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">333</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">333</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">190</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">190</biblScope>
                </bibl>
             </listBibl>
          </div>

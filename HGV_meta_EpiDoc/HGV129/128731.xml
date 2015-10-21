@@ -7,11 +7,15 @@
             <title>Getreideliste und Briefkonzepte</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">128731</idno>
             <idno type="TM">128731</idno>
             <idno type="ddb-perseus-style">0144;12;478</idno>
             <idno type="ddb-filename">p.koeln.12.478lin27_37</idno>
             <idno type="ddb-hybrid">p.koeln;12;478lin27_37</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,6 +77,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri-koeln.dl.uni-leipzig.de/receive/KlnPapyri_schrift_00001250"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -82,9 +89,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Köln</title>
-                  <biblScope type="volume">12</biblScope>
-                  <biblScope type="numbers">478</biblScope>
-                  <biblScope type="lines">Z. 27-37</biblScope>
+                  <biblScope unit="volume">12</biblScope>
+                  <biblScope unit="numbers">478</biblScope>
+                  <biblScope unit="lines">Z. 27-37</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -93,14 +100,7 @@
                <bibl type="illustration">Tafel XXXII</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri-koeln.dl.uni-leipzig.de/receive/KlnPapyri_schrift_00001250"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

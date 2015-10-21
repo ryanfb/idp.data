@@ -7,12 +7,16 @@
             <title>Mumienetikett</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <authority>Duke Collaboratory for Classics Computing (DC3)</authority>
             <idno type="filename">101308</idno>
             <idno type="TM">101308</idno>
             <idno type="ddb-perseus-style">0068;2;44</idno>
             <idno type="ddb-filename">p.bad.2.44</idno>
             <idno type="ddb-hybrid">p.bad;2;44</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -65,28 +69,24 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/VBP_II/043/VBP_II_44.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">VBP</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">44</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">44</biblScope>
                </bibl>
             </listBibl>
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/VBP_II/043/VBP_II_44.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

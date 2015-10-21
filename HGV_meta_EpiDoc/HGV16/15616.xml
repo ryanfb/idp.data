@@ -7,11 +7,15 @@
             <title>Empfangsbescheinigung</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">15616</idno>
             <idno type="TM">15616</idno>
             <idno type="ddb-perseus-style">0093;;37</idno>
             <idno type="ddb-filename">p.charite.37</idno>
             <idno type="ddb-hybrid">p.charite;;37</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -82,7 +86,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Charite</title>
-                  <biblScope type="numbers">37</biblScope>
+                  <biblScope unit="numbers">37</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,12 +94,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">82</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">82</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">39</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">39</biblScope>
                </bibl>
             </listBibl>
          </div>

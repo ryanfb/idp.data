@@ -7,11 +7,15 @@
             <title>Kat’ oikian apographai du dossier d’Apollonios le stratège</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">18225</idno>
             <idno type="TM">18225</idno>
             <idno type="ddb-perseus-style">0055;;17</idno>
             <idno type="ddb-filename">p.alex.giss.17</idno>
             <idno type="ddb-hybrid">p.alex.giss;;17</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -77,6 +81,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://nbn-resolving.de/urn:nbn:de:gbv:46:1-1525"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -97,7 +104,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Alex. Giss.</title>
-                  <biblScope type="numbers">17</biblScope>
+                  <biblScope unit="numbers">17</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>
@@ -115,14 +122,7 @@
                <bibl type="publication" subtype="other">SB X 10633</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-              <figure>
-                  <graphic url="http://nbn-resolving.de/urn:nbn:de:gbv:46:1-1525"/>
-                  <head>Abbildung im Internet</head>
-              </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

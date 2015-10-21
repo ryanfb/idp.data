@@ -7,11 +7,15 @@
             <title>Fragment eines Privatbriefes</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">15474</idno>
             <idno type="TM">15474</idno>
             <idno type="ddb-perseus-style">0239;14;11922</idno>
             <idno type="ddb-filename">sb.14.11922</idno>
             <idno type="ddb-hybrid">sb;14;11922</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -80,6 +84,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:432163?buttons=y"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -89,8 +96,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">14</biblScope>
-                  <biblScope type="numbers">11922</biblScope>
+                  <biblScope unit="volume">14</biblScope>
+                  <biblScope unit="numbers">11922</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -106,14 +113,7 @@
                <bibl type="translations">G.M. Browne, HSPh 76, 1972, S. 249</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:432163?buttons=y"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

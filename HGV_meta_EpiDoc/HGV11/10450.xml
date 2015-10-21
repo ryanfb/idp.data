@@ -7,11 +7,15 @@
             <title>Receipts for payments by the state bank for services of transport, men and guards</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">10450</idno>
             <idno type="TM">10450</idno>
             <idno type="ddb-perseus-style">0094;2;1-r-4</idno>
             <idno type="ddb-filename">p.col.2.1-r-4</idno>
             <idno type="ddb-hybrid">p.col;2;1,r,4</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -77,6 +81,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=columbia.apis.p329"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -97,11 +104,11 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Col.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">1</biblScope>
-                  <biblScope type="side">R</biblScope>
-                  <biblScope type="generic">4</biblScope>
-                  <biblScope type="columns">Kol. 11</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">1</biblScope>
+                  <biblScope unit="side">R</biblScope>
+                  <biblScope unit="generic">4</biblScope>
+                  <biblScope unit="columns">Kol. 11</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -109,12 +116,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">40</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">40</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">62</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">62</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -123,14 +130,7 @@
                <bibl type="illustration">linke Hälfte: nach S. 122</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=columbia.apis.p329"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

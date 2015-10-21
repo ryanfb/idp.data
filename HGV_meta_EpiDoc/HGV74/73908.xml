@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">73908</idno>
             <idno type="TM">73908</idno>
             <idno type="ddb-perseus-style">0022;4;Inv.89-457</idno>
             <idno type="ddb-filename">o.douch.4.Inv.89-457</idno>
             <idno type="ddb-hybrid">o.douch;4;Inv.89-457</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -82,9 +86,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Douch.</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="inventory">Inv. 89 - 457</biblScope>
-                  <biblScope type="pages">S. 45</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="inventory">Inv. 89 - 457</biblScope>
+                  <biblScope unit="pages">S. 45</biblScope>
                </bibl>
             </listBibl>
          </div>

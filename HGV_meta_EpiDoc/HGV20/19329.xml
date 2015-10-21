@@ -7,11 +7,15 @@
             <title>Wohnungsmiete</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">19329</idno>
             <idno type="TM">19329</idno>
             <idno type="ddb-perseus-style">0068;2;30</idno>
             <idno type="ddb-filename">p.bad.2.30</idno>
             <idno type="ddb-hybrid">p.bad;2;30</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -71,6 +75,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/VBP_II/030/VBP_II_30.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -80,8 +87,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">VBP</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">30</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">30</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -89,16 +96,16 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">14f.</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">14f.</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">7</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">7</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">9</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">9</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -107,14 +114,7 @@
                <bibl type="illustration">Z. 6 - 18: Seider, Paläographie I, Tafel 33, 52, nach S. 98</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/VBP_II/030/VBP_II_30.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

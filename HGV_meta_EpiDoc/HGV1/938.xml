@@ -7,11 +7,15 @@
             <title>Fragment</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">938</idno>
             <idno type="TM">938</idno>
             <idno type="ddb-perseus-style">0092;2;59294</idno>
             <idno type="ddb-filename">p.cair.zen.2.59294</idno>
             <idno type="ddb-hybrid">p.cair.zen;2;59294</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,6 +76,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Zen.&amp;vVol=2&amp;vNum=59294"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -92,8 +99,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Cair. Zen.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">59294</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">59294</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -102,14 +109,7 @@
                <bibl type="illustration">AnalPap 18-20, 2006-2008, S. 257</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Cair.Zen.&amp;vVol=2&amp;vNum=59294"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>Kontrollbuch eines Vermieters</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">15467</idno>
             <idno type="TM">15467</idno>
             <idno type="ddb-perseus-style">0144;4;196</idno>
             <idno type="ddb-filename">p.koeln.4.196</idno>
             <idno type="ddb-hybrid">p.koeln;4;196</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -68,6 +72,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.uni-koeln.de/phil-fak/ifa/NRWakademie/papyrologie/Karte/IV_196.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="mentionedDates">
@@ -121,8 +128,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Köln</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="numbers">196</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="numbers">196</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -130,12 +137,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">157</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">157</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">114</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">114</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -144,14 +151,7 @@
                <bibl type="illustration">Tafel XXIII, XXIV</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.uni-koeln.de/phil-fak/ifa/NRWakademie/papyrologie/Karte/IV_196.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

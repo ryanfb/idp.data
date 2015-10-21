@@ -7,11 +7,15 @@
             <title>Ἔγγραφον ἀφορῶν εἰς τὴν ἐλαϊκήν und Ἔγγραφον ἀφορῶν εἰς χρηματικὴν καταβολήν</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">5023</idno>
             <idno type="TM">5023</idno>
             <idno type="ddb-perseus-style">0063;;10</idno>
             <idno type="ddb-filename">p.athen.10</idno>
             <idno type="ddb-hybrid">p.athen;;10</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -88,8 +92,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Athen.</title>
-                  <biblScope type="numbers">10</biblScope>
-                  <biblScope type="generic">und 11</biblScope>
+                  <biblScope unit="numbers">10</biblScope>
+                  <biblScope unit="generic">und 11</biblScope>
                </bibl>
             </listBibl>
          </div>

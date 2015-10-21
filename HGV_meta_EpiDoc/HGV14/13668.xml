@@ -7,11 +7,15 @@
             <title>Fragmentum ad γῆν οὐσιακήν pertinens ?</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">13668</idno>
             <idno type="TM">13668</idno>
             <idno type="ddb-perseus-style">0216;;17</idno>
             <idno type="ddb-filename">p.vars.17</idno>
             <idno type="ddb-hybrid">p.vars;;17</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -95,7 +99,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Vars.</title>
-                  <biblScope type="numbers">17</biblScope>
+                  <biblScope unit="numbers">17</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -103,8 +107,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">501</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">501</biblScope>
                </bibl>
             </listBibl>
          </div>

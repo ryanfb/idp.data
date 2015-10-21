@@ -7,11 +7,15 @@
             <title>Abrechnung über Verkauf von Weizen</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">4782</idno>
             <idno type="TM">4782</idno>
             <idno type="ddb-perseus-style">0001;7;1532</idno>
             <idno type="ddb-filename">bgu.7.1532</idno>
             <idno type="ddb-hybrid">bgu;7;1532</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -91,8 +95,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">7</biblScope>
-                  <biblScope type="numbers">1532</biblScope>
+                  <biblScope unit="volume">7</biblScope>
+                  <biblScope unit="numbers">1532</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -100,8 +104,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">28</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">28</biblScope>
                </bibl>
             </listBibl>
          </div>

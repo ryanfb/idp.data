@@ -7,11 +7,15 @@
             <title>Namenliste über Naturalabgaben</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">74882</idno>
             <idno type="TM">74882</idno>
             <idno type="ddb-perseus-style">0030;;21</idno>
             <idno type="ddb-filename">o.lund.21</idno>
             <idno type="ddb-hybrid">o.lund;;21</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -84,7 +88,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Lund.</title>
-                  <biblScope type="numbers">21</biblScope>
+                  <biblScope unit="numbers">21</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -92,8 +96,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">524</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">524</biblScope>
                </bibl>
             </listBibl>
          </div>

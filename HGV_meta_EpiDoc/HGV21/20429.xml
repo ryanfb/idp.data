@@ -7,11 +7,15 @@
             <title>Lease of a Vineyard</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">20429</idno>
             <idno type="TM">20429</idno>
             <idno type="ddb-perseus-style">0181;4;729</idno>
             <idno type="ddb-filename">p.oxy.4.729</idno>
             <idno type="ddb-hybrid">p.oxy;4;729</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -100,8 +104,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Oxy.</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="numbers">729</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="numbers">729</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -109,12 +113,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">181</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">181</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">145</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">145</biblScope>
                </bibl>
             </listBibl>
          </div>

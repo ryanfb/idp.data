@@ -7,11 +7,15 @@
             <title>Domanialpachtangebot auf Grund eines Erlasses Hadrians</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">19620</idno>
             <idno type="TM">19620</idno>
             <idno type="ddb-perseus-style">0083;;36</idno>
             <idno type="ddb-filename">p.brem.36</idno>
             <idno type="ddb-hybrid">p.brem;;36</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,6 +76,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://nbn-resolving.de/urn:nbn:de:gbv:46:1-1568"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -81,7 +88,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Brem.</title>
-                  <biblScope type="numbers">36</biblScope>
+                  <biblScope unit="numbers">36</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -103,14 +110,7 @@
                <bibl type="translations">Lewis, Life in Egypt (1983), S. 114-115</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-              <figure>
-                  <graphic url="http://nbn-resolving.de/urn:nbn:de:gbv:46:1-1568"/>
-                  <head>Abbildung im Internet</head>
-              </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

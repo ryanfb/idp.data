@@ -7,11 +7,15 @@
             <title>Steuerquittung (für λαογραφία und μερισμὸς ἀνδριάντος)</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">15476</idno>
             <idno type="TM">15476</idno>
             <idno type="ddb-perseus-style">0239;14;11924</idno>
             <idno type="ddb-filename">sb.14.11924</idno>
             <idno type="ddb-hybrid">sb;14;11924</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -77,14 +81,17 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:432165?buttons=y"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">14</biblScope>
-                  <biblScope type="numbers">11924</biblScope>
+                  <biblScope unit="volume">14</biblScope>
+                  <biblScope unit="numbers">11924</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -92,8 +99,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">277</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">277</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -109,14 +116,7 @@
                <bibl type="translations">G.M. Browne, HSPh 76, 1972, S. 251</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:432165?buttons=y"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

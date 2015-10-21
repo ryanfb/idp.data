@@ -7,11 +7,15 @@
             <title>Epyllion on Hero and Leander</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">78753</idno>
             <idno type="TM">78753</idno>
             <idno type="ddb-perseus-style">0198;3;486r</idno>
             <idno type="ddb-filename">p.ryl.3.486r</idno>
             <idno type="ddb-hybrid">p.ryl;3;486r</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -67,6 +71,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://enriqueta.man.ac.uk:8081/BrowserInsight/BrowserInsight?cmd=start&amp;cid=30&amp;ig=1050&amp;ir=100518&amp;id=37373&amp;iwc=1&amp;iwas=2&amp;iwo=true&amp;d=0&amp;iia=1&amp;gwl=1&amp;gws=1&amp;ss=0"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -76,23 +83,16 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Ryl.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">486</biblScope>
-                  <biblScope type="side">R</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">486</biblScope>
+                  <biblScope unit="side">R</biblScope>
                </bibl>
             </listBibl>
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://enriqueta.man.ac.uk:8081/BrowserInsight/BrowserInsight?cmd=start&amp;cid=30&amp;ig=1050&amp;ir=100518&amp;id=37373&amp;iwc=1&amp;iwas=2&amp;iwo=true&amp;d=0&amp;iia=1&amp;gwl=1&amp;gws=1&amp;ss=0"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

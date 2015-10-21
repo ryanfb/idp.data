@@ -7,11 +7,15 @@
             <title>Pachtung eines Landstücks</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">17966</idno>
             <idno type="TM">17966</idno>
             <idno type="ddb-perseus-style">0197;3;49</idno>
             <idno type="ddb-filename">p.ross.georg.3.49</idno>
             <idno type="ddb-hybrid">p.ross.georg;3;49</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -81,8 +85,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Ross. Georg.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">49</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">49</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,12 +94,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">291</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">291</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">167/168</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">167/168</biblScope>
                </bibl>
             </listBibl>
          </div>

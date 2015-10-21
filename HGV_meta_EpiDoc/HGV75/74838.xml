@@ -7,11 +7,15 @@
             <title>Account of Grain (?)</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">74838</idno>
             <idno type="TM">74838</idno>
             <idno type="ddb-perseus-style">0029;;30</idno>
             <idno type="ddb-filename">o.leid.30</idno>
             <idno type="ddb-hybrid">o.leid;;30</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,7 +76,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Leid.</title>
-                  <biblScope type="numbers">30</biblScope>
+                  <biblScope unit="numbers">30</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -80,8 +84,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">520</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">520</biblScope>
                </bibl>
             </listBibl>
          </div>

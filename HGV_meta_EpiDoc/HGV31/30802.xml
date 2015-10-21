@@ -7,11 +7,15 @@
             <title>Zimmermiete</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">30802</idno>
             <idno type="TM">30802</idno>
             <idno type="ddb-perseus-style">0239;4;7444</idno>
             <idno type="ddb-filename">sb.4.7444</idno>
             <idno type="ddb-hybrid">sb;4;7444</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,6 +76,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=princeton.apis.p400"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -81,8 +88,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="numbers">7444</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="numbers">7444</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,8 +97,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">188</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">188</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -107,14 +114,7 @@
                <bibl type="translations">H.B. van Hoesen - A.C. Johnston, JEA 14, 1928, S. 121</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=princeton.apis.p400"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>Greek household salt-tax register (epigonoi)</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">44402</idno>
             <idno type="TM">44402</idno>
             <idno type="ddb-perseus-style">0288;;47</idno>
             <idno type="ddb-filename">p.count.47</idno>
             <idno type="ddb-hybrid">p.count;;47</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -75,6 +79,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://pcclu07.rz.uni-leipzig.de:8491/servlets/MCRQueryServlet?mode=ObjectMetadata&amp;status=2&amp;type=schrift&amp;layout=simple&amp;hosts=local&amp;lang=de&amp;query=/mycoreobject%5B@ID='IAwJPapyri_schrift_00008840'%5D"/>
+      <graphic url="http://pcount.arts.kuleuven.ac.be/plates.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -87,7 +95,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Count</title>
-                  <biblScope type="numbers">47</biblScope>
+                  <biblScope unit="numbers">47</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -96,18 +104,7 @@
                <bibl type="illustration">Nachzeichnung (Überblick): S. 435</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://pcclu07.rz.uni-leipzig.de:8491/servlets/MCRQueryServlet?mode=ObjectMetadata&amp;status=2&amp;type=schrift&amp;layout=simple&amp;hosts=local&amp;lang=de&amp;query=/mycoreobject%5B@ID='IAwJPapyri_schrift_00008840'%5D"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://pcount.arts.kuleuven.ac.be/plates.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

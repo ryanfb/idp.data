@@ -7,11 +7,15 @@
             <title>Lieferungskauf von Weizen und Gemüsesamen</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">41763</idno>
             <idno type="TM">41763</idno>
             <idno type="ddb-perseus-style">0239;22;15728</idno>
             <idno type="ddb-filename">sb.22.15728</idno>
             <idno type="ddb-hybrid">sb;22;15728</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -76,14 +80,17 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.2144"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">22</biblScope>
-                  <biblScope type="numbers">15728</biblScope>
+                  <biblScope unit="volume">22</biblScope>
+                  <biblScope unit="numbers">15728</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -91,8 +98,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">240</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">240</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -101,14 +108,7 @@
                <bibl type="illustration">ZPE 100, 1994, Tafel XVIII und XX</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.2144"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

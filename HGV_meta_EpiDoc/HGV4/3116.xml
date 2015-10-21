@@ -7,11 +7,15 @@
             <title>Quittance de remboursement d’un prêt de blé</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">3116</idno>
             <idno type="TM">3116</idno>
             <idno type="ddb-perseus-style">0101;;35</idno>
             <idno type="ddb-filename">p.dion.35</idno>
             <idno type="ddb-hybrid">p.dion;;35</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.papyrologie.paris-sorbonne.fr/menu1/collections/pgrec/preinach.htm"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="mentionedDates">
@@ -91,7 +98,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Dion.</title>
-                  <biblScope type="numbers">35</biblScope>
+                  <biblScope unit="numbers">35</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -113,14 +120,7 @@
                <bibl type="translations">Lewis, Greeks in Ptolemaic Egypt (1986), S. 132</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.papyrologie.paris-sorbonne.fr/menu1/collections/pgrec/preinach.htm"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

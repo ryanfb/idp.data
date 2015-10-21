@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">63998</idno>
             <idno type="TM">63998</idno>
             <idno type="ddb-perseus-style">0135;2;232</idno>
             <idno type="ddb-filename">.2.232</idno>
             <idno type="ddb-hybrid">;2;232</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -65,6 +69,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Hib.&amp;vVol=2&amp;vNum=232"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -77,9 +84,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Hib.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">232</biblScope>
-                  <biblScope type="side">R</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">232</biblScope>
+                  <biblScope unit="side">R</biblScope>
                </bibl>
                <bibl>
                   <title>LDAB</title>
@@ -90,14 +97,7 @@
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Hib.&amp;vVol=2&amp;vNum=232"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

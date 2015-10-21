@@ -7,11 +7,15 @@
             <title>Letter of Philippus to Ptolemaeus</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">8212</idno>
             <idno type="TM">8212</idno>
             <idno type="ddb-perseus-style">0135;1;62</idno>
             <idno type="ddb-filename">p.hib.1.62</idno>
             <idno type="ddb-hybrid">p.hib;1;62</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,14 +76,17 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.globalegyptianmuseum.org/detail.aspx?id=924"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Hib.</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">62</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">62</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -88,14 +95,7 @@
                <bibl type="illustration">Egyptian Treasures in Europe, Vol. 2 (Inv. E.5953)</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.globalegyptianmuseum.org/detail.aspx?id=924"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

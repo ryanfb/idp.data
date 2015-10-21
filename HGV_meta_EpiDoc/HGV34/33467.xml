@@ -7,11 +7,15 @@
             <title>Letter to Apa John</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">33467</idno>
             <idno type="TM">33467</idno>
             <idno type="ddb-perseus-style">0134;;8</idno>
             <idno type="ddb-filename">p.herm.8</idno>
             <idno type="ddb-hybrid">p.herm;;8</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -75,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://enriqueta.man.ac.uk:8081/BrowserInsight/BrowserInsight?cmd=start&amp;cid=30&amp;ig=1050&amp;ir=100499&amp;id=52637&amp;iwc=2&amp;iwas=2&amp;iwo=true&amp;d=0&amp;iia=1&amp;gwl=1&amp;gws=1&amp;ss=0"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -84,7 +91,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Herm.</title>
-                  <biblScope type="numbers">8</biblScope>
+                  <biblScope unit="numbers">8</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -92,12 +99,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">107</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">107</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">85</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">85</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -118,14 +125,7 @@
                <bibl type="translations">Tibiletti, Lettere private (1979), 33</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://enriqueta.man.ac.uk:8081/BrowserInsight/BrowserInsight?cmd=start&amp;cid=30&amp;ig=1050&amp;ir=100499&amp;id=52637&amp;iwc=2&amp;iwas=2&amp;iwo=true&amp;d=0&amp;iia=1&amp;gwl=1&amp;gws=1&amp;ss=0"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

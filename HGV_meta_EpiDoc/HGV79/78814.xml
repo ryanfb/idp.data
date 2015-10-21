@@ -7,11 +7,15 @@
             <title>Amtliche Briefe</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">78814</idno>
             <idno type="TM">78814</idno>
             <idno type="ddb-perseus-style">0227;;7,2</idno>
             <idno type="ddb-filename">p.wuerzb.7,2</idno>
             <idno type="ddb-hybrid">p.wuerzb;;7,2</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri-wuerzburg.dl.uni-leipzig.de/receive/WrzPapyri_schrift_00000110"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -83,8 +90,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Würzb.</title>
-                  <biblScope type="numbers">7</biblScope>
-                  <biblScope type="generic">II</biblScope>
+                  <biblScope unit="numbers">7</biblScope>
+                  <biblScope unit="generic">II</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>
@@ -95,14 +102,7 @@
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri-wuerzburg.dl.uni-leipzig.de/receive/WrzPapyri_schrift_00000110"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

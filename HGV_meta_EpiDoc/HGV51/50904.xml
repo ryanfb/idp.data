@@ -7,11 +7,15 @@
             <title>keiner</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">50904</idno>
             <idno type="TM">50904</idno>
             <idno type="ddb-perseus-style">;2;820</idno>
             <idno type="ddb-filename">short.texts.2.820</idno>
             <idno type="ddb-hybrid">short.texts;2;820</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,6 +78,9 @@
          <change when="2015-06-18" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://smb.museum/berlpap/index.php/record/?TM=50904"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -86,9 +93,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">Short Texts</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">820</biblScope>
-                  <biblScope type="generic">bis</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">820</biblScope>
+                  <biblScope unit="generic">bis</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>
@@ -109,14 +116,7 @@
                <bibl type="publication" subtype="other">C.Étiq. Mom. 98</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://smb.museum/berlpap/index.php/record/?TM=50904"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

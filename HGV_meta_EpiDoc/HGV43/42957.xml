@@ -7,11 +7,15 @@
             <title>Acta diurna?</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">42957</idno>
             <idno type="TM">42957</idno>
             <idno type="ddb-perseus-style">0279;42;1213</idno>
             <idno type="ddb-filename">chla.42.1213</idno>
             <idno type="ddb-hybrid">chla;42;1213</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -66,6 +70,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.1627"/>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.1625"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -75,8 +83,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">ChLA</title>
-                  <biblScope type="volume">42</biblScope>
-                  <biblScope type="numbers">1213</biblScope>
+                  <biblScope unit="volume">42</biblScope>
+                  <biblScope unit="numbers">1213</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -95,18 +103,7 @@
                <bibl type="publication" subtype="other">CEL I 204</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.1627"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.1625"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

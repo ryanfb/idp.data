@@ -7,11 +7,15 @@
             <title>Registro fiscale</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">114316</idno>
             <idno type="TM">114316</idno>
             <idno type="ddb-perseus-style">0238;15;1523</idno>
             <idno type="ddb-filename">psi.15.1523</idno>
             <idno type="ddb-hybrid">psi;15;1523</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -72,6 +76,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;15;1523"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -84,8 +91,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PSI</title>
-                  <biblScope type="volume">15</biblScope>
-                  <biblScope type="numbers">1523</biblScope>
+                  <biblScope unit="volume">15</biblScope>
+                  <biblScope unit="numbers">1523</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -94,14 +101,7 @@
                <bibl type="illustration">Tav. L</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;15;1523"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

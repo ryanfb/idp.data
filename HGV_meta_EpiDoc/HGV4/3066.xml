@@ -7,11 +7,15 @@
             <title>Naukleros - Symbolon</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">3066</idno>
             <idno type="TM">3066</idno>
             <idno type="ddb-perseus-style">0131;6;369</idno>
             <idno type="ddb-filename">p.heid.6.369</idno>
             <idno type="ddb-hybrid">p.heid;6;369</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -75,14 +79,17 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/P.Heid._VI/369/P.Heid._VI_369.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Heid.</title>
-                  <biblScope type="volume">6</biblScope>
-                  <biblScope type="numbers">369</biblScope>
+                  <biblScope unit="volume">6</biblScope>
+                  <biblScope unit="numbers">369</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -91,14 +98,7 @@
                <bibl type="illustration">Tafel 1</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.rzuser.uni-heidelberg.de/~gv0/Papyri/P.Heid._VI/369/P.Heid._VI_369.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

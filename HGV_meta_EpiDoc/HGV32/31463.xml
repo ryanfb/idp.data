@@ -7,11 +7,15 @@
             <title>List of Names and Payments</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">31463</idno>
             <idno type="TM">31463</idno>
             <idno type="ddb-perseus-style">0243;;81</idno>
             <idno type="ddb-filename">t.varie.81</idno>
             <idno type="ddb-hybrid">t.varie;;81</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -67,6 +71,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://libserv3.Princeton.EDU/rbsc2/papyri/AM15960B.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -76,7 +83,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">T.Varie</title>
-                  <biblScope type="numbers">81</biblScope>
+                  <biblScope unit="numbers">81</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -85,14 +92,7 @@
                <bibl type="illustration">Tav. XLIV</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://libserv3.Princeton.EDU/rbsc2/papyri/AM15960B.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>Loan of Money</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">36774</idno>
             <idno type="TM">36774</idno>
             <idno type="ddb-perseus-style">0064;;12</idno>
             <idno type="ddb-filename">p.athen.xyla.12</idno>
             <idno type="ddb-hybrid">p.athen.xyla;;12</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -81,8 +85,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Sta. Xyla</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">12</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">12</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,12 +94,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">251/252</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">251/252</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">254</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">254</biblScope>
                </bibl>
             </listBibl>
          </div>

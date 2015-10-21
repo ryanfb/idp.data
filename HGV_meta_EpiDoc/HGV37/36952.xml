@@ -7,11 +7,15 @@
             <title>Agreement concerning cultivation of land</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">36952</idno>
             <idno type="TM">36952</idno>
             <idno type="ddb-perseus-style">0154;5;1796</idno>
             <idno type="ddb-filename">p.lond.5.1796</idno>
             <idno type="ddb-hybrid">p.lond;5;1796</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -79,8 +83,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lond.</title>
-                  <biblScope type="volume">5</biblScope>
-                  <biblScope type="numbers">1796</biblScope>
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="numbers">1796</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -88,8 +92,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">194</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">194</biblScope>
                </bibl>
             </listBibl>
          </div>

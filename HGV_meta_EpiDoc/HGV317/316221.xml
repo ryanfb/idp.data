@@ -7,11 +7,15 @@
             <title>Liste von Geldbeträgen und Mietzinzquittung für einen Speicheranteil</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">316221</idno>
             <idno type="TM">316221</idno>
             <idno type="ddb-perseus-style">;20;2858</idno>
             <idno type="ddb-filename">bgu.20.2858</idno>
             <idno type="ddb-hybrid">bgu;20;2858</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -70,6 +74,9 @@
          <change when="2014-08-29" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://smb.museum/berlpap/index.php/06257/"/>
+   </facsimile>
    <text>
       <body>
          <div type="edition">
@@ -79,9 +86,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">20</biblScope>
-                  <biblScope type="numbers">2858</biblScope>
-                  <biblScope type="side">V</biblScope>
+                  <biblScope unit="volume">20</biblScope>
+                  <biblScope unit="numbers">2858</biblScope>
+                  <biblScope unit="side">V</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -90,14 +97,7 @@
                <bibl type="illustration">Tafel XXII</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://smb.museum/berlpap/index.php/06257/"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>Mitteilung der Ältesten in Tebetnoi (P.Münch. III 1, 49)</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">44636</idno>
             <idno type="TM">44636</idno>
             <idno type="ddb-perseus-style">0257;;20</idno>
             <idno type="ddb-filename">p.polit.iud.20</idno>
             <idno type="ddb-hybrid">p.polit.iud;;20</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -75,13 +79,16 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.uni-koeln.de/phil-fak/ifa/NRWakademie/papyrologie/PPolitIud/PPolitIud_020.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Polit. Iud.</title>
-                  <biblScope type="numbers">20</biblScope>
+                  <biblScope unit="numbers">20</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -96,14 +103,7 @@
                <bibl type="publication" subtype="other">P.Münch. III 49</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.uni-koeln.de/phil-fak/ifa/NRWakademie/papyrologie/PPolitIud/PPolitIud_020.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -7,11 +7,15 @@
             <title>Contratto di trasporto</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">21031</idno>
             <idno type="TM">21031</idno>
             <idno type="ddb-perseus-style">0243;;3</idno>
             <idno type="ddb-filename">t.varie.3</idno>
             <idno type="ddb-hybrid">t.varie;;3</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -91,7 +95,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">T.Varie</title>
-                  <biblScope type="numbers">3</biblScope>
+                  <biblScope unit="numbers">3</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -99,16 +103,16 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">305</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">305</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">305</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">305</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">329</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">329</biblScope>
                </bibl>
             </listBibl>
          </div>

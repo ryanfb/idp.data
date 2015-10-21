@@ -7,11 +7,15 @@
             <title>Affitto di terreno</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">40944</idno>
             <idno type="TM">40944</idno>
             <idno type="ddb-perseus-style">0189;1;37</idno>
             <idno type="ddb-filename">p.prag.1.37</idno>
             <idno type="ddb-hybrid">p.prag;1;37</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -82,8 +86,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Prag.</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">37</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">37</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -91,12 +95,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">214</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">214</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">163</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">163</biblScope>
                </bibl>
             </listBibl>
          </div>

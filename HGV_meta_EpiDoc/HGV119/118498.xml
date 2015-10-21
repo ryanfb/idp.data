@@ -7,11 +7,15 @@
             <title>Latin Fragment of an Account of Stone?</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">118498</idno>
             <idno type="TM">118498</idno>
             <idno type="ddb-perseus-style">0020;4;846</idno>
             <idno type="ddb-filename">o.claud.4.846</idno>
             <idno type="ddb-hybrid">o.claud;4;846</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -81,8 +85,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Claud.</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="numbers">846</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="numbers">846</biblScope>
                </bibl>
             </listBibl>
          </div>

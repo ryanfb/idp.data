@@ -7,11 +7,15 @@
             <title>Small Fragments of Uncertain Character</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">2356</idno>
             <idno type="TM">2356</idno>
             <idno type="ddb-perseus-style">0094;4;118b</idno>
             <idno type="ddb-filename">p.col.4.118b</idno>
             <idno type="ddb-hybrid">p.col;4;118b</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -65,6 +69,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=columbia.apis.p156"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -74,23 +81,16 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Col.</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="numbers">118</biblScope>
-                  <biblScope type="generic">b</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="numbers">118</biblScope>
+                  <biblScope unit="generic">b</biblScope>
                </bibl>
             </listBibl>
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=columbia.apis.p156"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

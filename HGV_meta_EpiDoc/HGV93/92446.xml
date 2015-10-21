@@ -7,11 +7,15 @@
             <title>Schwierigkeiten wegen Schulden beim Fiscus</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">92446</idno>
             <idno type="TM">92446</idno>
             <idno type="ddb-perseus-style">0009;25;15</idno>
             <idno type="ddb-filename">cpr.25.15</idno>
             <idno type="ddb-hybrid">cpr;25;15</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -77,6 +81,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00000106&amp;local_base=ONB08"/>
+   </facsimile>
    <text>
       <body>
          <div type="edition">
@@ -86,8 +93,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">CPR</title>
-                  <biblScope type="volume">25</biblScope>
-                  <biblScope type="numbers">15</biblScope>
+                  <biblScope unit="volume">25</biblScope>
+                  <biblScope unit="numbers">15</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -96,14 +103,7 @@
                <bibl type="illustration">Tafel 14</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00000106&amp;local_base=ONB08"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

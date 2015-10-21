@@ -7,11 +7,15 @@
             <title>Account</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">26715</idno>
             <idno type="TM">26715</idno>
             <idno type="ddb-perseus-style">0225;1;51</idno>
             <idno type="ddb-filename">p.wash.univ.1.51</idno>
             <idno type="ddb-hybrid">p.wash.univ;1;51</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -67,14 +71,17 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://library.wustl.edu/units/spec/manuscripts/papyri/wtu.inventory.67.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Wash. Univ.</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">51</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">51</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -82,22 +89,15 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">373</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">373</biblScope>
                </bibl>
             </listBibl>
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://library.wustl.edu/units/spec/manuscripts/papyri/wtu.inventory.67.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

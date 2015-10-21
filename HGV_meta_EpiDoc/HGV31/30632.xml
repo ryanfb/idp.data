@@ -7,11 +7,15 @@
             <title>Lettera di Ammonus</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">30632</idno>
             <idno type="TM">30632</idno>
             <idno type="ddb-perseus-style">0238;12;1247</idno>
             <idno type="ddb-filename">psi.12.1247</idno>
             <idno type="ddb-hybrid">psi;12;1247</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -65,6 +69,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;12;1247"/>
+      <graphic url="http://www.psi-online.it/documents/1249"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -74,9 +82,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PSI</title>
-                  <biblScope type="volume">12</biblScope>
-                  <biblScope type="numbers">1247</biblScope>
-                  <biblScope type="side">R</biblScope>
+                  <biblScope unit="volume">12</biblScope>
+                  <biblScope unit="numbers">1247</biblScope>
+                  <biblScope unit="side">R</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -84,12 +92,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">409</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">409</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">250</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">250</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -101,18 +109,7 @@
                <bibl type="illustration">Cavallo, Il calamo e il papiro, Tav. IIIa</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;12;1247"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/1249"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

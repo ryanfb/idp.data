@@ -7,11 +7,15 @@
             <title>Inscriptio Epistulae</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">78417</idno>
             <idno type="TM">78417</idno>
             <idno type="ddb-perseus-style">0002;;241</idno>
             <idno type="ddb-filename">c.ep.lat.241</idno>
             <idno type="ddb-hybrid">c.ep.lat;;241</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -66,6 +70,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://digibib.ub.uni-giessen.de/cgi-bin/populo/pap.pl?t_allegro=x&amp;f_SIG=P.+Iand.+68b"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -75,9 +82,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Iand.</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="numbers">68</biblScope>
-                  <biblScope type="generic">b</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="numbers">68</biblScope>
+                  <biblScope unit="generic">b</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -85,8 +92,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">89</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">89</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -104,14 +111,7 @@
                <bibl type="publication" subtype="other">CEL I 241</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://digibib.ub.uni-giessen.de/cgi-bin/populo/pap.pl?t_allegro=x&amp;f_SIG=P.+Iand.+68b"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

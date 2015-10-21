@@ -7,11 +7,15 @@
             <title>Ricevuta di ΕΠΙΚΕΦΑΛΑΙΟΝ</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">15727</idno>
             <idno type="TM">15727</idno>
             <idno type="ddb-perseus-style">0118;1;19</idno>
             <idno type="ddb-filename">p.genova.1.19</idno>
             <idno type="ddb-hybrid">p.genova;1;19</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -86,8 +90,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PUG</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">19</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">19</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -95,12 +99,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">362</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">362</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">278/279</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">278/279</biblScope>
                </bibl>
             </listBibl>
          </div>

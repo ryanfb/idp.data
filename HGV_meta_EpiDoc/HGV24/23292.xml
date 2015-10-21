@@ -7,11 +7,15 @@
             <title>Orders for Seed Grain</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">23292</idno>
             <idno type="TM">23292</idno>
             <idno type="ddb-perseus-style">0001;16;2570</idno>
             <idno type="ddb-filename">bgu.16.2570</idno>
             <idno type="ddb-hybrid">bgu;16;2570</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,14 +77,17 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://smb.museum/berlpap/index.php/record/?TM=23292"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">16</biblScope>
-                  <biblScope type="numbers">2570</biblScope>
+                  <biblScope unit="volume">16</biblScope>
+                  <biblScope unit="numbers">2570</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -89,14 +96,7 @@
                <bibl type="illustration">Microfiche im Band</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://smb.museum/berlpap/index.php/record/?TM=23292"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

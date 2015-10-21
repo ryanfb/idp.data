@@ -7,11 +7,15 @@
             <title>Ricevuta di χωματικόν e βαλανευτικόν</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">77708</idno>
             <idno type="TM">77708</idno>
             <idno type="ddb-perseus-style">;;307</idno>
             <idno type="ddb-filename">o.petr.mus.307</idno>
             <idno type="ddb-hybrid">o.petr.mus;;307</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,6 +77,9 @@
          <change when="2013-04-05" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://petriecat.museums.ucl.ac.uk/dispatcher.aspx?action=search&amp;database=ChoiceUCLPC&amp;search=accession_number=%20%27UC32473%27"/>
+   </facsimile>
    <text>
       <body>
          <div type="edition">
@@ -82,7 +89,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Petr. Mus.</title>
-                  <biblScope type="numbers">307</biblScope>
+                  <biblScope unit="numbers">307</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -97,14 +104,7 @@
                <bibl type="publication" subtype="other">O.Wilck. 1373</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://petriecat.museums.ucl.ac.uk/dispatcher.aspx?action=search&amp;database=ChoiceUCLPC&amp;search=accession_number=%20%27UC32473%27"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

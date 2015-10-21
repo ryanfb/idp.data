@@ -7,11 +7,15 @@
             <title>Affitto di terreno</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">36864</idno>
             <idno type="TM">36864</idno>
             <idno type="ddb-perseus-style">0111;3;299</idno>
             <idno type="ddb-filename">p.flor.3.299</idno>
             <idno type="ddb-hybrid">p.flor;3;299</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -80,8 +84,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Flor.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">299</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">299</biblScope>
                </bibl>
             </listBibl>
          </div>

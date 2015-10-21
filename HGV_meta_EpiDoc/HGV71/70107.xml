@@ -7,11 +7,15 @@
             <title>Dibattito giudiziario davanti al Praeses Prouinciae Arcadiae</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">70107</idno>
             <idno type="TM">70107</idno>
             <idno type="ddb-perseus-style">0240;14;12A</idno>
             <idno type="ddb-filename">stud.pal.14.12A</idno>
             <idno type="ddb-hybrid">stud.pal;14;12A</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -80,8 +84,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">ChLA</title>
-                  <biblScope type="volume">45</biblScope>
-                  <biblScope type="numbers">1321</biblScope>
+                  <biblScope unit="volume">45</biblScope>
+                  <biblScope unit="numbers">1321</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -89,8 +93,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">266 (zu SPP XIV)</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">266 (zu SPP XIV)</biblScope>
                </bibl>
             </listBibl>
          </div>

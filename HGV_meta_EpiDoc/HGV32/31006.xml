@@ -7,11 +7,15 @@
             <title>Document</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">31006</idno>
             <idno type="TM">31006</idno>
             <idno type="ddb-perseus-style">0149;;96</idno>
             <idno type="ddb-filename">p.leid.inst.96</idno>
             <idno type="ddb-hybrid">p.leid.inst;;96</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -74,8 +78,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lugd. Bat.</title>
-                  <biblScope type="volume">25</biblScope>
-                  <biblScope type="numbers">96</biblScope>
+                  <biblScope unit="volume">25</biblScope>
+                  <biblScope unit="numbers">96</biblScope>
                </bibl>
             </listBibl>
          </div>

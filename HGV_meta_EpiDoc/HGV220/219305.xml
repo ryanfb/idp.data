@@ -7,11 +7,15 @@
             <title>Register of Requisitions</title>
          </titleStmt>
          <publicationStmt>
+            <authority>Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens</authority>
             <idno type="filename">219305</idno>
             <idno type="TM">219305</idno>
             <idno type="ddb-perseus-style">;;28</idno>
             <idno type="ddb-filename">p.bagnall.28</idno>
             <idno type="ddb-hybrid">p.bagnall;;28</idno>
+            <availability>
+               <p>© Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -73,6 +77,9 @@
          <change when="2013-08-30" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/apis/item?mode=item&amp;key=princeton.apis.p325/."/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -85,7 +92,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Bagnall</title>
-                  <biblScope type="numbers">28</biblScope>
+                  <biblScope unit="numbers">28</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -94,14 +101,7 @@
                <bibl type="illustration">S. 117</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/apis/item?mode=item&amp;key=princeton.apis.p325/."/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>
