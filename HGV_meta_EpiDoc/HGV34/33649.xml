@@ -79,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.atla.com/digitalresources/results.asp?pagenumber=1&amp;cl1=ALL&amp;keyword=&amp;title=oxy%201494&amp;description=&amp;subject="/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -110,14 +113,7 @@
                <bibl type="translations">Tibiletti, Lettere private (1979), 21</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.atla.com/digitalresources/results.asp?pagenumber=1&amp;cl1=ALL&amp;keyword=&amp;title=oxy%201494&amp;description=&amp;subject="/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

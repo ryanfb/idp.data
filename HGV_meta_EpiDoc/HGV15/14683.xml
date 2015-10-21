@@ -81,6 +81,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://smb.museum/berlpap/index.php/record/?TM=14683"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
@@ -104,14 +107,7 @@
                <bibl type="translations">A. Lukaszewicz, JJP 19, 1983, S. 108</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://smb.museum/berlpap/index.php/record/?TM=14683"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

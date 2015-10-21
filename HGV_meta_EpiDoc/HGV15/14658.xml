@@ -83,6 +83,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.3132"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -145,14 +148,7 @@
                <bibl type="illustration">Aegyptus 63, 1983, Tav. 21 nach S. 96 (nur P.Med. Inv. Nr. 274 Verso)</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.3132"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

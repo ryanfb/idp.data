@@ -80,6 +80,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.3076"/>
+      <graphic url="http://www.psi-online.it/documents/psi;8;904"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -122,18 +126,7 @@
                <bibl type="publication" subtype="other">PSI VIII 904 (Zeilenanfänge und -enden)</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=michigan.apis.3076"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;8;904"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

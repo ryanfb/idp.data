@@ -78,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;14;1417"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
@@ -94,14 +97,7 @@
                <bibl type="illustration">L'Istituto Papirologico "G. Vitelli", Storia, scavi e collezioni (CD, 2003), Papiri documentari 11</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;14;1417"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

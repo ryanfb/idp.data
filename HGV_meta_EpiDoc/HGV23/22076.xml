@@ -78,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Oxy.&amp;vVol=16&amp;vNum=1981"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -110,14 +113,7 @@
                <bibl type="illustration">Diethart - Worp, Notarsunterschriften, Tafel 44, Oxy. 9.9.3 (Z. 32)</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Oxy.&amp;vVol=16&amp;vNum=1981"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

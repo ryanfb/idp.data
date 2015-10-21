@@ -78,6 +78,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://smb.museum/berlpap/index.php/record/?TM=78025"/>
+      <graphic url="http://www.dendlon.de/Papyrus.html#P1"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -120,18 +124,7 @@
                <bibl type="translations">Jones, Cleopatra (2006), S. 204</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://smb.museum/berlpap/index.php/record/?TM=78025"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://www.dendlon.de/Papyrus.html#P1"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

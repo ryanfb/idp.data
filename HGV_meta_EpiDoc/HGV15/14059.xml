@@ -79,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://smb.museum/berlpap/index.php/record/?TM=14059"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -115,14 +118,7 @@
                <bibl type="translations">Schubert, Vivre en Égypte (2000), S. 187-188, Nr. 64</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://smb.museum/berlpap/index.php/record/?TM=14059"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

@@ -71,6 +71,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://facsimile.ub.rug.nl/cdm/compoundobject/collection/Papyri/id/37"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -89,14 +92,7 @@
                <bibl type="illustration">ZPE 11, 1973, Tafel VI b</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://facsimile.ub.rug.nl/cdm/compoundobject/collection/Papyri/id/37"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

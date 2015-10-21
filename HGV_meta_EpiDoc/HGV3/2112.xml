@@ -79,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;4;429"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -131,14 +134,7 @@
                <bibl type="translations">Burnet, L'Égypte ancienne (2003), Nr. 47</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;4;429"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

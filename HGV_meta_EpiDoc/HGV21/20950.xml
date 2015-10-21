@@ -78,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri-erlangen.dl.uni-leipzig.de/receive/ErlPapyri_schrift_00004710"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -105,14 +108,7 @@
                <bibl type="illustration">Diethart - Worp, Notarsunterschriften, Tafel 20, Herakl. 12.4.1 (Z. 30)</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri-erlangen.dl.uni-leipzig.de/receive/ErlPapyri_schrift_00004710"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

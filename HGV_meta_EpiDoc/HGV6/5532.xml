@@ -83,6 +83,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri-wuerzburg.dl.uni-leipzig.de/receive/WrzPapyri_schrift_00000070"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -114,14 +117,7 @@
                <bibl type="illustration">Schrift, Sprache, Bild und Klang, S. 72</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri-wuerzburg.dl.uni-leipzig.de/receive/WrzPapyri_schrift_00000070"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

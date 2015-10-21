@@ -79,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;10;1130"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -115,14 +118,7 @@
                <bibl type="illustration">Pap. Flor. XII Suppl., Tav. XII</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;10;1130"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

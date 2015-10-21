@@ -73,6 +73,9 @@
          <change when="2015-06-18" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://collections.lacma.org/node/245078"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -97,14 +100,7 @@
          <div type="bibliography" subtype="illustrations">
             <p/>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://collections.lacma.org/node/245078"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

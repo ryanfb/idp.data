@@ -79,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Oxy.&amp;vVol=16&amp;vNum=1920"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -147,14 +150,7 @@
                <bibl type="publication" subtype="other">Sel. Pap. II 408</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=P.Oxy.&amp;vVol=16&amp;vNum=1920"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

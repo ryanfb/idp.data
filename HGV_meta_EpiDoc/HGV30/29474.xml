@@ -76,6 +76,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://digibib.ub.uni-giessen.de/cgi-bin/populo/pap.pl?db=pap&amp;t_regsrch=x&amp;wertreg=SIG&amp;wert=P.B.U.G.%20inv.%20141&amp;reccheck=404"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -95,14 +98,7 @@
                <bibl type="illustration">Festschrift Karl Christ, S. 227</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://digibib.ub.uni-giessen.de/cgi-bin/populo/pap.pl?db=pap&amp;t_regsrch=x&amp;wertreg=SIG&amp;wert=P.B.U.G.%20inv.%20141&amp;reccheck=404"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

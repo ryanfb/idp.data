@@ -81,6 +81,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://smb.museum/berlpap/index.php/record/?TM=47215"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -130,14 +133,7 @@
                <bibl type="publication" subtype="other">Z. 1-15 (rechte Hälfte): BGU XVIII.1 2753</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://smb.museum/berlpap/index.php/record/?TM=47215"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

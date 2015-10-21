@@ -70,6 +70,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://beinecke.library.yale.edu/papyrus/oneSET.asp?pid=437%20qua"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -91,14 +94,7 @@
                <bibl type="illustration">S. 206</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://beinecke.library.yale.edu/papyrus/oneSET.asp?pid=437%20qua"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

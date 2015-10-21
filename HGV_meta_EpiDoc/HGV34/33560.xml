@@ -81,6 +81,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://digipap.uni-trier.de/s73/publ/14.jpg"/>
+      <graphic url="http://digipap.uni-trier.de/s73/publ/14vv.jpg"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -99,18 +103,7 @@
                <bibl type="illustration">Tafel 6</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://digipap.uni-trier.de/s73/publ/14.jpg"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://digipap.uni-trier.de/s73/publ/14vv.jpg"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

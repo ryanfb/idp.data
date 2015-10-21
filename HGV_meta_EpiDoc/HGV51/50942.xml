@@ -76,6 +76,9 @@
          <change when="2015-06-18" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://smb.museum/berlpap/index.php/record/?TM=50942"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -109,14 +112,7 @@
                <bibl type="publication" subtype="other">P.Lugd. Bat. XIX S. 228</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://smb.museum/berlpap/index.php/record/?TM=50942"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

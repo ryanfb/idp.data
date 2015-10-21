@@ -72,6 +72,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;6;688"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -123,14 +126,7 @@
                <bibl type="translations">Johnson, Roman Egypt (1936), S. 213-214, Nr. 113</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;6;688"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

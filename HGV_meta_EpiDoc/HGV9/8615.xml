@@ -79,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.columbia.edu/cgi-bin/cul/apis/apis?mode=item&amp;key=chicago.apis.2"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
@@ -95,14 +98,7 @@
                <bibl type="illustration">Plates 42 - 44</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.columbia.edu/cgi-bin/cul/apis/apis?mode=item&amp;key=chicago.apis.2"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

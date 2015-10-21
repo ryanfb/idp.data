@@ -84,6 +84,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=yale.apis.0000190000"/>
+      <graphic url="http://www.ucl.ac.uk/GrandLatMisc/hawara/papydata/phaw_245.htm"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -111,18 +115,7 @@
                <bibl type="publication" subtype="other">P.Haw. 245 (S. 33-34)</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=yale.apis.0000190000"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://www.ucl.ac.uk/GrandLatMisc/hawara/papydata/phaw_245.htm"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

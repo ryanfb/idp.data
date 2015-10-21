@@ -77,6 +77,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri.uni-leipzig.de/servlets/MCRQueryServlet?mode=ObjectMetadata&amp;status=3&amp;type=schrift&amp;layout=simple&amp;hosts=local&amp;lang=de&amp;query=/mycoreobject%5B@ID='HalPapyri_schrift_00000080'%5D"/>
+      <graphic url="http://papyri.uni-leipzig.de/servlets/MCRQueryServlet?mode=ObjectMetadata&amp;status=3&amp;type=schrift&amp;layout=simple&amp;hosts=local&amp;lang=de&amp;query=/mycoreobject%5B@ID='HalPapyri_schrift_00000790'%5D"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -167,18 +171,7 @@
                <bibl type="translations">Burnet, L'Égypte ancienne (2003), Nr. 2 (Z. 166-185)</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri.uni-leipzig.de/servlets/MCRQueryServlet?mode=ObjectMetadata&amp;status=3&amp;type=schrift&amp;layout=simple&amp;hosts=local&amp;lang=de&amp;query=/mycoreobject%5B@ID='HalPapyri_schrift_00000080'%5D"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://papyri.uni-leipzig.de/servlets/MCRQueryServlet?mode=ObjectMetadata&amp;status=3&amp;type=schrift&amp;layout=simple&amp;hosts=local&amp;lang=de&amp;query=/mycoreobject%5B@ID='HalPapyri_schrift_00000790'%5D"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

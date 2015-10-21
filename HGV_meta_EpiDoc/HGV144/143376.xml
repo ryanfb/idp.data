@@ -92,6 +92,9 @@
          <change when="2012-08-16" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri.uni-leipzig.de/receive/UBLPapyri_schrift_00036580"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -110,14 +113,7 @@
                <bibl type="illustration">Tafel VIII</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri.uni-leipzig.de/receive/UBLPapyri_schrift_00036580"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -85,6 +85,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=berkeley.apis.234"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -144,14 +147,7 @@
                <bibl type="translations">Schubert, Vivre en Égypte (2000), S. 168-171, Nr. 58 (Z. 44 -99. 165-179)</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=berkeley.apis.234"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

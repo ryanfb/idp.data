@@ -78,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;5;457"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -153,14 +156,7 @@
                <bibl type="illustration">ZPE 27, 1977, Taf. VI b + c (Z. 18 - 24)</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;5;457"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

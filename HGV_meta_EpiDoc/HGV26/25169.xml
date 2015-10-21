@@ -71,6 +71,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=princeton.apis.p443&#xA;"/>
+      <graphic url="http://libweb.princeton.edu/libraries/firestone/rbsc/aids/papyri/theano.html&#xA;"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -95,18 +99,7 @@
                <bibl type="translations">Bagnall - Cribiore, Women's Letters (2008), B2.14, Nr. 177</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/app/apis/item?mode=item&amp;key=princeton.apis.p443&#xA;"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://libweb.princeton.edu/libraries/firestone/rbsc/aids/papyri/theano.html&#xA;"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

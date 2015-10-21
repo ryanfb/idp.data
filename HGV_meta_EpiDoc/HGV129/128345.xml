@@ -76,6 +76,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri.uni-leipzig.de/receive/UBLPapyri_schrift_00002870"/>
+   </facsimile>
    <text>
       <body>
          <div type="edition">
@@ -94,14 +97,7 @@
                <bibl type="illustration">Tafel XXX</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri.uni-leipzig.de/receive/UBLPapyri_schrift_00002870"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

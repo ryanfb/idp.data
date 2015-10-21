@@ -70,6 +70,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://smb.museum/berlpap/?search-class=DB_CustomSearch_Widget-db_customsearch_widget&amp;widget_number=preset-1&amp;search=Search&amp;single=&amp;cs-TM-19=78917"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
@@ -86,14 +89,7 @@
                <bibl type="illustration">Meyer - Mirecki, Ancient Magic (am Bandende)</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://smb.museum/berlpap/?search-class=DB_CustomSearch_Widget-db_customsearch_widget&amp;widget_number=preset-1&amp;search=Search&amp;single=&amp;cs-TM-19=78917"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

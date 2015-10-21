@@ -84,6 +84,9 @@
          <change when="2012-08-28" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
   </teiHeader>
+   <facsimile>
+      <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00001551&amp;local_base=ONB08"/>
+   </facsimile>
   <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
@@ -98,13 +101,7 @@
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://aleph.onb.ac.at/F/?func=find-c&amp;ccl_term=WID%3DRZ00001551&amp;local_base=ONB08"/>
-               </figure>
-            </p>
-         </div>
+         
       </body>
   </text>
 </TEI>

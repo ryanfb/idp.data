@@ -73,6 +73,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://special.lib.umn.edu/rare/papyriscans/papyriref1024/762404front.jpg"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
@@ -89,14 +92,7 @@
                <bibl type="illustration">BASP 18, 1981, Plate 1 (nach S. 188)</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://special.lib.umn.edu/rare/papyriscans/papyriref1024/762404front.jpg"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

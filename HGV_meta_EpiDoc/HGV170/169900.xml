@@ -67,6 +67,9 @@
          <change when="2013-04-05" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://petriecat.museums.ucl.ac.uk/dispatcher.aspx?action=search&amp;database=ChoiceUCLPC&amp;search=accession_number=%20%27UC54714%27"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -88,14 +91,7 @@
                <bibl type="illustration">beiliegende DVD</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://petriecat.museums.ucl.ac.uk/dispatcher.aspx?action=search&amp;database=ChoiceUCLPC&amp;search=accession_number=%20%27UC54714%27"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

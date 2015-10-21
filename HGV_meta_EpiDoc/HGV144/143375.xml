@@ -75,6 +75,9 @@
          <change when="2012-08-16" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="%20http://smb.museum/berlpap/index.php/06214/"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
@@ -90,14 +93,7 @@
                <bibl type="illustration">Tafel VII</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="%20http://smb.museum/berlpap/index.php/06214/"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

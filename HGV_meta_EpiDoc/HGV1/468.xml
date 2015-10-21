@@ -78,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=APF&amp;vVol=1&amp;vNum=p.62"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -115,14 +118,7 @@
                <bibl type="translations">Bagnall &amp; Derow, The Hellenistic Period (2004), Nr. 149</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://ipap.csad.ox.ac.uk/4DLink4/4DACTION/IPAPwebquery?vPub=APF&amp;vVol=1&amp;vNum=p.62"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

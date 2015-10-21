@@ -77,6 +77,9 @@
          <change when="2013-08-30" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/apis/item?mode=item&amp;key=princeton.apis.p325/."/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -98,14 +101,7 @@
                <bibl type="illustration">S. 117</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/apis/item?mode=item&amp;key=princeton.apis.p325/."/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

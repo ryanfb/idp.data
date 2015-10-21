@@ -77,6 +77,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://special.lib.gla.ac.uk/teach/papyrus/oxyrhynchus310.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -124,14 +127,7 @@
                <bibl type="translations">M.V. Biscottini, Aegyptus 46, 1966, S. 260</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://special.lib.gla.ac.uk/teach/papyrus/oxyrhynchus310.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

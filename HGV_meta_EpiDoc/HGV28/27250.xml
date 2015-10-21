@@ -76,6 +76,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.columbia.edu/cgi-bin/cul/apis/apis?mode=item&amp;key=hermitage.apis.25"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -104,14 +107,7 @@
                <bibl type="illustration">APF 45, 1999, Tafel XXII</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.columbia.edu/cgi-bin/cul/apis/apis?mode=item&amp;key=hermitage.apis.25"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -80,6 +80,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.nb.no/baser/schoyen/5/5.5/ms608.jpg"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -115,14 +118,7 @@
                <bibl type="translations">P.J. Sijpesteijn, StudPap 21, 1982, S. 12</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.nb.no/baser/schoyen/5/5.5/ms608.jpg"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

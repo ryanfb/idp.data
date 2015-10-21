@@ -80,6 +80,9 @@
          <change when="2012-02-09" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;9;1052"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -104,14 +107,7 @@
                <bibl type="publication" subtype="other">PSI IX 1052</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;9;1052"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

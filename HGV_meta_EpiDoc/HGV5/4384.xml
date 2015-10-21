@@ -79,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri-leipzig.dl.uni-leipzig.de/receive/IAwJPapyri_schrift_00002010"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -107,14 +110,7 @@
                <bibl type="illustration">APF 22/23, 1974, Abb. 1</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri-leipzig.dl.uni-leipzig.de/receive/IAwJPapyri_schrift_00002010"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

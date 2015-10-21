@@ -82,6 +82,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://nbn-resolving.de/urn:nbn:de:gbv:46:1-1291"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -102,14 +105,7 @@
                <bibl type="illustration">Welt aus Schnipseln, S. 86, Abbildung 44</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://nbn-resolving.de/urn:nbn:de:gbv:46:1-1291"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
          <div type="bibliography" subtype="translations">
             <head xml:lang="de">Übersetzungen</head>
             <listBibl xml:lang="de">

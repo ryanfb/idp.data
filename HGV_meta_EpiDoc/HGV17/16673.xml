@@ -78,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://sceti.library.upenn.edu/pages/index.cfm?so_id=4109"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -120,14 +123,7 @@
                <bibl type="translations">M.V. Biscottini, Aegyptus 46, 1966, S. 199</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://sceti.library.upenn.edu/pages/index.cfm?so_id=4109"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

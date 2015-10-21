@@ -77,6 +77,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://nbn-resolving.de/urn:nbn:de:gbv:46:1-1557"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -113,14 +116,7 @@
                <bibl type="translations">Drexhage - Konen - Ruffing, Wirtschaft (2002), S. 272, M 63</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-              <figure>
-                  <graphic url="http://nbn-resolving.de/urn:nbn:de:gbv:46:1-1557"/>
-                  <head>Abbildung im Internet</head>
-              </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

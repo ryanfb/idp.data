@@ -77,6 +77,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.atla.com/digitalresources/summary.asp?componentid=23549&amp;count=4&amp;total=7&amp;pagenumber=1&amp;cl1=POXYUTSL&amp;keyword=&amp;title=&amp;description=&amp;subject"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -94,14 +97,7 @@
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.atla.com/digitalresources/summary.asp?componentid=23549&amp;count=4&amp;total=7&amp;pagenumber=1&amp;cl1=POXYUTSL&amp;keyword=&amp;title=&amp;description=&amp;subject"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

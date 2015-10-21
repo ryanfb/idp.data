@@ -78,6 +78,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.ucl.ac.uk/GrandLatMisc/hawara/papydata/phaw_076.htm"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -101,14 +104,7 @@
                <bibl type="publication" subtype="other">P.Haw. 76 descr. (S.36)</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.ucl.ac.uk/GrandLatMisc/hawara/papydata/phaw_076.htm"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

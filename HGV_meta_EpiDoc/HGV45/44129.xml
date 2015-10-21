@@ -74,6 +74,9 @@
          <change when="2013-04-05" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://petriecat.museums.ucl.ac.uk/dispatcher.aspx?action=search&amp;database=ChoiceUCLPC&amp;search=accession_number=%20%27UC32500%27"/>
+   </facsimile>
    <text>
       <body>
          <div type="edition">
@@ -98,14 +101,7 @@
                <bibl type="publication" subtype="other">O.Petr. 49</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://petriecat.museums.ucl.ac.uk/dispatcher.aspx?action=search&amp;database=ChoiceUCLPC&amp;search=accession_number=%20%27UC32500%27"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -80,6 +80,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.columbia.edu/cgi-bin/cul/apis/apis?mode=item&amp;key=hermitage.apis.11"/>
+      <graphic url="http://www.columbia.edu/cgi-bin/cul/apis/apis?mode=item&amp;key=hermitage.apis.12"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
@@ -105,18 +109,7 @@
                <bibl type="illustration">Z. 28 - 45: Tafel 1</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.columbia.edu/cgi-bin/cul/apis/apis?mode=item&amp;key=hermitage.apis.11"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://www.columbia.edu/cgi-bin/cul/apis/apis?mode=item&amp;key=hermitage.apis.12"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

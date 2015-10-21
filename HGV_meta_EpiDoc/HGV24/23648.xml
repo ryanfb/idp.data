@@ -74,6 +74,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://scriptorium.lib.duke.edu/papyrus/records/229r.html"/>
+      <graphic url="http://scriptorium.lib.duke.edu/papyrus/records/229v.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="edition">
@@ -101,18 +105,7 @@
                <bibl type="publication" subtype="other">Verso: P.Ammon I 21</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://scriptorium.lib.duke.edu/papyrus/records/229r.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://scriptorium.lib.duke.edu/papyrus/records/229v.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

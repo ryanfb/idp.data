@@ -77,6 +77,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri-erlangen.dl.uni-leipzig.de/receive/ErlPapyri_schrift_00005030"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -108,14 +111,7 @@
                <bibl type="illustration">APF 49, 2003, Tafel XXVI</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri-erlangen.dl.uni-leipzig.de/receive/ErlPapyri_schrift_00005030"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

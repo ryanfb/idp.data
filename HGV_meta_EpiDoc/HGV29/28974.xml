@@ -76,6 +76,9 @@
          <change when="2015-06-18" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.rmo.nl/collectie/zoeken?object=F+1949%2f4.3"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -112,14 +115,7 @@
                <bibl type="publication" subtype="other">P.Lugd. Bat. XIX 40 B</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.rmo.nl/collectie/zoeken?object=F+1949%2f4.3"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

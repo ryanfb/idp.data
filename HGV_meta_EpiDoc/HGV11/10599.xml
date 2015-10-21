@@ -79,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://wwwapp.cc.columbia.edu/ldpd/apis/search?mode=search&amp;allNoTrans=Tax-register&amp;institution=michigan&amp;beginDate=35&amp;beginDateEra=CE&amp;endDate=35&amp;endDateEra=CE&amp;sort=date&amp;resPerPage=25&amp;action=search&amp;p=1"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -119,14 +122,7 @@
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://wwwapp.cc.columbia.edu/ldpd/apis/search?mode=search&amp;allNoTrans=Tax-register&amp;institution=michigan&amp;beginDate=35&amp;beginDateEra=CE&amp;endDate=35&amp;endDateEra=CE&amp;sort=date&amp;resPerPage=25&amp;action=search&amp;p=1"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

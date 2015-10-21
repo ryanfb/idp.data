@@ -81,6 +81,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:432166?buttons=y"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -116,14 +119,7 @@
                <bibl type="translations">G.M. Browne, HSPh 76, 1972, S. 252-253</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:432166?buttons=y"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

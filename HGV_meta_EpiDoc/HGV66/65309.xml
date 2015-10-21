@@ -79,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.mfa.org/collections/object/tablet-of-wood-197708"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -102,14 +105,7 @@
                <bibl type="illustration">Romans and Barbarians, Abb. 233 (S. 199, Rückseite)</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.mfa.org/collections/object/tablet-of-wood-197708"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

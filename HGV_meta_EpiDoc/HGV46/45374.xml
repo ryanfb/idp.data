@@ -80,6 +80,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://digipap.uni-trier.de/s84/publ/13.jpg"/>
+      <graphic url="http://digipap.uni-trier.de/s84/publ/13vv.jpg"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
@@ -96,18 +100,7 @@
                <bibl type="illustration">APF 42, 1996, Tafel V, Abb. 6-7.</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://digipap.uni-trier.de/s84/publ/13.jpg"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://digipap.uni-trier.de/s84/publ/13vv.jpg"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

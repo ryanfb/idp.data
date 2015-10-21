@@ -76,6 +76,9 @@
          <change when="2013-04-05" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.ifao.egnet.net/bases/publications/fifao67/?os=142"/>
+   </facsimile>
    <text>
       <body>
          <div type="edition">
@@ -92,14 +95,7 @@
          <div type="bibliography" subtype="illustrations">
             <p>keine</p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.ifao.egnet.net/bases/publications/fifao67/?os=142"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

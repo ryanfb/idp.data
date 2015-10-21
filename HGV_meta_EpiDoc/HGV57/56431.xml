@@ -79,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://enriqueta.man.ac.uk:8081/BrowserInsight/BrowserInsight?cmd=start&amp;un=uman&amp;pw=est1824=&amp;cid=ManchesterDev-93-NA&amp;iia=0&amp;ig=Rylands%20Papyri&amp;isl=0&amp;gwisp=0%7CReference_number%7CReference%20number%7C1%7CGreek%20Papyrus%2012%7C1&amp;gwia=3&amp;gc=0"/>
+   </facsimile>
    <text>
       <body>
          <div type="edition">
@@ -105,14 +108,7 @@ should be added</p>
                <bibl type="publication" subtype="other">Sel. Pap. II 319</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://enriqueta.man.ac.uk:8081/BrowserInsight/BrowserInsight?cmd=start&amp;un=uman&amp;pw=est1824=&amp;cid=ManchesterDev-93-NA&amp;iia=0&amp;ig=Rylands%20Papyri&amp;isl=0&amp;gwisp=0%7CReference_number%7CReference%20number%7C1%7CGreek%20Papyrus%2012%7C1&amp;gwia=3&amp;gc=0"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

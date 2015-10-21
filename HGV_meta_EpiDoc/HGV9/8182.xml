@@ -75,6 +75,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://hollisclassic.harvard.edu/F?func=find-c&amp;CCL_TERM=sys=009965482"/>
+   </facsimile>
    <text>
       <body>
          <div type="bibliography" subtype="principalEdition">
@@ -95,14 +98,7 @@
                <bibl type="publication" subtype="other">M.Chr. 353</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://hollisclassic.harvard.edu/F?func=find-c&amp;CCL_TERM=sys=009965482"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

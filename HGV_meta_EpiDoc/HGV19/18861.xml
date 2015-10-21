@@ -78,6 +78,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://adore.ugent.be/view?q=001484516&amp;submit=zoek&amp;confirm_search=1&amp;language=en"/>
+      <graphic url="http://www.misha.fr/papyrus_bipab/pages_html/SB_III_7201.html"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -106,18 +110,7 @@
                <bibl type="illustration">RBA 4, 1925, Planche II (S. 651)</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://adore.ugent.be/view?q=001484516&amp;submit=zoek&amp;confirm_search=1&amp;language=en"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://www.misha.fr/papyrus_bipab/pages_html/SB_III_7201.html"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

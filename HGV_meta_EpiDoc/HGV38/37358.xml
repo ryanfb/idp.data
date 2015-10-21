@@ -71,6 +71,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://daten.digitale-sammlungen.de/bsb00059848/image_2"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -90,14 +93,7 @@
                <bibl type="illustration">Abb. 48</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://daten.digitale-sammlungen.de/bsb00059848/image_2"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

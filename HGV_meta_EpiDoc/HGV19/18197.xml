@@ -80,6 +80,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://papyri-erlangen.dl.uni-leipzig.de/receive/ErlPapyri_schrift_00003990"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -147,14 +150,7 @@
                <bibl type="translations">R.S. Bagnall - K.A. Worp, ZPE 28, 1978, S. 234-235 (Rekto)</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://papyri-erlangen.dl.uni-leipzig.de/receive/ErlPapyri_schrift_00003990"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

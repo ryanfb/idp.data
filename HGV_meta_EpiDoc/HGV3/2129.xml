@@ -83,6 +83,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;5;503"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -122,14 +125,7 @@
                <bibl type="illustration">Seider, Griechische Paläographie III, 1, II Abb. 42 (Z. 9-16) und II Abb. 42 a (Z. 17-19), S. 221</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;5;503"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

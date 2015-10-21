@@ -79,6 +79,9 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.metmuseum.org/Collections/search-the-collections/170016202"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -130,14 +133,7 @@
                <bibl type="translations">H.J. Bell, JEA 12, 1926, S. 273-274</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.metmuseum.org/Collections/search-the-collections/170016202"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

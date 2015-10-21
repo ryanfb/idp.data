@@ -77,6 +77,10 @@
          <change when="2013-04-05" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.ifao.egnet.net/bases/publications/fifao67/?os=441"/>
+      <graphic url="http://www.ifao.egnet.net/bases/publications/fifao67/?os=442"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -98,18 +102,7 @@
                <bibl type="illustration">S. 353</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.ifao.egnet.net/bases/publications/fifao67/?os=441"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://www.ifao.egnet.net/bases/publications/fifao67/?os=442"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>

@@ -80,6 +80,10 @@
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://www.psi-online.it/documents/psi;4;382"/>
+      <graphic url="http://www.psi-online.it/documents/psi;6;576"/>
+   </facsimile>
    <text>
       <body>
          <div type="commentary" subtype="general">
@@ -106,18 +110,7 @@
                <bibl type="publication" subtype="other">PSI IV 382 b (= P.Zen. Pestm. 75 d) + PSI VI 576</bibl>
             </listBibl>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;4;382"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-               <figure>
-                  <graphic url="http://www.psi-online.it/documents/psi;6;576"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-        </div>
+         
       </body>
    </text>
 </TEI>

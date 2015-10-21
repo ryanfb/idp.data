@@ -75,6 +75,9 @@
          <change when="2013-04-05" who="IDP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="http://130.132.81.65/PAPYRUSIMG/size4/D0000/z4202430.JPG"/>
+   </facsimile>
    <text>
       <body>
          <div type="edition">
@@ -93,14 +96,7 @@
                <bibl type="illustration">Tavola XXXII</bibl>
             </p>
          </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://130.132.81.65/PAPYRUSIMG/size4/D0000/z4202430.JPG"/>
-                  <head>Abbildung im Internet</head>
-               </figure>
-            </p>
-         </div>
+         
       </body>
    </text>
 </TEI>
