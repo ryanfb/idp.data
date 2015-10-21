@@ -76,7 +76,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Oxf.</title>
-                  <biblScope type="numbers">15</biblScope>
+                  <biblScope unit="numbers">15</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -84,12 +84,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">198</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">198</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">112</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">112</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -90,10 +90,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Köln</title>
-                  <biblScope type="volume">10</biblScope>
-                  <biblScope type="numbers">421</biblScope>
-                  <biblScope type="generic">Appendice 2</biblScope>
-                  <biblScope type="pages">(S. 202-204)</biblScope>
+                  <biblScope unit="volume">10</biblScope>
+                  <biblScope unit="numbers">421</biblScope>
+                  <biblScope unit="generic">Appendice 2</biblScope>
+                  <biblScope unit="pages">(S. 202-204)</biblScope>
                </bibl>
             </listBibl>
          </div>

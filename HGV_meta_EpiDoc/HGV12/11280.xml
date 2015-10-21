@@ -113,9 +113,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Giss. Bibl.</title>
-                  <biblScope type="volume">6</biblScope>
-                  <biblScope type="numbers">49</biblScope>
-                  <biblScope type="side">R
+                  <biblScope unit="volume">6</biblScope>
+                  <biblScope unit="numbers">49</biblScope>
+                  <biblScope unit="side">R
 </biblScope>
                </bibl>
             </listBibl>

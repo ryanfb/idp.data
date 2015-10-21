@@ -95,7 +95,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Vindob. Worp</title>
-                  <biblScope type="numbers">10</biblScope>
+                  <biblScope unit="numbers">10</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>

@@ -88,9 +88,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Strasb.</title>
-                  <biblScope type="volume">5</biblScope>
-                  <biblScope type="numbers">369</biblScope>
-                  <biblScope type="columns">Kol. II</biblScope>
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="numbers">369</biblScope>
+                  <biblScope unit="columns">Kol. II</biblScope>
                </bibl>
             </listBibl>
          </div>

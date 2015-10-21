@@ -89,7 +89,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Bawit Clackson</title>
-                  <biblScope type="numbers">82</biblScope>
+                  <biblScope unit="numbers">82</biblScope>
                </bibl>
             </listBibl>
          </div>

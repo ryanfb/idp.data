@@ -79,7 +79,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Petr.</title>
-                  <biblScope type="numbers">455</biblScope>
+                  <biblScope unit="numbers">455</biblScope>
                </bibl>
                <bibl>
                   <title>LDAB</title>

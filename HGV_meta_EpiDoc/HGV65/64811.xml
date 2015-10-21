@@ -86,7 +86,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Rain. Unterricht</title>
-                  <biblScope type="numbers">98</biblScope>
+                  <biblScope unit="numbers">98</biblScope>
                </bibl>
                <bibl>
                   <title>LDAB</title>

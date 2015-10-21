@@ -86,7 +86,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Bingen</title>
-                  <biblScope type="numbers">131</biblScope>
+                  <biblScope unit="numbers">131</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -94,8 +94,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">37</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">37</biblScope>
                </bibl>
             </listBibl>
          </div>

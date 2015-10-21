@@ -109,10 +109,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Haw.</title>
-                  <biblScope type="numbers">254</biblScope>
-                  <biblScope type="side">R</biblScope>
-                  <biblScope type="generic">- 256</biblScope>
-                  <biblScope type="pages">(S. 37)</biblScope>
+                  <biblScope unit="numbers">254</biblScope>
+                  <biblScope unit="side">R</biblScope>
+                  <biblScope unit="generic">- 256</biblScope>
+                  <biblScope unit="pages">(S. 37)</biblScope>
                </bibl>
             </listBibl>
          </div>

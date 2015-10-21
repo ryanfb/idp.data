@@ -94,7 +94,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Panop. Beatty</title>
-                  <biblScope type="pages">S. 153-156: Appendix 1</biblScope>
+                  <biblScope unit="pages">S. 153-156: Appendix 1</biblScope>
                </bibl>
             </listBibl>
          </div>

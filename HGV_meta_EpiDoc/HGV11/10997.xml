@@ -90,9 +90,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Flor.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">140</biblScope>
-                  <biblScope type="side">V</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">140</biblScope>
+                  <biblScope unit="side">V</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -100,12 +100,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">126</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">126</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">70</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">70</biblScope>
                </bibl>
             </listBibl>
          </div>

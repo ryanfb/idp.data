@@ -86,7 +86,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Tor. Amenothes</title>
-                  <biblScope type="numbers">9</biblScope>
+                  <biblScope unit="numbers">9</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>

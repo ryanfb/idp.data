@@ -90,7 +90,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Rainer Cent.</title>
-                  <biblScope type="numbers">53</biblScope>
+                  <biblScope unit="numbers">53</biblScope>
                </bibl>
             </listBibl>
          </div>

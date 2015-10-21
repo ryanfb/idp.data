@@ -95,7 +95,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Alex. Giss.</title>
-                  <biblScope type="numbers">18</biblScope>
+                  <biblScope unit="numbers">18</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>

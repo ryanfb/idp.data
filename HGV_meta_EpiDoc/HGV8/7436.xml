@@ -102,9 +102,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Petr.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">32</biblScope>
-                  <biblScope type="generic">(1)</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">32</biblScope>
+                  <biblScope unit="generic">(1)</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -112,12 +112,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">177</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">177</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">159</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">159</biblScope>
                </bibl>
             </listBibl>
          </div>

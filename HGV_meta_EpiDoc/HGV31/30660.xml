@@ -87,8 +87,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Berl. Möller</title>
-                  <biblScope type="numbers">13</biblScope>
-                  <biblScope type="side">V</biblScope>
+                  <biblScope unit="numbers">13</biblScope>
+                  <biblScope unit="side">V</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -96,8 +96,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">63</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">63</biblScope>
                </bibl>
             </listBibl>
          </div>

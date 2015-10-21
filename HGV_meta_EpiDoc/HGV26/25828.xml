@@ -78,7 +78,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Fuad I Univ.</title>
-                  <biblScope type="numbers">26</biblScope>
+                  <biblScope unit="numbers">26</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -86,8 +86,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">89</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">89</biblScope>
                </bibl>
             </listBibl>
          </div>

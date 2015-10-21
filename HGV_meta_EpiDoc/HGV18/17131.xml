@@ -87,8 +87,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Sarap.</title>
-                  <biblScope type="numbers">28</biblScope>
-                  <biblScope type="generic">ter</biblScope>
+                  <biblScope unit="numbers">28</biblScope>
+                  <biblScope unit="generic">ter</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -96,8 +96,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">388f.</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">388f.</biblScope>
                </bibl>
             </listBibl>
          </div>

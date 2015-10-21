@@ -81,7 +81,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Frange</title>
-                  <biblScope type="numbers">337</biblScope>
+                  <biblScope unit="numbers">337</biblScope>
                </bibl>
             </listBibl>
          </div>

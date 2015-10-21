@@ -76,10 +76,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Köln</title>
-                  <biblScope type="volume">13</biblScope>
-                  <biblScope type="numbers">539</biblScope>
-                  <biblScope type="side">R</biblScope>
-                  <biblScope type="columns">Kol. I</biblScope>
+                  <biblScope unit="volume">13</biblScope>
+                  <biblScope unit="numbers">539</biblScope>
+                  <biblScope unit="side">R</biblScope>
+                  <biblScope unit="columns">Kol. I</biblScope>
                </bibl>
             </listBibl>
          </div>

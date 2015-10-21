@@ -79,7 +79,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Aberd.</title>
-                  <biblScope type="numbers">196</biblScope>
+                  <biblScope unit="numbers">196</biblScope>
                </bibl>
             </listBibl>
          </div>

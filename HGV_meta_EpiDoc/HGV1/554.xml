@@ -89,7 +89,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">W.Chr.</title>
-                  <biblScope type="numbers">50</biblScope>
+                  <biblScope unit="numbers">50</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>
@@ -101,8 +101,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">289f.</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">289f.</biblScope>
                </bibl>
             </listBibl>
          </div>

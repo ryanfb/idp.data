@@ -83,7 +83,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Cair. Cat.</title>
-                  <biblScope type="numbers">9587</biblScope>
+                  <biblScope unit="numbers">9587</biblScope>
                </bibl>
             </listBibl>
          </div>

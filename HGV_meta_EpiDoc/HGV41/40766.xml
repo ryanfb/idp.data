@@ -89,8 +89,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Haw.</title>
-                  <biblScope type="numbers">30</biblScope>
-                  <biblScope type="pages">S. 36</biblScope>
+                  <biblScope unit="numbers">30</biblScope>
+                  <biblScope unit="pages">S. 36</biblScope>
                </bibl>
             </listBibl>
          </div>

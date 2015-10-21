@@ -76,8 +76,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Strasb.</title>
-                  <biblScope type="volume">8</biblScope>
-                  <biblScope type="numbers">778</biblScope>
+                  <biblScope unit="volume">8</biblScope>
+                  <biblScope unit="numbers">778</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -85,12 +85,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">330</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">330</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">257</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">257</biblScope>
                </bibl>
             </listBibl>
          </div>

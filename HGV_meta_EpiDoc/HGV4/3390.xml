@@ -84,7 +84,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Enteux.</title>
-                  <biblScope type="generic">C</biblScope>
+                  <biblScope unit="generic">C</biblScope>
                </bibl>
             </listBibl>
          </div>

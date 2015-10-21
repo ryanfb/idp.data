@@ -90,10 +90,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Prag.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">236</biblScope>
-                  <biblScope type="side">V</biblScope>
-                  <biblScope type="columns">Kol. VIII - IX</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">236</biblScope>
+                  <biblScope unit="side">V</biblScope>
+                  <biblScope unit="columns">Kol. VIII - IX</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -80,7 +80,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Amst.</title>
-                  <biblScope type="numbers">17</biblScope>
+                  <biblScope unit="numbers">17</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -88,8 +88,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">514</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">514</biblScope>
                </bibl>
             </listBibl>
          </div>

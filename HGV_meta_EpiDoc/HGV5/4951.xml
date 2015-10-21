@@ -89,8 +89,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">8</biblScope>
-                  <biblScope type="numbers">1872</biblScope>
+                  <biblScope unit="volume">8</biblScope>
+                  <biblScope unit="numbers">1872</biblScope>
                </bibl>
             </listBibl>
          </div>

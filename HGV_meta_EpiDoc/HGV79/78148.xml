@@ -83,9 +83,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Bon.</title>
-                  <biblScope type="numbers">12</biblScope>
-                  <biblScope type="generic">i</biblScope>
-                  <biblScope type="generic">(R)</biblScope>
+                  <biblScope unit="numbers">12</biblScope>
+                  <biblScope unit="generic">i</biblScope>
+                  <biblScope unit="generic">(R)</biblScope>
                </bibl>
             </listBibl>
          </div>

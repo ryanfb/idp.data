@@ -88,7 +88,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Dura</title>
-                  <biblScope type="numbers">110</biblScope>
+                  <biblScope unit="numbers">110</biblScope>
                </bibl>
             </listBibl>
          </div>

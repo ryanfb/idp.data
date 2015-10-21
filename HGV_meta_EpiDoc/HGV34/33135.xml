@@ -79,9 +79,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Flor.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">371</biblScope>
-                  <biblScope type="lines">Z. 1 - 14</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">371</biblScope>
+                  <biblScope unit="lines">Z. 1 - 14</biblScope>
                </bibl>
             </listBibl>
          </div>

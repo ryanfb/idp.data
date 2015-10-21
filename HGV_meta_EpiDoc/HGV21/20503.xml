@@ -89,9 +89,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Ross. Georg.</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="numbers">Anhang</biblScope>
-                  <biblScope type="pages">S. 100</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="numbers">Anhang</biblScope>
+                  <biblScope unit="pages">S. 100</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -84,9 +84,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Douch.</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="numbers">503</biblScope>
-                  <biblScope type="generic">a</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="numbers">503</biblScope>
+                  <biblScope unit="generic">a</biblScope>
                </bibl>
             </listBibl>
          </div>

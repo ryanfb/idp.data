@@ -76,9 +76,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Harr.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">229</biblScope>
-                  <biblScope type="side">R</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">229</biblScope>
+                  <biblScope unit="side">R</biblScope>
                </bibl>
             </listBibl>
          </div>

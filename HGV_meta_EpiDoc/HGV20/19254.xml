@@ -88,7 +88,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Panop. Beatty</title>
-                  <biblScope type="pages">S.156-157: Appendix 2</biblScope>
+                  <biblScope unit="pages">S.156-157: Appendix 2</biblScope>
                </bibl>
             </listBibl>
          </div>

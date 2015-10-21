@@ -93,7 +93,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Kellis</title>
-                  <biblScope type="numbers">85</biblScope>
+                  <biblScope unit="numbers">85</biblScope>
                </bibl>
             </listBibl>
          </div>

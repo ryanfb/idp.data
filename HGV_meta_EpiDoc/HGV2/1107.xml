@@ -84,8 +84,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Cair. Zen.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">59469</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">59469</biblScope>
                </bibl>
             </listBibl>
          </div>

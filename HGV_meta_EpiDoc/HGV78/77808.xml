@@ -87,7 +87,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Wilck.</title>
-                  <biblScope type="numbers">1476</biblScope>
+                  <biblScope unit="numbers">1476</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -95,12 +95,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">304</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">304</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">328</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">328</biblScope>
                </bibl>
             </listBibl>
          </div>

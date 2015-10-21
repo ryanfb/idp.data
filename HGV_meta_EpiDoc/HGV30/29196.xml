@@ -91,10 +91,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Bodl.</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="side">R</biblScope>
-                  <biblScope type="generic">MS. Gr. class. c. 227</biblScope>
-                  <biblScope type="generic">(P) b</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="side">R</biblScope>
+                  <biblScope unit="generic">MS. Gr. class. c. 227</biblScope>
+                  <biblScope unit="generic">(P) b</biblScope>
                </bibl>
             </listBibl>
          </div>

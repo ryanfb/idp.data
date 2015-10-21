@@ -85,10 +85,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Oxy.</title>
-                  <biblScope type="volume">65</biblScope>
-                  <biblScope type="numbers">4486</biblScope>
-                  <biblScope type="side">R</biblScope>
-                  <biblScope type="lines">Z. 5 - 8</biblScope>
+                  <biblScope unit="volume">65</biblScope>
+                  <biblScope unit="numbers">4486</biblScope>
+                  <biblScope unit="side">R</biblScope>
+                  <biblScope unit="lines">Z. 5 - 8</biblScope>
                </bibl>
             </listBibl>
          </div>

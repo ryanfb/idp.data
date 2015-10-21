@@ -91,7 +91,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Vatic. Aphrod.</title>
-                  <biblScope type="numbers">26</biblScope>
+                  <biblScope unit="numbers">26</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -83,8 +83,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">ChLA</title>
-                  <biblScope type="volume">43</biblScope>
-                  <biblScope type="numbers">1242</biblScope>
+                  <biblScope unit="volume">43</biblScope>
+                  <biblScope unit="numbers">1242</biblScope>
                </bibl>
             </listBibl>
          </div>

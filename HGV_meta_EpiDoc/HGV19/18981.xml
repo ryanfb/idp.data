@@ -91,9 +91,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Cair. Masp.</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">67006</biblScope>
-                  <biblScope type="side">R</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">67006</biblScope>
+                  <biblScope unit="side">R</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -101,8 +101,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">52</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">52</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -85,7 +85,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Eleph. DAIK</title>
-                  <biblScope type="numbers">223</biblScope>
+                  <biblScope unit="numbers">223</biblScope>
                </bibl>
             </listBibl>
          </div>

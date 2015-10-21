@@ -90,7 +90,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Fay.</title>
-                  <biblScope type="numbers">193</biblScope>
+                  <biblScope unit="numbers">193</biblScope>
                </bibl>
             </listBibl>
          </div>

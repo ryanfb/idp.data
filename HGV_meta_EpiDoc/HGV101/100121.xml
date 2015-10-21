@@ -85,9 +85,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Ammon</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">16</biblScope>
-                  <biblScope type="fragments">Fr. c</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">16</biblScope>
+                  <biblScope unit="fragments">Fr. c</biblScope>
                </bibl>
             </listBibl>
          </div>

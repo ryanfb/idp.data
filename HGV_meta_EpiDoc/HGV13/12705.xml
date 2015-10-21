@@ -88,9 +88,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Petaus</title>
-                  <biblScope type="numbers">93</biblScope>
-                  <biblScope type="side">R</biblScope>
-                  <biblScope type="lines">Z. 1 - 99</biblScope>
+                  <biblScope unit="numbers">93</biblScope>
+                  <biblScope unit="side">R</biblScope>
+                  <biblScope unit="lines">Z. 1 - 99</biblScope>
                </bibl>
             </listBibl>
          </div>

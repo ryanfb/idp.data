@@ -92,7 +92,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Did.</title>
-                  <biblScope type="numbers">207</biblScope>
+                  <biblScope unit="numbers">207</biblScope>
                </bibl>
             </listBibl>
          </div>

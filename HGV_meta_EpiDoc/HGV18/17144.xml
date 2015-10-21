@@ -87,8 +87,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Sarap.</title>
-                  <biblScope type="numbers">48</biblScope>
-                  <biblScope type="generic">ter</biblScope>
+                  <biblScope unit="numbers">48</biblScope>
+                  <biblScope unit="generic">ter</biblScope>
                </bibl>
             </listBibl>
          </div>

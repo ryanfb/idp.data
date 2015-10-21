@@ -75,9 +75,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Par.</title>
-                  <biblScope type="numbers">70</biblScope>
-                  <biblScope type="generic">bis</biblScope>
-                  <biblScope type="pages">(S. 420 - 421)</biblScope>
+                  <biblScope unit="numbers">70</biblScope>
+                  <biblScope unit="generic">bis</biblScope>
+                  <biblScope unit="pages">(S. 420 - 421)</biblScope>
                </bibl>
             </listBibl>
          </div>

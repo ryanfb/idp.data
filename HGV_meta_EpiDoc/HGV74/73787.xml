@@ -84,8 +84,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Claud.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">605</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">605</biblScope>
                </bibl>
             </listBibl>
          </div>

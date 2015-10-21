@@ -86,9 +86,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Amh.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">170</biblScope>
-                  <biblScope type="side">R</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">170</biblScope>
+                  <biblScope unit="side">R</biblScope>
                </bibl>
             </listBibl>
          </div>

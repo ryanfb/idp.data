@@ -84,8 +84,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Flor.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">378</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">378</biblScope>
                </bibl>
             </listBibl>
          </div>

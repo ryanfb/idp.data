@@ -86,7 +86,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.dem. Chic. Haw.</title>
-                  <biblScope type="generic">Appendix</biblScope>
+                  <biblScope unit="generic">Appendix</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>

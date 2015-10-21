@@ -85,9 +85,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lugd. Bat.</title>
-                  <biblScope type="volume">25</biblScope>
-                  <biblScope type="numbers">42</biblScope>
-                  <biblScope type="lines">Z. 1 - 19</biblScope>
+                  <biblScope unit="volume">25</biblScope>
+                  <biblScope unit="numbers">42</biblScope>
+                  <biblScope unit="lines">Z. 1 - 19</biblScope>
                </bibl>
             </listBibl>
          </div>

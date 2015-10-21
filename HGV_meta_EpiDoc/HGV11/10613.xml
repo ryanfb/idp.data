@@ -111,7 +111,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Customs</title>
-                  <biblScope type="numbers">188</biblScope>
+                  <biblScope unit="numbers">188</biblScope>
                </bibl>
             </listBibl>
          </div>

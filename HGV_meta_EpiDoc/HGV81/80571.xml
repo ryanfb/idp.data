@@ -78,7 +78,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Heid.</title>
-                  <biblScope type="numbers">365</biblScope>
+                  <biblScope unit="numbers">365</biblScope>
                </bibl>
             </listBibl>
          </div>

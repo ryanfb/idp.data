@@ -89,8 +89,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">10</biblScope>
-                  <biblScope type="numbers">10298</biblScope>
+                  <biblScope unit="volume">10</biblScope>
+                  <biblScope unit="numbers">10298</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>

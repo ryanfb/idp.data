@@ -76,9 +76,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Berl. Möller</title>
-                  <biblScope type="numbers">10</biblScope>
-                  <biblScope type="side">R</biblScope>
-                  <biblScope type="columns">Kol. I</biblScope>
+                  <biblScope unit="numbers">10</biblScope>
+                  <biblScope unit="side">R</biblScope>
+                  <biblScope unit="columns">Kol. I</biblScope>
                </bibl>
             </listBibl>
          </div>

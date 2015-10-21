@@ -83,10 +83,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Prag.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">126</biblScope>
-                  <biblScope type="side">R</biblScope>
-                  <biblScope type="generic">Einleitung</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">126</biblScope>
+                  <biblScope unit="side">R</biblScope>
+                  <biblScope unit="generic">Einleitung</biblScope>
                </bibl>
             </listBibl>
          </div>

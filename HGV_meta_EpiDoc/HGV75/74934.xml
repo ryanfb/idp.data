@@ -83,7 +83,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Masada</title>
-                  <biblScope type="numbers">792</biblScope>
+                  <biblScope unit="numbers">792</biblScope>
                </bibl>
             </listBibl>
          </div>

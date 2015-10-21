@@ -83,8 +83,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Merton</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">102</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">102</biblScope>
                </bibl>
             </listBibl>
          </div>

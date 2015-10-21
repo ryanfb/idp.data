@@ -89,8 +89,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Strasb.</title>
-                  <biblScope type="volume">9</biblScope>
-                  <biblScope type="numbers">866</biblScope>
+                  <biblScope unit="volume">9</biblScope>
+                  <biblScope unit="numbers">866</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -98,12 +98,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">257f.</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">257f.</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">209 (zu SB XIV 11354) und 264</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">209 (zu SB XIV 11354) und 264</biblScope>
                </bibl>
             </listBibl>
          </div>

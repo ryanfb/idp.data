@@ -91,7 +91,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Aktenbuch</title>
-                  <biblScope type="generic">Pagina 28</biblScope>
+                  <biblScope unit="generic">Pagina 28</biblScope>
                </bibl>
             </listBibl>
          </div>

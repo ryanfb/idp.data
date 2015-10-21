@@ -102,7 +102,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">W.Chr.</title>
-                  <biblScope type="numbers">176</biblScope>
+                  <biblScope unit="numbers">176</biblScope>
                </bibl>
             </listBibl>
          </div>

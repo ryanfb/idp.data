@@ -81,7 +81,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Waqfa</title>
-                  <biblScope type="numbers">76</biblScope>
+                  <biblScope unit="numbers">76</biblScope>
                </bibl>
             </listBibl>
          </div>

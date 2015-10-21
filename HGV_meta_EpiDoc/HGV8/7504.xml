@@ -89,9 +89,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Petr.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">61</biblScope>
-                  <biblScope type="generic">(j)</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">61</biblScope>
+                  <biblScope unit="generic">(j)</biblScope>
                </bibl>
             </listBibl>
          </div>

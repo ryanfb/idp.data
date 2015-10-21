@@ -97,9 +97,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Tebt.</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">108</biblScope>
-                  <biblScope type="side">V</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">108</biblScope>
+                  <biblScope unit="side">V</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -107,8 +107,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">354</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">354</biblScope>
                </bibl>
             </listBibl>
          </div>

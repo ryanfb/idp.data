@@ -86,7 +86,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">T.BM Arlt</title>
-                  <biblScope type="numbers">41</biblScope>
+                  <biblScope unit="numbers">41</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>

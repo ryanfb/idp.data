@@ -94,9 +94,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Tebt.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="fascicle">.2</biblScope>
-                  <biblScope type="numbers">1043</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="fascicle">.2</biblScope>
+                  <biblScope unit="numbers">1043</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -104,8 +104,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">283</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">283</biblScope>
                </bibl>
             </listBibl>
          </div>

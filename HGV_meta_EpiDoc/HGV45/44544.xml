@@ -92,9 +92,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Gen.</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="fascicle"> (2e éd.)</biblScope>
-                  <biblScope type="numbers">21</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="fascicle"> (2e éd.)</biblScope>
+                  <biblScope unit="numbers">21</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -102,8 +102,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">172</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">172</biblScope>
                </bibl>
             </listBibl>
          </div>

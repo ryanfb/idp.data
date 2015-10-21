@@ -81,10 +81,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Bodl.</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">58</biblScope>
-                  <biblScope type="generic">unterer Text</biblScope>
-                  <biblScope type="generic">(ediert)</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">58</biblScope>
+                  <biblScope unit="generic">unterer Text</biblScope>
+                  <biblScope unit="generic">(ediert)</biblScope>
                </bibl>
             </listBibl>
          </div>

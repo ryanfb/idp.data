@@ -100,8 +100,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Berl. Frisk</title>
-                  <biblScope type="numbers">1</biblScope>
-                  <biblScope type="columns">Kol. 30</biblScope>
+                  <biblScope unit="numbers">1</biblScope>
+                  <biblScope unit="columns">Kol. 30</biblScope>
                </bibl>
             </listBibl>
          </div>

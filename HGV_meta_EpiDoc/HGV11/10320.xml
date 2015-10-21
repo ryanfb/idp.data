@@ -94,7 +94,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Cair. Isid.</title>
-                  <biblScope type="numbers">112</biblScope>
+                  <biblScope unit="numbers">112</biblScope>
                </bibl>
             </listBibl>
          </div>

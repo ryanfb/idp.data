@@ -85,7 +85,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Nessana</title>
-                  <biblScope type="numbers">16</biblScope>
+                  <biblScope unit="numbers">16</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -93,8 +93,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">60</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">60</biblScope>
                </bibl>
             </listBibl>
          </div>

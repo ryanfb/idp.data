@@ -78,7 +78,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">C.Étiq. Mom.</title>
-                  <biblScope type="numbers">1639</biblScope>
+                  <biblScope unit="numbers">1639</biblScope>
                </bibl>
             </listBibl>
          </div>

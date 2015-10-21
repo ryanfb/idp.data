@@ -80,7 +80,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Oxf.</title>
-                  <biblScope type="numbers">19</biblScope>
+                  <biblScope unit="numbers">19</biblScope>
                </bibl>
             </listBibl>
          </div>

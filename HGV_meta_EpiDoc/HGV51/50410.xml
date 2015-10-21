@@ -89,7 +89,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Theb.</title>
-                  <biblScope type="numbers">28</biblScope>
+                  <biblScope unit="numbers">28</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>

@@ -83,10 +83,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SPP</title>
-                  <biblScope type="volume">5</biblScope>
-                  <biblScope type="numbers">119</biblScope>
-                  <biblScope type="side">R</biblScope>
-                  <biblScope type="generic">IV</biblScope>
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="numbers">119</biblScope>
+                  <biblScope unit="side">R</biblScope>
+                  <biblScope unit="generic">IV</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -94,8 +94,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">445</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">445</biblScope>
                </bibl>
             </listBibl>
          </div>

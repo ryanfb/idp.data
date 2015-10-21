@@ -85,8 +85,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Eleph.</title>
-                  <biblScope type="pages">S. 83</biblScope>
-                  <biblScope type="number">Nr. 1</biblScope>
+                  <biblScope unit="pages">S. 83</biblScope>
+                  <biblScope unit="number">Nr. 1</biblScope>
                </bibl>
             </listBibl>
          </div>

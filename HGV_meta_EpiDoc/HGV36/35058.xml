@@ -89,7 +89,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Vindob. Sijp.</title>
-                  <biblScope type="numbers">9</biblScope>
+                  <biblScope unit="numbers">9</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -97,8 +97,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">152</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">152</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -78,7 +78,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Leeds Museum</title>
-                  <biblScope type="numbers">66</biblScope>
+                  <biblScope unit="numbers">66</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -86,8 +86,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">168</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">168</biblScope>
                </bibl>
             </listBibl>
          </div>

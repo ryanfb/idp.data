@@ -85,7 +85,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Abinn.</title>
-                  <biblScope type="numbers">64</biblScope>
+                  <biblScope unit="numbers">64</biblScope>
                </bibl>
             </listBibl>
          </div>

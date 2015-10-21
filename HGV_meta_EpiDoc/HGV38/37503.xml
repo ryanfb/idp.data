@@ -79,7 +79,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Berl. Sarisch.</title>
-                  <biblScope type="numbers">22</biblScope>
+                  <biblScope unit="numbers">22</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -87,8 +87,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">43</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">43</biblScope>
                </bibl>
             </listBibl>
          </div>

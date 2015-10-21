@@ -81,7 +81,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Narm. 2006</title>
-                  <biblScope type="numbers">91</biblScope>
+                  <biblScope unit="numbers">91</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -92,9 +92,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lond.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">1279</biblScope>
-                  <biblScope type="pages">(S. LXXI)</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">1279</biblScope>
+                  <biblScope unit="pages">(S. LXXI)</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -102,8 +102,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">189</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">189</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -84,10 +84,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lond.</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">113</biblScope>
-                  <biblScope type="generic">14 b</biblScope>
-                  <biblScope type="pages">(S. XVIII)</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">113</biblScope>
+                  <biblScope unit="generic">14 b</biblScope>
+                  <biblScope unit="pages">(S. XVIII)</biblScope>
                </bibl>
                <bibl>
                   <title>LDAB</title>

@@ -87,7 +87,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Wilck.</title>
-                  <biblScope type="numbers">322</biblScope>
+                  <biblScope unit="numbers">322</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>
@@ -99,8 +99,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">304</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">304</biblScope>
                </bibl>
             </listBibl>
          </div>

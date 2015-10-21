@@ -85,11 +85,11 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Petr.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">42</biblScope>
-                  <biblScope type="generic">H</biblScope>
-                  <biblScope type="generic">(8)</biblScope>
-                  <biblScope type="generic">(d)</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">42</biblScope>
+                  <biblScope unit="generic">H</biblScope>
+                  <biblScope unit="generic">(8)</biblScope>
+                  <biblScope unit="generic">(d)</biblScope>
                </bibl>
             </listBibl>
          </div>

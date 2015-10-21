@@ -88,7 +88,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Iand. Zen.</title>
-                  <biblScope type="numbers">72</biblScope>
+                  <biblScope unit="numbers">72</biblScope>
                </bibl>
             </listBibl>
          </div>

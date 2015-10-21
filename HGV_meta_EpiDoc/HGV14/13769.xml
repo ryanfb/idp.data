@@ -90,10 +90,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PSI</title>
-                  <biblScope type="volume">9</biblScope>
-                  <biblScope type="numbers">1055</biblScope>
-                  <biblScope type="side">R</biblScope>
-                  <biblScope type="generic">a</biblScope>
+                  <biblScope unit="volume">9</biblScope>
+                  <biblScope unit="numbers">1055</biblScope>
+                  <biblScope unit="side">R</biblScope>
+                  <biblScope unit="generic">a</biblScope>
                </bibl>
             </listBibl>
          </div>

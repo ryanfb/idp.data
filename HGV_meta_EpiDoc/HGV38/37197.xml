@@ -95,8 +95,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">CPR</title>
-                  <biblScope type="volume">14</biblScope>
-                  <biblScope type="numbers">4</biblScope>
+                  <biblScope unit="volume">14</biblScope>
+                  <biblScope unit="numbers">4</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -78,7 +78,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">T.Mom. Louvre</title>
-                  <biblScope type="numbers">844</biblScope>
+                  <biblScope unit="numbers">844</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>

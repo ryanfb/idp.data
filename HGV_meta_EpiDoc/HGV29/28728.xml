@@ -86,9 +86,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Iand.</title>
-                  <biblScope type="volume">8</biblScope>
-                  <biblScope type="numbers">148</biblScope>
-                  <biblScope type="side">R</biblScope>
+                  <biblScope unit="volume">8</biblScope>
+                  <biblScope unit="numbers">148</biblScope>
+                  <biblScope unit="side">R</biblScope>
                </bibl>
             </listBibl>
          </div>

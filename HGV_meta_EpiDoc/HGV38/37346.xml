@@ -94,7 +94,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Thomas</title>
-                  <biblScope type="numbers">28</biblScope>
+                  <biblScope unit="numbers">28</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -102,12 +102,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">130</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">130</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">284</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">284</biblScope>
                </bibl>
             </listBibl>
          </div>

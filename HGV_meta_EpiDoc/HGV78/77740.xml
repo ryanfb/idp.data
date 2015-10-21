@@ -83,7 +83,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Wilck.</title>
-                  <biblScope type="numbers">1409</biblScope>
+                  <biblScope unit="numbers">1409</biblScope>
                </bibl>
             </listBibl>
          </div>

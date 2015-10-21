@@ -83,9 +83,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Berl. Bibl.</title>
-                  <biblScope type="numbers">18</biblScope>
-                  <biblScope type="side">R</biblScope>
-                  <biblScope type="generic">a und b</biblScope>
+                  <biblScope unit="numbers">18</biblScope>
+                  <biblScope unit="side">R</biblScope>
+                  <biblScope unit="generic">a und b</biblScope>
                </bibl>
             </listBibl>
          </div>

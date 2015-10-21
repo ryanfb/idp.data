@@ -89,9 +89,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Graux</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">30</biblScope>
-                  <biblScope type="columns">Kol. 3</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">30</biblScope>
+                  <biblScope unit="columns">Kol. 3</biblScope>
                </bibl>
             </listBibl>
          </div>

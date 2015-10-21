@@ -95,8 +95,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Cair. Zen.</title>
-                  <biblScope type="volume">5</biblScope>
-                  <biblScope type="numbers">59851</biblScope>
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="numbers">59851</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -104,8 +104,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">38</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">38</biblScope>
                </bibl>
             </listBibl>
          </div>

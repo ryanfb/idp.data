@@ -80,8 +80,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Jud. Des. Misc.</title>
-                  <biblScope type="fascicle">A</biblScope>
-                  <biblScope type="numbers">19</biblScope>
+                  <biblScope unit="fascicle">A</biblScope>
+                  <biblScope unit="numbers">19</biblScope>
                </bibl>
             </listBibl>
          </div>

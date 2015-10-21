@@ -88,9 +88,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Mil. Vogl.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">69</biblScope>
-                  <biblScope type="generic">B</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">69</biblScope>
+                  <biblScope unit="generic">B</biblScope>
                </bibl>
             </listBibl>
          </div>

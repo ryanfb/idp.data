@@ -86,8 +86,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Par.</title>
-                  <biblScope type="numbers">19</biblScope>
-                  <biblScope type="pages">(S. 237)</biblScope>
+                  <biblScope unit="numbers">19</biblScope>
+                  <biblScope unit="pages">(S. 237)</biblScope>
                </bibl>
             </listBibl>
          </div>

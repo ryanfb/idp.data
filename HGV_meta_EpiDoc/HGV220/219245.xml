@@ -85,9 +85,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Monts. Roca</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="numbers">70</biblScope>
-                  <biblScope type="generic">Document 1</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="numbers">70</biblScope>
+                  <biblScope unit="generic">Document 1</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -88,9 +88,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">UPZ</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="pages">S. 604</biblScope>
-                  <biblScope type="number">Nr. 6</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="pages">S. 604</biblScope>
+                  <biblScope unit="number">Nr. 6</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>

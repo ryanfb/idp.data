@@ -114,7 +114,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Amst.</title>
-                  <biblScope type="numbers">48</biblScope>
+                  <biblScope unit="numbers">48</biblScope>
                </bibl>
             </listBibl>
          </div>

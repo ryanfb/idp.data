@@ -98,9 +98,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Berl. Leihg.</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">16</biblScope>
-                  <biblScope type="generic">C</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">16</biblScope>
+                  <biblScope unit="generic">C</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -99,7 +99,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Poethke</title>
-                  <biblScope type="numbers">29</biblScope>
+                  <biblScope unit="numbers">29</biblScope>
                </bibl>
             </listBibl>
          </div>

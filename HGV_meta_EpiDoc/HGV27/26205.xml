@@ -86,10 +86,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">20</biblScope>
-                  <biblScope type="numbers">14275</biblScope>
-                  <biblScope type="generic">Brieffragment</biblScope>
-                  <biblScope type="number">Nr. 23</biblScope>
+                  <biblScope unit="volume">20</biblScope>
+                  <biblScope unit="numbers">14275</biblScope>
+                  <biblScope unit="generic">Brieffragment</biblScope>
+                  <biblScope unit="number">Nr. 23</biblScope>
                </bibl>
             </listBibl>
          </div>

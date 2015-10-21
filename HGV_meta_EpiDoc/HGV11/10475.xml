@@ -110,10 +110,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Col.</title>
-                  <biblScope type="volume">5</biblScope>
-                  <biblScope type="numbers">1</biblScope>
-                  <biblScope type="side">Verso</biblScope>
-                  <biblScope type="generic">6</biblScope>
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="numbers">1</biblScope>
+                  <biblScope unit="side">Verso</biblScope>
+                  <biblScope unit="generic">6</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -121,8 +121,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">64</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">64</biblScope>
                </bibl>
             </listBibl>
          </div>

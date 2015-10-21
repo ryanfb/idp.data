@@ -87,10 +87,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SPP</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="fascicle">2.1</biblScope>
-                  <biblScope type="numbers">24</biblScope>
-                  <biblScope type="generic">B</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="fascicle">2.1</biblScope>
+                  <biblScope unit="numbers">24</biblScope>
+                  <biblScope unit="generic">B</biblScope>
                </bibl>
             </listBibl>
          </div>

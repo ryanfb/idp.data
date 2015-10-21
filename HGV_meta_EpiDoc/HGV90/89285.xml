@@ -93,8 +93,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Heid.</title>
-                  <biblScope type="volume">9</biblScope>
-                  <biblScope type="numbers">430</biblScope>
+                  <biblScope unit="volume">9</biblScope>
+                  <biblScope unit="numbers">430</biblScope>
                </bibl>
             </listBibl>
          </div>

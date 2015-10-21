@@ -84,7 +84,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Charite</title>
-                  <biblScope type="generic">Anhang</biblScope>
+                  <biblScope unit="generic">Anhang</biblScope>
                </bibl>
             </listBibl>
          </div>

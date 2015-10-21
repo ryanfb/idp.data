@@ -89,11 +89,11 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Petr.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">119</biblScope>
-                  <biblScope type="generic">+</biblScope>
-                  <biblScope type="generic">(a) +</biblScope>
-                  <biblScope type="generic">(b)</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">119</biblScope>
+                  <biblScope unit="generic">+</biblScope>
+                  <biblScope unit="generic">(a) +</biblScope>
+                  <biblScope unit="generic">(b)</biblScope>
                </bibl>
             </listBibl>
          </div>

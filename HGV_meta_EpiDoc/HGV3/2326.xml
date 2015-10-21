@@ -88,9 +88,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Col.</title>
-                  <biblScope type="volume">4</biblScope>
-                  <biblScope type="numbers">115</biblScope>
-                  <biblScope type="generic">t</biblScope>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="numbers">115</biblScope>
+                  <biblScope unit="generic">t</biblScope>
                </bibl>
             </listBibl>
          </div>

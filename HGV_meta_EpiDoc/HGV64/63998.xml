@@ -84,9 +84,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Hib.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">232</biblScope>
-                  <biblScope type="side">R</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">232</biblScope>
+                  <biblScope unit="side">R</biblScope>
                </bibl>
                <bibl>
                   <title>LDAB</title>

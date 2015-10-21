@@ -91,7 +91,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Berl. Salm.</title>
-                  <biblScope type="numbers">20</biblScope>
+                  <biblScope unit="numbers">20</biblScope>
                </bibl>
             </listBibl>
          </div>

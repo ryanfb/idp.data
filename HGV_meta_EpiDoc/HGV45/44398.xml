@@ -90,7 +90,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Count</title>
-                  <biblScope type="numbers">19</biblScope>
+                  <biblScope unit="numbers">19</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>

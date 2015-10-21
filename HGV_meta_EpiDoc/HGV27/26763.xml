@@ -92,8 +92,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">16</biblScope>
-                  <biblScope type="numbers">13068</biblScope>
+                  <biblScope unit="volume">16</biblScope>
+                  <biblScope unit="numbers">13068</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -101,8 +101,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">297</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">297</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -85,8 +85,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Kell.</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">30</biblScope>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="numbers">30</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -94,8 +94,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">100</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">100</biblScope>
                </bibl>
             </listBibl>
          </div>

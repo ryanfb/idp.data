@@ -83,7 +83,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Theon.</title>
-                  <biblScope type="generic">Appendix C</biblScope>
+                  <biblScope unit="generic">Appendix C</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -94,8 +94,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">6</biblScope>
-                  <biblScope type="numbers">1251</biblScope>
+                  <biblScope unit="volume">6</biblScope>
+                  <biblScope unit="numbers">1251</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -103,8 +103,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">44</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">44</biblScope>
                </bibl>
             </listBibl>
          </div>

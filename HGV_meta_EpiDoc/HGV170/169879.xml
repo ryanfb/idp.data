@@ -82,7 +82,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Petr. Mus.</title>
-                  <biblScope type="numbers">659</biblScope>
+                  <biblScope unit="numbers">659</biblScope>
                </bibl>
             </listBibl>
          </div>

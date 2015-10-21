@@ -97,8 +97,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Count</title>
-                  <biblScope type="numbers">50</biblScope>
-                  <biblScope type="fragments">Fr. 2 + 3 verso</biblScope>
+                  <biblScope unit="numbers">50</biblScope>
+                  <biblScope unit="fragments">Fr. 2 + 3 verso</biblScope>
                </bibl>
             </listBibl>
          </div>

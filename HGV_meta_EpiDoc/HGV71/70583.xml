@@ -87,7 +87,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Ashm. Shelt.</title>
-                  <biblScope type="numbers">31</biblScope>
+                  <biblScope unit="numbers">31</biblScope>
                </bibl>
             </listBibl>
          </div>

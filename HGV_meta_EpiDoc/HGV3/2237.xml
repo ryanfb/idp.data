@@ -93,8 +93,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">PSI</title>
-                  <biblScope type="volume">6</biblScope>
-                  <biblScope type="numbers">631</biblScope>
+                  <biblScope unit="volume">6</biblScope>
+                  <biblScope unit="numbers">631</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -102,16 +102,16 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">316</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">316</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">X</biblScope> 
-                  <biblScope type="pages">242</biblScope>
+                  <biblScope unit="volume">X</biblScope> 
+                  <biblScope unit="pages">242</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">246</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">246</biblScope>
                </bibl>
             </listBibl>
          </div>

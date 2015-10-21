@@ -88,8 +88,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Pintaudi</title>
-                  <biblScope type="numbers">42</biblScope>
-                  <biblScope type="generic">(P.Lond. III 947 I l + j + h + b)</biblScope>
+                  <biblScope unit="numbers">42</biblScope>
+                  <biblScope unit="generic">(P.Lond. III 947 I l + j + h + b)</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -87,7 +87,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Fay.</title>
-                  <biblScope type="numbers">251</biblScope>
+                  <biblScope unit="numbers">251</biblScope>
                </bibl>
             </listBibl>
          </div>

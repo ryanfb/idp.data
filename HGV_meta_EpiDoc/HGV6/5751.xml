@@ -91,9 +91,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">6</biblScope>
-                  <biblScope type="numbers">9367</biblScope>
-                  <biblScope type="number">Nr. 13</biblScope>
+                  <biblScope unit="volume">6</biblScope>
+                  <biblScope unit="numbers">9367</biblScope>
+                  <biblScope unit="number">Nr. 13</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>

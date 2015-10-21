@@ -82,9 +82,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SB</title>
-                  <biblScope type="volume">12</biblScope>
-                  <biblScope type="numbers">10990</biblScope>
-                  <biblScope type="generic">106</biblScope>
+                  <biblScope unit="volume">12</biblScope>
+                  <biblScope unit="numbers">10990</biblScope>
+                  <biblScope unit="generic">106</biblScope>
                </bibl>
             </listBibl>
          </div>

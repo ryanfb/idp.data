@@ -80,10 +80,10 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lond.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">476</biblScope>
-                  <biblScope type="generic">b</biblScope>
-                  <biblScope type="pages">(S. XLI)</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">476</biblScope>
+                  <biblScope unit="generic">b</biblScope>
+                  <biblScope unit="pages">(S. XLI)</biblScope>
                </bibl>
             </listBibl>
          </div>

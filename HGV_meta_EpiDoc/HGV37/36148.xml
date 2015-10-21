@@ -100,8 +100,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Got.</title>
-                  <biblScope n="1" type="numbers">29</biblScope>
-                  <biblScope n="2" type="generic">(dig. ed.)</biblScope>
+                  <biblScope unit="numbers">29</biblScope>
+                  <biblScope unit="generic">(dig. ed.)</biblScope>
                </bibl>
             </listBibl>
          </div>

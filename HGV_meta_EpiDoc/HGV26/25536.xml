@@ -84,7 +84,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Alex.</title>
-                  <biblScope type="inventory">Inv.Nr. 628</biblScope>
+                  <biblScope unit="inventory">Inv.Nr. 628</biblScope>
                </bibl>
             </listBibl>
          </div>

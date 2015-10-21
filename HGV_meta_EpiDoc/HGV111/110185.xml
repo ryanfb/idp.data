@@ -83,8 +83,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Sijp.</title>
-                  <biblScope type="numbers">38</biblScope>
-                  <biblScope type="generic">l</biblScope>
+                  <biblScope unit="numbers">38</biblScope>
+                  <biblScope unit="generic">l</biblScope>
                </bibl>
             </listBibl>
          </div>

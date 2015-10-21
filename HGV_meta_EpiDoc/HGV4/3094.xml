@@ -98,7 +98,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Dion.</title>
-                  <biblScope type="numbers">11</biblScope>
+                  <biblScope unit="numbers">11</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -106,8 +106,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">155</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">155</biblScope>
                </bibl>
             </listBibl>
          </div>

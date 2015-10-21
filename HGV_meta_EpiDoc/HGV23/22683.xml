@@ -82,9 +82,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lond.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">776</biblScope>
-                  <biblScope type="pages">(S. 278)</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">776</biblScope>
+                  <biblScope unit="pages">(S. 278)</biblScope>
                </bibl>
             </listBibl>
          </div>

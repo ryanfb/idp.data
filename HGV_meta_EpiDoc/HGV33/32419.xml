@@ -78,7 +78,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Nag Hamm.</title>
-                  <biblScope type="numbers">79</biblScope>
+                  <biblScope unit="numbers">79</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -86,8 +86,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">227</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">227</biblScope>
                </bibl>
             </listBibl>
          </div>

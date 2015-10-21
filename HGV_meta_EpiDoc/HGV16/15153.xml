@@ -88,7 +88,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">W.Chr.</title>
-                  <biblScope type="numbers">461</biblScope>
+                  <biblScope unit="numbers">461</biblScope>
                </bibl>
             </listBibl>
          </div>

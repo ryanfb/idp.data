@@ -91,8 +91,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Oxy.</title>
-                  <biblScope type="volume">40</biblScope>
-                  <biblScope type="numbers">2932</biblScope>
+                  <biblScope unit="volume">40</biblScope>
+                  <biblScope unit="numbers">2932</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -100,12 +100,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">263</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">263</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">165f.</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">165f.</biblScope>
                </bibl>
             </listBibl>
          </div>

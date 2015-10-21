@@ -91,7 +91,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">Pap. Choix</title>
-                  <biblScope type="numbers">10</biblScope>
+                  <biblScope unit="numbers">10</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -99,8 +99,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">255 (zu PSI X 1116)</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">255 (zu PSI X 1116)</biblScope>
                </bibl>
             </listBibl>
          </div>

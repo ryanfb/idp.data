@@ -92,9 +92,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Mich.</title>
-                  <biblScope type="volume">18</biblScope>
-                  <biblScope type="numbers">783</biblScope>
-                  <biblScope type="generic">A</biblScope>
+                  <biblScope unit="volume">18</biblScope>
+                  <biblScope unit="numbers">783</biblScope>
+                  <biblScope unit="generic">A</biblScope>
                </bibl>
             </listBibl>
          </div>

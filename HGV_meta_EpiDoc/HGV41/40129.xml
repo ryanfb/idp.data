@@ -81,7 +81,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Erl.</title>
-                  <biblScope type="numbers">124</biblScope>
+                  <biblScope unit="numbers">124</biblScope>
                </bibl>
             </listBibl>
          </div>

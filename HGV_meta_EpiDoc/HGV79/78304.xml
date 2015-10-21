@@ -92,7 +92,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Harrauer</title>
-                  <biblScope type="numbers">49</biblScope>
+                  <biblScope unit="numbers">49</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -100,8 +100,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">84f.</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">84f.</biblScope>
                </bibl>
             </listBibl>
          </div>

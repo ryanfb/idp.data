@@ -85,7 +85,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Tebt. Pad.</title>
-                  <biblScope type="numbers">31</biblScope>
+                  <biblScope unit="numbers">31</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -93,8 +93,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XII</biblScope> 
-                  <biblScope type="pages">323</biblScope>
+                  <biblScope unit="volume">XII</biblScope> 
+                  <biblScope unit="pages">323</biblScope>
                </bibl>
             </listBibl>
          </div>

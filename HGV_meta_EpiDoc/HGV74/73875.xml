@@ -76,8 +76,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Deiss.</title>
-                  <biblScope type="numbers">60</biblScope>
-                  <biblScope type="generic">a</biblScope>
+                  <biblScope unit="numbers">60</biblScope>
+                  <biblScope unit="generic">a</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -75,8 +75,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Got.</title>
-                  <biblScope type="numbers">102</biblScope>
-                  <biblScope type="generic">- 103</biblScope>
+                  <biblScope unit="numbers">102</biblScope>
+                  <biblScope unit="generic">- 103</biblScope>
                </bibl>
             </listBibl>
          </div>

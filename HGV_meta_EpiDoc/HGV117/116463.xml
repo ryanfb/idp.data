@@ -87,7 +87,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.AbuMina</title>
-                  <biblScope type="numbers">265</biblScope>
+                  <biblScope unit="numbers">265</biblScope>
                </bibl>
             </listBibl>
          </div>

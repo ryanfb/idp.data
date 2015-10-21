@@ -84,7 +84,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Masada</title>
-                  <biblScope type="numbers">745</biblScope>
+                  <biblScope unit="numbers">745</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -92,8 +92,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">74</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">74</biblScope>
                </bibl>
             </listBibl>
          </div>

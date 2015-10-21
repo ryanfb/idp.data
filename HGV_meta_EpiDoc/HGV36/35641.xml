@@ -90,8 +90,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">SPP</title>
-                  <biblScope type="volume">8</biblScope>
-                  <biblScope type="numbers">955</biblScope>
+                  <biblScope unit="volume">8</biblScope>
+                  <biblScope unit="numbers">955</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -99,12 +99,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">VIII</biblScope> 
-                  <biblScope type="pages">448/449</biblScope>
+                  <biblScope unit="volume">VIII</biblScope> 
+                  <biblScope unit="pages">448/449</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">340</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">340</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -85,7 +85,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">C.Ord. Ptol.</title>
-                  <biblScope type="generic">All. 16</biblScope>
+                  <biblScope unit="generic">All. 16</biblScope>
                </bibl>
             </listBibl>
          </div>

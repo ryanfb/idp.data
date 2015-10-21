@@ -80,7 +80,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Heid.</title>
-                  <biblScope type="numbers">475</biblScope>
+                  <biblScope unit="numbers">475</biblScope>
                </bibl>
             </listBibl>
          </div>

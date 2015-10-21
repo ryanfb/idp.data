@@ -84,8 +84,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">ChLA</title>
-                  <biblScope type="volume">45</biblScope>
-                  <biblScope type="numbers">1321</biblScope>
+                  <biblScope unit="volume">45</biblScope>
+                  <biblScope unit="numbers">1321</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -93,8 +93,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">266 (zu SPP XIV)</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">266 (zu SPP XIV)</biblScope>
                </bibl>
             </listBibl>
          </div>

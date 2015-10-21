@@ -84,11 +84,11 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lond.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">599</biblScope>
-                  <biblScope type="generic">(a - e</biblScope>
-                  <biblScope type="generic">g)</biblScope>
-                  <biblScope type="pages">(S. XVIII)</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">599</biblScope>
+                  <biblScope unit="generic">(a - e</biblScope>
+                  <biblScope unit="generic">g)</biblScope>
+                  <biblScope unit="pages">(S. XVIII)</biblScope>
                </bibl>
             </listBibl>
          </div>

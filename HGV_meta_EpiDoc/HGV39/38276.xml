@@ -78,9 +78,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lond.</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">1066</biblScope>
-                  <biblScope type="pages">(S. LV)</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">1066</biblScope>
+                  <biblScope unit="pages">(S. LV)</biblScope>
                </bibl>
             </listBibl>
          </div>

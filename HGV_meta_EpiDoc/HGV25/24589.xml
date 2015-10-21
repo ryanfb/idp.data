@@ -85,7 +85,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Elkab</title>
-                  <biblScope type="numbers">175</biblScope>
+                  <biblScope unit="numbers">175</biblScope>
                </bibl>
             </listBibl>
          </div>

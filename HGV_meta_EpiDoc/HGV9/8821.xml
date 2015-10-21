@@ -89,7 +89,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Petaus</title>
-                  <biblScope type="numbers">66</biblScope>
+                  <biblScope unit="numbers">66</biblScope>
                </bibl>
             </listBibl>
          </div>

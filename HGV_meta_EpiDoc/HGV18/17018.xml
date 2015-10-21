@@ -95,7 +95,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Sarap.</title>
-                  <biblScope type="numbers">4</biblScope>
+                  <biblScope unit="numbers">4</biblScope>
                </bibl>
             </listBibl>
          </div>

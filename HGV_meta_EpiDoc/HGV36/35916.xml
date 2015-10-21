@@ -88,8 +88,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Vatic. Aphrod.</title>
-                  <biblScope type="numbers">19</biblScope>
-                  <biblScope type="generic">C</biblScope>
+                  <biblScope unit="numbers">19</biblScope>
+                  <biblScope unit="generic">C</biblScope>
                </bibl>
             </listBibl>
          </div>

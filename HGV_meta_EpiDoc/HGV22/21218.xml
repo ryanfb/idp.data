@@ -98,8 +98,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Köln</title>
-                  <biblScope type="volume">3</biblScope>
-                  <biblScope type="numbers">143</biblScope>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="numbers">143</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -107,12 +107,12 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">113</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">113</biblScope>
                </bibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">104</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">104</biblScope>
                </bibl>
             </listBibl>
          </div>

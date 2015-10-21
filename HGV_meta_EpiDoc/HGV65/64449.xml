@@ -91,9 +91,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Lugd. Bat.</title>
-                  <biblScope type="volume">25</biblScope>
-                  <biblScope type="numbers">17</biblScope>
-                  <biblScope type="generic">Side II A</biblScope>
+                  <biblScope unit="volume">25</biblScope>
+                  <biblScope unit="numbers">17</biblScope>
+                  <biblScope unit="generic">Side II A</biblScope>
                </bibl>
                <bibl>
                   <title>LDAB</title>

@@ -79,7 +79,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Alex.</title>
-                  <biblScope type="inventory">Inv.Nr. 49</biblScope>
+                  <biblScope unit="inventory">Inv.Nr. 49</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -87,8 +87,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">4</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">4</biblScope>
                </bibl>
             </listBibl>
          </div>

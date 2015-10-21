@@ -79,9 +79,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Jud. Des. Misc.</title>
-                  <biblScope type="fascicle">A</biblScope>
-                  <biblScope type="numbers">5</biblScope>
-                  <biblScope type="generic">a - d</biblScope>
+                  <biblScope unit="fascicle">A</biblScope>
+                  <biblScope unit="numbers">5</biblScope>
+                  <biblScope unit="generic">a - d</biblScope>
                </bibl>
             </listBibl>
          </div>

@@ -93,9 +93,9 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Flor.</title>
-                  <biblScope type="volume">2</biblScope>
-                  <biblScope type="numbers">137</biblScope>
-                  <biblScope type="generic">*</biblScope>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="numbers">137</biblScope>
+                  <biblScope unit="generic">*</biblScope>
                </bibl>
             </listBibl>
          </div>

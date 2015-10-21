@@ -75,8 +75,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Fuad I Univ. App. II</title>
-                  <biblScope type="numbers">152</biblScope>
-                  <biblScope type="generic">- 193</biblScope>
+                  <biblScope unit="numbers">152</biblScope>
+                  <biblScope unit="generic">- 193</biblScope>
                </bibl>
             </listBibl>
          </div>

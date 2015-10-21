@@ -78,7 +78,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Leid.</title>
-                  <biblScope type="numbers">326</biblScope>
+                  <biblScope unit="numbers">326</biblScope>
                </bibl>
                <bibl>
                   <title>DAHT</title>

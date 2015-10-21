@@ -99,7 +99,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Cair. Isid.</title>
-                  <biblScope type="numbers">11</biblScope>
+                  <biblScope unit="numbers">11</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -107,8 +107,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">52</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">52</biblScope>
                </bibl>
             </listBibl>
          </div>

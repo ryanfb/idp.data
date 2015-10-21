@@ -108,8 +108,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Zen. Pestm.</title>
-                  <biblScope type="generic">B</biblScope>
-                  <biblScope type="pages">(S. 266)</biblScope>
+                  <biblScope unit="generic">B</biblScope>
+                  <biblScope unit="pages">(S. 266)</biblScope>
                </bibl>
             </listBibl>
          </div>

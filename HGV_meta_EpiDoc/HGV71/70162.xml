@@ -87,7 +87,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">CPL</title>
-                  <biblScope type="numbers">303</biblScope>
+                  <biblScope unit="numbers">303</biblScope>
                </bibl>
             </listBibl>
          </div>

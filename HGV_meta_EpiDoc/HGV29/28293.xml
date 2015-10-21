@@ -88,8 +88,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Aberd.</title>
-                  <biblScope type="numbers">42</biblScope>
-                  <biblScope type="generic">f</biblScope>
+                  <biblScope unit="numbers">42</biblScope>
+                  <biblScope unit="generic">f</biblScope>
                </bibl>
             </listBibl>
          </div>

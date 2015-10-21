@@ -139,7 +139,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Würzb.</title>
-                  <biblScope type="numbers">9</biblScope>
+                  <biblScope unit="numbers">9</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -147,8 +147,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">IX</biblScope> 
-                  <biblScope type="pages">375</biblScope>
+                  <biblScope unit="volume">IX</biblScope> 
+                  <biblScope unit="pages">375</biblScope>
                </bibl>
             </listBibl>
          </div>

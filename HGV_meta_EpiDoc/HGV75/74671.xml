@@ -86,8 +86,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">O.Kellis</title>
-                  <biblScope type="numbers">143</biblScope>
-                  <biblScope type="side">Außenseite</biblScope>
+                  <biblScope unit="numbers">143</biblScope>
+                  <biblScope unit="side">Außenseite</biblScope>
                </bibl>
             </listBibl>
          </div>

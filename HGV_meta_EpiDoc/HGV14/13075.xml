@@ -90,7 +90,7 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">P.Sakaon</title>
-                  <biblScope type="numbers">59</biblScope>
+                  <biblScope unit="numbers">59</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -98,8 +98,8 @@
             <head>BL-Einträge nach BL-Konkordanz</head>
             <listBibl>
                <bibl type="BL">
-                  <biblScope type="volume">XI</biblScope> 
-                  <biblScope type="pages">192</biblScope>
+                  <biblScope unit="volume">XI</biblScope> 
+                  <biblScope unit="pages">192</biblScope>
                </bibl>
             </listBibl>
          </div>
